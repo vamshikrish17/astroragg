@@ -1,0 +1,181 @@
+Luna-25
+Luna 25 lunar lander mock-up
+Names Luna-Glob lander
+Mission type Technology, reconnaissance
+Operator SRI RAS (IKI RAN)
+COSPAR ID 2023-118A (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2023-118A)
+SATCAT no. 57600
+Website iki.cosmos.ru/missions/luna-25 (https://iki.cosmos.ru/missions/luna-25)
+Mission
+duration
+1 year (planned)
+Actual: c. 9 days (mission failure)[1]
+Spacecraft properties
+Spacecraft
+type
+Robotic lander
+Manufacturer NPO Lavochkin
+Launch
+mass
+1,750 kg (3,860 lb)[2]
+Payload
+mass
+30 kg (66 lb)
+Start of mission
+Launch date August 10, 2023, 23:10 UTC[3][4]
+Luna 25
+Rocket Soyuz-2.1b / Fregat[5]
+Launch site Vostochny Cosmodrome[6]
+Contractor
+Lunar lander
+Landing date 11:57, 19 August 2023 (UTC) (crashed)
+Landing site near-Lunar south pole (intended)
+57.865°S 61.360°E (crash site)
+(Pontécoulant G crater)
+Luna 25 mission patch
+Luna-Glob programme
+Luna 25 (Russian: Луна-25), also known as the Luna-Glob lander, was a failed Russian lunar
+lander mission operated by Roscosmos. It was the first lunar mission undertaken by Russia since the
+Soviet-era Luna 24 in 1976, and was intended to be the first spacecraft ever to land near the lunar
+south pole. The spacecraft was manufactured by NPO Lavochkin and carried 30 kg (66 lb) of scientific
+instruments, including instruments for analyzing lunar regolith and measuring plasma in the
+exosphere.
+Luna 25 lifted off on August 10, 2023, at 23:10 UTC, atop a Soyuz-2.1b rocket with a Fregat upper
+stage from the Vostochny Cosmodrome in Russia's Amur Region. The spacecraft entered lunar orbit
+on August 16, 2023, with a scheduled landing date of August 21 near the crater Boguslawsky. On
+August 19, 2023, a failed orbital maneuver caused the lander to follow a trajectory that intersected
+with the lunar surface rather than the planned elliptical orbit. The spacecraft crashed into the inner
+rim of Pontécoulant G crater at 11:57 UTC, approximately 400 kilometers short of its intended landing
+site. The impact site was later identified by NASA's Lunar Reconnaissance Orbiter.
+Originally named the Luna-Glob lander, the mission was renamed Luna 25 to emphasize continuity
+with the Soviet Union's historic Luna programme, though it remained part of the modern Luna-Glob
+lunar exploration program. At least 12.5 billion rubles (over US$130 million) had been spent on the
+project prior to its failure.
+The previous lunar lander in the series was a Soviet craft, Luna 24, launched in 1976. Nascent plans
+for what became Luna 25 began in the late 1990s, with the evaluation of two spacecraft designs having
+taken place by 1998. Attempts to revive and complete the project continued throughout the 2000s and
+History
+Proposed landing sites
+ Suggested landing ellipses for Luna-Glob
+(Luna-25). Primary ellipses are 1, 4, 6
+and secondary ellipses are 2, 3, 5, 7, 8,
+9, 10, 11 and B1, B2.
+were punctuated by an
+aborted attempt at
+international
+cooperation via a
+merger with JAXA's
+now-cancelled Lunar-
+A orbiter, and
+pressure from another
+attempted cooperative
+lunar mission with
+Indian Space
+Research
+Organisation (ISRO) (which continued without Russia's
+involvement).[7]
+Initial mission plans called for a lander and orbiter, with the latter also deploying impact penetrators.
+In its final form, Luna 25 was a lander only, with a primary mission of testing the landing technology.
+The mission carried 30 kg (66 lb) of scientific instruments, including a robotic arm for soil samples
+and possible drilling hardware.[2][8]
+Delays in the 2010s came first from the significant rework and delay brought on by the failure of
+Phobos-Grunt in 2011. At this point the modern Luna 25 design was developed. Later work on the
+lander was slowed by resource pressures being placed upon spacecraft developer NPO Lavochkin,
+such as the weather satellite Elektro-L No.2 and the Spektr-RG observatory,[9] as well the landing
+platform Russia was contributing to ExoMars 2020.[10]
+By 2017, the propulsion system for the spacecraft was in assembly.[11]
+The intended landing site was located at  (north of the crater Boguslawsky), with
+two backup locations at  (southwest of the Manzini crater) and 
+(south of Pentland A crater).[12]
+The planned mission duration of the lander on the surface of the Moon was to be at least one Earth
+year.[12]
+At least 12.5 billion roubles (over US$130 million) had been spent on the project.[13][14]
+The lander featured a 30 kg (66 lb) payload comprising eight Russian science instruments:[15][16]
+ADRON-LR, active neutron and gamma-ray analysis of regolith
+ARIES-L, measurement of plasma in the exosphere
+LASMA-LR, laser mass-spectrometer
+LIS-TV-RPM, infrared spectrometry of minerals and imaging
+PmL, measurement of dust and micro-meteorites
+69.545°S 43.544°E
+68.773°S 21.210°E 68.648°S 11.553°E
+Science payload
+Commemorative Luna 25 Stamp
+External video
+ Luna-25 launch (https://www.youtube.com/
+watch?v=eYVEKggrZUM)
+THERMO-L, measurement of the thermal properties of regolith
+STS-L, panoramic and local imaging
+Laser retroreflector, Moon libration and ranging experiments
+LINA-XSAN, a Swedish payload, was originally to fly with Luna 25, but delays to the launch date
+caused Sweden to cancel this plan. Instead, LINA-XSAN flew on Chang'e 4 in 2019.[17]
+ESA's PILOT-D navigation demonstration camera was planned to be flown on this mission, but flew
+instead with a commercial service provider,[18] due to continued international collaboration having
+been thrown into doubt by the 2022 Russian invasion of Ukraine and related sanctions on
+Russia.[19][20] The demonstration instrument was supposed to collect data for the landing of other
+missions and was therefore not part of the lander's operating system.[21]
+The launch took place on 10 August 2023 from Vostochny
+Cosmodrome on a Soyuz-2 rocket with a Fregat upper
+stage.[3][22][23][24] On 16 August, the lander entered lunar
+orbit, with a scheduled landing date of 21 August.[25]
+On 19 August, Roscosmos declared an "abnormal situation"
+after commanding the lander to move into a pre-landing
+orbit.[26][27] According to Director General of Roscosmos Yuri
+Borisov, a maneuvering engine could not be shut down, and
+ran for 127 seconds instead of 84.[28] The lander crashed on
+the lunar surface following the failed maneuver,[29][30][31]
+which created a trajectory that intersected with the Moon
+instead of a planned elliptical orbit with a minimum distance
+of 18 km.[32]
+Roscosmos said that it had lost contact with the spacecraft 47
+minutes after the start of the engine firing.[33] Attempts on 19
+and 20 August to locate and re-establish contact with
+the spacecraft were unsuccessful,[31] and a commission
+was formed to investigate the crash.[31]
+The LRO camera team located the likely location of the
+impact crater, after an estimate was published by Russian researchers. The crash site is situated on
+the steep inner rim of the Pontécoulant G crater, which is 400 kilometers short of Luna 25's intended
+landing point if it had attempted a landing procedure.[34]
+Flight
+Crash
+Luna 25 impact site (arrowed),
+photographed by NASA's Lunar
+Reconnaissance Orbiter on 26 August
+2023. The field of view is 1,100 meters
+wide, with lunar north at the top.
+Spaceflight portal
+Chandrayaan-3
+SLIM
+Chang'e 6
+Lunar water
+List of missions to the Moon
+1. Carter, Jamie (26 July 2019). "A Soviet-Era 'Moon Digger'
+Program Is Being Revived To Hunt For Water At The
+Moon's South Pole" (https://www.forbes.com/sites/jamieca
+rtereurope/2019/07/26/what-is-luna-27-a-soviet-era-moon-
+digger-revived-to-hunt-for-water-at-the-moons-south-pol
+e/). Forbes. Archived (https://web.archive.org/web/202209
+15050411/https://www.forbes.com/sites/jamiecartereurope/
+2019/07/26/what-is-luna-27-a-soviet-era-moon-digger-revi
+ved-to-hunt-for-water-at-the-moons-south-pole/) from the
+original on 15 September 2022. Retrieved 14 January
+2020.
+2. Krebs, Gunter (3 December 2019). "Luna-Glob (Luna 25)"
+(https://space.skyrocket.de/doc_sdat/luna-glob.htm).
+Gunter's Space Page. Archived (https://web.archive.org/w
+eb/20220724002617/https://space.skyrocket.de/doc_sdat/l
+una-glob.htm) from the original on 24 July 2022. Retrieved
+14 January 2020.
+3. David, Leonard. "Russia launches Luna 25 moon lander,
+its 1st lunar probe in 47 years" (https://www.space.com/ru
+ssia-luna-25-moon-mission-launch-success). Archived (htt
+ps://web.archive.org/web/20230811024205/https://www.sp
+ace.com/russia-luna-25-moon-mission-launch-success)
+from the original on 11 August 2023. Retrieved 11 August
+2023.
+4. "Luna 25 launch broadcast" (https://www.youtube.com/wat
+ch?v=cgi2pIFrnW4&t=4465) (in Russian). Archived (http
+s://web.archive.org/web/20230812172120/https://www.you
+tube.com/watch?v=cgi2pIFrnW4&t=4465) from the original
+on 12 August 2023. Retrieved 12 August 2023.
+See also
+References

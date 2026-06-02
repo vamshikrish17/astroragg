@@ -1,0 +1,12 @@
+{
+  "total_questions": 5,
+  "average_retrieval_score": 0.7847,
+  "average_latency_seconds": 0.6524,
+  "average_answer_length": 205.4,
+  "successful_retrievals": 5,
+  "failed_retrievals": 0,
+  "exact_match_count": 0,
+  "exact_match_rate": 0.0,
+  "results_file": "C:\\Users\\SAI KEERTHI\\Desktop\\astro-rag\\backend\\evaluation\\results.csv",
+  "summary_file": "C:\\Users\\SAI KEERTHI\\Desktop\\astro-rag\\backend\\evaluation\\evaluation_summary.json"
+}

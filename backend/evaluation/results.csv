@@ -1,0 +1,9 @@
+question,generated_answer,source_document,retrieval_score,exact_match,answer_length,latency_seconds,source_count
+What is Chandrayaan-3?,"Chandrayaan-3 is a follow-on mission to Chandrayaan-2, aimed at demonstrating end-to-end capability in safe landing and roving on the lunar surface. It consists of a Lander and Rover configuration, with the objective of developing and demonstrating technologies for a safe and soft landing on the lunar surface, rover roving, and conducting in-situ scientific experiments.",Chandrayaan-3.pdf; Chandrayaan-1.pdf; Chandrayaan-2.pdf,0.8828,,372,0.7015,3
+What are the objectives of Chandrayaan-3?,"The mission objectives of Chandrayaan-3 are: 
+1. To demonstrate Safe and Soft Landing on Lunar Surface 
+2. To demonstrate Rover roving on the moon 
+3. To conduct in-situ scientific experiments.",Chandrayaan-3.pdf; Chandrayaan-1.pdf; Chandrayaan-2.pdf,0.8592,,193,1.1264,3
+What is SHAP payload?,I could not find that information in the documents.,PSLV.pdf; AstroSat.pdf; Hayabusa2.pdf,0.5594,,51,0.4106,5
+What is Chandrayaan-1?,"Chandrayaan-1 is India's first mission to the Moon, launched on October 22, 2008, from SDSC SHAR, Sriharikota. The spacecraft orbited around the Moon at a height of 100 km from the lunar surface and provided chemical, mineralogical, and photo-geologic mapping of the Moon. It carried a total of 11 scientific instruments developed in India and other countries.",Chandrayaan-3.pdf; Chandrayaan-1.pdf; Chandrayaan-2.pdf,0.7648,,360,0.6134,3
+When was Chandrayaan-3 launched?,I could not find that information in the documents.,Chandrayaan-3.pdf; Chandrayaan-1.pdf; Chandrayaan-2.pdf,0.8571,,51,0.4099,3

@@ -1,0 +1,541 @@
+Gaia
+Artist's impression of the Gaia spacecraft
+Mission type Astrometric observatory
+Operator ESA
+COSPAR ID 2013-074A (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2013-074A)
+SATCAT no. 39479
+Website www.esa.int/Science_Exploration/Space_Science/Gaia (https://www.esa.int/Science_
+Exploration/Space_Science/Gaia)
+Mission duration 11 years, 3 months and 8 days
+Spacecraft properties
+Manufacturer EADS Astrium
+e2v Technologies
+Launch mass 2,029 kg (4,473 lb)[1]
+Dry mass 1,392 kg (3,069 lb)
+Payload mass 710 kg (1,570 lb)[2]
+Dimensions 4.6 m × 2.3 m (15.1 ft × 7.5 ft)
+Power 1,910 watts
+Start of mission
+Launch date 19 December 2013, 09:12:14 UTC[3]
+Rocket Soyuz ST-B/Fregat-MT
+Launch site Kourou ELS
+Contractor Arianespace
+End of mission
+Gaia (spacecraft)
+Deactivated 27 March 2025
+Last contact 27 March 2025
+Orbital parameters
+Reference systemSun–Earth L2
+Regime Lissajous orbit
+Periapsis altitude 263,000 km (163,000 mi)[4]
+Apoapsis altitude 707,000 km (439,000 mi)[4]
+Period 180 days
+Epoch 2014
+Main telescope
+Type Three-mirror anastigmat[1]
+Diameter 1.45 m × 0.5 m (4 ft 9 in × 1 ft 8 in)
+Collecting area 0.7 m2
+Transponders
+Band S band (TT&C support)
+X band (data acquisition)
+Bandwidth a few kbit/s down & up (S band)
+3–8 Mbit/s download (X band)
+Instruments
+ASTRO: Astrometric instrument
+BP/RP: Photometric instrument
+RVS: Radial velocity spectrometer
+Contemporary ESA insignia (2010s)
+Horizon 2000 Plus (Science Programme)
+Gaia is a retired space observatory of the European Space Agency (ESA) that was launched in 2013
+and operated until March 2025. The spacecraft was designed for astrometry: measuring the positions,
+distances and motions of stars with unprecedented precision,[5][6] and the positions of exoplanets by
+measuring attributes about the stars they orbit such as their apparent magnitude and colour.[7] As of
+2026, the mission data processing continues, aiming to construct the largest and most precise 3D
+space catalogue ever made, totalling approximately 1 billion astronomical objects, mainly stars, but
+also planets, comets, asteroids and quasars, among others.[8]
+To study the precise position and motion of its target objects, the spacecraft monitored each of them
+about 70 times[9] over the five years of the nominal mission (2014–2019), and about as many during
+its extension.[10][11] Due to its detectors degrading more slowly than initially expected, the data
+acquisition phase of the mission was given an extension,[12] lasting until March 27, 2025, when
+scientists at the ESA switched off Gaia after more than a decade of service.[13] Gaia targeted objects
+brighter than magnitude 20 in a broad photometric band that covered the extended visual range
+between near-UV and near infrared;[14] such objects represent approximately 1% of the Milky Way
+population.[9] Additionally, Gaia was expected to detect thousands to tens of thousands of Jupiter-
+sized exoplanets beyond the Solar System using astrometry,[15][16][17][18] 500,000 quasars outside this
+galaxy and tens of thousands of known and new asteroids and comets within the Solar
+System.[19][20][21]
+Even though the telescope was decommissioned in 2025, the Gaia mission continues to analyze the
+collected data to create a precise three-dimensional map of astronomical objects throughout the Milky
+Way and map their motions, which encode the origin and subsequent evolution of the Milky Way. The
+spectrophotometric measurements provide detailed physical properties of all stars observed,
+characterising their luminosity, effective temperature, gravity and elemental composition. This
+massive stellar census is providing the basic observational data to analyse a wide range of important
+questions related to the origin, structure and evolutionary history of the Milky Way Galaxy. As of
+2026, the last scheduled data release is not expected before the end of 2030.
+The successor to the Hipparcos mission (operational 1989–1993), Gaia is part of ESA's Horizon
+2000+ long-term scientific program. Gaia was launched on 19 December 2013 by Arianespace using a
+Soyuz ST-B/Fregat-MT rocket flying from Kourou in French Guiana.[22][23] The spacecraft operated
+in a Lissajous orbit around the Sun–Earth L2 Lagrangian point. The science observation officially
+ended on 15 January 2025.[24]
+The Gaia space telescope had its roots in ESA's Hipparcos mission (1989–1993). Its mission was
+proposed in October 1993 by Lennart Lindegren (Lund Observatory, Lund University, Sweden) and
+Michael Perryman (ESA) in response to a call for proposals for ESA's Horizon Plus long-term
+scientific programme. It was adopted by ESA's Science Programme Committee as cornerstone mission
+number 6 on 13 October 2000, and the B2 phase of the project was authorised on 9 February 2006,
+with EADS Astrium taking responsibility for the hardware. The name "Gaia" was originally derived as
+an acronym for Global Astrometric Interferometer for Astrophysics. This reflected the optical
+technique of interferometry that was originally planned for use on the spacecraft. While the working
+method evolved during studies and the acronym is no longer applicable, the name Gaia remained to
+provide continuity with the project.[25]
+The total cost of the mission is around €740 million (~ $1 billion), including the manufacture, launch
+and ground operations.[26] Gaia was completed two years behind schedule and 16% above its initial
+budget, mostly due to the difficulties encountered in polishing Gaia's ten silicon carbide mirrors and
+assembling and testing the focal plane camera system.[27]
+History
+Model of Gaia at Paris Air Show 2013
+The Gaia space mission has the following objectives:[28][29]
+To determine the intrinsic luminosity of a star requires knowledge of its distance. One of the few
+ways to achieve this without physical assumptions is through the star's parallax, but atmospheric
+effects and instrumental biases degrade the precision of parallax measurements. For instance,
+Cepheid variables are used as standard candles to measure distances to galaxies, but their own
+distances are poorly known. Thus, quantities depending on them, such as the speed of expansion
+of the universe, remain inaccurate.
+Observations of the faintest objects will provide a more complete view of the stellar luminosity
+function. Gaia will observe 1 billion stars and other bodies, representing 1% of such bodies in the
+Milky Way. All objects up to a certain magnitude must be measured in order to have unbiased
+samples.
+To permit a better understanding of the more rapid stages of stellar evolution (such as the
+classification, frequency, correlations and directly observed attributes of rare fundamental changes
+and of cyclical changes). This has to be achieved by detailed examination and re-examination of a
+great number of objects over a long period of operation. Observing a large number of objects in
+the galaxy is also important to understand its dynamics.
+Measuring the astrometric and kinematic properties of a star is necessary in order to understand
+the various stellar populations, especially the most distant.
+Gaia was launched by Arianespace, using a Soyuz ST-B rocket
+with a Fregat-MT upper stage, from the Ensemble de
+Lancement Soyouz at Kourou in French Guiana on 19
+December 2013 at 09:12 UTC (06:12 local time). The satellite
+separated from the rocket's upper stage 43 minutes after
+launch at 09:54 UTC.[30][31]
+The craft headed towards the Sun–Earth Lagrange point L2
+located approximately 1.5 million kilometres from Earth,
+arriving there 8 January 2014.[32] The L2 point provided the
+spacecraft with a very stable gravitational and thermal
+environment. There, it used a Lissajous orbit that avoided
+blockage of the Sun by the Earth, which would have limited
+the amount of solar energy the satellite could produce through
+its solar panels, as well as disturbing the spacecraft's thermal
+equilibrium. After launch, a 10-metre-diameter sunshade was deployed. The sunshade always
+maintained a fixed 45 degree angle to the Sun, while precessing to scan the sky, thus keeping all
+telescope components cool and powering Gaia using solar panels on its surface. These factors and the
+materials used in its creation allowed Gaia to function in conditions between -170°C and 70°C.[33]
+The Gaia payload consists of three main instruments:
+Objectives
+Spacecraft
+Scientific instruments
+Gaia from different angle
+Gaia at its final phase of construction,
+2013
+1. The astrometry instrument (Astro) precisely determines
+the positions of all stars brighter than magnitude 20 by
+measuring their angular position.[14] By combining the
+measurements of any given star over the duration of the
+mission, it will be possible to determine its parallax, and
+therefore its distance, and its proper motion—the velocity
+of the star projected on the plane of the sky.
+2. The photometric instrument (BP/RP) allows the acquisition
+of luminosity measurements of stars over the 320–
+1000 nm spectral band, of all stars brighter than
+magnitude 20.[14] The blue and red photometers (BP/RP)
+are used to determine stellar properties such as
+temperature, mass, age and elemental composition.[25][34]
+Multi-colour photometry is provided by two low-resolution
+fused-silica prisms dispersing all the light entering the field
+of view in the along-scan direction prior to detection. The
+Blue Photometer (BP) operates in the wavelength range
+330–680 nm; the Red Photometer (RP) covers the
+wavelength range 640–1050 nm.[35]
+3. The Radial-Velocity Spectrometer (RVS) is used to
+determine the velocity of celestial objects along the line of
+sight by acquiring high-resolution spectra in the spectral
+band 847–874 nm (field lines of calcium ion) for objects up
+to magnitude 17. Radial velocities are measured with a
+precision between 1 km/s (V=11.5) and 30 km/s (V=17.5). The measurements of radial velocities
+are important "to correct for perspective acceleration which is induced by the motion along the line
+of sight".[35] The RVS reveals the velocity of the star along the line of sight of Gaia by measuring
+the Doppler shift of absorption lines in a high-resolution spectrum.
+In order to maintain the fine pointing to focus on stars many light years away, the only moving parts
+were actuators to align the mirrors and the valves to fire the thrusters. It had no reaction wheels or
+gyroscopes. The spacecraft subsystems were mounted on a rigid silicon carbide[7] frame, which
+provided a stable structure that would not expand or contract due to temperature. Attitude control
+was provided by small cold gas thrusters that could output 1.5 micrograms of nitrogen per second.
+The bandwidth of the telemetric link with the satellite was about 3 Mbit/s on average, while the total
+content of the focal plane represented several Gbit/s.[36] Therefore, only a few dozen pixels around
+each object could be downlinked.
+Diagram of Gaia
+Mirrors (M)
+Mirrors of telescope 1 (M1, M2 and
+M3)
+Mirrors of telescope 2 (M'1, M'2 and
+M'3)
+mirrors M4, M'4, M5, M6 are not
+shown
+Other components (1–9)
+1. Optical bench (silicon carbide torus)
+2. Focal plane cooling radiator
+3. Focal plane electronics[37]
+4. Nitrogen tanks
+5. Diffraction grating spectroscope
+6. Liquid propellant tanks
+7. Star trackers
+8. Telecommunication panel and
+batteries
+9. Main propulsion subsystem
+(A) Light path of telescope 1
+Design of the focal plane and instruments
+The design of the Gaia focal plane and instruments. Due
+to the spacecraft's rotation, images crossed the focal
+plane array right-to-left at 60 arcseconds per second.[37]
+1. Incoming light from mirror M3
+2. Incoming light from mirror M'3
+3. Focal plane, containing the detector for the
+Astrometric instrument in light blue, Blue Photometer
+in dark blue, Red Photometer in red, and Radial
+Velocity Spectrometer in pink
+4. Mirrors M4 and M'4, which combine the two incoming
+beams of light
+5. Mirror M5
+6. Mirror M6, which illuminates the focal plane
+7. Optics and diffraction grating for the Radial Velocity
+Spectrometer (RVS)
+8. Prisms for the Blue Photometer and Red Photometer
+(BP and RP)
+Similar to its predecessor Hipparcos, but with a precision one hundred times greater, Gaia consisted
+of two telescopes providing two observing directions with a fixed, wide angle of 106.5° between
+them.[38] The spacecraft rotated continuously around an axis perpendicular to the two telescopes'
+lines of sight, with a spin period of 6 hours. Thus, every 6 hours the spacecraft scanned a great circle
+strip approximately 0.7 degrees wide. The spin axis in turn had a slower precession across the sky: it
+Measurement principles
+Comparison of nominal sizes of apertures of the
+Gaia (spacecraft) and some notable optical
+telescopes
+Scanning method
+maintained a fixed 45 degree angle to the Sun, but
+followed a cone around the Sun every 63 days, giving a
+cycloid-like path relative to the stars. Over the course
+of the mission, each observed star was scanned many
+times from various scan directions, providing
+interlocking measurements over the full sky.
+The two key telescope properties were:
+1.45 × 0.5 m primary mirror for each telescope
+1.0 × 0.5 m focal plane array on which light from
+both telescopes was projected. This in turn
+consisted of 106 CCDs of 4500 × 1966 pixels each,
+for a total of 937.8 megapixels (commonly depicted
+as a gigapixel-class imaging device).[39][40][41][33]
+Each observed celestial object was observed on average
+about 70 times during the five years of the nominal
+mission, which was later extended to approximately
+ten years and thus twice as many observations were
+obtained.[42] These measurements will help determine
+the astrometric parameters of stars: two corresponding
+to the angular position of a given star on the sky, two for the
+derivatives of the star's position over time (motion) and lastly,
+the star's parallax from which distance can be calculated. The
+radial velocity of the brighter stars was measured by an
+integrated spectrometer observing the Doppler effect. Because
+of the physical constraints imposed by the Soyuz spacecraft,
+Gaia's focal arrays could not be equipped with optimal
+radiation shielding, and ESA expected their performance to
+suffer somewhat toward the end of the initial five-year
+mission. Ground tests of the CCDs while they were subjected
+to radiation provided reassurance that the primary mission's objectives could be met.[43]
+An atomic clock on board Gaia played a crucial role in achieving the mission's primary objectives.
+Gaia rotated with angular velocity of 60"/sec or 0.6 microarcseconds in 10 nanoseconds. Therefore, in
+order to meet its positioning goals, Gaia had to be able to record the exact time of observation to
+within nanoseconds. Furthermore, no systematic positioning errors over the rotational period of 6
+hours should be introduced by the clock performance. For the timing error to be below 10
+nanoseconds over each rotational period, the frequency stability of the on-board clock needed to be
+better than 10−12. The rubidium atomic clock aboard the Gaia spacecraft had a stability reaching ~
+10−13 over each rotational period of 21600 seconds.[44]
+Gaia's measurements contribute to the creation and maintenance of a high-precision celestial
+reference frame, the Barycentric Celestial Reference System (BCRS), which is essential for both
+astronomy and navigation. This reference frame serves as a fundamental grid for positioning celestial
+objects in the sky, aiding astronomers in various research endeavors. All observations, regardless of
+the actual positioning of the spacecraft, must be expressed in terms of this reference system. As a fully
+Animation of Gaia's trajectory
+Polar view
+Equatorial view
+Viewed from the Sun
+  Gaia ·   Earth
+relativistic model, the influence of the gravitational field of the solar-system must be taken into
+account, including such factors as the gravitational light-bending due to the Sun, the major planets
+and the Moon.[45]
+The expected accuracies of the final catalogue data have been calculated following in-orbit testing,
+taking into account the issues of stray light, degradation of the optics, and the basic angle instability.
+The best accuracies for parallax, position and proper motion are obtained for the brighter observed
+stars, apparent magnitudes 3–12. The standard deviation for these stars is expected to be 6.7 micro-
+arcseconds or better. For fainter stars, error levels increase, reaching 26.6 micro-arcseconds error in
+the parallax for 15th-magnitude stars, and several hundred micro-arcseconds for 20th-magnitude
+stars.[46] For comparison, the best parallax error levels from an analysis in 2007 of the Hipparcos data
+(which observed objects of magnitude 11 or brighter) are no better than 100 micro-arcseconds, with
+typical levels several times larger.[47]
+In October 2013 ESA had to postpone Gaia's original launch date, due
+to a precautionary replacement of two of Gaia's transponders. These
+are used to generate timing signals for the downlink of science data. A
+problem with an identical transponder on a satellite already in orbit
+motivated their replacement and reverification once incorporated into
+Gaia. The rescheduled launch window was from 17 December 2013 to
+5 January 2014, with Gaia slated for launch on 19 December.[48]
+Gaia was successfully launched on 19 December 2013 at 09:12
+UTC.[49] About three weeks after launch, on 8 January 2014, it
+reached its designated orbit around the Sun-Earth L2 Lagrange point
+(SEL2),[4][50] about 1.5 million kilometres from Earth.
+In 2015, the Pan-STARRS observatory discovered an object orbiting
+the Earth, which the Minor Planet Center catalogued as object
+2015 HP116. It was soon found to be an accidental rediscovery of the
+Gaia spacecraft and the designation was promptly retracted.[51]
+Shortly after launch, ESA revealed that Gaia suffered from a stray light
+problem. The problem was initially thought to be due to ice deposits
+reflecting some of the light diffracted around the edges of the
+sunshield into the telescope apertures and on towards the focal
+plane.[52] The actual source of the stray light was later identified as the
+fibers of the sunshield, protruding beyond the edges of the shield.[53] This resulted in a "degradation
+Launch and orbit
+Issues
+Stray light problem
+Simplified illustration of Gaia's trajectory
+and orbit (not to scale)
+Gaia map of the sky by star density
+in science performance [which] will be relatively modest and
+mostly restricted to the faintest of Gaia's one billion stars."
+Mitigation schemes were implemented[54] to improve
+performance. The degradation was more severe for the RVS
+spectrograph than for the astrometry measurements, because
+it spread the light of each observed star onto a much larger
+number of detector pixels, all of which affected by the
+extraneous stray light.
+This kind of problem has some historical background. In 1985
+on STS-51-F, the Space Shuttle Spacelab-2 mission, another
+astronomical mission hampered by stray debris was the
+Infrared Telescope (IRT), in which a piece of mylar insulation
+broke loose and floated into the line-of-sight of the telescope
+causing corrupted data.[55] The testing of stray-light and
+baffles is a noted part of space imaging instruments.[56]
+In April 2024, a micrometeoroid hit and damaged Gaia's protective cover, creating "a little gap that
+allowed stray sunlight – around one billionth of the intensity of direct sunlight felt on Earth – to
+occasionally disrupt Gaia’s very sensitive sensors". In May, the electronics of one of the CCDs failed,
+which caused a high rate of false detections. After that, the engineers refocused Gaia's optics "for the
+final time".[57]
+The testing and calibration phase, which
+started while Gaia was en route to SEL2
+point, continued until the end of July
+2014,[58] three months behind schedule due
+to unforeseen issues with stray light
+entering the detector. After the six-month
+commissioning period, the satellite started
+its nominal five-year period of scientific
+operations on 25 July 2014 using a special
+scanning mode that intensively scanned the
+region near the ecliptic poles; on 21 August
+2014 Gaia began using its normal scanning
+mode which provides more uniform coverage.[59]
+Although it was originally planned to limit Gaia's observations to stars fainter than magnitude 5.7,
+tests carried out during the commissioning phase indicated that Gaia could autonomously identify
+stars as bright as magnitude 3. When Gaia entered regular scientific operations in July 2014, it was
+configured to routinely process stars in the magnitude range 3–20.[60] On the more luminous side of
+Micrometeoroid hit
+Mission progress
+that limit, special operational procedures downloaded raw scanning data for the remaining 230 stars
+brighter than magnitude 3; methods to reduce and analyse these data were developed; and it was
+expected that there will be "complete sky coverage at the bright end" with standard errors of "a few
+dozen'' microarcseconds.[61]
+On 30 August 2014, Gaia discovered its first supernova in another galaxy.[62] On 3 July 2015, a map
+of the Milky Way by star density was released, based on data from the spacecraft.[63] By August 2016,
+over 50 billion focal plane transits, 110 billion photometric observations and 9.4 billion spectroscopic
+observations were processed.[64]
+In 2018 the Gaia mission was extended to 2020, and in 2020 it was further extended until 2022, with
+an additional "indicative extension" extending to 2025.[65][66] The limiting factor to further mission
+extensions was the supply of nitrogen for the cold gas thrusters of the micro-propulsion system.[67]
+The amount of dinitrogen tetroxide and monomethylhydrazine for the chemical propulsion subsystem
+on board might have been enough to stabilize the spacecraft at L2 for several decades. Without the
+cold gas, though, the space craft could no longer be pointed on a microarcsecond scale.
+In March 2023, the Gaia mission was extended through the second quarter of 2025, when the
+spacecraft was expected to run out of cold gas propellant.[68]
+Gaia's last targeted observation was done on 10 January 2025.[69] After several weeks of onboard
+technology tests, Gaia left its orbit near L2 and was put into a heliocentric orbit away from Earth's
+sphere of influence.[70] After downlinking all remaining data to Earth, Gaia was decommissioned and
+passivated on 27 March 2025.[69][71] The mission has since entered a post-operations phase to
+complete and publish the remaining data.[68]
+Several Gaia catalogues are released over the years each time with increasing amounts of information
+and better astrometry; the early releases also miss some stars, especially fainter stars located in dense
+star fields and members of close binary pairs.[72] The first data release, Gaia DR1, based on 14 months
+of observation was on 14 September 2016.[73][74][75] The data release includes "positions and ...
+magnitudes for 1.1 billion stars using only Gaia data; positions, parallaxes and proper motions for
+more than 2 million stars" based on a combination of Gaia and Tycho-2 data for those objects in both
+catalogues; "light curves and characteristics for about 3,000 variable stars; and positions and
+magnitudes for more than 2000 ... extragalactic sources used to define the celestial reference
+frame".[72][76][77]
+The second data release (DR2), which occurred on 25 April 2018,[8][78] is based on 22 months of
+observations made between 25 July 2014 and 23 May 2016. It includes positions, parallaxes and
+proper motions for about 1.3 billion stars and positions of an additional 300 million stars in the
+magnitude range g = 3–20,[79] red and blue photometric data for about 1.1 billion stars and single
+End of mission
+Data releases
+Stars and other objects in Gaia Early Data Release 3
+colour photometry for an additional 400 million stars, and median radial velocities for about 7 million
+stars between magnitude 4 and 13. It also contains data for over 14,000 selected Solar System
+objects.[80][81]
+Due to uncertainties in the data pipeline,
+the third data release, based on 34 months
+of observations, was split into two parts so
+that data that was ready first, was released
+first. The first part, EDR3 ("Early Data
+Release 3"), consisting of improved
+positions, parallaxes and proper motions,
+was released on 3 December 2020.[82] The
+coordinates in EDR3 use a new version of
+the Gaia celestial reference frame (Gaia–
+CRF3), based on observations of 1,614,173
+extragalactic sources,[82] 2,269 of which
+were common to radio sources in the third
+revision of the International Celestial Reference Frame (ICRF3).[83] Included is the Gaia Catalogue of
+Nearby Stars (GCNS), containing 331,312 stars within (nominally) 100 parsecs (330 light-
+years).[84][85]
+The full DR3, published on 13 June 2022, includes the EDR3 data plus Solar System data; variability
+information; results for non-single stars, for quasars, and for extended objects; astrophysical
+parameters; and a special data set, the Gaia Andromeda Photometric Survey (GAPS).[86]
+Between DR3 and DR4 there was a Focused Product Release, publishing among other things new data
+on the Omega Centauri cluster using a novel observation technique; the technique will be extended to
+all globular clusters and other dense fields in future full Data Releases.
+The full data release for the five-year nominal mission, DR4, will include full astrometric, photometric
+and radial-velocity catalogues, variable-star and non-single-star solutions, source classifications plus
+multiple astrophysical parameters for stars, unresolved binaries, galaxies and quasars, an exoplanet
+list and epoch and transit data for all sources.[87] Additional release(s) will take place depending on
+mission extensions.[72] Most measurements in DR4 are expected to be 1.7 times more precise than
+DR2; proper motions will be 4.5 times more precise.[88] DR4 is expected to be released no earlier than
+December 2026.[72]
+The final Gaia catalogue, DR5, will consist of all data collected during the lifespan of the mission. It
+will be 1.4 times more precise than DR4, while proper motions will be 2.8 times more precise than
+DR4.[88] It will be published no earlier than the end of 2030.[72] All data of all catalogues will be
+available in an online data base that is free to use.
+An outreach application, Gaia Sky, has been developed to explore the galaxy in three dimensions
+using Gaia data.[89]
+Future releases
+VST snaps Gaia en route to a billion
+stars[90]
+The overall data volume that was retrieved from the spacecraft
+during the nominal five-year mission at a compressed data
+rate of 1 Mbit/s is approximately 60 TB, amounting to about
+200 TB of usable uncompressed data on the ground, stored in
+an InterSystems Caché database. The responsibility of the
+data processing, partly funded by ESA, is entrusted to a
+European consortium, the Data Processing and Analysis
+Consortium (DPAC), which was selected after its proposal to
+the ESA Announcement of Opportunity released in November
+2006. DPAC's funding is provided by the participating
+countries and has been secured until the production of Gaia's final catalogue.[91]
+Gaia sent back data for about eight hours every day at about 5 Mbit/s. ESA's three 35-metre-diameter
+radio dishes of the ESTRACK network in Cebreros, Spain, Malargüe, Argentina and New Norcia,
+Australia, received the data.[25]
+In July 2017, the Gaia–ESO Survey reported using Gaia data to find double-, triple-, and quadruple-
+stars. Using advanced techniques they identified 342 binary candidates, 11 triple candidates, and 1
+quadruple candidate. Nine of these had been identified by other means, thus confirming that the
+technique can correctly identify multiple star systems.[92] The possible quadruple star system is HD
+74438, which was, in a paper published in 2022, identified as a possible progenitor of a sub-
+Chandrasekhar Type Ia supernovae.[93]
+In November 2017, scientists led by Davide Massari of the Kapteyn Astronomical Institute, University
+of Groningen, Netherlands released a paper[94] describing the characterization of proper motion (3D)
+within the Sculptor Dwarf Galaxy, and of that galaxy's trajectory through space and with respect to the
+Milky Way, using data from Gaia and the Hubble Space Telescope. Massari said, "With the precision
+achieved we can measure the yearly motion of a star on the sky which corresponds to less than the size
+of a pinhead on the Moon as seen from Earth." The data showed that Sculptor orbits the Milky Way in
+a highly elliptical orbit; it is currently near its closest approach at a distance of about 83.4 kiloparsecs
+(272,000 ly), but the orbit can take it out to around 222 kiloparsecs (720,000 ly) distant.
+In October 2018, Leiden University astronomers were able to determine the orbits of 20
+hyperrunaway star candidates from the DR2 dataset. Expecting to find a single star exiting the Milky
+Way, they instead found seven. More surprisingly, the team found that 13 hyperrunaway stars were
+instead approaching the Milky Way, possibly originating from as-of-yet unknown extragalactic
+sources. Alternatively, they could be halo stars to this galaxy, and further spectroscopic studies will
+help determine which scenario is more likely.[95][96] Independent measurements have demonstrated
+that the greatest Gaia radial velocity among the hyperrunaway stars is contaminated by light from
+nearby bright stars in a crowded field and cast doubt on the high Gaia radial velocities of other
+hypervelocity stars.[97]
+Data processing
+Significant results
+Gaia's HR Diagram
+In late October 2018, the galactic population Gaia-Enceladus, the remains of a major merger with the
+defunct Enceladus dwarf, was discovered.[98] This system is associated with at least 13 globular
+clusters, and the creation of the Thick Disk of the Milky Way. It represents a significant merger about
+10 billion years ago in the Milky Way Galaxy.[99]
+In November 2018, the galaxy Antlia 2 was discovered. It is
+similar in size to the Large Magellanic Cloud, despite being
+10,000 times fainter. Antlia 2 has the lowest surface
+brightness of any galaxy discovered.[100]
+In December 2019 the star cluster Price-Whelan 1 was
+discovered.[101] The cluster belongs to the Magellanic Clouds
+and is located in the leading arm of these Dwarf Galaxies. The
+discovery suggests that the stream of gas extending from the
+Magellanic Clouds to the Milky Way is about half as far from
+the Milky Way as previously thought.[102]
+The Radcliffe wave was discovered in data measured by Gaia,
+published in January 2020.[103][104]
+In November 2020, Gaia measured the acceleration of the
+Solar System towards the Galactic Center as 0.23 nanometres
+per second2.[105][106]
+In March 2021, the European Space Agency announced that
+Gaia had identified a transiting exoplanet for the first time.
+The planet was discovered orbiting solar-type star Gaia EDR3
+3026325426682637824. Following its initial discovery, the PEPSI spectrograph from the Large
+Binocular Telescope (LBT) in Arizona was used to confirm the discovery and categorise it as a Jovian
+planet, a gas planet composed of hydrogen and helium gas.[107][108] In May 2022, the confirmation of
+this exoplanet, designated Gaia-1b, was formally published, along with a second planet, Gaia-2b.[109]
+Based on its data, Gaia's Hertzsprung–Russell diagram (HR diagram) is one of the most accurate
+ones ever produced of the Milky Way Galaxy.[110]
+Analysis of Gaia DR3 data in 2022 revealed a Sun-like star with the identifier Gaia DR3
+4373465352415301632 orbiting a black hole, dubbed Gaia BH1. At a distance of roughly 1,600 light-
+years (490 pc), it is the closest known black hole to Earth.[111][112] Another system with a red giant
+orbiting a black hole, Gaia BH2, was also discovered.[113]
+In September 2023, radial velocity observations were used to confirm an exoplanet orbiting the star
+HIP 66074 that was first detected in Gaia DR3 astrometry data. This planet, known as HIP 66074 b
+or Gaia-3b, is the third Gaia exoplanet discovery to be confirmed and the first such discovery made
+using astrometry.[114] In addition, another exoplanet was discovered from a gravitational
+microlensing event observed by Gaia, Gaia22dkv. The host star is brighter than that of any exoplanet
+previously detected by microlensing, potentially making the planet detectable by radial velocity as
+well.[115]
+In March 2024, Gaia discovered two streams of stars, named by researchers Shakti and Shiva, that
+formed more than 12 billion years ago.[116]
+In 2025 a detailed 3D map of dust distribution within the Milky Way was constructed using data from
+Gaia and LAMOST spectral survey and machine learning.[117]
+GaiaNIR (Gaia Near Infra-Red) is a proposed successor of Gaia in the near-infrared.[118] The mission
+would enlarge the current catalogue with sources that are only (or better) visible in the near-infrared,
+at the cost of less precise measurements than an equivalent visible-light mission due to the broader
+diffraction pattern at longer wavelengths. It would at the same time improve the star parallax and
+particularly proper motion accuracy by revisiting the sources of the Gaia catalogue.[119] One of the
+main challenges in building GaiaNIR is the low technology readiness level of near-infrared time delay
+and integration detectors but recent progress with Avalanche photodiode detectors (APDs) is
+overcoming this. In a 2017 ESA report two alternative concepts using conventional near-infrared
+detectors and de-spin mirrors were proposed but even without the development of NIR TDI detectors
+the technological challenge will likely increase the cost over an ESA M-class mission and might need
+shared cost with other space agencies.[119] One possible partnership with US institutions was
+proposed.[120] Since then the European Space Agency Science Programme Voyage 2050 has selected
+the theme of "Galactic Ecosystem with Astrometry in the Near-infrared" as one of two potential L-
+class missions to be implemented in the coming years thus boosting the chances for GaiaNIR which
+proposes exactly this.
+Four maps of the Milky Way
+galaxy: radial velocity (top left),
+proper motion (bottom left);
+interstellar dust (top right); and
+metallicity (bottom right).[121]
+A visualisation of Gaia
+scanning the sky in great
+circles lasting about 6 hours
+from July 2014 to September
+2015.[122]
+Illustration of Oort's formulae
+describing the curve obtained
+from plotting angular velocities
+against the galactic
+longitude[123][124]
+GaiaNIR
+Gallery

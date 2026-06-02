@@ -1,0 +1,312 @@
+Chin. J. Astron. Astrophys. Vol. 3 (2003), Suppl., 64–74
+(http:/ /www.chjaa.org)
+Chinese Journal of
+Astronomy and
+Astrophysics
+The Hubble Space Telescope: Past, Present, and Future
+Nino Panagia ⋆
+ESA/Space Telescope Science Institute, 3700 San Martin Dri ve, Baltimore, MD 21218, USA
+Abstract I present and illustrate some of the most recent HST results and the
+plans for future observations, including the current studi es of solar system plan-
+ets, the extensive imaging of the Helix Nebula, the detectio n of superluminally
+expanding light echoes around the newly discovered variabl e star V838 Mon, the
+repeated measurements of the collision of SN 1987A ejecta wi th its inner circum-
+stellar ring, that show a marked increase of high energy inte ractions, the study of
+M31 halo stellar populations and the puzzle of their origin, and the plans for the
+ACS Ultra-Deep Field observations that will probe the Universe to an unprece-
+dented depth.
+Key words: planets and satellites: individual (Mars, Neptune) — plane tary
+nebulae: individual (NGC 7293) — novae, cataclysmic variab les — supernovae:
+individual (1987A) — galaxies: halos — cosmology: early uni verse
+1 INTRODUCTION
+At fourteen years of age, the “middle-aged” Hubble Space Tel escope ( HST) is still playing a
+major role in astronomical research and is undoubtedly one o f the most important and most
+proliﬁc space astronomy missions.
+HST is a cooperative program of the National Aeronautics and Spa ce Administration
+(NASA) and the European Space Agency (ESA) to operate a long- lived space-based observa-
+tory for the beneﬁt of the international astronomical commu nity. HST is an observatory ﬁrst
+conceived in the 1940s, designed and built in the 1970s and 80 s, and become operational in the
+1990s. HST was designed to be a diﬀerent type of mission – a long term spac e-based observa-
+tory, whose instrumentation and equipment were planned to b e serviced at a regular three year
+cycle.
+HST was deployed in low-Earth orbit ( ∼ 600 km) by the crew of the space shuttle Discovery
+(STS-31) on 25 April 1990. Although at the beginning the miss ion looked severely faulted
+because the spherical aberration, the ﬁrst maintenance mis sion STS-61 Endeavour, December
+1993) fully restored the functionality of HST. In fact, all HST servicing missions so far, i.e. SM1
+in December 1993, SM2 in February 1997, SM3A in December 1999 , and SM3B in February-
+March 2002 were enormous successes.
+HST’s current science instruments include three cameras, the W ide Field - Planetary
+Camera 2 ( WFPC2), the new Advanced Camera for Surveys ( ACS), which with its tenfold
+⋆ E-mail: panagia@stsci.edu
+HST: Past, Present & Future 65
+increase in eﬃciency and its doubled ﬁeld of view relative to WFPC2 has opened up much an-
+ticipated new capabilities for discovery, the Near Infrare d Camera - Multiobject Spectrograph
+(NICMOS), which was revived in mission 3B with the installation of a m echanical cooling
+system, one spectrograph, the Space Telescope Imaging Spec trograph ( STIS ), and the Fine
+Guidance Sensors ( FGS, primarily used for astrometric observations). Another se rvicing mis-
+sion is planned for May 2005 (SM4), which includes the instal lation of the Cosmic Origins
+Spectrograph (COS, a high-resolution UV spectrograph) and the Wide Field Came ra 3 ( WFC3,
+with imaging capabilities extending from the near-UV to the near-IR). Because of the extraor-
+dinary scientiﬁc results obtained so far and expected in the years to come, in late 1997 the
+length of the HST mission was extended ﬁve more years with respect to the origi nal 15-year
+design life, so that in the current plan HST is to be operated until the year 2010.
+That extension was decided when the James Webb Space Telesco pe (JWST), the near/mid-
+infrared successor of HST (Panagia 2003, this volume), was expected to be launched in 2 007,
+while currently the launch of JWST is planned for late 2011. It follows that, if now one wants to
+assure a substantial overlap of the two missions, a further HST extension should be envisaged
+which would require an additional servicing mission. Howev er, servicing missions by the shuttle
+are expensive and inherently dangerous, and, therefore, NA SA decided to assess the scientiﬁc
+impact of its current plan for eﬀecting the transition from HST to JWST in the context of its
+overall space science program, and to determine if there are modiﬁcations to this plan that may
+better address key scientiﬁc issues within the constraints provided by the agency’s strategic
+plan and budget. To this end in mid-2003 NASA Oﬃce of Space Sci ence chartered a panel of
+senior community members, with John Bahcall serving as chai r, to review agency plans and to
+receive community input on the HST-JWST transition topic.
+After a broad consultation with the astronomical community at large, extensive discussions
+with scientiﬁc and engineering experts, and following a mee ting with selected representatives of
+the HST and JWST projects, the panel issued their report 1 which is very positive about HST,
+its contributions, and the desirability of keeping it funct ioning as a scientiﬁc facility as long as
+possible. Actually the report, while favoring an extension of HST lifetime past 2010 in view of
+a partial, at least, overlap with the JWST mission, considers a number of possible of diﬀerent
+scenarios, from having two missions (a SM4 in 2005 and a SM5 in about 2010) to dismissing any
+further maintenance mission altogether, and for all of them recommends actions to maximize
+the scientiﬁc outcome of the HST mission, whatever the decision, mostly dictated by budgeta ry
+and safety considerations, could be. Therefore, with a dose of cautious optimism and a grain of
+realism, we could expect that, budget permitting , the HST mission may be extended even past
+2010.
+In the following sections I shall review some of the telescop e’s most recent results and
+outline some of the planned observations for the near future . Summaries of previous years most
+exciting HST results can be found in Panagia (1999, 2002).
+2 MARS’S CLOSE ENCOUNTER WITH EAR TH
+On August 27, 2003, the third and fourth planets from the Sun, namely the Earth and Mars,
+were at their closest encounter in recorded human history.
+The reason why the two planets were unusually close is opposi tion. Approximately every
+two years, the Earth’s orbit catches up to Mars’s orbit, alig ning the Sun, Earth, and Mars in a
+straight line, so that Mars and the Sun are on opposite sides o f Earth. The fact that Earth’s orbit
+is nearly circular ( eEarth = 0 .0167) while Mars’ is more markedly elliptical ( eMars = 0 .0934)
+results in Earth-Mars approaches ranging between 56 and 100 million kilometers. In late August
+1 http://www.nasa.gov/audience/formedia/features/MP Public Reports.html
+66 N. Panagia
+Earth was near aphelion and Mars at perihelion, thus being se parated by a distance of a mere
+55.8 million kilometers, the shortest in about 60,000 years .
+During past oppositions, many famous observations were mad e of the Red Planet. An
+opposition in November 1659 made it possible for Christiaan Huygens to see and sketch the
+ﬁrst accurate drawings of the Martian surface, which showed a major dark feature on the planet
+now known as Syrtis Major. Although farther away than usual d uring the opposition of 1666,
+Mars oﬀered Gian Domenico Cassini the ﬁrst view of its polar i ce caps. Cassini was also able
+to determine the rotation period of Mars from his opposition observations. In the late 19th
+century, Giovanni Schiaparelli made perhaps the most famou s observations of Mars, performing
+detailed studies of those “canals”, as Father Angelo Secchi had called them about 14 years
+earlier, and which, due to a misinterpretation, set the stag e for speculation about life on Mars.
+Following that, during the perihelial opposition of 1877, M ars came close enough to Earth for
+Asaph Hall to resolve Mars’s two small satellites, which he n amed Phobos and Deimos.
+The shorter-than-usual separation of these planets also ma de summer 2003 the ideal time
+to launch scientiﬁc expeditions to Mars. With such a shorter distance not as much fuel is
+needed to reach Mars, which leaves more room for valuable sci entiﬁc instruments. Thus, NASA
+has launched a pair of Mars Exploration Rovers (MER-A “Spiri t” on June 10 and MER-B
+“Opportunity” on July 7) to land on the planet and investigat e the Martian surface. Similarly,
+the European Space Agency successfully launched the Mars Ex press probe which will reach
+the planet in December 2003, starting its studies of the enti re surface of the planet and its
+atmosphere, and will analyze Mars’ soil with the Beagle 2 lan der.
+Taking advantage of such a close opposition, a series of HST observations were planned,
+some of which have already been executed (see e.g., Figure 1). In particular, a team led by Jim
+Bell is carrying out a coordinated program (GO 9738) of spect roscopy, imaging, and spectropo-
+larimetry of Mars during the August 2003 opposition to study the composition and physical
+state of surface materials and airborne aerosols. The obser vations include (a) Moderate spec-
+tral resolution 290 to 570 nm STIS long-slit push-broom imaging spectroscopy of Mars, to
+constrain the properties of airborne aerosol particles and to search for and globally map iron-
+bearing minerals that are diagnostic of speciﬁc past climat ic conditions; (b) WFPC2 UV-VIS
+images designed primarily to quantify the eﬀects of ice and d ust aerosols on our STIS spectra;
+(c) NICMOS near-IR images to search for and globally map the presence of hydrated sur-
+face minerals; and (d) ACS multispectral polarizer images to provide critical phase f unction
+measurements needed to constrain the physical properties o f the Martian surface layer. The
+observations are timed to take full advantage of the closest approach of Mars to Earth, so that
+images and spectra are acquired at a spatial scale comparabl e to existing spacecraft orbital
+spectroscopy data ( ∼ 10 km/pixel) and in wavelength regions not sampled by past or current
+Mars spacecraft instrumentation. These observations also provide complementary scientiﬁc and
+calibration measurements in support of current and future N ASA and ESA Mars exploration
+missions.
+Finally, in February 2004, a last observation will be made si multaneously with the Mars
+Exploration Rover Mission. August 27 ACS observations have already provided high-resolution
+images of Mars (at 7.33 kilometers per pixel). All of these ob servations also provide comple-
+mentary scientiﬁc and calibration measurements in support of current and future NASA and
+ESA Mars exploration missions.
+3 A CHANGE OF SEASONS IN NEPTUNE
+Observations of Neptune made over six years show a distinct i ncrease in the amount and
+brightness of the banded cloud features located mostly in th e planet’s southern hemisphere
+(Sromovsky et al. 2003).
+HST: Past, Present & Future 67
+Neptune was already known for its violent weather, with wind s up to 1500 km/h, but the
+new Hubble observations are the ﬁrst to suggest that the plan et undergoes a change of seasons.
+Using Hubble, three sets of observations of Neptune were mad e, in 1996, 1998, and 2002, each
+covering a full rotation of the planet. The images showed pro gressively brighter bands of clouds
+encircling the planet’s southern hemisphere.
+The recent trend of increasing cloud activity on Neptune has been qualitatively conﬁrmed
+at near-infrared wavelengths with Keck Telescope observat ions from July 2000 to June 2001
+by H. Hammel and co-workers (see e.g., Rages, Hammel & Lockwood 2002). Near-infrared
+observations at NASA’s Infrared Telescope Facility on Maun a Kea, Hawaii are planned for this
+summer to further characterize changes in the high-altitud e cloud structure.
+Neptune rotation axis is tilted at an angle of about 29 degree s so that the northern and
+southern hemispheres alternate in their positions relativ e to the Sun. Therefore, like the Earth,
+Neptune would have four seasons, but, unlike the Earth, the s easons of Neptune last for decades,
+not months. Actually, since Neptune obits the Sun in about 16 5 years, a single season on the
+planet can last more than 40 years. If what scientists are obs erving is truly seasonal change,
+the planet will continue to brighten for another 20 years.
+What is remarkable is that Neptune exhibits any evidence of s easonal change at all, given
+that the Sun, as viewed from the planet, is 900 times dimmer th an it is from Earth. Since the
+amount of solar energy intercepted is what should determine the seasons, it is still a mystery
+how can such a small energy input aﬀect the dynamic nature of N eptune’s atmosphere.
+4 NGC 7293: THE HELIX NEBULA
+The Helix Nebula, a.k.a. NGC 7293, lies about 200 pc away towards the constellation of Aquarius
+and has a diameter of about 0.8 pc, thus spanning as much as 14 a rcminutes in the sky. Figure
+3 shows an image made by combining newly released images from the HST-ACS and wide-
+angle images from the Mosaic Camera on the WIYN 0.9 m Telescop e at Kitt Peak National
+Observatory.
+This image of the Helix Nebula is one of the largest and most de tailed celestial images
+ever made. Making these HST observations was made possible by the fortuitous combinati on
+of events. Among the most prominent of meteor showers is the L eonids each November. The
+shower in 2002 was predicted to be especially rich and since t hose meteoroids pose a non-zero
+risk to the spacecraft, HST had to carry out a special procedure to minimize the risk and a ny
+consequences. As in the past several years, HST was required to be pointed in a particular
+direction during the meteor shower so as to keep the telescop e’s aft end toward the stream
+while minimizing the cross-section of the solar arrays. Thi s “stand down” period was from 0
+to 14 hours UT on November 18, 2002. In preparing for this spec ial eﬀort, STScI staﬀ member
+Ian Jordan noticed that just outside the nominal pointing re gion lied the Helix Nebula, which
+had been examined by Hubble many times (see, e.g., the dramatic images of globules shown
+press release STScI-1996-13). This was too good an opportun ity to miss! The HST Project
+at Goddard Space Flight Center was immediately contacted an d their concurrence in using
+HST slightly beyond its nominal pointing area was secured.
+Then a small group of STScI scientists was set up to design a pr ogram that would make
+eﬀective use of the nine orbits available. This group, led by Margaret Meixner, created a program
+that imaged a substantial portion of the large Helix in two co lors, using both ACS and WFPC2,
+with the intent of establishing a ﬁrst-epoch dataset that is suitable for later work to measure
+proper motions of the knots. A high-quality public image, wh ich is shown in Figure 3, was also
+produced, by combining all of the HST images and complementing them with images taken
+with the KPNO 0.9 m WIYN telescope large-ﬁeld images. More details on these obs ervations
+can be found at http://archive.stsci.edu/hst/helix/.
+68 N. Panagia
+5 THE MYSTERIOUS OUTBURST OF THE ST AR V838
+MONOCEROTIS
+The previously unknown variable star V838 Monocerotis erup ted in early 2002, brightening
+suddenly by a factor of almost 10,000 at visual wavelengths. Unlike a supernova or nova, V838
+Mon did not explosively eject its outer layers; rather, it si mply expanded to become a cool
+supergiant with a moderate-velocity stellar wind. A series of superluminally expanding light
+echoes appeared around the star shortly afterward, as illum ination from the outburst propagated
+into a surrounding, pre-existing circumstellar dust cloud (see Figure 4). This is the ﬁrst light
+echo seen in the Milky Way since 1936. The star and its surroun ding medium has been studied
+obtaining a series of high-resolution images and polarimet ry of the light echo with the HST-ACS
+(Bond et al. 2003).
+The echo exhibits a series of circular arcs, whose angular ex pansion rates show that the
+distance is greater than 2 kpc. The polarimetric imaging wou ld imply an even greater lower limit
+to the distance of as high as 6 kpc. Both of these limits mark th e ﬁrst times that these phenomena
+have been used to constrain an astronomical distance in the M ilky Way. At maximum light,
+the object was extremely luminous, at least as bright as visu al absolute magnitude –9.6. The
+spectrum of the star during the outburst remained that of a co ol stellar photosphere, but as
+the outburst subsided a composite spectrum appeared, which revealed the presence of a B type
+companion.
+V838 Mon thus appears to represent a new class of stellar outb ursts, occurring in binary
+systems containing a relatively hot main-sequence star and a companion that erupts to become
+a cool supergiant. A remarkably similar event was seen in the Andromeda Galaxy in the late
+1980’s. The presence of the circumstellar dust implies that previous eruptions have occurred,
+and spectra show it to be a binary system. When combined with t he high luminosity and unusual
+outburst behavior, these characteristics indicate that V8 38 Mon represents a hitherto unknown
+type of stellar outburst, for which we have no completely sat isfactory physical explanation.
+6 FIREWORKS IN SN 1987A EQUA TORIAL RING
+Supernova 1987A exploded on 1987 February 23 in the Large Mag ellanic Cloud. Although
+HST was not yet in orbit when this rare chance to observe a nearby s upernova appeared,
+it took advantage of the opportunity as soon as it became oper ational. The European Space
+Agency’s Faint Object Camera took the ﬁrst images of SN 1987A on 1990 August 23–24, which
+revealed the supernova crowned by a glorious circumstellar ring. Later, two more rings were
+discovered.
+HST has kept an attentive eye on SN 1987A, and its observations ha ve produced many fun-
+damental results, including a direct measure of the superno va expansion, the detailed properties
+of its surrounding rings, the distance to the supernova, and the origin of the stars associated
+with the supernova.
+Recently, Hubble has observed the high-velocity material f rom the supernova explosion
+starting to overtake and crash into the slower-moving inner ring. Figure 5 shows the dramatic
+evidence of these collisions. The circumstellar ring, whic h until 1996 was relatively quiescent,
+started to develop bright spots in 1997, and in May 2001 one ca n identify almost a dozen bright
+spots. These bright spots are the result of the fast moving co mponent of the ejecta colliding with
+the stationary equatorial ring. The fastest debris, moving at 15,000 km s − 1 or 1/20 the speed
+of light, are now colliding with the slower moving gas which w as ejected when the progenitor
+was a red supergiant ( e.g., Sonneborn et al. 1998).
+Over the next decades, as “slower” ejecta layers reach the ri ng, more and more spots will
+light up and the whole ring will shine as it did in the ﬁrst seve ral months after explosion.
+HST: Past, Present & Future 71
+Fig. 5 Series of images of SN 1987A and its inner circumstellar ring obtained with HST-
+WFPC2 between October 1994 and May 2001. It appears that the quiesc ent ring has devel-
+oped at least nine hot spots in the last ﬁve years. [Courtesy o f Peter Challis (CfA), on behalf
+of the SINS project (Supernova INtensive Study, PI: R.P Kirs hner)]
+Eventually, the bulk of the ejecta will completely sweep the ring up, clearing the circumstellar
+space of that remnant of the pre-supernova wind activity.
+7 YOUNG ST ARS IN THE ANDROMEDA HALO?
+With an investment of 120 orbits of HST observing time, a team led by Tom Brown has obtained
+a color-magnitude diagram (CMD) for a minor-axis ﬁeld in the halo of the Andromeda galaxy
+(M31), 51 arcmin (11 kpc) from the nucleus (Brown et al. 2003). These observations, taken with
+the Advanced Camera for Surveys (ACS) on the Hubble Space Tel escope, are the deepest optical
+images yet obtained (but not for long! see Section 8), attain ing 50% completeness at V = 30.7
+mag (see Figures 6 and 7). The CMD, constructed from approxim ately 300,000 stars, reaches
+more than 1.5 mag fainter than the old main-sequence turnoﬀ. Brown et al. analysis is based
+on direct comparisons to ACS observations of four globular clusters through the same ﬁlt ers,
+72 N. Panagia
+Fig. 6 A 180 ′′ × 200′′ region of M31 halo, the deepest visible-light image so far ta ken in
+space, observed with the HST-ACS. [Credit: NASA, ESA and T.M. Brown (STScI)]
+as well as chi-squared ﬁtting to a ﬁnely-spaced grid of calib rated stellar-population models.
+They ﬁnd that the M31 halo contains a major (approximately 30 % by mass) intermediate-age
+(6–8 Gyr) metal-rich ([Fe/H] > −0.5) population, as well as a signiﬁcant globular-cluster age
+(11–13.5 Gyr) metal-poor population.
+HST: Past, Present & Future 73
+Fig. 7 A sampler of extended objects detected in the M31 halo ACS images. [Credit: NASA,
+ESA and T.M. Brown (STScI)]
+The newly discovered younger stars in Andromeda’s halo are r icher in heavier elements than
+the stars in our Milky Way’s halo, or in most of the small dwarf galaxies that surround the
+Milky Way. Indeed the level of chemical enrichment seen in th ese younger stars is characteristic
+of relatively massive galaxies, containing at least a billi on stars. On the other hand, since the
+gas in a young giant galaxy rapidly falls into the disk, it is u nlikely that the newly revealed
+intermediate-age population could be explained by star for mation continuing in the halo for
+more than 6 Gyrs.
+Brown et al. argue that a more plausible explanation is a merger with a lar ge satellite
+galaxy when the Universe was approximately half of its prese nt age, or a series of mergers
+with smaller satellites. Thus, the resulting halo appears b e a mix of stars originally formed in
+the halo, disrupted-disk stars, disrupted-satellite star s, and stars formed during one or more
+mergers. These results open a number of interesting new poss ibilities, but leave us with the new
+question “what is the typical halo formation process?” Is it a “violent” one like that we see
+occurring in Andromeda, or is it as quiescent as found in the h alo of our Milky Way galaxy?
+Only further studies on more galaxies will be able to answer t his question properly.
+8 AS DEEP AS EVER: THE ACS UL TRA-DEEP FIELD
+The ACS Ultra Deep Field (UDF) is a public survey carried out by using Director’s
+Discretionary time. The main science driver are galaxy evol ution and cosmology, including
+probing the epoch of reionization up to z ∼ 6.5 and characterizing not only the colors but also
+74 N. Panagia
+the morphologies of faint sources. The primary instrument i s the Advanced Camera for Surveys
+but WFPC2, NICMOS and STIS will also be used in parallel.
+The UDF consists of a single ultra-deep ﬁeld (412 orbits in to tal) within the Chandra Deep
+Field South (Giacconi et al. 2002) in the GOODS area (Giavalisco et al. 2003). The pointing
+will be RA(J2000)=3 h 32m 39s.0 and Decl.(J2000)=–27 ◦47′ 29′′.1. This pointing avoids the
+gaps with the lowest eﬀective exposure on the Chandra ACIS im age of CDFS, and is designed
+to include in the ﬁeld both a spectroscopically conﬁrmed z = 5.8 galaxy and a spectroscopically
+conﬁrmed type Ia SN at z = 1 .3. The selected UDF ﬁeld will be accessible to most major
+observatories in both Northern and Southern hemispheres.
+The survey will use four ﬁlters: F435W (56 orbits), F606W (56 orbits), F775W (150 orbits),
+and F850LP (150 orbits). The F435W (B) and F606W (V) exposure s will be one magnitude
+deeper, and the F775W (I) exposure 1.5 magnitude deeper than the equivalent HDF exposures.
+The depth in F775W and F850LP is optimized for searching very red objects - like z = 6
+galaxies - at the detection limit of the F850LP image.
+This basic structure of the survey represents a consensus re commendation of a Scientiﬁc
+Advisory Committee to the STScI Director Steven Beckwith. A local Working Group is looking
+in detail at the implementation of the survey. The Phase II pl an for the UDF set of observations
+is accessible on the web as DD proposal 9978. The HST observations will begin on September
+24, 2003, and continue through January 16, 2004. The current plan is to release the reduced
+ACS images and source catalogs by February 7, 2004, i.e. three weeks after the completion of
+all HST observations.
+Further details and updates can be found at http://www.stsc i.edu/science/udf/.
+References
+Bond H.E., et al. , 2003, Nature, 422, 405
+Brown T.M., et al. , 2003, ApJ, 592, L17
+Giacconi., et al. , 2002, ApJS, 139, 369
+Giavalisco M., et al. , 2003, ApJ, in press [also astro-ph/0309105]
+Panagia N., 1999, in “Frontier Objects in Astrophysics and P article Physics”, eds. F. Giovannelli & G.
+Mannocchi, Italian Physical Society (Bologna - Italy), CP V ol. 65, p. 25-36.
+Panagia N., 2002, Mem. S.A.It., 73, 889
+Rages K., Hammel H.B., Lockwood G.W., 2002, Icarus, 159, 262
+Sromovsky L.A., Fry P.M., Limaye S.S., Baines K.H., 2003, Ic arus, 163, 256

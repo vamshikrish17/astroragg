@@ -1,0 +1,406 @@
+Spirit
+The Mars Exploration Rover-2 (MER-2) during testing for mobility and maneuverability
+Mission
+type
+Mars rover
+Operator NASA
+COSPAR
+ID
+2003-027A (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2003-027A)
+SATCAT
+no.
+27827
+Website Mars Exploration Rover (https://mars.nasa.gov/mer/)
+Mission
+duration
+Planned: 90 sols (~92 days)
+Actual: 2,208 sols (2,269 days),
+landing to final contact
+Mobile: 1,892 sols (1,944 days),
+landing to final embedding
+Total: 2,623 sols (2,695 days),
+landing to mission end
+Spacecraft properties
+Dry mass 185 kilograms (408 lb)
+Power Solar panels: 140 W
+Start of mission
+Launch
+date
+June 10, 2003, 17:58:47 UTC[1]
+Rocket Delta II 7925-9.5[2][3]
+Spirit (rover)
+Launch
+site
+Cape Canaveral SLC-17A
+Contractor Boeing
+End of mission
+Declared May 25, 2011[4]
+Last
+contact
+March 22, 2010
+Mars rover
+Landing
+date
+January 4, 2004,
+04:35 UTC SCET
+MSD 46216 03:35 AMT
+Landing
+site
+Gusev Crater
+14.5684°S 175.472636°E[5]
+Distance
+driven
+7.73 km (4.8 mi)
+Spirit mission patch, featuring Marvin the Martian
+Mars Exploration Program
+NASA Mars rovers
+Spirit, also known as MER-A (Mars Exploration Rover – A) or MER-2, is a Mars robotic rover,
+active from 2004 to 2010.[4] Spirit was operational on Mars for 2208 sols or 3.3 Martian years (2269
+days; 6 years, 77 days). It was one of two rovers of NASA's Mars Exploration Rover Mission managed by
+the Jet Propulsion Laboratory (JPL). Spirit landed successfully within the impact crater Gusev on
+Mars at 04:35 Ground UTC on January 4, 2004, three weeks before its twin, Opportunity (MER-B),
+which landed on the other side of the planet. Its name was chosen through a NASA-sponsored student
+essay competition. The rover got stuck in a "sand trap" in late 2009 at an angle that hampered
+recharging of its batteries; its last communication with Earth was on March 22, 2010.
+The rover completed its planned 90-sol mission (slightly less than 92.5 Earth days). Aided by cleaning
+events that resulted in more energy from its solar panels, Spirit went on to function effectively over
+twenty times longer than NASA planners expected. Spirit also logged 7.73 km (4.8 mi) of driving
+instead of the planned 600 m (0.4 mi),[6] allowing more extensive geological analysis of Martian rocks
+and planetary surface features. Initial scientific results from the first phase of the mission (the 90-sol
+prime mission) were published in a special issue of the journal Science.[7]
+Delta II lifting off with MER-A on June 10,
+2003
+On May 1, 2009 (5 years, 3 months, 27 Earth days after landing; 21 times the planned mission
+duration), Spirit became stuck in soft sand.[8] This was not the first of the mission's "embedding
+events" and for the following eight months NASA carefully analyzed the situation, running Earth-
+based theoretical and practical simulations, and finally programming the rover to make extrication
+drives in an attempt to free itself. These efforts continued until January 26, 2010, when NASA officials
+announced that the rover was likely irrecoverably obstructed by its location in soft sand,[9] though it
+continued to perform scientific research from its current location.[10]
+The rover continued in a stationary science platform role until communication with Spirit stopped on
+March 22, 2010 (sol 2208).[11][12] JPL continued to attempt to regain contact until May 24, 2011,
+when NASA announced that efforts to communicate with the unresponsive rover had ended, calling
+the mission complete.[13][14][15][16] A formal farewell took place at NASA headquarters shortly
+thereafter.
+The scientific objectives of the Mars Exploration Rover
+mission were to:[17]
+Search for and characterize a variety of rocks and soils
+that hold clues to past water activity. In particular, samples
+sought include those that have minerals deposited by
+water-related processes such as precipitation,
+evaporation, sedimentary cementation, or hydrothermal
+activity.
+Determine the distribution and composition of minerals,
+rocks, and soils surrounding the landing sites.
+Determine what geologic processes have shaped the local
+terrain and influenced the chemistry. Such processes
+could include water or wind erosion, sedimentation,
+hydrothermal mechanisms, volcanism, and cratering.
+Perform calibration and validation of surface observations
+made by Mars Reconnaissance Orbiter (MRO)
+instruments. This will help determine the accuracy and
+effectiveness of various instruments that survey Martian
+geology from orbit.
+Search for iron-containing minerals, and to identify and
+quantify relative amounts of specific mineral types that
+contain water or were formed in water, such as iron-
+bearing carbonates.
+Characterize the mineralogy and textures of rocks and soils to determine the processes that
+created them.
+Search for geological clues to the environmental conditions that existed when liquid water was
+present.
+Assess whether those environments were conducive to life.
+Objectives
+Annotated Columbia Hills panorama from
+the Spirit landing site
+An overall view of MER-A Spirit landing
+site (denoted with a star)
+Animation of Spirit orbit.
+   Sun ·    Earth ·    Mars ·
+   Spirit
+Opportunity and
+Spirit rovers were part
+of the Mars
+Exploration Rover
+program in the long-
+term Mars
+Exploration Program.
+The Mars Exploration
+Program's four
+principal goals were to
+determine if the
+potential for life exists on Mars (in particular, whether
+recoverable water may be found on Mars), to characterize the
+Mars climate and its geology, and then to prepare for a
+potential human mission to Mars. The Mars Exploration
+Rovers were to travel across the Martian surface and perform
+periodic geologic analyses to determine if water ever existed on Mars as well as the types of minerals
+available, as well as to corroborate data taken by the Mars Reconnaissance Orbiter (MRO).[18] Both
+rovers were designed with an expected 90 sols (92 Earth days) lifetime, but each lasted much longer
+than expected. Spirit's mission lasted 20 times longer than its expected lifetime, and its mission was
+declared ended on May 25, 2011, after it got stuck in soft sand and expended its power reserves trying
+to free itself. Opportunity lasted 55 times longer than its 90 sol planned lifetime, operating for 5498
+days from landing to mission end. An archive of weekly updates on the rover's status can be found at
+the Opportunity Update Archive.[19]
+The MER-A (Spirit) and MER-B (Opportunity) were launched
+on June 10, 2003 and July 7, 2003, respectively. Though both
+probes launched on Boeing Delta II 7925-9.5 rockets from
+Cape Canaveral Space Launch Complex 17 (CCAFS SLC-17),
+MER-B was on the heavy version of that launch vehicle,
+needing the extra energy for Trans-Mars injection. The launch
+vehicles were integrated onto pads right next to each other,
+with MER-A on CCAFS SLC-17A and MER-B on CCAFS SLC-
+17B. The dual pads allowed for working the 15- and 21-day
+planetary launch periods close together; the last possible
+launch day for MER-A was June 19, 2003 and the first day for
+MER-B was June 25, 2003. NASA's Launch Services Program
+managed the launch of both spacecraft.
+Mission timeline
+Launch and landing
+First color image compiled from images
+by Spirit; it was the highest resolution
+color image taken on another planet.
+Spirit successfully landed on the surface of Mars on 04:35 Spacecraft Event Time (SCET) on January
+4, 2004. This was the start of its 90-sol mission, but solar cell cleaning events would mean it was the
+start of a much longer mission, lasting until 2010. Spirit was targeted to a site that appears to have
+been affected by liquid water in the past, the crater Gusev, a possible former lake in a giant impact
+crater about 10 km (6.2 mi) from the center of the target ellipse[20] at .[21] After
+the airbag-protected landing craft settled onto the surface, the rover rolled out to take panoramic
+images. These give scientists the information they need to select promising geological targets and
+drive to those locations to perform on-site scientific investigations.[22] The MER team named the
+landing site "Columbia Memorial Station," in honor of the seven astronauts killed in the Space Shuttle
+Columbia disaster.
+On May 1, 2009 (sol 1892), the rover became stuck in soft
+sand, the machine resting upon a cache of iron(III) sulfate
+(jarosite) hidden under a veneer of normal-looking soil. Iron
+sulfate has very little cohesion, making it difficult for the
+rover's wheels to gain traction.[23][24]
+On January 26, 2010 (sol 2155), after several months
+attempting to free the rover, NASA abandoned this attempt
+and instead changed the mission to use the mobile robot as a
+stationary research platform. Efforts were directed towards
+orienting it toward the Sun to recharge its batteries, to keep
+systems operational during the winter.[25] On March 30,
+2010, Spirit skipped a planned communication session and as
+anticipated from recent power-supply projections, had
+probably entered a low-power hibernation mode.[26]
+The last communication with the rover was March 22, 2010
+(sol 2208)[27] and there is a strong possibility the rover's
+batteries lost so much energy that the mission clock stopped. In previous winters the rover was able to
+park on a Sun-facing slope and keep its internal temperature above −40 °C (−40 °F), but since the
+rover was stuck on flat ground it is estimated that its internal temperature dropped to −55 °C
+(−67 °F). If Spirit had survived these conditions and there had been a cleaning event, there was a
+possibility that with the southern summer solstice in March 2011, solar energy would increase to a
+level that would wake up the rover.[28] Spirit remains silent at its location, called "Troy," on the west
+side of Home Plate.[29]
+It is likely that Spirit experienced a low-power fault and had turned off all sub-systems, including
+communication, and gone into a deep sleep, trying to recharge its batteries. It is also possible that the
+rover had experienced a mission clock fault. If that had happened, the rover would have lost track of
+time and tried to remain asleep until enough sunlight struck the solar arrays to wake it. This state is
+called "Solar Groovy." If the rover woke up from a mission clock fault, it would only listen. Starting on
+July 26, 2010 (sol 2331), a new procedure to address the possible mission clock fault was
+implemented but was unsuccessful.
+14.5718°S 175.4785°E
+Annotated rover diagram
+JPL continued attempts to regain contact with Spirit until May 25, 2011, when NASA announced the
+end of contact efforts and the completion of the mission.[13][15][30] According to NASA, the rover likely
+experienced excessively cold "internal temperatures" due to "inadequate energy to run its survival
+heaters" that, in turn, was a result of "a stressful Martian winter without much sunlight." Many critical
+components and connections would have been "susceptible to damage from the cold."[15] Assets that
+had been needed to support Spirit were transitioned to support Spirit's then still-active twin,
+Opportunity.[13]
+The primary surface mission for Spirit was planned to last at least 90 sols. The mission received
+several extensions and lasted about 2,208 sols. On August 11, 2007, Spirit obtained the second longest
+operational duration on the surface of Mars for a lander or rover at 1282 Sols, one sol longer than the
+Viking 2 lander. Viking 2 was powered by a nuclear cell whereas Spirit is powered by solar arrays.
+Until Opportunity overtook it on May 19, 2010, the Mars probe with longest operational period was
+Viking 1 that lasted for 2245 Sols on the surface of Mars. On March 22, 2010, Spirit sent its last
+communication, thus falling just over a month short of surpassing Viking 1's operational record. An
+archive of weekly updates on the rover's status can be found at the Spirit Update Archive.[31]
+Spirit's total odometry is 7,730.50 meters (4.80 mi).[32]
+Spirit (and its twin, Opportunity) are six-wheeled, solar-
+powered robots standing 1.5 meters (4.9 ft) high, 2.3 meters
+(7.5 ft) wide and 1.6 meters (5.2 ft) long and weighing 180
+kilograms (400 lb). Six wheels on a rocker-bogie system
+enabled mobility over rough terrain. Each wheel had its own
+motor. The vehicle was steered at front and rear and was
+designed to operate safely at tilts of up to 30 degrees. The
+maximum speed was 5 centimeters per second (2.0 in/s);[33]
+0.18 kilometers per hour (0.11 mph), although the average
+speed was about 1 centimeter per second (0.39 in/s). Both
+Spirit and Opportunity have pieces of the fallen World Trade
+Center's metal on them that were "turned into shields to
+protect cables on the drilling mechanisms".[34][35]
+Solar arrays generated about 140 watts for up to fourteen hours per sol, while rechargeable lithium
+ion batteries stored energy for use at night. Spirit's onboard computer uses a 20 MHz RAD6000 CPU
+with 128 MB of DRAM and 3 MB of EEPROM.[36] The rover's operating temperature ranges from −40
+to +40 °C (−40 to 104 °F) and radioisotope heaters provide a base level of heating, assisted by
+electrical heaters when necessary.[37]
+Communications depended on an omnidirectional low-gain antenna communicating at a low data rate
+and a steerable high-gain antenna, both in direct contact with Earth. A low-gain antenna was also
+used to relay data to spacecraft orbiting Mars.[38]
+End of mission
+Design and construction
+Pancam Mast Assembly (PMA)
+The science instruments included:[39]
+Panoramic Camera (Pancam) – examined the texture, color,
+mineralogy, and structure of the local terrain.
+Navigation Camera (Navcam) – monochrome with a higher field of
+view but lower resolution, for navigation and driving.
+Miniature Thermal Emission Spectrometer (Mini-TES) – identified
+promising rocks and soils for closer examination, and determined
+the processes that formed them.
+Hazcams, two B&W cameras with 120 degree field of view, that
+provided additional data about the rover's surroundings.
+The rover arm held the following instruments:[40]
+Mössbauer spectrometer (MB) MIMOS II – used for close-up
+investigations of the mineralogy of iron-bearing rocks and soils.
+Alpha particle X-ray spectrometer (APXS) – close-up analysis of
+the abundances of elements that make up rocks and soils.
+Magnets – for collecting magnetic dust particles.
+Microscopic Imager (MI) – obtained close-up, high-resolution images of rocks and soils.
+Rock Abrasion Tool (RAT) – exposed fresh material for examination by instruments on board.
+Spirit was 'driven' by several operators throughout its mission.[41]
+The rover uses a combination of solar cells and a rechargeable chemical battery.[42] This class of rover
+has two rechargeable lithium batteries, each composed of 8 cells with 8 amp-hour capacity.[43] At the
+start of the mission the solar panels could provide up to around 900 watt-hours (Wh) per day to
+recharge the battery and power system in one Sol, but this could vary due to a variety of factors.[42] In
+Eagle crater the cells were producing about 840 Wh per day, but by Sol 319 in December 2004, it had
+dropped to 730 Wh per day.[44]
+Like Earth, Mars has seasonal variations that reduce sunlight during winter. However, since the
+Martian year is longer than that of the Earth, the seasons fully rotate roughly once every 2 Earth
+years.[45] By 2016, MER-B had endured seven Martian winters, during which times power levels drop
+which can mean the rover avoids doing activities that use a lot of power.[45] During its first winter
+power levels dropped to under 300 Wh per day for two months, but some later winters were not as
+bad.[45]
+Another factor that can reduce received power is dust in the atmosphere, especially dust storms.[46]
+Dust storms have occurred quite frequently when Mars is closest to the Sun.[46] Global dust storms in
+2007 reduced power levels for Opportunity and Spirit so much they could only run for a few minutes
+each day.[46] Due to the 2018 dust storms on Mars, Opportunity entered hibernation mode on June
+12,[47][48] but it remained silent after the storm subsided in early October.[49]
+Science payload
+Power
+ 
+The rocks on the plains of Gusev are a type of basalt. They contain the minerals olivine, pyroxene,
+plagioclase and magnetite. They look like volcanic basalt, as they are fine-grained with irregular holes
+(geologists would say they have vesicles and vugs).[50][51]
+Annotated panorama of rocks near Spirit (April, 2006)
+Much of the soil on the plains came from the breakdown of the local rocks. Fairly high levels of nickel
+were found in some soils; probably from meteorites.[52]
+Analysis shows that the rocks have been slightly altered by tiny amounts of water. Outside coatings
+and cracks inside the rocks suggest water deposited minerals, maybe bromine compounds. All the
+rocks contain a fine coating of dust and one or more harder rinds of material. One type can be brushed
+off, while another needed to be ground off by the Rock Abrasion Tool (RAT).[53]
+The dust in Gusev Crater is the same as dust all around the planet. All the dust was found to be
+magnetic. Moreover, Spirit found the magnetism was caused by the mineral magnetite, especially
+magnetite that contained the element titanium. One magnet was able to completely divert all dust,
+hence all Martian dust is thought to be magnetic.[54] The spectra of the dust was similar to spectra of
+bright, low thermal inertia regions like Tharsis and Arabia that have been detected by orbiting
+satellites. A thin layer of dust, maybe less than one millimeter thick, covers all surfaces. Something in
+it contains a small amount of chemically bound water.[55][56]
+Spirit pointed its cameras towards the sky and observed a transit of the Sun by Mars's moon Deimos
+(see Transit of Deimos from Mars). It also took the first photo of Earth from the surface of another
+planet in early March 2004.
+Discoveries
+Astronomy
+Earth from Mars
+ Night sky of Mars showing
+Deimos (left) and Phobos
+(right) in front of Sagittarius, as
+seen by Mars Exploration
+Rover Spirit on August 26,
+2005. For full animation, see
+Image:Phobos & Deimos
+full.gif.
+In late 2005, Spirit took advantage of
+a favorable energy situation to make
+multiple nighttime observations of
+both of Mars's moons Phobos and
+Deimos.[57] These observations
+included a "lunar" (or rather phobian)
+eclipse as Spirit watched Phobos
+disappear into Mars's shadow. Some
+of Spirit's star gazing was designed to
+look for a predicted meteor shower
+caused by Halley's Comet, and
+although at least four imaged streaks
+were suspect meteors, they could not
+be unambiguously differentiated from
+those caused by cosmic rays.[57]
+A transit of Mercury from Mars took
+place on January 12, 2005, from about
+14:45 UTC to 23:05 UTC. Theoretically, this could have been observed by both Spirit and
+Opportunity; however, camera resolution did not permit seeing Mercury's 6.1" angular diameter.
+They were able to observe transits of Deimos across the Sun, but at 2' angular diameter, Deimos is
+about 20 times larger than Mercury's 6.1" angular diameter. Ephemeris data generated by JPL
+Horizons indicates that Opportunity would have been able to observe the transit from the start until
+local sunset at about 19:23 UTC Earth time, while Spirit would have been able to observe it from local
+sunrise at about 19:38 UTC until the end of the transit.[58]
+Both rovers passed their original mission time of 90 sols many times over. The extended time on the
+surface, and therefore additional stress on components, resulted in some issues developing.[29]
+On March 13, 2006 (sol 778), the right front wheel ceased working[59] after having covered 7 km
+(4.2 mi) on Mars. Engineers began driving the rover backwards, dragging the dead wheel. Although
+this resulted in changes to driving techniques, the dragging effect became a useful tool, partially
+clearing away soil on the surface as the rover traveled, thus allowing areas to be imaged that would
+normally be inaccessible. However, in mid-December 2009, to the surprise of the engineers, the right
+front wheel showed slight movement in a wheel-test on sol 2113 and clearly rotated with normal
+resistance on three of four wheel-tests on sol 2117, but stalled on the fourth. On November 29, 2009
+(sol 2098), the right rear wheel also stalled and remained inoperable for the remainder of the mission.
+Scientific instruments also experienced degradation as a result of exposure to the harsh Martian
+environment and use over a far longer period than had been anticipated by the mission planners. Over
+time, the diamond in the resin grinding surface of the Rock Abrasion Tool wore down, after that the
+device could only be used to brush targets.[60] All of the other science instruments and engineering
+Equipment wear and failures
+ 
+ 
+cameras continued to function until contact was lost; however, towards the end of Spirit's life, the
+MIMOS II Mössbauer spectrometer took much longer to produce results than it did earlier in the
+mission because of the decay of its cobalt-57 gamma ray source that has a half life of 271 days.
+To commemorate Spirit's great contribution to the exploration of Mars, the asteroid 37452 Spirit has
+been named after it.[61] The name was proposed by Ingrid van Houten-Groeneveld who along with
+Cornelis Johannes van Houten and Tom Gehrels discovered the asteroid on September 24, 1960.
+To honor the rover, the JPL team named an area near Endeavour Crater explored by the Opportunity
+rover, 'Spirit Point'.[62]
+The 2022 documentary film, Good Night Oppy, about Opportunity, Spirit, and their long missions,
+was directed by Ryan White, and included support from JPL and Industrial Light & Magic.[63]
+The rover could take pictures with its different cameras, but only the PanCam camera had the ability
+to photograph a scene with different color filters. The panorama views were usually built up from
+PanCam images. Spirit transferred 128,224 pictures in its lifetime.[64]
+Missoula Crater (Sol 105, April 19, 2004)
+Color panorama taken from "Larry's Lookout". On the far left is "Tennessee Valley" and on the right, rover tracks.
+Legacy and honors
+Gallery
+ 
+Spaceflight portal
+Annotated Apollo Hills panorama from the Spirit landing site
+Aeolis quadrangle
+Composition of Mars
+Curiosity rover
+ExoMars
+Exploration of Mars
+InSight
+Life on Mars
+List of surface features of Mars visited by Spirit and Opportunity
+Mars 2020 rover mission
+Opportunity rover
+Perseverance rover
+Scientific information from the Mars Exploration Rover mission
+Viking program
+List of software bugs related to space exploration
+Comparison of embedded computer systems on board the Mars rovers
+Zhurong (rover)
+1. "Spirit" (https://solarsystem.nasa.gov/missions/spirit/in-depth/). NASA's Solar System Exploration
+website. December 5, 2017. Retrieved December 2, 2022.
+2. "Launch Event Details – When did the Rovers Launch?" (https://web.archive.org/web/2009021800
+3623/http://marsprogram.jpl.nasa.gov/mer/mission/launch_e.html). Archived from the original (http
+s://marsprogram.jpl.nasa.gov/mer/mission/launch_e.html) on February 18, 2009. Retrieved
+April 25, 2009.
+3. "Mars Exploration Rover project, NASA/JPL document NSS ISDC 2001 27/05/2001" (https://web.a
+rchive.org/web/20100527044955/http://trs-new.jpl.nasa.gov/dspace/bitstream/2014/12837/1/01-11
+64.pdf) (PDF). p. 5. Archived from the original (https://trs-new.jpl.nasa.gov/dspace/bitstream/2014/
+12837/1/01-1164.pdf) (PDF) on May 27, 2010. Retrieved April 28, 2009.
+4. Nelson, Jon. "Mars Exploration Rover – Spirit" (https://web.archive.org/web/20180128115920/http
+s://www.jpl.nasa.gov/missions/details.php?id=5917). NASA. Archived from the original (https://ww
+w.jpl.nasa.gov/missions/details.php?id=5917) on January 28, 2018. Retrieved February 2, 2014.
+See also
+References

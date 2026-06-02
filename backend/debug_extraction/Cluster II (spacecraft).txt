@@ -1,0 +1,840 @@
+Cluster II
+Artist's impression of the Cluster constellation.
+Mission type Magnetospheric research
+Operator ESA with NASA collaboration
+COSPAR ID FM6 (SALSA): 2000-041B
+FM7 (SAMBA): 2000-041A
+FM5 (RUMBA): 2000-045A
+FM8 (TANGO): 2000-045B
+SATCAT no. FM6 (SALSA): 26411
+FM7 (SAMBA): 26410
+FM5 (RUMBA): 26463
+FM8 (TANGO): 26464
+Website http://sci.esa.int/cluster
+Mission duration Planned: 5 years
+Final: 24 years, 1 month and
+6 days
+Spacecraft properties
+Manufacturer Airbus (ex. Dornier)[1]
+Launch mass 1,200 kg (2,600 lb)[1]
+Dry mass 550 kg (1,210 lb)[1]
+Payload mass 71 kg (157 lb)[1]
+Dimensions 2.9 m × 1.3 m (9.5 ft × 4.3 ft)[1]
+Cluster II (spacecraft)
+Cluster II[2] was a space mission of the
+European Space Agency, with NASA
+participation, to study the Earth's magnetosphere
+over the course of nearly two solar cycles. The
+mission was composed of four identical spacecraft
+flying in a tetrahedral formation. As a
+replacement for the original Cluster spacecraft
+which were lost in a launch failure in 1996, the
+four Cluster II spacecraft were successfully
+launched in pairs in July and August 2000
+onboard two Soyuz-Fregat rockets from Baikonur,
+Kazakhstan. In February 2011, Cluster II
+celebrated 10 years of successful scientific
+operations in space. In February 2021, Cluster II
+celebrated 20 years of successful scientific
+operations in space. As of March 2023, its mission
+was extended until September 2024.[3] The China
+National Space Administration/ESA Double Star
+mission operated alongside Cluster II from 2004
+to 2007.
+The first of the four Cluster II satellites to re-enter
+the atmosphere did so on 8 September 2024 and
+the second one on 22 October 2025. The
+remaining two are expected to follow in summer
+2026.[4] The scientific payload operations of all
+satellites ended as the first satellite re-entered the
+atmosphere (other flight operations are still being
+performed with the remaining flying satellites
+until the satellites have all re-entered).[5]
+The four identical Cluster II satellites studied the
+impact of the Sun's activity on the Earth's space
+environment by flying in formation around Earth.
+For the first time in space history, this mission
+was able to collect three-dimensional information
+Mission overview
+Power 224 watts[1]
+Start of mission
+Launch date FM6: 16 July 2000, 12:39 UTC
+FM7: 16 July 2000, 12:39 UTC
+FM5: 09 August 2000, 11:13 UTC
+FM8: 09 August 2000, 11:13 UTC
+Rocket Soyuz-U/Fregat
+Launch site Baikonur 31/6
+Contractor Starsem
+End of mission
+Last contact 22 August 2024
+Decay date SALSA: 8 September 2024
+RUMBA:22 October 2025
+Orbital parameters
+Reference systemGeocentric
+Regime Elliptical Orbit
+Perigee altitude FM6: 16,118 km (10,015 mi)
+FM7: 16,157 km (10,039 mi)
+FM5: 16,022 km (9,956 mi)
+FM8: 12,902 km (8,017 mi)
+Apogee altitude FM6: 116,740 km (72,540 mi)
+FM7: 116,654 km (72,485 mi)
+FM5: 116,786 km (72,567 mi)
+FM8: 119,952 km (74,535 mi)
+Inclination FM6: 135 degrees
+FM7: 135 degrees
+FM5: 138 degrees
+FM8: 134 degrees
+Period FM6: 3259 minutes
+FM7: 3257 minutes
+FM5: 3257 minutes
+FM8: 3258 minutes
+Epoch 13 March 2014, 11:15:07 UTC
+Contemporary ESA insignia (2000s)
+on how the solar wind interacts with the
+magnetosphere and affects near-Earth space and
+its atmosphere, including aurorae.
+The spacecraft were cylindrical (2.9 x 1.3 m, see
+online 3D model (http://clusterlaunch.esa.int/sci
+ence-e/www/object/index.cfm?fobjectid=31381))
+and were spinning at 15 rotations per minute.
+After launch, their solar cells provided 224 watts
+power for instruments and communications.
+Solar array power gradually declined as the
+mission progressed, due to damage by energetic
+charged particles, but this was planned for and
+the power level remains sufficient for science
+operations. The four spacecraft maneuvered into
+various tetrahedral formations to study the
+magnetospheric structure and boundaries. The
+inter-spacecraft distances could be altered and
+varied from around 4 to 10,000 km. The
+propellant for the transfer to the operational
+orbit, and the maneuvers to vary inter-spacecraft
+separation distances made up approximately half
+of the spacecraft's launch weight.
+The highly elliptical orbits of the spacecraft
+initially reached a perigee of around 4 RE (Earth
+radii, where 1 RE = 6371 km) and an apogee of
+19.6 RE. Each orbit took approximately 57 hours
+to complete. The orbit evolved over time; the line
+of apsides rotated southwards so that the distance
+at which the orbit crossed the magnetotail current
+sheet progressively reduced, and a wide range of
+dayside magnetopause crossing latitudes were
+sampled. Gravitational effects imposed a long
+term cycle of change in the perigee (and apogee)
+distance, which saw the perigees reduce to a few
+100 km in 2011 before beginning to rise again.
+The orbit plane rotated away from 90 degrees
+inclination. Orbit modifications by ESOC altered
+the orbital period to 54 hours. All these changes
+allowed Cluster to visit a much wider set of
+important magnetospheric regions than was
+possible for the initial 2-year mission, improving
+the scientific breadth of the mission.
+Horizon 2000 (Science Programme)The European Space Operations Centre (ESOC)
+acquired telemetry and distributed to the online
+data centers the science data from the spacecraft. The Joint Science Operations Centre (JSOC) at
+Rutherford Appleton Laboratory in the UK coordinated scientific planning and in collaboration with
+the instrument teams provided merged instrument commanding requests to ESOC.
+The Cluster Science Archive (https://csa.esac.esa.int/) is the ESA long term archive of the Cluster and
+Double Star science missions. Since 1 November 2014, it is the sole public access point to the Cluster
+mission scientific data and supporting datasets. The Double Star data are publicly available via this
+archive. The Cluster Science Archive is located alongside all the other ESA science archives at the
+European Space Astronomy Center, located near Madrid, Spain.
+The Cluster mission was proposed to ESA in 1982 and approved in 1986, along with the Solar and
+Heliospheric Observatory (SOHO), and together these two missions constituted the Solar Terrestrial
+Physics "cornerstone" of ESA's Horizon 2000 missions programme. Though the original Cluster
+spacecraft were completed in 1995, the explosion of the Ariane 5 rocket carrying the satellites in 1996
+delayed the mission by four years while new instruments and spacecraft were built.
+On July 16, 2000, a Soyuz-Fregat rocket from the Baikonur Cosmodrome launched two of the
+replacement Cluster II spacecraft, (Salsa and Samba) into a parking orbit from where they
+maneuvered under their own power into a 19,000 by 119,000 kilometre orbit with a period of 57
+hours. Three weeks later on August 9, 2000, another Soyuz-Fregat rocket lifted the remaining two
+spacecraft (Rumba and Tango) into similar orbits. Spacecraft 1, Rumba, was also known as the
+Phoenix spacecraft, since it is largely built from spare parts left over after the failure of the original
+mission. After commissioning of the payload, the first scientific measurements were made on
+February 1, 2001.
+The European Space Agency ran a competition to name the satellites across all of the ESA member
+states.[6] Ray Cotton, from the United Kingdom, won the competition with the names Rumba, Tango,
+Salsa and Samba.[7] Ray's town of residence, Bristol, was awarded with scale models of the satellites in
+recognition of the winning entry,[8][9] as well as the city's connection with the satellites. However,
+after many years of being stored away, they were finally given a home at the Rutherford Appleton
+Laboratory.
+Originally planned to last until the end of 2003, the mission was extended several times. The first
+extension took the mission from 2004 until 2005, and the second from 2005 to June 2009. The
+mission was ultimately extended until September 2024, when the scientific payload operations on the
+satellites ended.[3] The ultimate end of the Cluster project (especially the Cluster II satellites) will
+happen in 2026 as the last satellite enters the atmosphere and is destroyed.[5] In late January 2026,
+ESA commanded the remaining two Cluster II satellites, SAMBA and TANGO, to adjust their orbits so
+their planned reentry on 31 August and 1 September 2026 can be observed by an airplane.[10]
+History
+Previous single and two-spacecraft missions were not capable of providing the data required to
+accurately study the boundaries of the magnetosphere. Because the plasma comprising the
+magnetosphere cannot be viewed using remote sensing techniques, satellites must be used to measure
+it in-situ. Four spacecraft allowed scientists make the 3D, time-resolved measurements needed to
+create a realistic picture of the complex plasma interactions occurring between regions of the
+magnetosphere and between the magnetosphere and the solar wind.
+Each satellite carried a scientific payload of 11 instruments designed to study the small-scale plasma
+structures in space and time in the key plasma regions: solar wind, bow shock, magnetopause, polar
+cusps, magnetotail, plasmapause boundary layer and over the polar caps and the auroral zones.
+The bow shock is the region in space between the Earth and the Sun where the solar wind
+decelerates from super- to sub-sonic before being deflected around the Earth. In traversing this
+region, the spacecraft made measurements which helped characterize processes occurring at the
+bow shock, such as the origin of hot flow anomalies and the transmission of electromagnetic
+waves through the bow shock and the magnetosheath from the solar wind.
+Behind the bow shock is the thin plasma layer separating the Earth and solar wind magnetic fields
+known as the magnetopause. This boundary moves continuously due to the constant variation in
+solar wind pressure. Since the plasma and magnetic pressures within the solar wind and the
+magnetosphere, respectively, should be in equilibrium, the magnetosphere should be an
+impenetrable boundary. However, plasma has been observed crossing the magnetopause into the
+magnetosphere from the solar wind. Cluster's four-point measurements made it possible to track
+the motion of the magnetopause as well as elucidate the mechanism for plasma penetration from
+the solar wind.
+In two regions, one in the northern hemisphere and the other in the southern, the magnetic field of
+the Earth is perpendicular rather than tangential to the magnetopause. These polar cusps allow
+solar wind particles, consisting of ions and electrons, to flow into the magnetosphere. Cluster
+recorded the particle distributions, which allowed the turbulent regions at the exterior cusps to be
+characterized.
+The regions of the Earth's magnetic field that are stretched by the solar wind away from the Sun
+are known collectively as the magnetotail. Two lobes that reach past the Moon in length form the
+outer magnetotail while the central plasma sheet forms the inner magnetotail, which is highly
+active. Cluster monitored particles from the ionosphere and the solar wind as they passed through
+the magnetotail lobes. In the central plasma sheet, Cluster determined the origins of ion beams
+and disruptions to the magnetic field-aligned currents caused by substorms.
+The precipitation of charged particles in the atmosphere creates a ring of light emission around
+the magnetic pole known as the auroral zone. Cluster measured the time variations of transient
+particle flows and electric and magnetic fields in the region.
+Scientific objectives
+Number Acronym Instrument Measurement Purpose
+1 ASPOC
+Active Spacecraft
+Potential Control
+experiment
+Regulation of spacecraft's
+electrostatic potential
+Enabled the measurement by
+PEACE of cold electrons (a few
+eV temperature), otherwise
+hidden by spacecraft
+photoelectrons
+2 CIS
+Cluster Ion
+Spectroscopy
+experiment
+Ion times-of-flight (TOFs) and
+energies from 0 to 40 keV
+Composition and 3D
+distribution of ions in plasma
+3 DWP
+Digital Wave
+Processing
+instrument
+Coordinates the operations of the
+EFW, STAFF, WBD and WHISPER
+instruments
+At the lowest level, DWP
+provided electrical signals to
+synchronise instrument
+sampling. At the highest level,
+DWP enabled more complex
+operational modes by means of
+macros
+4 EDI Electron Drift
+Instrument
+Electric field E magnitude and
+direction
+E vector, gradients in local
+magnetic field B
+5 EFW Electric Field and
+Wave experiment
+Electric field E magnitude and
+direction
+E vector, spacecraft potential,
+electron density and
+temperature
+6 FGM Fluxgate
+Magnetometer
+Magnetic field B magnitude and
+direction
+B vector and event trigger to all
+instruments except ASPOC
+7 PEACE
+Plasma Electron
+and Current
+Experiment
+Electron energies from 0.0007 to 30
+keV
+3D distribution of electrons in
+plasma
+8 RAPID
+Research with
+Adaptive Particle
+Imaging Detectors
+Electron energies from 39 to 406
+keV, ion energies from 20 to 450
+keV
+3D distributions of high-energy
+electrons and ions in plasma
+9 STAFF
+Spatio-Temporal
+Analysis of Field
+Fluctuation
+experiment
+Magnetic field B magnitude and
+direction of EM fluctuations, cross-
+correlation of E and B
+Properties of small-scale
+current structures, source of
+plasma waves and turbulence
+10 WBD Wide Band Data
+receiver
+High time resolution measurements
+of both electric and magnetic fields
+in selected frequency bands from
+25 Hz to 577 kHz. It provided a
+unique new capability to perform
+Very-long-baseline interferometry
+(VLBI) measurements
+Properties of natural plasma
+waves (e.g. auroral kilometric
+radiation) in the Earth
+magnetosphere and its vicinity
+including: source location and
+size and propagation
+11 WHISPER
+Waves of High
+Frequency and
+Sounder for Probing
+of Density by
+Relaxation
+Electric field E spectrograms of
+terrestrial plasma waves and radio
+emissions in the 2–80 kHz range;
+triggering of plasma resonances by
+an active sounder
+Source location of waves by
+triangulation; electron density
+within the range 0.2–80 cm−3
+Instrumentation on each Cluster satellite
+In 2003 and 2004, the China National Space Administration launched the Double Star satellites, TC-1
+and TC-2, that worked together with Cluster to make coordinated measurements mostly within the
+magnetosphere. TC-1 stopped operating on 14 October 2007. The last data from TC-2 was received in
+2008. TC-2 made a contribution to magnetar science[11][12] as well as to magnetospheric physics. The
+TC-1 examined density holes near the Earth's bow shock that can play a role in bow shock
+formation[13][14] and looked at neutral sheet oscillations.[15]
+Cluster team awards:
+2024 British Interplanetary Society Sir Arthur Clarke Award to the UK Cluster Mission Team
+2019 Royal Astronomical Society Group Achievement Award[16]
+2015 ESA 15th anniversary award
+2013 ESA team award
+2010 International Academy of Astronautics Laurels for team achievements for Cluster and
+Double Star teams[17]
+2005 ESA Cluster 5th anniversary award
+2004 NASA group achievement award
+2000 Popular science best of what's new award
+2000 ESA Cluster launch award
+Individual awards:
+2023 Hermann Opgenoorth (Univ. of Umea, Sweden), former Cluster Ground Based Working
+Group lead, was awarded the 2023 EGU Julius Bartels Medal[18]
+2020 Daniel Graham (Swedish Institute of Space Physics, Uppsala, Sweden) was awarded the
+COSPAR Zeldovich medal[19]
+2019 Margaret Kivelson (UCLA, USA), Cluster FGM CoI, received RAS gold medal[20]
+2018 Hermann Opgenoorth (Univ. of Umea, Sweden), former Cluster Ground Based Working
+Group lead, was awarded the 2018 Baron Marcel Nicolet Space Weather and Space Climate
+medal[21]
+2016 Stephen Fuselier (SWRI, USA), Cluster CIS CoI, received EGU Hannes Alfvén Meda[22]
+2016 Mike Hapgood, Cluster mission scientific operations expert was awarded the Baron Marcel
+Nicolet Medal for Space Weather and Space Climate[23]
+2014 Rumi Nakamura (IWF, Austria), Cluster CIS/EDI/FGM CoI, received EGU Julius Bartels
+Medal[24]
+2013 Mike Hapgood (RAL, UK), Cluster JSOC project scientist received RAS service award[25]
+2013 Göran Marklund, EFW Co-I, received the EGU Hannes Alfvén Medal 2013.[26]
+2013 Steve Milan, Cluster Ground based representative of the Cluster mission received UK Royal
+Astronomical Society (RAS) Chapman medal[27]
+Double Star mission with China
+Awards
+2012 Andrew Fazakerley, Cluster and Double Star PI (PEACE), received the Royal Astronomical
+Society Chapman Medal[28]
+2012 Zuyin Pu (Pekin U., China), RAPID/CIS/FGM CoI, received AGU International Award[29]
+2012 Jolene Pickett (Iowa U., USA), a Cluster WBD PI, received the State of Iowa Board of
+Regents Staff Excellence[30]
+2012 Jonathan Eastwood (Imperial College, UK), FGM Co-I, received COSPAR Yakov B.
+Zeldovich medal[31]
+2008 Andre Balogh (Imperial College, UK), Cluster FGM PI, received RAS Chapman medal[32]
+2006 Steve Schwartz (QMW, UK), Cluster UK data system scientist and PEACE co-I, received
+RAS Chapman medal[28]
+January 6 – Proof of how the most violent particle acceleration are created in the universe. This
+proof was enabled by machine learning techniques applied to 20 years of measurements in the
+Earth’s magnetosphere by 4 space missions including Cluster and Double Star, THEMIS and the
+Magnetospheric Multiscale Mission. The physical phenomenon is called magnetic reconnection[33]
+November 1 – Cluster and THEMIS observe simultaneously Kelvin–Helmholtz instability on both
+flanks of the magnetopause[34]
+October 30 – Online release of the Seas of the Sun: The story of Cluster (documentary) (https://w
+ww.youtube.com/watch?v=Go_rve555TQ) on YouTube
+October 22 – Re-entry of RUMBA (Cluster 1) over the Pacific Ocean at 20:59 CEST[35]
+April 3 – Cluster observes plasma in the high-latitude magnetotail associated With cusp-aligned
+arcs[36]
+March 19 – Earth ring current observed in-situ by Cluster, THEMIS and MMS compared[37]
+February 22 – A new dataset to localize the Cluster satellites in the geospace environment[38]
+January 21 – Ion flow vortex may serve as novel electron accelerator in space[39]
+December 1 – 14 years of Cluster data to predict proton intensities around Earth[40]
+November 13 – Polar cap auroral arcs linked to lobe reconnection[41]
+September 8 – Re-entry of SALSA (Cluster 2) satellite, the first of the Cluster II satellites to re-
+enter the atmosphere[4]
+September 4 – Strong effects of chorus waves on radiation belts expected for future magnetic
+superstorms[42]
+August 30 – The pioneer Cluster mission: preparation of its legacy phase near re-entry[43]
+July 6 – Cluster data contributes to collisionless shocks database acquired at Earth, Venus and
+Mars[44]
+Discoveries and mission milestones
+2026
+2025
+2024
+May 24 – Cluster releases list of plasma jets found in the magnetosheath[45]
+April 5 – Unveiling the journey of a highly inclined CME[46]
+January 20 – Global-scale magnetosphere convection driven by dayside magnetic
+reconnection[47]
+April 28 – Magnetic reconnection at high and low latitudes during the passage of an ICME[48]
+March 24 – Properties of the Martian Magnetotail compared Cluster data in the Earth
+magnetotail[49]
+March 23 – Scaling laws for the energy transfer in space plasma turbulence[50]
+March 1 – Turbulent MHD cascade in the Jovian magnetosheath compared to Cluster
+measurements[51]
+January 26 – Evidence for lunar tide effects in Earth's plasmasphere[52]
+January 20 – Ion Outflow in Middle Altitude LLBL/Cusp from Different Origins[53]
+December 5 - Magnetosphere distortions during the "satellite killer" storm of February 3–4,
+2022[54]
+October 14 - New insights on the formation of transpolar auroral arc[55]
+September 20 - A highway for atmospheric ion escape from Earth during the impact of an
+interplanetary coronal mass ejection[56]
+August 3 - Joint Cluster/ground-based studies in the first 20 years of the Cluster mission[57]
+July 18 – In situ observation of a magnetopause indentation that is correspondent to throat aurora
+and is caused by magnetopause reconnection[58]
+June 16 - Kelvin-Helmholtz vortices as an interplay of Magnetosphere-Ionosphere coupling[59]
+June 2 - ESA highlight: Magnetic vortices explain mysterious auroral beads[60][61]
+May 16 - The influence of localized dynamics on dusk-dawn convection in the Earth's
+magnetotail[62]
+April 1 - Dawn-dusk ion flow asymmetry in the plasma sheet[63]
+February 1 - South Pole Station ground-based and Cluster satellite measurements of leaked and
+escaping Auroral Kilometric Radiation[64]
+January 1 - Massive multi-mission statistical study and analytical modeling of the Earth's
+magnetopause[65]
+December 15 - ESA highlight: Swarm and Cluster get to the bottom of geomagnetic storms[66][67]
+November 7 - Unique MMS and Cluster observations about magnetic reconnection extent at the
+magnetopause[68]
+November 2 - Spatial distribution of energetic protons in the magnetosphere based on 17 years of
+data[69]
+2023
+2022
+2021
+October 11 - Unique MMS and Cluster observation of disturbances in the near-Earth magnetotail
+before a magnetic substorm[70]
+September 7 - AGU EOS spotlight: Understanding Aurora Formation with ESA's Cluster
+Mission[71]
+May 2 - Cluster and MMS uncover anisotropic spatial correlation functions at kinetic range in the
+magnetosheath turbulence[72]
+April 9 - The Solar-cycle Variations of the Anisotropy of Taylor Scale and Correlation Scale in the
+Solar Wind Turbulence[73]
+February 18 - Heavy Metal and Rock in Space: Cluster RAPID Observations of Fe and Si[74]
+December 1 - Cluster, Helios and Ulysses reveal characteristics of solar wind supra thermal halo
+electrons[75]
+November 1 - Cluster, Swam and CHAMP join forces to explain hemispheric asymmetries in the
+Earth magnetotail[76]
+October 21 - Space plasma regimes classified with Cluster data[77]
+October 1 - Effects of Solar Activity on Taylor Scale and Correlation Scale in Solar Wind Magnetic
+Fluctuations[78]
+September 1 - Van Allen Probes and Cluster join forces to study Outer Radiation Belt Electrons[79]
+August 9 - Cluster's 20 years of studying Earth's magnetosphere], celebrating 20 years after the
+launch of the second pair of Cluster spacecraft[80]
+July 31 - ESA science highlight: Auroral substorms triggered by short circuiting of plasma
+flows[81][82]
+July 16 - BBC skyatnight podcast with Dr. Mike Hapgood on 20 years of ESA's Cluster mission,[83]
+celebrating 20 years after the launch of the first pair of Cluster satellites
+April 20 - What drives some of the largest and most dynamic auroral forms?[84]
+March 19 - ESA science highlight: Iron is everywhere in Earth's vicinity, suggest two decades of
+Cluster data[85][86]
+February 27 - What makes Kelvin Helmholtz vortices grow at the Earth's magnetopause?[87]
+December 23 - Magnetized dust clouds penetrate the terrestrial bow shock[88]
+November 18 - Earth's magnetic song recorded for the first time during a solar storm[89][90]
+October 10 - What is the source of the energetic oxygen ions found in the high-altitude cusp
+region?[91]
+August 27 - Cluster and XMM pave the way for SMILE[92][93]
+August 20 - Asymmetric transport of the Earth's polar outflows by the interplanetary magnetic
+field[94]
+August 5 - Energetic electron acceleration found by Cluster in unconfined reconnection jets for the
+first time[95]
+May 1 - Kelvin ‐ Helmholtz waves magnetic curvature and vorticity: Four ‐ spacecraft Cluster
+2020
+2019
+observations[96]
+March 4 - ESA science highlight: Cluster helps solve mysteries of geomagnetic storms (http://sci.e
+sa.int/cluster/61172-cluster-helps-solve-mysteries-of-geomagnetic-storms/)[97]
+February 27 - ESA science highlight: Cluster reveals inner workings of Earth's cosmic particle
+accelerator (http://sci.esa.int/cluster/61162-cluster-reveals-inner-workings-of-earth-s-cosmic-particl
+e-accelerator/)[98]
+February 13 - Statistical survey of the terrestrial bow shock observed by the Cluster spacecraft (htt
+ps://doi.org/10.1029/2018JA026272)[99]
+January 14 - Super-efficient electron acceleration by an isolated magnetic reconnection (https://io
+pscience.iop.org/article/10.3847/2041-8213/aafa75)[100]
+November 28 – Complete picture of the O+ circulation (and escape) in the outer magnetosphere
+and its dependence on geomagnetic activity (https://doi.org/10.1029/2018GL079816#)[101]
+November 8 - ESA science highlight: Windy with a chance of magnetic storms – space weather
+science with Cluster (http://sci.esa.int/cluster/60912-windy-with-a-chance-of-magnetic-storms-spa
+ce-weather-science-with-cluster/)
+September 30 - O+ escape during the extreme space weather event of 4–10 September 2017 (htt
+ps://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018SW001881/)[102]
+August 8 - Statistical survey of day-side magnetospheric current flow using Cluster observations:
+bow shock (https://www.ann-geophys.net/36/1073/2018/angeo-36-1073-2018.pdf#)[103]
+June 20 – Detection of magnetic nulls around reconnection fronts (open access) (http://iopscienc
+e.iop.org/article/10.3847/1538-4357/aac496/pdf#)[104]
+May 21 – Tailward propagation of magnetic energy density variations with respect to substorm
+onset times (open access) (https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2017JA0251
+47#)[105]
+April 24 – Kelvin–Helmholtz Instability: lessons learned and ways forward (https://link.springer.co
+m/content/pdf/10.1007%2Fs11214-018-0505-6.pdf#)[106]
+March 29 – Three-dimensional density and compressible magnetic structure in solar wind
+turbulence (https://www.ann-geophys.net/36/527/2018/angeo-36-527-2018.pdf#)[107]
+February 8 – ESA spotlight on... Understanding Earth: what the Cluster mission has taught us so
+far (http://sci.esa.int/cluster/59954-understanding-earth-what-the-cluster-mission-has-taught-us-so
+-far/#)
+January 29 – ESA research highlight: Cluster measures turbulence in Earth's magnetic
+environment (http://sci.esa.int/cluster/59947-cluster-measures-turbulence-in-earth-s-magnetic-envi
+ronment/#)[108]
+January 22 – Science nugget of the 2013-2014 Cluster Inner Magnetosphere campaign (https://do
+i.org/10.1002/2017GL076303#)[109]
+December 11, 2017 – Empirical modeling of the quiet and storm time geosynchronous magnetic
+field (https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017SW001684#)[110]
+December 6, 2017 – Direct measurement of anisotropic and asymmetric wave vector spectrum in
+ion-scale solar wind turbulence (http://iopscience.iop.org/article/10.3847/2041-8213/aa9bf3#)[111]
+2018
+2017
+October 30, 2017 – Coherent structures at ion scales in the fast solar wind: Cluster observations
+(http://iopscience.iop.org/article/10.3847/1538-4357/aa9022#)[112]
+September 18, 2017 – An intense magnetic substorm scrutinized by a fleet of satellites including
+Cluster and MMS (open access) (https://earth-planets-space.springeropen.com/track/pdf/10.1186/
+s40623-017-0707-2#)[113]
+August 28, 2017 – Relationship between electron field ‐ aligned anisotropy and dawn ‐ dusk
+magnetic field: nine years of Cluster observations in the Earth magnetotail (https://agupubs.onlinel
+ibrary.wiley.com/doi/abs/10.1002/2016JA023739#)[114]
+August 1, 2017 – Collisionless shock velocity estimation at Venus and Earth (open access) (http
+s://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JA024502#)[115]
+June 16, 2017 – Cover of GRL: Global ULF waves generated by a hot flow anomaly (https://agupu
+bs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL073249#)[116]
+April 10, 2017 - ESA research highlight: O marks the spot for magnetic reconnection (http://sci.es
+a.int/cluster/58994-o-marks-the-spot-for-magnetic-reconnection/#)[117]
+April 7, 2017 – EOS research spotlight: Explaining unexpected twists in the Sun's Magnetic Field
+(https://eos.org/research-spotlights/explaining-unexpected-twists-in-the-suns-magnetic-field#)[118]
+March 23, 2017 – Occurrence frequency and location of magnetic islands at the dayside
+magnetopause (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JA023524#)[119]
+February 18, 2017 – Magnetic reconnection and their associated auroral enhancements (open
+access) (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JA023586#)[120]
+October 3, 2016 – What happens to the Earth's magnetosphere when its bow shock disappears?
+(http://www.nature.com/articles/ncomms13001#)[121]
+September 6, 2016 – Embry-Riddle University (FL, USA) science highlight: Space plasma
+hurricanes could lead to new sources of energy (http://news.erau.edu/headlines/embry-riddle-rese
+arch-on-space-plasma-hurricanes-could-lead-to-new-sources-of-energy/)[122]
+July 20, 2016 – Cluster and MMS join forces to understand the origin of northern lights (http://onlin
+elibrary.wiley.com/wol1/doi/10.1002/2016GL069520/full#)[123]
+July 8 – Transport of solar wind H+ and He++ ions across Earth's bow shock (http://iopscience.io
+p.org/article/10.3847/2041-8205/825/2/L27#)[124]
+July 7 – ESA science highlight: the curious case of Earth's leaking atmosphere (http://sci.esa.int/cl
+uster/58028-the-curious-case-of-earth-s-leaking-atmosphere/#)[125][126]
+June 11 – Substructures within a dipolarization front revealed by high-temporal resolution Cluster
+observations (http://onlinelibrary.wiley.com/doi/10.1002/2015JA022238/full#)[127]
+May 11 – Cone angle control of the interaction of magnetic clouds with the Earth's bow shock (http
+s://doi.org/10.1002/2016GL068818#)[128]
+March 21 – The particle carriers of field ‐ aligned currents in the Earth's magnetotail during a
+substorm (https://doi.org/10.1002/2015JA022071#)[129]
+2016
+February 29 – The role of ionospheric O+ outflow in the generation of earthward propagating
+plasmoids (https://doi.org/10.1002/2015JA021667#)[126]
+January 11 – A statistical study of plasmaspheric plumes and ionospheric outflows observed at the
+dayside magnetopause (https://doi.org/10.1002/2015JA021540#)[125]
+December 7 - Coalescence of magnetic flux ropes in the ion diffusion region of magnetic
+reconnection (http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3578.html#)[130]
+October 22 - Wide-banded Non-Thermal Continuum (NTC) radiation: local to remote observations
+by the four Cluster satellites (https://www.ann-geophys.net/33/1285/2015/angeo-33-1285-2015.pd
+f#)[131]
+September 3 - Statistics and accuracy of magnetic null identification in multispacecraft data (open
+access) (https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2015GL064959#)[132]
+August 22 - Cusp dynamics under northward IMF using three ‐ dimensional global particle ‐ in ‐ cell
+simulations (open access) (https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2015JA02123
+0#)[133]
+July 14 - Cluster solves the mystery of equatorial noise (http://sci.esa.int/cluster/56143-cluster-solv
+es-the-mystery-of-equatorial-noise/#)[134]
+July 1 - Seven ESA satellites team up to explore the Earth's magnetic field (http://sci.esa.int/cluste
+r/56098-seven-esa-satellites-team-up-to-explore-earths-magnetic-field//#)[135]
+April 9 - Heart of the black auroras revealed by Cluster (http://sci.esa.int/cluster/55764-heart-of-th
+e-black-auroras-revealed-by-cluster/#)[136]
+March 25 - Cluster satellite catches up (http://www.esa.int/Our_Activities/Operations/Cluster_satell
+ite_catches_up/#)
+February 19 - Magnetospheric signatures of ionospheric density cavities observed by Cluster
+(open access) (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JA020937#)[137]
+February 16 - Solar illumination control of ionospheric outflow above polar cap arcs (open access)
+(https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062972#)[138]
+January 16 – Rejigging the Cluster quartet at the bow shock and in the solar wind (http://www.esa.
+int/Our_Activities/Operations/Rejigging_the_Cluster_quartet/#)
+December 18 – Origin of high-latitude auroras revealed (http://www.esa.int/Our_Activities/Space_
+Science/Cluster/Origin_of_high-latitude_auroras_revealed/#)[139]
+November 20 - The Cluster mission is extended by ESA up to 2018 (http://sci.esa.int/director-des
+k/54999-working-life-extensions-for-esas-science-missions/#)
+September 4 - Full particle electromagnetic simulations of entropy generation across a
+collisionless shock (https://doi.org/10.1088/2041-8205/793/1/L11#)[140]
+August 28 – A mixed-up magnetic storm (http://sci.esa.int/cluster/54573-a-mixed-up-magnetic-stor
+m/#)[141]
+July 1 - Dawn–dusk asymmetries in the coupled solar wind–magnetosphere–ionosphere system:
+a review (https://www.ann-geophys.net/32/705/2014/angeo-32-705-2014.pdf#)[142]
+June 15 - Solar wind breaks through the Earth's magnetic field (https://web.archive.org/web/20160
+305205414/http://www.spacenewsfeed.com/index.php?option=com_content&view=article&id=123
+2015
+2014
+8%3Asolar-wind-breaks-through-the-earth-s-magnetic-field&catid=9%3Anews&Itemid=114%2
+F)[143]
+May 28 - Evidence of strong energetic ion acceleration in the near ‐ Earth magnetotail (free access)
+(https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL060252#)[144]
+May 7 - Cluster helps to model Earth's mysterious magnetosphere (http://sci.esa.int/cluster/54022-
+cluster-helps-to-model-earths-mysterious-magnetosphere/#)[145]
+March 15 - Direct calculation of the ring current distribution and magnetic structure seen by
+Cluster during geomagnetic storms (open access) (https://agupubs.onlinelibrary.wiley.com/doi/pdf/
+10.1002/2013JA019460#)[146]
+January 13 - Low-altitude electron acceleration due to multiple flow bursts in the magnetotail
+(open access) (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013GL058982#)[147]
+November 26 - Cluster takes a tilt at radio wave sources (http://sci.esa.int/cluster/53256-cluster-ta
+kes-a-tilt-at-radio-wave-sources/#)[148]
+November 15 – On the relation between asymmetries in the ring current and magnetopause
+current (free access) (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013JA019345
+#)[149]
+September 20 - ESA's Cluster satellites in closest-ever 'dance in space' (http://www.esa.int/Our_A
+ctivities/Operations/ESA_s_Cluster_satellites_in_closest-ever_dance_in_space/#)
+September 10 – Cluster shows plasmasphere interacting with Van Allen belts (http://sci.esa.int/clu
+ster/52802-cluster-shows-plasmasphere-interacting-with-van-allen-belts/#)[150]
+July 18 - Wobbly magnetic reconnection speeds up electrons (http://sci.esa.int/cluster/52077-wob
+bly-magnetic-reconnection-speeds-up-electrons/#)[151]
+July 2 - Cluster discovers steady leak in the Earth's plasmasphere (http://sci.esa.int/cluster/51988-
+cluster-discovers-steady-leak-in-earth-plasmasphere/#)[152]
+May 2 - Cluster hears the heartbeat of magnetic reconnection (http://sci.esa.int/cluster/51741-clust
+er-hears-the-heartbeat-of-magnetic-reconnection/#)[153]
+April 15 - From solar activity to stunning aurora (ESA Space Science's image of the week) (http://
+www.esa.int/Our_Activities/Space_Science/From_solar_activity_to_stunning_aurora#)
+April 10 – Cluster finds source of aurora energy boost (http://sci.esa.int/science-e/www/object/inde
+x.cfm?fobjectid=51651#)[154]
+December 18 – The solar wind is swirly (http://www.esa.int/Our_Activities/Space_Science/The_sol
+ar_wind_is_swirly#)[155]
+October 24 - Cluster observes a 'porous' magnetopause (http://sci.esa.int/science-e/www/object/in
+dex.cfm?fobjectid=50977#)[156]
+August 1 – Cluster looks into waves in the magnetosphere's thin boundaries (http://sci.esa.int/scie
+nce-e/www/object/index.cfm?fobjectid=50633#)[157]
+July 2 - Hidden Portals in Earth's Magnetic Field (NASA science cast video) (https://www.nasa.go
+2013
+2012
+v/mission_pages/sunearth/news/mag-portals.html#)
+June 6 – Origin of particle acceleration in cusps of Earth's magnetosphere uncovered (http://sci.es
+a.int/science-e/www/object/index.cfm?fobjectid=50424#)[158]
+March 7 - Earth's magnetic field provides vital protection (http://www.esa.int/esaCP/SEMXWW7YB
+ZG_index_0.html#)[159]
+February 27 - Northern lights mystery may be solved (Space.com) (http://www.space.com/14679-
+northern-lights-mystery-earth-magnetosphere.html#)[160]
+February 23 - Surprise Ions (Science News for kids) (http://www.sciencenewsforkids.org/2012/02/
+surprise-ions#) Archived (https://web.archive.org/web/20120710201550/http://www.sciencenewsfo
+rkids.org/2012/02/surprise-ions/) 2012-07-10 at the Wayback Machine
+January 26 - Giant veil of cold plasma discovered high above Earth (National Geographic) (https://
+web.archive.org/web/20120126234347/http://news.nationalgeographic.com/news/2012/01/120126
+-solar-storm-cold-plasma-earth-space-science/)
+January 24 – Elusive matter found to be abundant far above Earth (AGU press release) (http://ww
+w.agu.org/news/press/pr_archives/2012/2012-02.shtml#) Archived (https://web.archive.org/web/20
+121024053457/http://www.agu.org/news/press/pr_archives/2012/2012-02.shtml) 2012-10-24 at
+the Wayback Machine[161]
+November 16 – Cluster reveals Earth's bow shock is remarkably thin (http://sci.esa.int/cluster/496
+37-cluster-reveals-earth-s-bow-shock-is-remarkably-thin#)[162]
+September 6 – Ultra fast substorm auroras explained (http://sci.esa.int/science-e/www/object/inde
+x.cfm?fobjectid=49107#)[163]
+August 31 - 40 year old Mariner 5 solar wind problem finds answer (http://www.spacedaily.com/rep
+orts/40_year_old_Mariner_5_solar_wind_problem_finds_answer_999.html#)[164]
+July 5–10 - Aurora explorer: the Cluster mission exhibit at the Royal Society summer science
+exhibition 2011 (http://royalsociety.org/summer-science/2011/#)
+July 4 – Cluster observes jet braking and plasma heating (http://sci.esa.int/science-e/www/object/i
+ndex.cfm?fobjectid=48847#)[165]
+June 30 - 'Dirty hack' restores Cluster mission from near loss (http://www.esa.int/esaCP/SEMTI34
+TBPG_index_0.html#)
+March 21 - How vital is a planet's magnetic field? New debate rises (http://www.space.com/11187-
+earth-magnetic-field-solar-wind.html#)
+February 5 – Cluster encounters a natural particle accelerator (http://www.esa.int/esaCP/SEMLA6
+Y1LJG_index_0.html#)[166]
+January 7 - ESA spacecraft model magnetic boundaries (http://sci.esa.int/science-e/www/object/in
+dex.cfm?fobjectid=48190#)[167]
+November 22 - ESA extends the Cluster mission until December 2014 (http://sci.esa.int/science-e/
+www/object/index.cfm?fobjectid=48007#)
+October 4 – Cluster helps disentangle turbulence in the solar wind (https://www.nasa.gov/topics/s
+olarsystem/sunearthsystem/main/cluster-turbulence.html#) Archived (https://web.archive.org/web/
+20211225221201/http://www.nasa.gov/topics/solarsystem/sunearthsystem/main/cluster-turbulenc
+e.html) 2021-12-25 at the Wayback Machine[168]
+2011
+2010
+September 1 - 10 years of success for Cluster quartet (http://sci.esa.int/science-e/www/object/inde
+x.cfm?fobjectid=47669#)[169]
+July 26 - Cluster makes crucial step in understanding space weather (http://sci.esa.int/science-e/w
+ww/object/index.cfm?fobjectid=47543#)[170][171]
+July 16 - Cluster's decade of discovery (http://www.esa.int/esaCP/SEMHR50PFBG_index_0.html
+#)
+July 8 - Announcement of opportunity for Cluster guest investigators (http://sci.esa.int/science-e/w
+ww/object/index.cfm?fobjectid=47324#)
+June 3 – The Cluster archive: more than 1000 users (http://sci.esa.int/science-e/www/object/inde
+x.cfm?fobjectid=47112#)[172]
+April 24 - High-speed plasma jets: origin uncovered (http://sci.esa.int/science-e/www/object/index.
+cfm?fobjectid=46875#)[173]
+March 11 - Shocking recipe for 'killer electrons' (http://sci.esa.int/science-e/www/object/index.cfm?
+fobjectid=46685#)[174]
+January 20 - Multiple rifts in Earth's magnetic shield (http://sci.esa.int/science-e/www/object/index.
+cfm?fobjectid=46333#)[175]
+October 7 - ESA extends the Cluster mission until December 2012 (http://sci.esa.int/science-e/ww
+w/object/index.cfm?fobjectid=45685#)
+July 16 – Cluster shows how solar wind is heated at electron scales (http://sci.esa.int/science-e/w
+ww/object/index.cfm?fobjectid=45273#)[176]
+June 18 - Cluster and Double Star: 1000 publications (http://sci.esa.int/science-e/www/object/inde
+x.cfm?fobjectid=45044#)
+April 29 - Monitoring the impact of extreme solar events (http://sci.esa.int/science-e/www/object/in
+dex.cfm?fobjectid=44687#)[177]
+March 25 - Cluster's insight into space turbulence (http://sci.esa.int/science-e/www/object/index.cf
+m?fobjectid=44480#)[178]
+February 9 - ESA extends the Cluster mission until the end of 2009 (http://sci.esa.int/science-e/ww
+w/object/index.cfm?fobjectid=44174#)
+January 14 – Cluster detects invisible escaping ions (http://sci.esa.int/science-e/www/object/index.
+cfm?fobjectid=44012#)[179]
+December 15 - The science of space weather (http://sci.esa.int/science-e/www/object/index.cfm?f
+objectid=43932#)[180]
+December 5 - Looking at Jupiter to understand Earth (http://sci.esa.int/science-e/www/object/inde
+x.cfm?fobjectid=43851#)[181]
+October 17 - Highlights from Cluster-THEMIS workshop (http://sci.esa.int/science-e/www/object/in
+dex.cfm?fobjectid=43567#)
+August 27 - Cluster examines Earth-escaping ions (http://sci.esa.int/science-e/www/object/index.c
+fm?fobjectid=43299#)[182]
+August 11 - Electron trapping within reconnection (http://sci.esa.int/science-e/www/object/index.cf
+m?fobjectid=43238#)[183][184]
+2009
+2008
+June 27 - Beamed radio emission from Earth (http://sci.esa.int/science-e/www/object/index.cfm?fo
+bjectid=43018#)[185]
+June 9 - Reconnection - Triggered by Whistlers? (http://sci.esa.int/science-e/www/object/index.cf
+m?fobjectid=42863#)[186]
+March 7 - Solitons found in the magnetopause (http://sci.esa.int/science-e/www/object/index.cfm?f
+objectid=42432#)[187]
+January 23 - Cluster result impacts future space missions (http://sci.esa.int/science-e/www/object/i
+ndex.cfm?fobjectid=42208#)[188]
+December 6 - Cluster explains nightside ion beams (http://sci.esa.int/science-e/www/object/index.
+cfm?fobjectid=41911#)[189]
+November 21 - Cluster captures the impact of a Coronal Mass Ejection (http://sci.esa.int/science-
+e/www/object/index.cfm?fobjectid=41817#)[190][191]
+November 9 - Cluster probes generalized Ohm's law in space (http://sci.esa.int/science-e/www/obj
+ect/index.cfm?fobjectid=41543#)[192]
+October 22 - Cluster monitors convection cells over the polar caps (http://sci.esa.int/science-e/ww
+w/object/index.cfm?fobjectid=41454#)[193][194]
+September 11 - Cluster and Double Star pinpoint the source of bright aurorae (http://sci.esa.int/sci
+ence-e/www/object/index.cfm?fobjectid=41288#)[195]
+July 26 - Cluster helps reveal how the Sun shakes the Earth's magnetic field (http://sci.esa.int/scie
+nce-e/www/object/index.cfm?fobjectid=41208#)[196][197]
+June 29 - Cluster unveils a new 3D vision of magnetic reconnection (http://sci.esa.int/science-e/w
+ww/object/index.cfm?fobjectid=41145#)[198]
+June 21 - Formation flying at closest-ever separation (http://sci.esa.int/science-e/www/object/inde
+x.cfm?fobjectid=41120#)
+May 11 - Cluster reveals the reformation of the Earth's bow shock (http://sci.esa.int/science-e/ww
+w/object/index.cfm?fobjectid=40994#)[199]
+April 12 - Cluster finds new clues on what triggers space tsunamis (http://sci.esa.int/science-e/ww
+w/object/index.cfm?fobjectid=40878#)[200]
+March 26 - First direct evidence in space of magnetic reconnection in turbulent plasma (http://sci.e
+sa.int/science-e/www/object/index.cfm?fobjectid=40852#)[201]
+March 12 - A leap forward in probing magnetic reconnection in space (http://sci.esa.int/science-e/
+www/object/index.cfm?fobjectid=40761#)[202]
+February 9 - New insights in the auroral electrical circuit revealed by Cluster (http://sci.esa.int/scie
+nce-e/www/object/index.cfm?fobjectid=40651#)[203]
+December 29 - 1000th Orbit for the Cluster Mission (http://sci.esa.int/science-e/www/object/index.
+cfm?fobjectid=40465#)
+December 6 - Cluster finds magnetic reconnection within giant swirls of plasma (http://sci.esa.int/s
+cience-e/www/object/index.cfm?fobjectid=40420#)[204]
+November 13 - Cluster takes a new look at the plasmasphere (http://sci.esa.int/science-e/www/obj
+ect/index.cfm?fobjectid=40330#)[205][206]
+2007
+2006
+October 5 - Double Star and Cluster witness pulsated reconnection for several hours (http://sci.es
+a.int/science-e/www/object/index.cfm?fobjectid=40032#)[207]
+August 24 - Cluster links magnetic substorms and Earthward directed high-speed flows (http://sci.
+esa.int/science-e/www/object/index.cfm?fobjectid=39865#)[208]
+July 18 - Magnetic heart of a 3D reconnection event revealed by Cluster (http://sci.esa.int/science-
+e/www/object/index.cfm?fobjectid=39706#)[209]
+June 20 - Space is fizzy (http://www.space.com/2514-earth-surrounded-giant-fizzy-bubbles.html
+#)[210]
+May 19 - New Microscopic Properties of Magnetic Reconnection Derived by Cluster (http://sci.esa.
+int/science-e/www/object/index.cfm?fobjectid=39246#)[211]
+March 30 - Cluster and Double Star reveal the extent of neutral sheet oscillations (http://sci.esa.in
+t/science-e/www/object/index.cfm?fobjectid=38993#)[212]
+February 24 - Cluster reveals fundamental 3-D properties of magnetic turbulence (http://sci.esa.in
+t/science-e/www/object/index.cfm?fobjectid=38841#)[213]
+February 1 - The Cluster Active Archive goes live (http://sci.esa.int/science-e/www/object/index.cf
+m?fobjectid=38705#)
+January 11 - Cover of Nature Magazine: Feel the Force (http://sci.esa.int/science-e/www/object/in
+dex.cfm?fobjectid=38574#)[214]
+December 22 - Cluster helps to protect astronauts and satellites against killer electrons (http://sci.
+esa.int/science-e/www/object/index.cfm?fobjectid=38475#)[215]
+September 21 - Double Star and Cluster observe first evidence of crustal cracking (http://sci.esa.i
+nt/science-e/www/object/index.cfm?fobjectid=37944#)
+August 10 - From 'macro' to 'micro' – turbulence seen by Cluster (http://www.esa.int/esaCP/SEM1
+8O808BE_index_0.html#)[216]
+July 28 - First direct measurements of the ring current (http://sci.esa.int/science-e/www/object/inde
+x.cfm?fobjectid=37592#)[217]
+July 14 - Five years of formation flying with Cluster (http://sci.esa.int/science-e/www/object/index.c
+fm?fobjectid=37680#)
+April 28 - Calming effect of a solar storm (http://sci.esa.int/science-e/www/object/index.cfm?fobject
+id=36938#)[218][219]
+February 18 - Cluster will become the first multi-scale mission (http://sci.esa.int/science-e/www/obj
+ect/index.cfm?fobjectid=36556#)
+February 4 - Direct observation of 3D magnetic reconnection (http://sci.esa.int/science-e/www/obj
+ect/index.cfm?fobjectid=36447#)[220]
+December 12 - Cluster determines the spatial scale of high speed flows in the magnetotail (http://s
+ci.esa.int/science-e/www/object/index.cfm?fobjectid=36209#)[221]
+November 24 Four-point observations of solar wind discontinuities (http://sci.esa.int/science-e/ww
+w/object/index.cfm?fobjectid=36142#)[222]
+September 17 - Cluster locates the source of non-thermal terrestrial continuum radiation by
+triangulation (http://sci.esa.int/science-e/www/object/index.cfm?fobjectid=35847#)[223]
+2005
+2004
+August 12 - Cluster finds giant gas vortices at the edge of Earth's magnetic bubble (http://sci.esa.i
+nt/science-e/www/object/index.cfm?fobjectid=35672#)[224]
+June 23 - Cluster discovers internal origin of the plasma sheet oscillations (http://sci.esa.int/scienc
+e-e/www/object/index.cfm?fobjectid=35478#)[225]
+May 13 - Cluster captures a triple cusp (http://sci.esa.int/science-e/www/object/index.cfm?fobjectid
+=35501#)[226]
+May 11 - Cluster observes finite amplitude Alfvén waves and small-scale magnetic filaments
+downstream of a quasi-perpendicular shock (http://sci.esa.int/science-e/www/object/index.cfm?fob
+jectid=35501#)[227]
+April 5 - First attempt to estimate Earth's bow shock thickness (http://sci.esa.int/science-e/www/obj
+ect/index.cfm?fobjectid=35500#)[228]
+3 December 2003 - Cracks in Earth's magnetic shield (NASA website) (https://science.nasa.gov/s
+cience-news/science-at-nasa/2003/03dec_magneticcracks#) Archived (https://web.archive.org/we
+b/20211229152647/https://science.nasa.gov/science-news/science-at-nasa/2003/03dec_magnetic
+cracks) 2021-12-29 at the Wayback Machine[229]
+29 June 2003 - Multi-point observations of magnetic reconnection (http://sci.esa.int/science-e/ww
+w/object/index.cfm?fobjectid=38338#)[230]
+20 May 2003 - ESA's Cluster solves auroral puzzle (http://sci.esa.int/science-e/www/object/index.c
+fm?fobjectid=32256#)[231]
+29 January 2003 - Bifurcation of the tail current (http://sci.esa.int/science-e/www/object/index.cfm?
+fobjectid=38334#)[232]
+28 January 2003 - Electric current measured in space for the first time (http://sci.esa.int/science-e/
+www/object/index.cfm?fobjectid=38326#)[233]
+29 December 2002 - Thickness of the tail current sheet estimated in space for the first time (http://
+sci.esa.int/science-e/www/object/index.cfm?fobjectid=38333#)[234]
+1 October 2002 - Telescopic/Microscopic view of a substorm (http://sci.esa.int/science-e/www/obje
+ct/index.cfm?fobjectid=38332#)[235]
+11 December 2001 - Cluster quartet probes the secrets of the black aurora (http://sci.esa.int/scien
+ce-e/www/object/index.cfm?fobjectid=29100#)[236]
+31 October 2001 - First measurements of density gradients in space (http://sci.esa.int/science-e/w
+ww/object/index.cfm?fobjectid=38331#)[237]
+9 October 2001 - Double cusp observed by Cluster (http://sci.esa.int/science-e/www/object/index.
+cfm?fobjectid=28549#)[238]
+1 February 2001 – Official start of scientific operations (http://sci.esa.int/science-e/www/object/ind
+ex.cfm?fobjectid=26053#)
+Escoubet, C.P.; A. Masson; H. Laakso; M.L. Goldstein (2021). "Cluster after 20 years of
+operations: Science highlights and technical challenges" (https://doi.org/10.1029%2F2021JA0294
+74). Journal of Geophysical Research: Space Physics. 126 (8) e2021JA029474.
+Bibcode:2021JGRA..12629474E (https://ui.adsabs.harvard.edu/abs/2021JGRA..12629474E).
+2001–2003
+References

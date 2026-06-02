@@ -1,0 +1,646 @@
+Curiosity
+Part of Mars Science Laboratory
+Self-portrait by Curiosity at the foot of Mount
+Sharp in October 2015
+Type Mars rover
+Owner NASA
+Manufacturer Jet Propulsion Laboratory
+Specifications
+Dimensions 2.9 m × 2.7 m × 2.2 m (9 ft
+6 in × 8 ft 10 in × 7 ft 3 in)
+Dry mass 899 kilograms (1,982 lb)
+CommunicationUHF: ~400 MHz, 2 Mbit/s
+X band: 7–8 GHz, 800 bit/s
+Power MMRTG: ~100 W (0.13 hp)
+Rocket Atlas V 541
+Instruments
+Curiosity (rover)
+Curiosity is a Mars rover that is exploring Gale crater
+and Mount Sharp on Mars as part of NASA's Mars
+Science Laboratory (MSL) mission.[2] Launched in
+2011 and landed the following year, the car-sized rover
+continues to operate more than a decade after its
+original two-year mission.
+Curiosity was launched from Cape Canaveral, Florida,
+on November 26, 2011, at 15:02:00 UTC and landed on
+Aeolis Palus inside Gale crater on Mars on August 6,
+2012, 05:17:57 UTC.[3][4][5] The Bradbury Landing site
+was less than 2.4 km (1.5 mi) from the center of the
+rover's touchdown target after a 560 million km
+(350 million mi) journey.[6][7]
+Mission goals include an investigation of the Martian
+climate and geology, an assessment of whether the
+selected field site inside Gale has ever offered
+environmental conditions favorable for microbial life
+(including investigation of the role of water), and
+planetary habitability studies in preparation for human
+exploration.[8][9]
+In December 2012, Curiosity's two-year mission was
+extended indefinitely.[10][11][12] On August 6, 2022, a
+detailed overview of accomplishments by the Curiosity
+rover for the last ten years was reported.[13] The rover
+is still operational, and as of June 1, 2026, Curiosity
+has been active on Mars for 4912 sols (5047 total days;
+13 years, 299 days) since its landing (see current
+status).
+The NASA/JPL Mars Science Laboratory/Curiosity
+Project Team was awarded the 2012 Robert J. Collier
+Trophy by the National Aeronautic Association "In
+recognition of the extraordinary achievements of
+successfully landing Curiosity on Mars, advancing the
+nation's technological and engineering capabilities, and
+significantly improving humanity's understanding of
+ancient Martian habitable environments."[14]
+APXS · ChemCam · CheMin · DAN · Hazcam ×
+8 · MAHLI · MARDI · MastCam · Navcam × 4 ·
+RAD · REMS · SAM
+History
+Launched November 26, 2011, 15:02
+UTC
+from Cape Canaveral SLC-41
+Deployed August 6, 2012, 05:17 UTC
+from the MSL EDLS
+Location Gale crater, Mars
+Traveled 36.91 km (22.93 mi) on Mars
+as of 15 May 2026[1]
+NASA Mars rovers
+Animation of the Curiosity rover, showing its
+capabilities
+Curiosity's rover design serves as the basis for NASA's
+2021 Perseverance mission, which carries different
+scientific instruments.
+As established by the Mars Exploration Program, the
+main scientific goals of the MSL mission are to help
+determine whether Mars could ever have supported
+life, as well as determining the role of water, and to
+study the climate and geology of Mars.[8][9] The
+mission results will also help prepare for human
+exploration.[9] To contribute to these goals, MSL has
+eight main scientific objectives:[15]
+Biological
+1. Determine the nature and inventory of organic
+carbon compounds
+2. Investigate the chemical building blocks of life
+(carbon, hydrogen, nitrogen, oxygen, phosphorus,
+and sulfur)
+3. Identify features that may represent the effects of
+biological processes (biosignatures and
+biomolecules)
+Geological and geochemical
+4. Investigate the chemical, isotopic, and mineralogical composition of the Martian surface and near-
+surface geological materials
+5. Interpret the processes that have formed and modified rocks and soils
+Planetary process
+6. Assess long-timescale (i.e., 4-billion-year) Martian atmospheric evolution processes
+7. Determine present state, distribution, and cycling of water and carbon dioxide
+Surface radiation
+8. Characterize the broad spectrum of surface radiation, including galactic and cosmic radiation,
+solar proton events and secondary neutrons. As part of its exploration, it also measured the
+radiation exposure in the interior of the spacecraft as it traveled to Mars, and it is continuing
+radiation measurements as it explores the surface of Mars. This data would be important for a
+future crewed mission.[16]
+Mission
+Goals and objectives
+11:20
+About one year into the surface mission, and having assessed that ancient Mars could have been
+hospitable to microbial life, the MSL mission objectives evolved to developing predictive models for
+the preservation process of organic compounds and biomolecules; a branch of paleontology called
+taphonomy.[17] The region it is set to explore has been compared to the Four Corners region of the
+North American west.[18]
+A NASA panel selected the name Curiosity following a nationwide student contest that attracted more
+than 9,000 proposals via the Internet and mail. Twelve-year-old Clara Ma from Sunflower
+Elementary School in Lenexa, Kansas submitted the winning entry. As her prize, Ma won a trip to
+NASA's Jet Propulsion Laboratory (JPL) in Pasadena, California, where she signed her name directly
+onto the rover as it was being assembled.[19]
+Ma wrote in her winning essay:
+Curiosity is an everlasting flame that burns in everyone's mind. It makes me get out of bed in
+the morning and wonder what surprises life will throw at me that day. Curiosity is such a
+powerful force. Without it, we wouldn't be who we are today. Curiosity is the passion that
+drives us through our everyday lives. We have become explorers and scientists with our need
+to ask questions and to wonder.[19]
+Adjusted for inflation, Curiosity has a life-cycle cost of US$3.2 billion in 2020. By comparison, the
+2021 Perseverance rover has a life-cycle cost of US$2.9 billion.[20]
+Curiosity is 2.9 m (9 ft 6 in) long by 2.7 m (8 ft 10 in) wide by 2.2 m (7 ft 3 in) high,[21] larger than
+Mars Exploration Rovers, which are 1.5 m (4 ft 11 in) long and have a mass of 174 kg (384 lb)
+including 6.8 kg (15 lb) of scientific instruments.[22][23][24] In comparison to Pancam on the Mars
+Exploration Rovers, the MastCam-34 has 1.25× higher spatial resolution and the MastCam-100 has
+3.67× higher spatial resolution.[25]
+Curiosity has an advanced payload of scientific equipment on Mars.[26] It is the fourth NASA robotic
+rover sent to Mars since 1996. Previous successful Mars rovers are Sojourner from the Mars
+Pathfinder mission (1997), and Spirit (2004–2010) and Opportunity (2004–2018) rovers from the
+Mars Exploration Rover mission.
+Curiosity comprised 23% of the mass of the 3,893 kg (8,583 lb) spacecraft at launch. The remaining
+mass was discarded in the process of transport and landing.
+Dimensions: Curiosity has a mass of 899 kg (1,982 lb) including 80 kg (180 lb) of scientific
+instruments.[22] The rover is 2.9 m (9 ft 6 in) long by 2.7 m (8 ft 10 in) wide by 2.2 m (7 ft 3 in) in
+Name
+Cost
+Rover and lander specifications
+Two Jet Propulsion Laboratory engineers
+stand with three vehicles, providing a size
+comparison of three generations of Mars
+rovers. Front and center left is the flight spare
+for the first Mars rover, Sojourner, which
+landed on Mars in 1997 as part of the Mars
+Pathfinder Project. On the left is a Mars
+Exploration Rover (MER) test vehicle that is a
+working sibling to Spirit and Opportunity,
+which landed on Mars in 2004. On the right is
+a test rover for the Mars Science Laboratory,
+which landed as Curiosity on Mars in 2012.
+Sojourner is 65 cm (26 in) long. The Mars
+Exploration Rovers (MER) are 1.6 m (5 ft 3 in)
+long. Curiosity on the right is 3 m (9.8 ft) long.
+height.[21]
+The main box-like chassis forms the Warm Electronics
+Box (WEB).[27]: 52 
+Power source: Curiosity is powered by a radioisotope
+thermoelectric generator (RTG), like the successful
+Viking 1 and Viking 2 Mars landers in 1976.[28][29]
+Radioisotope power systems (RPSs) are generators
+that produce electricity from the decay of radioactive
+isotopes, such as plutonium-238, which is a non-
+fissile isotope of plutonium. Heat given off by the
+decay of this isotope generates electrical power
+using thermocouples, providing consistent power
+during all seasons and through the day and night.
+Waste heat is also used via pipes to warm systems,
+freeing electrical power for the operation of the
+vehicle and instruments.[28][29] Curiosity's RTG is
+fueled by 4.8 kg (11 lb) of plutonium-238 dioxide
+supplied by the U.S. Department of Energy.[30]
+Curiosity's RTG is the Multi-Mission Radioisotope
+Thermoelectric Generator (MMRTG), designed and
+built by Rocketdyne and Teledyne Energy Systems
+under contract to the U.S. Department of Energy,[31]
+and fueled and tested by the Idaho National Laboratory.[32] Based on legacy RTG technology, it
+represents a more flexible and compact development step,[33] and is designed to produce 110
+watts of electrical power and about 2,000 watts of thermal power at the start of the
+mission.[28][29] The MMRTG produces less power over time as its plutonium fuel decays: at its
+minimum lifetime of 14 years, electrical power output is down to 100 watts.[34][35] The power
+source generates 9 MJ (2.5 kWh) of electrical energy each day, much more than the solar
+panels of the now retired Mars Exploration Rovers, which generated about 2.1 MJ (0.58 kWh)
+each day. The electrical output from the MMRTG charges two rechargeable lithium-ion batteries.
+This enables the power subsystem to meet peak power demands of rover activities when the
+demand temporarily exceeds the generator's steady output level. Each battery has a capacity of
+about 42 ampere hours.
+Heat rejection system: The temperatures at the landing site vary seasonally and the thermal
+system warms the rover as needed. The thermal system does so in several ways: passively,
+through the dissipation to internal components; by electrical heaters strategically placed on key
+components; and by using the rover heat rejection system (HRS).[27] It uses fluid pumped through
+60 m (200 ft) of tubing in the rover body so that sensitive components are kept at optimal
+temperatures.[36] The fluid loop serves the additional purpose of rejecting heat when the rover has
+become too warm, and it can also gather waste heat from the power source by pumping fluid
+through two heat exchangers that are mounted alongside the RTG. The HRS also has the ability
+to cool components if necessary.[36]
+Computers: The two identical on-board rover computers, called Rover Compute Element (RCE)
+contain radiation hardened memory to tolerate the extreme radiation from space and to safeguard
+against power-off cycles. The computers run the VxWorks real-time operating system (RTOS).
+Each computer's memory includes 256 kilobytes (kB) of EEPROM, 256 megabytes (MB) of
+dynamic random-access memory (DRAM), and 2 gigabytes (GB) of flash memory.[37] For
+Radioisotope pellet within a graphite shell that fuels the
+generator
+Radioisotope Power System for Curiosity at Kennedy
+Space Center
+comparison, the Mars Exploration Rovers used
+3 MB of EEPROM, 128 MB of DRAM, and 256
+MB of flash memory.[38]
+The RCE computers use the RAD750
+Central processing unit (CPU), which is a
+successor to the RAD6000 CPU of the Mars
+Exploration Rovers.[39][40] The IBM RAD750
+CPU, a radiation-hardened version of the
+PowerPC 750, can execute up to 400 Million
+instructions per second (MIPS), while the
+RAD6000 CPU is capable of up to only 35
+MIPS.[41][42] Of the two on-board computers,
+one is configured as backup and will take
+over in the event of problems with the main
+computer.[37] On February 28, 2013, NASA
+was forced to switch to the backup computer
+due to a problem with the active computer's
+flash memory, which resulted in the computer
+continuously rebooting in a loop. The backup
+computer was turned on in safe mode and
+subsequently returned to active status on
+March 4, 2013.[43] The same problem
+happened in late March, resuming full
+operations on March 25, 2013.[44]
+The rover has an inertial measurement unit
+(IMU) that provides 3-axis information on its
+position, which is used in rover
+navigation.[37] The rover's computers are
+constantly self-monitoring to keep the rover
+operational, such as by regulating the rover's temperature.[37] Activities such as taking pictures,
+driving, and operating the instruments are performed in a command sequence that is sent from
+the flight team to the rover.[37] The rover installed its full surface operations software after the
+landing because its computers did not have sufficient main memory available during flight. The
+new software essentially replaced the flight software.[7]
+The rover has four processors. One of them is a SPARC processor that runs the rover's
+thrusters and descent-stage motors as it descended through the Martian atmosphere. Two
+others are PowerPC processors: the main processor, which handles nearly all of the rover's
+ground functions, and that processor's backup. The fourth one, another SPARC processor,
+commands the rover's movement and is part of its motor controller box. All four processors are
+single core.[45]
+Communications: Curiosity is equipped with significant telecommunication redundancy by
+several means: an X band transmitter and receiver that can communicate directly with Earth, and
+an Ultra high frequency (UHF) Electra-Lite software-defined radio for communicating with Mars
+orbiters.[27] Communication with orbiters is the main path for data return to Earth, since the
+orbiters have both more power and larger antennas than the lander, allowing for faster
+transmission speeds.[27] Telecommunication included a small deep space transponder on the
+Communications
+Curiosity transmits to Earth directly or via
+three relay satellites in Mars orbit.
+Close-up view of a well-worn wheel on
+the surface, which also shows the Morse
+code pattern for JPL.
+descent stage and a solid-state power amplifier on the
+rover for X-band. The rover also has two UHF radios,[27]
+the signals of which orbiting relay satellites are capable of
+relaying back to Earth. Signals between Earth and Mars
+take an average of 14 minutes, 6 seconds.[46] Curiosity
+can communicate with Earth directly at speeds up to
+32 kbit/s, but the bulk of the data transfer is being relayed
+through the Mars Reconnaissance Orbiter and Odyssey
+orbiter. Data transfer speeds between Curiosity and each
+orbiter may reach 2000 kbit/s and 256 kbit/s, respectively,
+but each orbiter is able to communicate with Curiosity for
+only about eight minutes per day (0.56% of the time).[47]
+Communication from and to Curiosity relies on
+internationally agreed space data communications
+protocols as defined by the Consultative Committee for Space Data Systems.[48]
+Jet Propulsion Laboratory (JPL) is the central data distribution hub where selected data
+products are provided to remote science operations sites as needed. JPL is also the central hub
+for the uplink process, though participants are distributed at their respective home
+institutions.[27] At landing, telemetry was monitored by three orbiters, depending on their
+dynamic location: the 2001 Mars Odyssey, Mars Reconnaissance Orbiter and ESA's Mars
+Express satellite.[49] As of February 2019, the MAVEN orbiter is being positioned to serve as a
+relay orbiter while continuing its science mission.[50]
+Mobility systems: Curiosity is equipped with six 50-
+centimetre-diameter (20 in) wheels in a rocker-bogie
+suspension. These are scaled versions of those used on
+Mars Exploration Rovers (MER).[27] The suspension
+system also served as landing gear for the vehicle, unlike
+its smaller predecessors.[51][52] Each wheel has cleats and
+is independently actuated and geared, providing for
+climbing in soft sand and scrambling over rocks. Each
+front and rear wheel can be independently steered,
+allowing the vehicle to turn in place as well as execute
+arcing turns.[27] Each wheel has a pattern that helps it
+maintain traction but also leaves patterned tracks in the
+sandy surface of Mars. That pattern is used by on-board
+cameras to estimate the distance traveled. The pattern
+itself is Morse code for "JPL" (·--- ·--· ·-··), This pattern
+was selected by JPL engineers due to NASA not allowing "JPL" to be imprinted to the wheels as
+text.[53][54] The rover is capable of climbing sand dunes with slopes up to 12.5°.[55] Based on the
+center of mass, the vehicle can withstand a tilt of at least 50° in any direction without overturning,
+but automatic sensors limit the rover from exceeding 30° tilts.[27] After six years of use, the wheels
+are visibly worn with punctures and tears.[56]
+Curiosity can roll over obstacles approaching 65 cm (26 in) in height,[26] and it has a ground
+clearance of 60 cm (24 in).[57] Based on variables including power levels, terrain difficulty,
+slippage and visibility, the maximum terrain-traverse speed is estimated to be 200 m (660 ft) per
+day by automatic navigation.[26] The rover landed about 10 km (6.2 mi) from the base of Mount
+Mobility systems
+Descent of Curiosity (video-02:26; August 6,
+2012)
+NASA video describing the landing
+procedure. NASA dubbed the landing
+as "Seven Minutes of Terror"
+Sharp,[58] (officially named Aeolis Mons) and it is expected to traverse a minimum of 19 km
+(12 mi) during its primary two-year mission.[59] It can travel up to 90 m (300 ft) per hour but
+average speed is about 30 m (98 ft) per hour.[59] The vehicle is 'driven' by several operators led
+by Vandi Verma, group leader of Autonomous Systems, Mobility and Robotic Systems at
+JPL,[60][61] who also cowrote the PLEXIL language used to operate the rover.[62][63][64]
+Curiosity landed in Quad 51 (nicknamed Yellowknife)
+of Aeolis Palus in the crater Gale.[65][66][67][68] The
+landing site coordinates are:
+.[69][70] The location was named
+Bradbury Landing on August 22, 2012, in honor of
+science fiction author Ray Bradbury.[6] Gale, an
+estimated 3.5 to 3.8 billion-year-old impact crater, is
+hypothesized to have first been gradually filled in by
+sediments; first water-deposited, and then wind-
+deposited, possibly until it was completely covered.
+Wind erosion then scoured out the sediments, leaving
+an isolated 5.5 km (3.4 mi) mountain, Aeolis Mons
+("Mount Sharp"), at the center of the 154 km (96 mi)
+wide crater. Thus, it is believed that the rover may have
+the opportunity to study two billion years of Martian history in the sediments exposed in the
+mountain. Additionally, its landing site is near an alluvial fan, which is hypothesized to be the result of
+a flow of ground water, either before the deposition of the eroded sediments or else in relatively recent
+geologic history.[71][72]
+According to NASA, an estimated 20,000 to 40,000 heat-resistant bacterial spores were on Curiosity
+at launch, and as many as 1,000 times that number may not have been counted.[73]
+Previous NASA Mars rovers became active only after the
+successful entry, descent and landing on the Martian surface.
+Curiosity, on the other hand, was active when it touched down on
+the surface of Mars, employing the rover suspension system for
+the final set-down.[74]
+Curiosity transformed from its stowed flight configuration to a
+landing configuration while the MSL spacecraft simultaneously
+lowered it beneath the spacecraft descent stage with a 20 m
+(66 ft) tether from the "sky crane" system to a soft landing –
+wheels down – on the surface of Mars.[75][76][77][78] After the
+rover touched down it waited two seconds to confirm that it was on solid ground then fired several
+Landing
+2:27
+4.5895°S 137.4417°E
+Rover's landing system
+MAGGIE Rover
+ Scarecrow rover
+Instrument location diagram
+pyrotechnic fasteners activating cable cutters on the bridle to free itself from the spacecraft descent
+stage. The descent stage then flew away to a crash landing, and the rover prepared itself to begin the
+science portion of the mission.[79]
+As of August 16, 2024, the rover had driven 35.5 km (22.1 mi) from its landing site.[20] As of June 1,
+2026 it has driven 36.86 km (22.90 mi) from its landing site over 4912 sols (Martian days),[1] and as
+of January 2025, its elevation had changed over 740 m (2,430 ft) upward.[80]
+Curiosity has two full sized, vehicle system test
+beds (VSTB), a twin rover used for testing and
+problem solving, MAGGIE rover (Mars
+Automated Giant Gizmo for Integrated
+Engineering) with a computer brain and a
+Scarecrow rover without a computer brain. They
+are housed at the JPL Mars Yard for problem
+solving on simulated Mars terrain.[81][82]
+The general sample analysis strategy begins with high-resolution
+cameras to look for features of interest. If a particular surface is
+of interest, Curiosity can vaporize a small portion of it with an
+infrared laser and examine the resulting spectra signature to
+query the rock's elemental composition. If that signature is
+intriguing, the rover uses its long arm to swing over a microscope
+and an X-ray spectrometer to take a closer look. If the specimen
+warrants further analysis, Curiosity can drill into the boulder
+and deliver a powdered sample to either the Sample Analysis at
+Mars (SAM) or the CheMin analytical laboratories inside the
+rover.[83][84][85]
+The MastCam, Mars Hand Lens Imager (MAHLI), and Mars
+Descent Imager (MARDI) cameras were developed by Malin Space Science Systems and they all share
+common design components, such as on-board digital image processing boxes, 1600 × 1200 charge-
+coupled device (CCDs), and an RGB Bayer pattern filter.[86][87][88][89][25][90]
+In total, the rover carries 17 cameras: HazCams (8), NavCams (4), MastCams (2), MAHLI (1), MARDI
+(1), and ChemCam (1).[91]
+Travel status
+Duplicate testing rovers
+Scientific instruments
+The turret at the end of the
+robotic arm holds five
+devices.
+The internal spectrometer (left) and
+the laser telescope (right) for the mast
+The Mastcam system provides multiple spectra and true-color imaging
+with two cameras.[87] The cameras can take true-color images at
+1600×1200 pixels and up to 10 frames per second hardware-
+compressed video at 720p (1280×720).[92]
+One Mastcam camera is the Medium Angle Camera (MAC; also referred
+to as Mastcam-34 and Mastcam-Left), which has a 34 mm (1.3 in) focal
+length, a 15° field of view, and can yield 22 cm/pixel (8.7 in/pixel) scale
+at 1 km (0.62 mi). The other camera in the Mastcam is the Narrow
+Angle Camera (NAC; also Mastcam-100 and Mastcam-Right), which has
+a 100 mm (3.9 in) focal length, a 5.1° field of view, and can yield
+7.4 cm/pixel (2.9 in/pixel) scale at 1 km (0.62 mi).[87] Malin also
+developed a pair of Mastcams with zoom lenses,[93] but these were not
+included in the rover because of the time required to test the new
+hardware and the looming November 2011 launch date.[94] However, the improved zoom version was
+selected to be incorporated on the Mars 2020 mission as Mastcam-Z.[95]
+Each camera has eight gigabytes of flash memory, which is capable of storing over 5,500 raw images,
+and can apply real time lossless data compression.[87] The cameras have an autofocus capability that
+allows them to focus on objects from 2.1 m (6 ft 11 in) to infinity.[25] In addition to the fixed RGBG
+Bayer pattern filter, each camera has an eight-position filter wheel. While the Bayer filter reduces
+visible light throughput, all three colors are mostly transparent at wavelengths longer than 700 nm,
+and have minimal effect on such infrared observations.[87]
+ChemCam is a suite of two remote sensing instruments
+combined as one: a laser-induced breakdown spectroscopy
+(LIBS) and a Remote Micro Imager (RMI) telescope. The
+ChemCam instrument suite was developed by the French CESR
+laboratory and the Los Alamos National Laboratory.[96][97][98]
+The flight model of the mast unit was delivered from the French
+CNES to Los Alamos National Laboratory.[99] The purpose of the
+LIBS instrument is to provide elemental compositions of rock
+and regolith, while the RMI gives ChemCam scientists high-
+resolution images of the sampling areas of the rocks and regolith
+that LIBS targets.[96][100] The LIBS instrument can target a rock
+or regolith sample up to 7 m (23 ft) away, vaporizing a small
+amount of it with about 50 to 75 5-nanosecond pulses from a 1067 nm infrared laser and then
+observes the spectrum of the light emitted by the vaporized rock.[101]
+ChemCam has the ability to record up to 6,144 different wavelengths of ultraviolet, visible, and
+infrared light.[102] Detection of the ball of luminous plasma is done in the visible, near-UV and near-
+infrared ranges, between 240 nm and 800 nm.[96] The first initial laser testing of the ChemCam by
+Mast Camera (Mastcam)
+Chemistry and Camera complex (ChemCam)
+First laser spectrum of chemical
+elements from ChemCam on Curiosity
+("Coronation" rock, August 19, 2012)
+First full-resolution Navcam images
+Curiosity on Mars was performed on a rock, N165 ("Coronation"
+rock), near Bradbury Landing on August 19, 2012.[103][104][105]
+The ChemCam team expects to take approximately one dozen
+compositional measurements of rocks per day.[106] Using the
+same collection optics, the RMI provides context images of the
+LIBS analysis spots. The RMI resolves 1 mm (0.039 in) objects at
+10 m (33 ft) distance, and has a field of view covering 20 cm
+(7.9 in) at that distance.[96]
+The rover has two pairs of black and white navigation cameras
+mounted on the mast to support ground navigation.[107][108] The
+cameras have a 45° angle of view and use visible light to capture
+stereoscopic 3-D imagery.[108][109]
+REMS comprises instruments to measure the Mars environment:
+humidity, pressure, temperatures, wind speeds, and ultraviolet
+radiation.[110] It is a meteorological package that includes an ultraviolet sensor provided by the
+Spanish Ministry of Education and Science. The investigative team is led by Javier Gómez-Elvira of
+the Spanish Astrobiology Center and includes the Finnish Meteorological Institute as a
+partner.[111][112] All sensors are located around three elements: two booms attached to the rover's
+mast, the Ultraviolet Sensor (UVS) assembly located on the rover top deck, and the Instrument
+Control Unit (ICU) inside the rover body. REMS provides new clues about the Martian general
+circulation, micro scale weather systems, local hydrological cycle, destructive potential of UV
+radiation, and subsurface habitability based on ground-atmosphere interaction.[111]
+The rover has four pairs of black and white navigation cameras called hazcams, two pairs in the front
+and two pairs in the back.[107][113] They are used for autonomous hazard avoidance during rover
+drives and for safe positioning of the robotic arm on rocks and regolith.[113] Each camera in a pair is
+hardlinked to one of two identical main computers for redundancy; only four out of the eight cameras
+are in use at any one time. The cameras use visible light to capture stereoscopic three-dimensional (3-
+D) imagery.[113] The cameras have a 120° field of view and map the terrain at up to 3 m (9.8 ft) in
+front of the rover.[113] This imagery safeguards against the rover crashing into unexpected obstacles,
+and works in tandem with software that allows the rover to make its own safety choices.[113]
+MAHLI is a camera on the rover's robotic arm, and acquires microscopic images of rock and regolith.
+MAHLI can take true-color images at 1600×1200 pixels with a resolution as high as 14.5 µm per pixel.
+MAHLI has an 18.3 to 21.3 mm (0.72 to 0.84 in) focal length and a 33.8–38.5° field of view.[88]
+Navigation cameras (Navcams)
+Rover Environmental Monitoring Station (REMS)
+Hazard avoidance cameras (Hazcams)
+Mars Hand Lens Imager (MAHLI)
+Mars Hand Lens Imager
+(MAHLI)
+Alpha Particle X-Ray
+Spectrometer (APXS)
+Curiosity's CheMin Spectrometer on Mars (September
+11, 2012), with sample inlet seen closed and open
+MAHLI has both white and ultraviolet Light-
+emitting diode (LED) illumination for imaging in
+darkness or fluorescence imaging. MAHLI also has
+mechanical focusing in a range from infinite to
+millimeter distances.[88] This system can make
+some images with focus stacking processing.[114]
+MAHLI can store either the raw images or do real
+time lossless predictive or JPEG compression. The
+calibration target for MAHLI includes color
+references, a metric bar graphic, a 1909 VDB Lincoln penny, and a stair-step pattern for depth
+calibration.[115]
+The APXS instrument irradiates samples with alpha particles and maps the spectra of X-rays that are
+re-emitted for determining the elemental composition of samples.[116] Curiosity's APXS was
+developed by the Canadian Space Agency (CSA).[116] MacDonald Dettwiler (MDA), the Canadian
+aerospace company that built the Canadarm and RADARSAT, were responsible for the engineering
+design and building of the APXS. The APXS science team includes members from the University of
+Guelph, the University of New Brunswick, the University of Western Ontario, NASA, the University of
+California, San Diego and Cornell University.[117] The APXS instrument takes advantage of particle-
+induced X-ray emission (PIXE) and X-ray fluorescence, previously exploited by the Mars Pathfinder
+and the two Mars Exploration Rovers.[116][118]
+CheMin is the Chemistry and Mineralogy X-ray
+powder diffraction and fluorescence
+instrument.[120] CheMin is one of four
+spectrometers. It can identify and quantify the
+abundance of the minerals on Mars. It was
+developed by David Blake at NASA Ames Research
+Center and the Jet Propulsion Laboratory,[121] and
+won the 2013 NASA Government Invention of the
+year award.[122] The rover can drill samples from
+rocks and the resulting fine powder is poured into the instrument via a sample inlet tube on the top of
+the vehicle. A beam of X-rays is then directed at the powder and the crystal structure of the minerals
+deflects it at characteristic angles, allowing scientists to identify the minerals being analyzed.[123]
+On October 17, 2012, at "Rocknest", the first X-ray diffraction analysis of Martian regolith was
+performed. The results revealed the presence of several minerals, including feldspar, pyroxenes and
+olivine, and suggested that the Martian regolith in the sample was similar to the "weathered basaltic
+soils" of Hawaiian volcanoes.[119] The paragonetic tephra from a Hawaiian cinder cone has been
+mined to create Martian regolith simulant for researchers to use since 1998.[124][125]
+Alpha Particle X-ray Spectrometer (APXS)
+Chemistry and Mineralogy (CheMin)
+First X-ray diffraction view of Martian
+regolith (Curiosity at Rocknest, October
+17, 2012)[119]
+First night-time pictures on Mars (white-light
+left/UV right) (Curiosity viewing Sayunei rock,
+January 22, 2013)
+CheMin eventually found carbonates in the form of crystalline
+siderite (FeCO3). One rock contained over 10% of the mineral.
+Some rocks also were composed of plagioclase with the
+elements sodium (Na)–, Ca-, and aluminum (Al)–, as well as
+Ca- and Mg-bearing silicate mineral pyroxene. Other minerals
+found were calcium sulfates, magnesium sulfates, different
+amounts of iron oxyhydroxides, and an unidentified x-ray
+amorphous material. Rover's Chemistry and Mineralogy
+(CheMin) instrument uses x-ray diffraction to determine
+sample mineralogy. The names of the rock formations and
+drill sites are CA, Canaima; TC, Tapo Caparo; UB, Ubajara;
+and SQ, Sequoia. V[126]
+The SAM instrument suite analyzes organics and gases
+from both atmospheric and solid samples. It consists of
+instruments developed by the NASA Goddard Space Flight
+Center, the NASA Jet Propulsion Laboratory the
+Laboratoire atmosphères, milieux, observations spatiales
+(LATMOS), the Laboratoire Inter-Universitaire des
+Systèmes Atmosphériques (LISA) (jointly operated by
+France's CNRS and Parisian universities), and Honeybee Robotics, along with many additional
+external partners.[84][127][128] The three main instruments are a Quadrupole Mass Spectrometer
+(QMS), a gas chromatograph (GC) and a tunable laser spectrometer (TLS). These instruments
+perform precision measurements of oxygen and carbon isotope ratios in carbon dioxide (CO2) and
+methane (CH4) in the atmosphere in order to distinguish between their geochemical or biological
+origin.[84][128][129][130]
+Sample Analysis at Mars (SAM) discovered over 20 organic molecules from clay-bearing sandstones.
+The molecules were in the ~3.5-billion-year-old Knockfarrill Hill member of Glen Torridon, Gale
+crater. It cannot be determined how these molecules were made. They could be exogenous (e.g.,
+meteoritic, cometary, or interplanetary dust particles) or endogenous (e.g., abiotically or biologically
+produced).[131][132][133]
+The Dust Removal Tool (DRT) is a motorized, wire-bristle brush on the turret at the end of Curiosity's
+arm. The DRT was first used on a rock target named Ekwir_1 on January 6, 2013. Honeybee Robotics
+built the DRT.[134]
+Sample Analysis at Mars (SAM)
+Dust Removal Tool (DRT)
+First use of Curiosity's Dust Removal Tool
+(DRT) (January 6, 2013); Ekwir_1 rock
+before/after cleaning (left) and closeup (right)
+A lab tech holding the RAD, only the top
+rim of which is visible from outside the
+rover body
+MARDI camera
+The role of the Radiation assessment detector (RAD)
+instrument is to characterize the broad spectrum of
+radiation environment found inside the spacecraft during
+the cruise phase and while on Mars. These measurements
+have never been done before from the inside of a
+spacecraft in interplanetary space. Its primary purpose is
+to determine the viability and shielding needs for
+potential human explorers, as well as to characterize the
+radiation environment on the surface of Mars, which it started
+doing immediately after MSL landed in August 2012.[135]
+Funded by the Exploration Systems Mission Directorate at
+NASA Headquarters and Germany's Space Agency (DLR),
+RAD was developed by Southwest Research Institute (SwRI)
+and the extraterrestrial physics group at Christian-Albrechts-
+Universität zu Kiel, Germany.[135][136]
+The DAN instrument employs a neutron source and detector
+for measuring the quantity and depth of hydrogen or ice and
+water at or near the Martian surface.[137] The instrument
+consists of the detector element (DE) and a 14.1 MeV pulsing
+neutron generator (PNG). The die-away time of neutrons is
+measured by the DE after each neutron pulse from the PNG.
+DAN was provided by the Russian Federal Space
+Agency[138][139] and funded by Russia.[140]
+MARDI is fixed to the lower front left corner of the body of
+Curiosity. During the descent to the Martian surface, MARDI
+took color images at 1600×1200 pixels with a 1.3-millisecond
+exposure time starting at distances of about 3.7 km (2.3 mi) to
+near 5 m (16 ft) from the ground, at a rate of four frames per
+second for about two minutes.[89][141] MARDI has a pixel scale of
+1.5 m (4 ft 11 in) at 2 km (1.2 mi) to 1.5 mm (0.059 in) at 2 m (6 ft
+7 in) and has a 90° circular field of view. MARDI has eight
+gigabytes of internal buffer memory that is capable of storing
+over 4,000 raw images. MARDI imaging allowed the mapping of
+surrounding terrain and the location of landing.[89] JunoCam, built for the Juno spacecraft, is based
+on MARDI.[142]
+Radiation assessment detector (RAD)
+Dynamic Albedo of Neutrons (DAN)
+Mars Descent Imager (MARDI)
+First use of Curiosity's scooper as it sifts a load
+of sand at Rocknest (October 7, 2012)
+First drill tests (John Klein rock,
+Yellowknife Bay, February 2,
+2013).[143]
+The rover has a 2.1 m (6 ft 11 in) long robotic arm with a
+cross-shaped turret holding five devices that can spin
+through a 350° turning range.[144][145] The arm makes use
+of three joints to extend it forward and to stow it again
+while driving. It has a mass of 30 kg (66 lb) and its
+diameter, including the tools mounted on it, is about
+60 cm (24 in).[146] It was designed, built, and tested by
+MDA US Systems, building upon their prior robotic arm
+work on the Mars Surveyor 2001 Lander, the Phoenix
+lander, and the two Mars Exploration Rovers, Spirit and
+Opportunity.[147]
+Two of the five devices are in-situ or contact instruments
+known as the X-ray spectrometer (APXS), and the Mars
+Hand Lens Imager (MAHLI camera). The remaining three
+are associated with sample acquisition and sample
+preparation functions: a percussion drill; a brush; and
+mechanisms for scooping, sieving, and portioning samples
+of powdered rock and regolith.[144][146] The diameter of
+the hole in a rock after drilling is 1.6 cm (0.63 in) and up
+to 5 cm (2.0 in) deep.[145][148] The drill carries two spare
+bits.[148][149] The rover's arm and turret system can place the APXS
+and MAHLI on their respective targets, and also obtain powdered
+sample from rock interiors, and deliver them to the SAM and CheMin
+analyzers inside the rover.[145]
+Since early 2015 the percussive mechanism in the drill that helps
+chisel into rock has had an intermittent electrical short.[150] On
+December 1, 2016, the motor inside the drill caused a malfunction
+that prevented the rover from moving its robotic arm and driving to
+another location.[151] The fault was isolated to the drill feed
+brake,[152] and internal debris is suspected of causing the
+problem.[150] By December 9, 2016, driving and robotic arm
+operations were cleared to continue, but drilling remained suspended
+indefinitely.[153] The Curiosity team continued to perform
+diagnostics and testing on the drill mechanism throughout 2017,[154] and resumed drilling operations
+on May 22, 2018.[155]
+In 2026 photos showed the percussive drill stuck in a rock, holding it in the air. A later image showed
+the drill bit dislodged from the rock and broken pieces of rock on the surface.[156] The rover has two
+extra drill bits, if replacements are needed.[157][158]
+Robotic arm

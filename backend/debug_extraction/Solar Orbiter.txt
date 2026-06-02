@@ -1,0 +1,186 @@
+Solar Orbiter
+Artist's impression of the Solar Orbiter orbiting the Sun
+Mission type Heliophysics
+Operator ESA / NASA
+COSPAR ID 2020-010A (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2020-010A)
+SATCAT no. 45167
+Website Official website (https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbit
+er) 
+Mission duration 7 years (nominal)
++ 3 years (extended)[1][2]
+Elapsed: 6 years, 3 months and 19 days
+Spacecraft properties
+Manufacturer Airbus Defence and Space
+Launch mass 1,800 kg (4,000 lb)[3]
+Payload mass 209 kg (461 lb)[4]
+Dimensions 2.5 × 3.1 × 2.7 m (8 × 10 × 9 ft)[3]
+Power 180 watts[3]
+Start of mission
+Launch date 10 February 2020, 04:03 UTC[5]
+Rocket Atlas V 411 (AV-087)[6]
+Launch site Cape Canaveral, SLC ‑ 41
+Contractor United Launch Alliance
+Entered service November 2021
+(start of main mission)
+Orbital parameters
+Reference systemHeliocentric
+Regime Elliptic orbit
+Perihelion
+altitude
+0.28 AU (42 million km; 26 million mi)[6]
+Aphelion altitude 0.91 AU (136 million km; 85 million mi)
+Inclination 24° (nominal mission)
+33° (extended mission)
+Period 168 days
+Main telescope
+Type Ritchey–Chrétien reflector
+Diameter 160 mm
+Focal length 2.5 m
+Solar Orbiter
+The Solar Orbiter (SolO)[7] is a Sun-observing probe developed by theEuropean Space Agency (ESA) with aNASA contribution. Solar Orbiter, designedto obtain detailed measurements of theinner heliosphere and the nascent solarwind, also performs close observations ofthe polar regions of the Sun which isdifficult to do from Earth. Theseobservations are important in investigatinghow the Sun creates and controls itsheliosphere.
+Solar Orbiter makes observations of theSun from an eccentric orbit moving as closeas ≈60 solar radii (RS), or 0.284astronomical units (au), placing it insideMercury's perihelion of 0.3075 au.[8]
+During the mission the orbital inclinationwill be raised to about 24°. The totalmission cost is US$1.5 billion, countingboth ESA and NASA contributions.[9] SolarOrbiter was launched on 10 February 2020from Cape Canaveral, Florida, USA. Thenominal mission is planned until the end of2026, with a potential extension until2030.[10]
+During the initial cruise phase, whichlasted until November 2021, Solar Orbiterperformed two gravity-assist manoeuvresaround Venus and one around Earth toalter the spacecraft's trajectory, guiding ittowards the innermost regions of the SolarSystem. At the same time, Solar Orbiteracquired in situ data to characterise andcalibrate its remote-sensing instruments.The first close solar pass took place on 26March 2022 at around a third of Earth'sdistance from the Sun.[11][12]
+The spacecraft's orbit has been chosen tobe in resonance with Venus, which meansthat it will return to the planet's vicinityevery few orbits and can again use theplanet's gravity to alter or tilt its orbit.Initially, Solar Orbiter was confined to thesame orbital plane as the planets, but eachencounter of Venus will increase its orbitalinclination. For example, following the2025 Venus encounter it makes solarpasses at 17° inclination, increasing to 33°
+Mission overview
+The Sun is the star located atthe centre of the Solar System.It is a massive sphere of hotplasma, heated toincandescence by nuclearfusion reactions in its core,radiating the energy from itssurface mainly as visible light d i f d dii ih
+Wavelengths Visible light, ultraviolet, X-rays
+Instruments
+ESA isnignia (2020s)
+Cosmic Vision (Science Programme)
+Living With a Star program
+A comparison of the size of the Sun asseen from Earth (left, 1 au) and from theSolar Orbiter spacecraft (0.284 au, right)
+The Solar Orbiter structural thermalmodel shortly before leaving the AirbusDefence and Space facility in Stevenage,UK
+Solar Orbiter spacecraft is prepared forencapsulation in the United LaunchAlliance Atlas V payload fairing.
+during a proposed mission extensionphase, bringing even more of the polarregions into direct view.[11]
+The spacecraft makes a close approach tothe Sun every six months.[3] The closestapproaches are positioned to allow arepeated study of the same region of thesolar atmosphere. Solar Orbiter is able toobserve the magnetic activity building upin the atmosphere that can lead to powerfulsolar flares or eruptions.[13]
+Researchers also have the chance tocoordinate observations with NASA's Parker Solar Probe mission (2018–present) which isperforming measurements of the Sun's extended corona,[14][15] as well as other ground-based assetssuch as the Daniel K. Inouye Solar Telescope.[16][17]
+The objective of the mission is to perform close-up, high-resolution studies of the Sun and its innerheliosphere. The new understanding will help answer these questions:[18]
+How and where do the solar wind plasma and magnetic field originate in the corona?[19]
+How do solar transients drive heliospheric variability?[20]
+How do solar eruptions produce energetic particle radiation that fills the heliosphere?[21]
+How does the solar dynamo work and drive connections between the Sun and theheliosphere?[22]
+The Solar Orbiter spacecraft is a Sun-pointed, three-axis stabilised platform with a dedicated heatshield to provide protection from the high levels of solar flux near perihelion. The 21 sensors wereconfigured on the spacecraft to allow each to conduct its in-situ or remote-sensing experiments withboth access to and protection from the solar environment. Solar Orbiter has inherited technologyfrom previous missions, such as the solar arrays from ESA's BepiColombo Mercury Planetary Orbiter(MPO). The solar arrays can be rotated about their longitudinal axis to avoid overheating when closeto the Sun. A battery pack provides supplementary power at other points in the mission such aseclipse periods encountered during planetary flybys.[23]
+The Telemetry, Tracking, and Command Subsystem provides the communication link capability withthe Earth in X-band. The subsystem supports telemetry, telecommand and ranging. Low-gainantennas are used for Launch and Early Orbit Phase (LEOP) and function as a back-up during themission phase when steerable medium- and high-gain antennas are in use.[23]
+The High-Temperature High-Gain Antenna needs to point to a wide range of positions to achieve alink with the ground station and to be able to downlink sufficient volumes of data. Its design wasadapted from the BepiColombo mission. The antenna can be folded in to gain protection from SolarOrbiter's heat shield if necessary. Most data will therefore initially be stored in on-board memory andsent back to Earth at the earliest possible opportunity.[23]
+During nominal science operations, science data is downlinked for eight hours during eachcommunication period with the ground station. Additional eight-hour downlink passes are scheduledas needed to reach the required total science data return of the mission. The Solar Orbiter groundsegment makes maximum reuse of ESA's infrastructure for Deep Space missions:
+The ground stations, which belong to ESA's space tracking station network (ESTRACK)The Mission Operations Centre (MOC), located at ESOC, Darmstadt, GermanyThe Science Operations Centre (SOC), located at ESAC, Villanueva de la Cañada, Spain
+Objectives
+Spacecraft
+Communication
+The flight model of the ElectrostaticAnalyser System (EAS), which is part ofthe Solar Wind Analyser (SWA) Suite
+STIX
+The communications network, linking the various remotely located centres and stations to support the operational data traffic[24]
+The Science Operations Centre was responsible for mission planning and the generation of payload operations requests to the MOC, as wellas science data archiving. The SOC has been operational for the active science phase of the mission, i.e. from the beginning of the CruisePhase onwards. The handover of payload operations from the MOC to the SOC is performed at the end of the Near-Earth CommissioningPhase (NECP). ESA's Malargüe Station in Argentina will be used for all operations throughout the mission, with the ground stations of NewNorcia Station, Australia, and Cebreros Station, Spain, acting as backup when necessary.[24][1]
+The science payload is composed of 10 instruments:[25]
+SWA – Solar Wind Plasma Analyser (United Kingdom): Consists of a suite of sensors thatmeasures the ion and electron bulk properties (including density, velocity, and temperature) of thesolar wind, thereby characterizing the solar wind between 0.28 and 1.4 au from the Sun. Inaddition to determining the bulk properties of the wind, SWA provides measurements of solarwind ion composition for key elements (e.g. the C, N, O group and Fe, Si or Mg)[4][26]
+EPD – Energetic Particle Detector (Spain): Measures the composition, timing and distributionfunctions of suprathermal and energetic particles. Scientific topics to be addressed include thesources, acceleration mechanisms, and transport processes of these particles[4]
+MAG – Magnetometer (United Kingdom): Provides in situ measurements of the heliosphericmagnetic field (up to 64 Hz) with high precision. This will facilitate detailed studies into the waythe Sun's magnetic field links into space and evolves over the solar cycle; how particles areaccelerated and propagate around the Solar System, including to the Earth; how the corona andsolar wind are heated and accelerated[4]
+RPW – Radio and Plasma Waves (France): Unique amongst the Solar Orbiter instruments, RPWmakes both in situ and remote-sensing measurements. RPW measures magnetic and electricfields at high time resolution using a number of sensors/antennas, to determine thecharacteristics of electromagnetic and electrostatic waves in the solar wind[4]
+PHI – Polarimetric and Helioseismic Imager (Germany): Provides high-resolution and full-diskmeasurements of the photospheric vector magnetic field and line-of-sight (LOS) velocity as wellas the continuum intensity in the visible wavelength range. The LOS velocity maps have the accuracy and stability to allow detailedhelioseismic investigations of the solar interior, in particular of the solar convection zone high-resolution and full-disk measurements ofthe photospheric magnetic field[4]
+EUI – Extreme Ultraviolet Imager (Belgium): Images the solar atmospheric layers above the photosphere, thereby providing anindispensable link between the solar surface and outer corona that ultimately shapes the characteristics of the interplanetary medium.Also, EUI provides the first-ever UV images of the Sun from an out-of-ecliptic viewpoint (up to 33° of solar latitude during the extendedmission phase)[4]
+SPICE – Spectral Imaging of the Coronal Environment (France): Performs extreme ultraviolet imaging spectroscopy to remotelycharacterize plasma properties of the Sun's on-disk corona. This will enable matching in situ composition signatures of solar windstreams to their source regions on the Sun's surface[4][27][28]
+STIX – Spectrometer Telescope for Imaging X-rays (Switzerland): Provides imaging spectroscopy of solar thermal and non-thermal X-rayemission from 4 to 150 keV. STIX provides quantitative information on the timing, location, intensity, and spectra of accelerated electronsas well as of high-temperature thermal plasmas, mostly associated with flares and/or microflares[4]
+Metis[29] – Coronagraph (Italy): Simultaneously images the visible and far ultraviolet emissions of the solar corona and diagnoses, withunprecedented temporal coverage and spatial resolution, the structure and dynamics of the full corona in the range from 1.4 to 3.0 (from1.7 to 4.1) solar radii from Sun centre, at minimum (maximum) perihelion during the nominal mission. This is a region that is crucial inlinking the solar atmospheric phenomena to their evolution in the inner heliosphere[4]
+SoloHI – Solar Orbiter Heliospheric Imager (United States): Images both the quasi-steady flow and transient disturbances in the solarwind over a wide field of view by observing visible sunlight scattered by solar wind electrons. SoloHI provides unique measurements topinpoint coronal mass ejections (CMEs). (NRL provided)[4][30]
+The following institutions operate each instrument:[31]
+Solar Wind Plasma Analyser (SWA): Mullard Space Science LaboratoryEnergetic Particle Detector (EPD): University of Alcala, University of Kiel (CAU)Magnetometer (MAG): Imperial College LondonRadio and Plasma Waves (RPW): Observatoire de Paris
+Instruments
+Heliospheric in-situ instruments (4)
+Solar remote-sensing instruments (6)
+Institutions involved
+The launch of Solar Orbiter from CapeCanaveral at 11.03pm EST on 9February 2020 (US date)
+Solar Orbiter—journey around the Sun
+Timeline of X-class flares from activeregion AR3664 that caused the solar
+storms of May 2024[36]
+Polarimetric and Helioseismic Imager (PHI): Max Planck Institute for Solar System Research (MPS), Instituto de Astrofísica de Andalucía(IAA)Extreme Ultraviolet Imager (EUI): Royal Observatory of Belgium, Centre Spatial de Liège, Institut d'astrophysique spatiale, Max PlanckInstitute for Solar System Research (MPS), Physikalisch-Meteorologisches Observatorium Davos (PMOD/WRC) [32]
+Spectral Imaging of the Coronal Environment (SPICE): Institut d'astrophysique spatiale Rutherford Appleton Laboratory, Max PlanckInstitute for Solar System Research (MPS)Spectrometer/Telescope for Imaging X-rays (STIX): FHNW, Space Research Centre of Polish Academy of Sciences, Leibniz-Institut fürAstrophysik Potsdam (AIP)[33]
+Coronagraph (Metis): University of Florence, INAF, Max Planck Institute for Solar System Research (MPS)Heliospheric Imager (SoloHI): United States Naval Research Laboratory
+Solar Orbiter represented, at the time of its launch, the largest contribution of Czech researchers and companies to any spaceflight project. Intotal, five teams from the Czech Republic took part in preparation of four of the scientific instruments.[34][35]
+The €319 million contract to build orbiter was awarded to Astrium UK in April 2012[37] Thespacecraft's solar shield completed 2 week bake test in June 2014[38] In April 2015, the launch was setback from July 2017 to October 2018.[39] In August 2017, Solar Orbiter was considered on track for alaunch in February 2019.[40] The spacecraft is shipped to IABG in Germany to begin theenvironmental test campaign in September 2018.[41]
+The Atlas V 411 (AV-087) lifted off from SLC-41 at Cape Canaveral, Florida, on 10 February 2020 at04:03 UTC. The Solar Orbiter spacecraft separated from the Centaur upper stage nearly 53 minuteslater, and ESA acquired the first signals from the spacecraft a few minutes later.[9]
+After launch, Solar Orbiter entered the cruise phase, which lasted until late 2021.[42] Using repeatedgravity assists from Earth and Venus, the spacecraft reached its operational orbit, an elliptical orbitwith perihelion 0.29 AU and aphelion 0.91 AU. The first flyby was of Venus in December 2020.[43]
+In June 2020, Solar Orbiter came within 77,000,000 km (48,000,000 mi) of the Sun, and capturedthe closest pictures of the Sun ever taken.[44]
+During its cruise towards Venus, Solar Orbiter passed through the ion tail of comet C/2019 Y4(ATLAS) from 31 May to 1 June 2020. It passed through the comet's dust tail on 6 June 2020.[45][46]
+In December 2021, it flew through the tail of comet C/2021 A1 Leonard.[47]
+In August 2021, the second Venus flyby happened only 33 hours before another interplanetaryspacecraft by ESA, BepiColombo, conducted its gravity assist at the same planet. Both spacecraft usedtheir science instruments to study the magnetic, plasma, and particle environment around Venusduring their flybys, offering unique multipoint datasets. Solar Orbiter's SoloHI imager observed thenightside of Venus, surrounded by a bright crescent of the dayside, in the days before closestapproach. Solar Orbiter's magnetometer observed changes in Venus's magnetic environment alongthe trajectory, including a sharp drop as the spacecraft crossed the bow shock.[48][49][50]
+Over the expected mission duration of 7 years, Solar Orbiter will use additional gravity assists fromVenus to raise its inclination from 0° to 24°, allowing it a better view of the Sun's poles. If anextended mission is approved, the inclination could rise further to 33°.[1][51]
+The highest resolution image of the Sun's full disc and outer atmosphere, the corona, so far have beentaken on 7 March 2022.[52] In September 2022, scientists suggested a solution to the magneticswitchback mystery based on Solar Orbiter data from March 2022.[53]
+Mission timeline
+Before launch
+Launch
+Cruise phase
+Nominal mission phase
+2022
+The evolution of X-ray emission duringthe M7.7 class solar flare recorded bySolar Orbiter on 30 September 2024
+Why Solar Orbiter is angling towards theSun's poles
+Solar Orbiter traces superfast electronsback to Sun
+Extreme Ultraviolet Imager (EUI) video ofthe Sun from 9–12 November 2025
+Between 18 and 24 October 2022, the first coordinated observations of the Sun by Solar Orbiter andDaniel K. Inouye Solar Telescope were performed to demonstrate how such high-resolution jointobservations can help address important scientific questions in the field. Coordinated data weresuccessfully collected at several times throughout the week, enabling studies of coronal loop physics,the formation and evolution of small-scale active region brightenings, and coronal rain dynamics.[17]
+In 2022, Solar Orbiter and Parker Solar Probe (PSP) planners collaborated to study why the Sun'satmosphere is 150 times hotter than its surface. Solar Orbiter observed the Sun from 140 millionkilometers, while PSP simultaneously observed the Sun's corona from nearly 9 millionkilometers.[54][55]
+In March 2024, both Solar Orbiter and Parker Solar Probe (PSP) were at their closest approaches tothe Sun, PSP at 7.3 million km, and Solar Orbiter at 45 million km. Solar Orbiter observed the Sun,while PSP sampled the plasma of the solar wind, allowing scientists to compare data from bothprobes.[56]
+In mid-May 2024, the active sunspot region AR3664 caused the biggest solar storm to hit Earth inover 20 years. Solar Orbiter was able to observe the active region in late May, when it was facing awayfrom Earth, and documented the strongest solar flare yet of solar cycle 25 on 20 May, followed by asurge of fast ions and electrons detected by the EPD instrument. After that, the spacecraft's Metiscoronagraph observed a coronal mass ejection, whose effects on the spacecraft's environment weredetected by the MAG magnetometer about one day later. The solar flare of 20 May was also detectedby other ESA spacecraft, BepiColombo and Mars Express, as a large increase in the number ofmemory errors.[36] By combining the observations by Solar Orbiter and NASA's Solar DynamicsObservatory, scientists were able to track the active region continuously for 94 days, i.e. over threesolar rotations, creating the longest such series of observations so far.[57][58]
+On 30 September 2024, at its ninth perihelion, Solar Orbiter observed a M7.7-class solar flare usingEUI, PHI, SPICE, and STIX, which resulted in the most detailed recording of a large solar flare so farand allowed scientists to observe the build up of a "magnetic avalanche" just minutes before theflare.[59][60]
+In February 2025, Solar Orbiter left the orbital plane of the solar system after successfully completingthe 4th Venus flyby,[61] tilting its orbit to 17°. On 11 June 2025, the mission's first images and videosof the Sun's south pole (taken in March 2025) were released. These are the first images of the Sun'spoles taken from outside the ecliptic plane.[62]
+In September 2025, scientists published CoSEE-Cat: A Comprehensive Solar Energetic Electronevent Catalogue (https://coseecat.aip.de/) and identified two distinct types of solar energeticelectrons, one associated with intense solar flares and other with coronal mass ejections, using in situdata from Solar Orbiter.[63][64]
+In November 2025, scientists published first results based on the March 2025 observations of theSun's south pole. The supergranulation data from the PHI and EUI instruments show that, contraryto expectations and previous ecliptic-plane observations, Sun's magnetic field drifts toward the poles at approximately 10 to 20 meters persecond—almost as fast as it does at lower latitudes.[65][66]
+ISRO and ESA conducted a workshop at IIST in Thiruvanthapuram between 19 and 23 January 2026 presenting data from Aditya-L1, Proba-3, and Solar Orbiter presenting complementary vantage data points from each mission.[67]
+2024
+2025
+2026
+Animation of Solar Orbiter's trajectory
+Polar view. For more detailedanimation, see this video
+Equatorial view
+   Solar Orbiter  ·   Mercury  ·
+  Venus ·   Earth ·   Sun
+Date Event Distance from the Sun (AU) / a planet (km) Orbital inclination
+Cruise Phase
+15 Jun 2020 Perihelion #1 0.52 7.7°
+27 Dec 2020
+12:39 UTC Venus flyby #1 7,500[68]
+10 Feb 2021 Perihelion #2 0.49
+09 Aug 2021
+04:42 UTC Venus flyby #2 7,995[69]
+12 Sep 2021 Perihelion #3 0.59
+27 Nov 2021 Earth flyby 460[70]
+Nominal Mission Phase
+26 Mar 2022 Perihelion #4 0.32
+04 Sep 2022
+01:26 UTC Venus flyby #3 6,000[71]
+12 Oct 2022 Perihelion #5 0.29
+10 Apr 2023 Perihelion #6 0.29
+07 Oct 2023 Perihelion #7 0.29
+04 Apr 2024 Perihelion #8 0.29
+30 Sep 2024 Perihelion #9 0.29
+18 Feb 2025
+20:48 UTC Venus flyby #4 379[72] 17°[62]
+31 Mar 2025 Perihelion #10 0.29
+16 Sep 2025 Perihelion #11 0.29
+03 Mar 2026 Perihelion #12 0.29
+18 Aug 2026 Perihelion #13 0.29
+24 Dec 2026
+23:04 UTC Venus flyby #5 950 24°
+Extended Mission Phase
+06 Feb 2027 Perihelion #14 0.28
+06 Jul 2027 Perihelion #15 0.28
+03 Dec 2027 Perihelion #16 0.28
+18 Mar 2028
+08:22 UTC Venus flyby #6 350 33°
+7 May 2028 Perihelion #17 0.33
+04 Oct 2028 Perihelion #18 0.33
+03 Mar 2029 Perihelion #19 0.33
+10 Jun 2029
+17:47 UTC Venus flyby #7 350
+11 Aug 2029 Perihelion #20 0.37
+08 Jan 2030 Perihelion #21 0.37
+03 Sep 2030
+03:03 UTC Venus flyby #8 2650
+Trajectory
+06 Jun 2030 Perihelion #22 0.37
+Source:[73][10]
+The speed of the probe and distance from the Sun
+Since the launch of the mission, a series of papers have been released in three special issues of the Astronomy and Astrophysics Journal:
+The Solar Orbiter mission (https://www.aanda.org/component/toc/?task=topic&id=1082)Solar Orbiter First Results (Cruise Phase) (https://www.aanda.org/component/toc/?task=topic&id=1340) (Archived (https://web.archive.org/web/20231001155544/https://www.aanda.org/component/toc/?task=topic&id=1340) 1 October 2023 at the Wayback Machine)Solar Orbiter First Results (Nominal Mission Phase) (https://www.aanda.org/component/toc/?task=topic&id=1717) (Archived (https://web.archive.org/web/20230804044306/https://www.aanda.org/component/toc/?task=topic&id=1717) 4 August 2023 at the Wayback Machine)
+Meanwhile, regular "science nuggets (https://www.cosmos.esa.int/web/solar-orbiter/science-nuggets)" (Archived (https://web.archive.org/web/20230803151059/https://www.cosmos.esa.int/web/solar-orbiter/science-nuggets) 3 August 2023 at the Wayback Machine) arereleased on the Solar Orbiter science community website (https://www.cosmos.esa.int/web/solar-orbiter/home) (Archived (https://web.archive.org/web/20230803151306/https://www.cosmos.esa.int/web/solar-orbiter/home) 3 August 2023 at the Wayback Machine).
+Solar Orbiter news are regularly updated and listed in the official ESA public pages (https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter) Archived (https://web.archive.org/web/20220329191606/https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter) 29 March 2022 at the Wayback Machine, as well as on the Bluesky (https://bsky.app/profile/esaoperations.esa.int) Archived (https://web.archive.org/web/20250304114030/https://bsky.app/profile/esaoperations.esa.int) 4 March 2025 at the Wayback Machine andTwitter/X account (https://twitter.com/ESASolarOrbiter) Archived (https://web.archive.org/web/20231126191300/https://twitter.com/ESASolarOrbiter) 26 November 2023 at the Wayback Machine. Images taken by the spacecraft with various instruments can be found on theofficial Flickr account (https://www.flickr.com/photos/esa_solarorbiter/) Archived (https://web.archive.org/web/20230803151058/https://www.flickr.com/photos/esa_solarorbiter/) 3 August 2023 at the Wayback Machine.
+Results and updates

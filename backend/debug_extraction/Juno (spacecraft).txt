@@ -1,0 +1,512 @@
+Juno
+Artist's rendering of the Juno spacecraft
+Names New Frontiers 2
+Mission type Jupiter orbiter
+Operator NASA / Jet Propulsion Laboratory
+COSPAR ID 2011-040A (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2011-040A)
+SATCAT no. 37773
+Website www.nasa.gov/mission_pages/juno/main/index.html (https://www.nasa.gov/mission_p
+ages/juno/main/index.html) (NASA)
+www.missionjuno.swri.edu (https://www.missionjuno.swri.edu/) (SwRI)
+Mission
+duration
+Total:
+ 7 years (planned)
+ 14 years, 300 days (elapsed)
+Cruise:
+ 4 years, 335 days
+Prime mission:
+ 2 years (planned)
+ 5 years, 16 days
+Extended mission:
+ 4 years, 315 days (elapsed)[a]
+Spacecraft properties
+ManufacturerLockheed Martin Space
+Juno (spacecraft)
+Launch
+mass
+3,625 kg (7,992 lb)[1]
+Dry mass 1,593 kg (3,512 lb)[2]
+Dimensions 20.1 × 4.6 m (66 × 15 ft)[2]
+Power 14 kW at Earth,[2] 435 W at Jupiter [1]
+2 × 60-ampere hour, 28 Volt lithium-ion batteries[3]
+Start of mission
+Launch date August 5, 2011, 16:25:00 UTC
+Rocket Atlas V 551 (AV-029)
+Launch site Cape Canaveral, SLC-41
+Contractor United Launch Alliance
+Flyby of Earth
+Closest
+approach
+October 9, 2013
+Distance 559 km (347 mi)
+Jupiter orbiter
+Orbital
+insertion
+July 5, 2016,[4]
+9 years, 10 months, 26 days ago
+Orbits 76 (planned)[5][6]
+Orbital parameters
+Perijove
+altitude
+4,200 km (2,600 mi) altitude
+75,600 km (47,000 mi) radius
+Apojove
+altitude
+8.1×106 km (5.0×106 mi)
+Inclination 90° (polar orbit)
+Instruments
+Juno mission patch
+New Frontiers
+Juno is a NASA space probe orbiting the planet Jupiter. Built by Lockheed Martin and operated by NASA's Jet
+Propulsion Laboratory, the spacecraft was launched from Cape Canaveral Air Force Station on August 5, 2011
+UTC, as part of the New Frontiers program.[7] Juno entered a polar orbit of Jupiter on July 5, 2016, UTC,[5][8]
+to begin a scientific investigation of the planet.[9] After completing its mission, Juno was originally planned to
+be intentionally deorbited into Jupiter's atmosphere,[9] but has since been approved to continue orbiting until
+Juno in launch configuration
+contact is lost with the spacecraft.[10] It will continue to explore Jupiter
+to study Jovian rings and inner moons area which is not well
+explored;[11] this phase will also include close flybys of the moons
+Thebe[12], Amalthea, Adrastea, and Metis.[13]
+Juno's mission is to measure Jupiter's composition, gravitational field,
+magnetic field, and polar magnetosphere. It also searches for clues
+about how the planet formed, including whether it has a rocky core, the
+amount of water present within the deep atmosphere, mass
+distribution, and its deep winds, which can reach speeds up to
+620 km/h (390 mph).[14]
+Juno is the second spacecraft to orbit Jupiter, after the RTG-powered
+Galileo orbiter, which orbited from 1995 to 2003. Unlike all earlier
+spacecraft sent to the outer Solar System and beyond—which used
+radioisotope thermoelectric generators for power—Juno is powered by
+solar panels, more commonly used by satellites orbiting Earth and
+working in the inner Solar System.[9] Accordingly, Juno required the
+three largest solar panel wings ever deployed on a planetary probe (at
+the time of launching). These play an integral role in stabilizing the
+spacecraft as well as generating power.[15]
+As of February 2026, Juno remained operational and in contact with Earth through the NASA Deep Space
+Network.[16]
+Juno's name comes from Greek and Roman mythology. The god Jupiter drew a veil of clouds around
+himself to hide his mischief, and his wife, the goddess Juno, was able to peer through the clouds and
+reveal Jupiter's true nature.[17]
+A NASA compilation of mission names and acronyms referred to the mission by the backronym Jupiter Near-
+polar Orbiter.[18] However the project itself has consistently described it as a name with mythological
+associations[19] and not an acronym. The spacecraft's current name is in reference to the Roman goddess
+Juno.[17] Juno is sometimes called the New Frontiers 2 as the second mission in the New Frontiers
+program,[20][21] but is not to be confused with New Horizons 2, a proposed but unselected New Frontiers
+mission.
+Juno was selected on June 1, 2005, as the next New Frontiers mission after New Horizons.[22] The desire for a
+Jupiter probe was strong in the years prior to this, but there had not been any approved missions.[23][24] The
+Discovery Program had passed over the somewhat similar but more limited Interior Structure and Internal
+Dynamical Evolution of Jupiter (INSIDE Jupiter) proposal,[24] and the turn-of-the-century era Europa Orbiter
+was canceled in 2002.[23] The flagship-level Europa Jupiter System Mission was in the works in the early
+2000s, but funding issues resulted in it evolving into ESA's Jupiter Icy Moons Explorer.[25]
+Naming
+Overview
+Juno's interplanetary
+trajectory; tick marks at 30-day
+intervals.
+Juno spacecraft trajectory
+animation
+Animation of Juno's trajectory from
+August 5, 2011
+  Juno ·   Earth ·   Mars ·
+  Jupiter
+Juno awaiting its launch in 2011
+Juno completed a five-year cruise to
+Jupiter, arriving on July 5, 2016.[8] The
+spacecraft traveled a total distance of
+roughly 2.8×109 km (19 AU; 1.7×109 mi)
+to reach Jupiter.[26] The spacecraft was
+designed to orbit Jupiter 37 times over the
+course of its mission. This was originally
+planned to take 20 months.[5][6]
+Juno's trajectory used a gravity assist
+speed boost from Earth, accomplished by
+an Earth flyby in October 2013, two years
+after its launch on August 5, 2011.[27] The
+spacecraft performed an orbit insertion
+burn to slow it enough to allow capture. It
+was expected to make three 53-day orbits before performing another burn on
+December 11, 2016, that would bring it into a 14-day polar orbit called the Science
+Orbit. Because of a suspected problem in Juno's main engine, the burn scheduled
+on December 11, 2016, was cancelled and Juno remained in its 53-day orbit until
+the first Ganymede encounter of its Extended Mission.[28] This extended mission
+began with a flyby of Ganymede on June 7, 2021.[29][30] Subsequent flybys of
+Europa and then Io decreased the orbital period to 33 days by February
+2024.[31][32]
+During the science mission, infrared and microwave instruments will measure the thermal radiation emanating
+from deep within Jupiter's atmosphere. These observations will complement previous studies of its composition
+by assessing the abundance and distribution of water, and therefore oxygen. This data will provide insight into
+Jupiter's origins. Juno will also investigate the convection that drives natural circulation patterns in Jupiter's
+atmosphere. Other instruments aboard Juno will gather data about its gravitational field and polar
+magnetosphere. The Juno mission was planned to conclude in February 2018 after completing 37 orbits of
+Jupiter, but now has been commissioned through 2025 to do a further 42 additional orbits of Jupiter as well as
+close flybys of Ganymede, Europa and Io.[33] The probe was then intended to be deorbited and burnt up in
+Jupiter's outer atmosphere[5][6] to avoid any possibility of impact and biological contamination of one of its
+moons.[34]
+Juno was launched atop an Atlas V (551 configuration) at Cape
+Canaveral Air Force Station (CCAFS), Florida on August 5, 2011,
+16:25:00 UTC. The Atlas V (AV-029) used a Russian-built RD-180 main
+engine, powered by kerosene and liquid oxygen. The main engine
+ignited and underwent checkout then, 3.8 seconds later, the five strap-
+on solid rocket boosters (SRBs) ignited. Following the SRB burnout,
+about 93 seconds into the flight, two of the spent boosters fell away
+from the vehicle, followed 1.5 seconds later by the remaining three.
+When heating levels had dropped below predetermined limits, the
+payload fairing that protected Juno during launch and transit through the thickest part of the atmosphere
+separated, about 3 minutes 24 seconds into the flight. The Atlas V main engine cut off 4 minutes 26 seconds
+Flight trajectory
+Launch
+South America [39] as seen by
+JunoCam on its October 2013
+Earth flyby
+Video of Earth and Moon taken
+by the Juno spacecraft
+after liftoff. Sixteen seconds later, the Centaur second stage ignited, and it burned for about 6 minutes, putting
+the satellite into an initial parking orbit.[35] The vehicle coasted for about 30 minutes, and then the Centaur was
+reignited for a second firing of 9 minutes, placing the spacecraft on an Earth escape trajectory in a heliocentric
+orbit.[35]
+Prior to separation, the Centaur stage used onboard reaction engines to spin Juno up to 1.4 r.p.m. About 54
+minutes after launch, the spacecraft separated from the Centaur and began to extend its solar panels.[35]
+Following the full deployment and locking of the solar panels, Juno's batteries began to recharge. Deployment
+of the solar panels reduced Juno's spin rate by two-thirds. The probe is spun to ensure stability during the
+voyage and so that all instruments on the probe are able to observe Jupiter.[34][15]
+The voyage to Jupiter took five years, and included two orbital maneuvers in August and September 2012 and a
+flyby of the Earth on October 9, 2013.[36][37] When it reached the Jovian system, Juno had traveled
+approximately 19 astronomical units (2.8 billion kilometres).[38]
+Atlas V on launch pad
+ 
+Lift-off
+ 
+Launch video
+After traveling for about a year in an elliptical heliocentric orbit, Juno performed
+two deep space maneuvers (DSMs), firing its engine twice near aphelion (beyond
+the orbit of Mars) to change its orbit[40] and return to pass by the Earth at a
+distance of 559 kilometers in October 2013.[36] The combination of the DSMs and
+the resulting Earth flyby[41] helped Juno slingshot itself toward the Jovian system
+in a maneuver called a gravity assist.[42] The spacecraft received a boost in speed
+of more than 3.9 km/s (8,700 mph), and it was set on a course to
+Jupiter.[42][43][44] The flyby was also used as a rehearsal for the Juno science
+team to test some instruments and practice certain procedures before the arrival
+at Jupiter.[43]
+Jupiter's gravity accelerated the approaching spacecraft to around 210,000 km/h
+(130,000 mph).[5] On July 5, 2016, between 03:18 and 03:53 UTC Earth-received
+time, an insertion burn lasting 2,102 seconds decelerated Juno by 542 m/s
+(1,780 ft/s)[45] and changed its trajectory from a hyperbolic flyby to an elliptical,
+polar orbit with a period of about 53.5 days.[46] The spacecraft successfully
+entered Jovian orbit on July 5, 2016, at 03:53 UTC.[4]
+Juno's highly elliptical initial polar orbit takes it within 4,200 km (2,600 mi) of the planet and out to
+8.1×106 km (5.0×106 mi), far beyond Callisto's orbit. An eccentricity-reducing burn, called the Period
+Reduction Maneuver, was planned that would drop the probe into a much shorter 14 day science orbit.[47]
+Deep space maneuvers and flyby of the Earth
+Insertion into Jovian orbit
+Orbit and environment
+Juno's elliptical orbit and the Jovian
+radiation belts
+Animation of Juno's trajectory around
+Jupiter from June 1, 2016, to October 1,
+2028
+  Juno ·   Jupiter
+Originally, Juno was expected to complete 37 orbits over 20 months
+before the end of its mission. Due to problems with helium valves that
+are important during main engine burns, mission managers announced
+on February 17, 2017, that Juno would remain in its original 53-day
+orbit, since the chance of an engine misfire putting the spacecraft into a
+bad orbit was too high.[28] Juno completed only 12 science orbits before
+the end of its budgeted mission plan, ending July 2018.[48] In June
+2018, NASA extended the mission through July 2021.
+The orbits were carefully planned in order to minimize contact with
+Jupiter's dense radiation belts, which can damage spacecraft electronics
+and solar panels, by exploiting a gap in the radiation envelope near the
+planet, passing through a region of minimal radiation.[9][49] The Juno
+Radiation Vault, with 1-centimeter-thick titanium walls (three times as thick as the Galileo spacecraft body's),
+also aids in protecting Juno's electronics by reducing the incoming radiation by a factor of 800.[50] Despite the
+intense radiation, JunoCam and the Jovian Infrared Auroral Mapper (JIRAM) were designed to endure at least
+eight orbits, while the Microwave Radiometer (MWR) was made to endure at least eleven orbits. All
+instruments are operational as of perijove 71.[51] Although the flux of electrons close to Jupiter is about ten
+times as high as it is around Jupiter's moon Europa,[52] Juno will still receive a lower total dose of radiation in
+its polar orbit (20 Mrad through end of mission)[53] than the Galileo orbiter received in its equatorial orbit.
+Galileo's subsystems were damaged by radiation during its mission, including an LED in its data recording
+system.[54]
+The spacecraft completed its first flyby of Jupiter (perijove 1) on August
+26, 2016, and captured the first images of the planet's north pole.[55]
+On October 14, 2016, days prior to perijove 2 and the planned Period
+Reduction Maneuver, telemetry showed that some of Juno's helium
+valves were not opening properly.[56] On October 18, 2016, some 13
+hours before its second close approach to Jupiter, Juno entered into
+safe mode, an operational mode engaged when its onboard computer
+encounters unexpected conditions. The spacecraft powered down all
+non-critical systems and reoriented itself to face the Sun to gather the
+most power. Due to this, no science operations were conducted during
+perijove 2.[57]
+On December 11, 2016, the spacecraft completed perijove 3, with all but
+one instrument operating and returning data. One instrument, JIRAM,
+was off pending a flight software update.[58] Perijove 4 occurred on February 2, 2017, with all instruments
+operating.[28] Perijove 5 occurred on March 27, 2017.[59] Perijove 6 took place on May 19, 2017.[59][60]
+Although the mission's lifetime is inherently limited by radiation exposure, almost all of this dose was planned
+to be acquired during the perijoves. As of 2017, the 53.4 day orbit was planned to be maintained through July
+2018 for a total of twelve science-gathering perijoves. At the end of this prime mission, the project was planned
+to go through a science review process by NASA's Planetary Science Division to determine if it will receive
+funding for an extended mission.[28] In June 2018, NASA extended the mission operations plan to July
+2021.[61]
+Orbital operations
+Ganymede, photographed on
+7 June 2021 by Juno during its
+extended mission
+In January 2021, NASA extended the mission operations to September 2025.[62]
+In this phase Juno began to examine Jupiter's major moons, Ganymede, Europa
+and Io. A flyby of Ganymede occurred on June 7, 2021, 17:35 UTC, coming
+within 1,038 km (645 mi), the closest any spacecraft has come to the moon since
+Galileo in 2000.[29][30][63] A flyby of Europa took place on September 29, 2022,
+at a distance of 352 km (219 mi).[64][65] Juno performed two flybys of Io on
+December 30, 2023, and February 3, 2024, gathering observational data on
+volcanic activity. From April 2024, Juno will begin a series of experiments to
+learn more about Jupiter's interior shape and structure.[66]
+Juno's second extended mission (EM2) began in October 2025 with a planned
+three-year duration. Principal Investigator Scott Bolton noted "The new mission
+provides opportunities for Juno to unexplore new regions in the Jovian system,
+and to follow up on Juno's discoveries made during its prime and 1st extended
+missions. [...] During EM2, Juno will dive deep within Jupiter's inner radiation
+belts where the rings and inner moons reside. EM2 provides an opportunity for
+a thorough investigation of these components and their complex interaction, providing a unique data set to
+compare with other giant planet ring systems, including the ice giants."[67]
+NASA originally planned to deorbit the spacecraft into the atmosphere of Jupiter after completing 32 orbits of
+Jupiter. The controlled deorbit was intended to eliminate space debris and risks of contamination of possible
+life-bearing moons (especially Europa) by surviving terrestrial microorganisms onboard the spacecraft in
+accordance with NASA's planetary protection guidelines.[68][69][70] NASA has since extended the mission twice,
+first to September 2025 and again to September 2028 and no deorbit is planned.[71][62][67]
+Scott Bolton of the Southwest Research Institute in San Antonio, Texas is the principal investigator and is
+responsible for all aspects of the mission. The Jet Propulsion Laboratory in California manages the mission and
+the Lockheed Martin Corporation was responsible for the spacecraft development and construction. The
+mission is being carried out with the participation of several institutional partners. Coinvestigators include
+Toby Owen of the University of Hawaii, Andrew Ingersoll of California Institute of Technology, Frances Bagenal
+of the University of Colorado at Boulder, and Candy Hansen of the Planetary Science Institute. Jack Connerney
+of the Goddard Space Flight Center served as instrument lead.[72][73]
+Juno was originally proposed at a cost of approximately US$700 million (fiscal year 2003) for a launch in June
+2009 (equivalent to US$1225 million in 2025). NASA budgetary restrictions resulted in postponement until
+August 2011, and a launch on board an Atlas V rocket in the 551 configuration. As of 2019 the mission was
+projected to cost US$1.46 billion for operations and data analysis through 2022.[74]
+The Juno spacecraft's suite of science instruments will:[76]
+Determine the ratio of oxygen to hydrogen, effectively measuring the abundance of water in Jupiter, whichwill help distinguish among prevailing theories linking Jupiter's formation to the Solar System.
+Extended missions
+Planned deorbit and disintegration
+Team
+Cost
+Scientific objectives
+Jupiter imaged using the VISIR
+instrument on the Very Large Telescope,
+2016. These observations helped to plan
+Juno's mission.[75]
+Microwave Radiometer
+Jovian Infrared
+Auroral Mapper
+Obtain a better estimate of Jupiter's core mass, which will also helpdistinguish among prevailing theories linking Jupiter's formation tothe Solar System.
+Precisely map Jupiter's gravitational field to assess the distributionof mass in Jupiter's interior, including properties of its structure anddynamics.
+Precisely map Jupiter's magnetic field to assess the origin andstructure of the field, and the depth at which the planet's magneticfield is created. This experiment will also help scientists understandthe fundamental physics of dynamo theory.
+Map the variation in atmospheric composition, temperature,structure, cloud opacity and dynamics to pressures far greater than100 bar (10 MPa; 1,500 psi) at all latitudes.
+Characterize and explore the three-dimensional structure of
+Jupiter's polar magnetosphere and auroras.[76]
+Measure the orbital frame-dragging, known also as Lense–Thirring
+precession caused by the angular momentum of Jupiter,[77][78] and
+possibly a new test of general relativity effects connected with the
+Jovian rotation.[79]
+The Juno mission's scientific objectives are being achieved with a payload of nine instruments on board the
+spacecraft:[80][81][82][83][84]
+The microwave radiometer comprises six antennas mounted on two of the sides of
+the body of the probe. They will perform measurements of electromagnetic waves
+on frequencies in the microwave range: 600 MHz, 1.2, 2.4, 4.8, 9.6 and 22 GHz,
+the only microwave frequencies which are able to pass through the thick Jovian
+atmosphere. The radiometer will measure the abundance of water and ammonia in
+the deep layers of the atmosphere up to 200 bar (20 MPa; 2,900 psi) pressure or
+500–600 km (310–370 mi) deep. The combination of different wavelengths and
+the emission angle should make it possible to obtain a temperature profile at
+various levels of the atmosphere. The data collected will determine how deep the
+atmospheric circulation is.[85][86] The MWR is designed to function through orbit 11 of Jupiter.[87]
+(Principal investigator: Mike Janssen, Jet Propulsion Laboratory)
+The spectrometer mapper JIRAM, operating in the near infrared (between 2 and 5 μm),
+conducts surveys in the upper layers of the atmosphere to a depth of between 50 and 70 km
+(31 and 43 mi) where the pressure reaches 5 to 7 bar (500 to 700 kPa). JIRAM will provide
+images of the aurora in the wavelength of 3.4 μm in regions with abundant H3+ ions. By
+measuring the heat radiated by the atmosphere of Jupiter, JIRAM can determine how clouds
+with water are flowing beneath the surface. It can also detect methane, water vapor,
+ammonia and phosphine. It was not required that this device meets the radiation resistance
+requirements.[88][89][90] The JIRAM instrument is expected to operate through the eighth
+orbit of Jupiter.[87]
+(Principal investigator: Alberto Adriani, Italian National Institute for Astrophysics)
+Scientific instruments
+Microwave radiometer (MWR)
+Jovian Infrared Auroral Mapper (JIRAM)
+MAG
+Gravity Science
+JADE
+JEDI
+JIRAM's spin-compensation mirror is stuck since PJ44, but the instrument is operational.[91]
+The magnetic field investigation has three goals: mapping of the magnetic field,
+determining the dynamics of Jupiter's interior, and determination of the three-
+dimensional structure of the polar magnetosphere. The magnetometer experiment
+consists of the Flux Gate Magnetometer (FGM), which will observe the strength
+and direction of the magnetic field lines, and the Advanced Stellar Compass (ASC),
+which will monitor the orientation of the magnetometer sensors.[82]
+(Principal investigator: Jack Connerney, NASA's Goddard Space Flight Center)
+The purpose of measuring gravity by radio waves is to establish a map of the distribution of
+mass inside Jupiter. The uneven distribution of mass in Jupiter induces small variations in
+gravity all along the orbit followed by the probe when it runs closer to the surface of the
+planet. These gravity variations drive small probe velocity changes. The purpose of radio
+science is to detect the Doppler effect on radio broadcasts issued by Juno toward Earth in
+Ka-band and X-band, which are frequency ranges that can conduct the study with fewer
+disruptions related to the solar wind or Jupiter's ionosphere.[92][93][81]
+(Principal investigator: John Anderson, Jet Propulsion Laboratory; Principal investigator (Juno's Ka-band
+Translator): Luciano Iess, Sapienza University of Rome)
+The energetic particle detector JADE will measure the angular distribution,
+energy, and the velocity vector of ions and electrons at low energy (ions
+between 13 eV and 20 KeV, electrons of 200 eV to 40 KeV) present in the aurora
+of Jupiter. On JADE, like JEDI, the electron analyzers are installed on three
+sides of the upper plate which allows a measure of frequency three times
+higher.[81][94]
+(Principal investigator: David McComas, Southwest Research Institute)
+The energetic particle detector JEDI will measure the angular distribution and the
+velocity vector of ions and electrons at high energy (ions between 20 keV and 1 MeV,
+electrons from 40 to 500 keV) present in the polar magnetosphere of Jupiter. JEDI has
+three identical sensors dedicated to the study of particular ions of hydrogen, helium,
+oxygen and sulfur.[81][95]
+(Principal investigator: Barry Mauk, Applied Physics Laboratory)
+This instrument will identify the regions of auroral currents that define Jovian radio emissions and acceleration
+of the auroral particles by measuring the radio and plasma spectra in the auroral region. It will also observe the
+interactions between Jupiter's atmosphere and magnetosphere. The instrument consists of two antennae that
+detect radio and plasma waves.[82]
+(Principal investigator: William Kurth, University of Iowa)
+Magnetometer (MAG)
+Gravity Science (GS)
+Jovian Auroral Distributions Experiment (JADE)
+Jovian Energetic Particle Detector Instrument (JEDI)
+Radio and Plasma Wave Sensor (Waves)
+Radio and
+Plasma Wave
+Sensor
+Ultraviolet
+Spectrograph
+JunoCam
+UVS will record the wavelength, position and arrival time of detected ultraviolet photons
+during the time when the spectrograph slit views Jupiter during each turn of the spacecraft.
+The instrument will provide spectral images of the UV auroral emissions in the polar
+magnetosphere.[82]
+(Principal investigator: G. Randall Gladstone, Southwest Research Institute)
+A visible light camera/telescope, included in the payload to facilitate education and
+public outreach; later re-purposed to study the dynamics of Jupiter's clouds, particularly
+those at the poles.[96] It was anticipated that it would operate through only eight orbits
+of Jupiter ending in September 2017[51] due to the planet's damaging radiation and
+magnetic field,[87][97] during Juno's 47th orbit, the imager began showing hints of
+radiation damage. By orbit 56, nearly all the images were corrupted; the cause was
+identified as a damaged voltage regulator. By annealing the camera at a temperature of
+25 °C (77 °F), the camera was brought back to operations. Junocam undergoes this
+operation periodically and as of July 2025 remains in operation.[98]
+(Principal investigator: Michael C. Malin, Malin Space Science Systems)
+Locations of Juno's science instruments Interactive 3D model of Juno
+Juno's satellite bus, its main electronics and propulsion box, is a hexagonal prism.[2]
+Ultraviolet Spectrograph (UVS)
+JunoCam (JCM)
+3D
+Operational components
+Satellite bus
+Illumination test on one of Juno's solar
+panels
+Juno's high-gain antenna dish being
+installed
+Juno is the first mission to Jupiter and the Outer Solar System to use
+solar panels instead of the radioisotope thermoelectric generators
+(RTG) used by Pioneer 10, Pioneer 11, the Voyager program, Ulysses,
+Cassini–Huygens, New Horizons, and the Galileo orbiter.[99][100] Once
+in orbit around Jupiter, Juno receives only 4% as much sunlight as it
+would on Earth, but the global shortage of plutonium-238 at the
+time,[101][102][103][104] as well as advances made in solar cell technology
+over the past several decades, makes it economically preferable to use
+solar panels of practical size to provide power at a distance of 5 AU from
+the Sun.[105]
+The Juno spacecraft uses three solar panels symmetrically arranged
+around the spacecraft. Shortly after it cleared Earth's atmosphere, the panels were deployed. Two of the panels
+have four hinged segments each, and the third panel has three segments and a magnetometer. Each panel is 2.7
+by 8.9 m (8 ft 10 in by 29 ft 2 in)[106] providing 50 square metres (540 sq ft) of active cells[107][108] – the largest
+on any NASA deep-space probe at the time of launching.[17]
+The combined mass of the three panels is nearly 340 kg (750 lb).[15] If the panels were optimized to operate at
+Earth, they would produce 12 to 14 kilowatts of power. Only about 486 watts were generated when Juno arrived
+at Jupiter, projected to decline to near 420 watts as radiation degrades the cells.[109] The solar panels will
+remain in sunlight continuously from launch through the end of the mission, except for short periods during the
+operation of the main engine and eclipses by Jupiter. A central power distribution and drive unit monitors the
+power that is generated by the solar panels and distributes it to instruments, heaters, and experiment sensors,
+as well as to batteries that are charged when excess power is available. Two 55 Ah lithium-ion batteries that are
+able to withstand the radiation environment of Jupiter provide power when Juno passes through eclipse.[110]
+Juno uses in-band signaling ("tones") for several critical operations as
+well as status reporting during cruise mode,[111] but it is expected to be
+used infrequently. Communications are via the 34 m (112 ft) and 70 m
+(230 ft) antennas of the NASA Deep Space Network (DSN) utilizing an
+X-band direct link.[110] The command and data processing of the Juno
+spacecraft includes a flight computer capable of providing about
+50 Mbit/s of instrument throughput. Gravity science subsystems use
+the X-band and Ka-band Doppler tracking and autoranging.[112]
+Due to telecommunications constraints, Juno will only be able to return
+about 40 megabytes of JunoCam data during each 11-day orbital period,
+limiting the number of images that are captured and transmitted during
+each orbit to somewhere between 10 and 100 depending on the compression level used.[113] The overall amount
+of data downlinked on each orbit is significantly higher and used for the mission's scientific instruments;
+JunoCam is intended for public outreach and is thus secondary to the science data. This is comparable to the
+previous Galileo mission that orbited Jupiter, which captured thousands of images[114] despite its slow data rate
+of 1000 bit/s (at maximum compression level) due to the failure of its high gain antenna.
+The communication system is also used as part of the Gravity Science experiment.[115]
+Solar panels
+Telecommunications
+Galileo Galilei plaque
+Juno uses a LEROS 1b main engine with hypergolic propellant, manufactured by Moog Inc in Westcott,
+Buckinghamshire, England.[116] It uses approx. 2,000 kg (4,400 lb) of hydrazine and nitrogen tetroxide for
+propulsion, including 1,232 kg (2,716 lb) available for the Jupiter Orbit Insertion plus subsequent orbital
+maneuvers. The engine provides a thrust of 645 newtons. The engine bell is enclosed in a debris shield fixed to
+the spacecraft body, and is used for major burns. For control of the vehicle's orientation (attitude control) and
+to perform trajectory correction maneuvers, Juno utilizes a monopropellant reaction control system (RCS)
+consisting of twelve small thrusters that are mounted on four engine modules.[110]
+Juno carries a plaque to Jupiter, dedicated to Galileo Galilei. The plaque
+was provided by the Italian Space Agency (ASI) and measures 7.1 by
+5.1 cm (2.8 by 2.0 in). It is made of flight-grade aluminum and weighs
+6 g (0.21 oz).[117] The plaque depicts a portrait of Galileo and a text in
+Galileo's own handwriting, penned in January 1610, while observing
+what would later be known to be the Galilean moons.[117] The text
+translates as:
+On the 11th it was in this formation – and the star closest to
+Jupiter was half the size than the other and very close to the
+other so that during the previous nights all of the three
+observed stars looked of the same dimension and among them
+equally afar; so that it is evident that around Jupiter there are
+three moving stars invisible till this time to everyone.
+The spacecraft also carries three Lego minifigures representing Galileo Galilei, the Roman god Jupiter, and his
+sister and wife, the goddess Juno. In Roman mythology, Jupiter drew a veil of clouds around himself to hide his
+mischief. Juno was able to peer through the clouds and reveal Jupiter's true nature. The Juno minifigure holds a
+magnifying glass as a sign of searching for the truth, and Jupiter holds a lightning bolt. The third Lego crew
+member, Galileo Galilei, has his telescope with him on the journey.[118] The figurines were produced in
+partnership between NASA and Lego as part of an outreach program to inspire children's interest in science,
+technology, engineering, and mathematics (STEM).[119] Although most Lego toys are made of plastic, Lego
+specially made these minifigures of aluminum to endure the extreme conditions of space flight.[120]
+Among early results, Juno gathered information about Jovian lightning that revised earlier theories.[121] Juno
+provided the first views of Jupiter's north pole, as well as providing insight about Jupiter's aurorae, magnetic
+field, and atmosphere.[122]
+In 2021, analysis of the frequency of interplanetary dust impacts (primarily on the backs of the solar panels), as
+Juno passed between Earth and the asteroid belt, indicated that this dust, which causes the Zodiacal light,
+comes from Mars, rather than from comets or asteroids that come from the outer solar system, as was
+previously thought.[123]
+Propulsion
+Galileo plaque and minifigures
+Scientific results
+Juno made many discoveries that are challenging existing theories about Jupiter's formation. When Juno flew
+over the poles of Jupiter it imaged clusters of stable cyclones that exist at the poles.[124] It found that the
+magnetosphere of Jupiter is uneven and chaotic. Using its Microwave Radiometer, Juno found that the red and
+white bands that can be seen on Jupiter extend hundreds of kilometers into the Jovian atmosphere, yet the
+interior of Jupiter is not evenly mixed. This has resulted in the theory that Jupiter does not have a solid core as
+previously thought, but a "fuzzy" core made of pieces of rock and metallic hydrogen. This peculiar core may be a
+result of a collision that happened early on in Jupiter's formation.[125]
+In April 2020, Juno detected a meteor impact on Jupiter, with estimated mass of 250–5000 kg.[126]
+Results from Juno on storms suggests that they are far taller than expected, with some extending 60 miles (100
+kilometers) below the cloud tops and others, including the Great Red Spot, extending over 200 miles (350
+kilometers). With Juno traveling low over Jupiter's cloud deck at about 130,000 mph (209,000 kph) Juno
+scientists were able to measure velocity changes as small as 0.01 millimeter per second using a NASA's Deep
+Space Network tracking antenna, from a distance of more than 400 million miles (650 million kilometers). This
+enabled the team to constrain the depth of the Great Red Spot to about 300 miles (500 kilometers) below the
+cloud tops. The new results show that the cyclones are warmer on top, with lower atmospheric densities, while
+they are colder at the bottom, with higher densities. Anticyclones, which rotate in the opposite direction, are
+colder at the top but warmer at the bottom.[127]

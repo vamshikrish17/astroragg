@@ -1,0 +1,454 @@
+Rosetta
+Artist's illustration of Rosetta
+Mission type Comet orbiter/lander
+Operator ESA
+COSPAR ID 2004-006A (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2004-006A)
+SATCAT no. 28169
+Website esa.int/rosetta (http://esa.int/rosetta)
+Mission
+duration
+12 years, 6 months and 28 days
+Spacecraft properties
+Manufacturer Astrium
+Launch
+mass
+Combined: 3,000 kg (6,600 lb)
+Orbiter: 2,900 kg (6,400 lb)
+Lander: 100 kg (220 lb) [1]
+Dry mass Orbiter: 1,230 kg (2,710 lb)
+Payload
+mass
+Orbiter: 165 kg (364 lb)
+Lander: 27 kg (60 lb)
+Dimensions 2.8 × 2.1 × 2 m (9.2 × 6.9 × 6.6 ft)
+Power 850 watts at 3.4 AU[2]
+Start of mission
+Launch date 2 March 2004, 07:17:51 UTC[3]
+Rocket Ariane 5G+ V-158
+Launch site Kourou ELA-3
+Contractor Arianespace
+End of mission
+Disposal Deorbited
+Rosetta (spacecraft)
+Last contact 30 September 2016, 10:39:28 UTC SCET
+Landing site Sais, Ma'at region[4]
+2 years, 55 days of operations at the comet
+Flyby of Earth
+Closest
+approach
+4 March 2005
+Distance 1,954 km (1,214 mi)
+Flyby of Mars
+Closest
+approach
+25 February 2007
+Distance 250 km (160 mi)
+Flyby of Earth
+Closest
+approach
+13 November 2007
+Distance 5,700 km (3,500 mi)
+Flyby of 2867 Šteins
+Closest
+approach
+5 September 2008
+Distance 800 km (500 mi)
+Flyby of Earth
+Closest
+approach
+12 November 2009
+Distance 2,481 km (1,542 mi)
+Flyby of 21 Lutetia
+Closest
+approach
+10 July 2010
+Distance 3,162 km (1,965 mi)
+67P/Churyumov–Gerasimenko orbiter
+Spacecraft
+component
+Rosetta
+Orbital
+insertion
+6 August 2014, 09:06 UTC[5]
+Orbital parameters
+Periapsis
+altitude
+29 km (18 mi)[6]
+67P/Churyumov–Gerasimenko lander
+Spacecraft
+component
+Philae
+Landing date 12 November 2014, 17:32 UTC
+Landing site Abydos
+Transponders
+Band S band (low gain antenna)
+X band (high gain antenna)
+Bandwidth from 7.8-bit/s (S band)[7]
+up to 91 kbit/s (X band)[8]
+Instruments
+Contemporary ESA insignia (2010s)
+Horizon 2000 (Science Programme)
+Rosetta was a space probe built by the European Space Agency that launched on 2 March 2004.
+Along with Philae, its lander module, Rosetta performed a detailed study of comet 67P/Churyumov–
+Gerasimenko (67P).[9][10] During its journey to the comet, the spacecraft performed flybys of Earth,
+Mars, and the asteroids 21 Lutetia and 2867 Šteins.[11][12][13] It was launched as the third cornerstone
+mission of the ESA's Horizon 2000 programme, after SOHO / Cluster and XMM-Newton.[14] The
+total cost of the mission was about €1.3 billion (US$1.8 billion).[15]
+On 6 August 2014, the spacecraft reached the comet and performed a series of manoeuvers to
+eventually orbit the comet at distances of 30 to 10 kilometres (19 to 6 mi).[16] On 12 November, its
+lander module Philae performed the first successful landing on a comet,[17] though its battery power
+ran out two days later.[18] Communications with Philae were briefly restored in June and July 2015,
+but due to diminishing solar power, Rosetta's communications module with the lander was turned off
+on 27 July 2016.[19] On 30 September 2016, the Rosetta spacecraft ended its mission by hard-landing
+on the comet in its Ma'at region.[20][21]
+The probe was named after the Rosetta Stone,[22] a stele of Egyptian origin featuring a decree in three
+scripts. The lander was named after the Philae obelisk, which bears a bilingual Greek and Egyptian
+hieroglyphic inscription. A comparison of its hieroglyphs with those on the Rosetta Stone catalysed
+the deciphering of the Egyptian writing system. Similarly, it was hoped that these spacecraft would
+result in better understanding of comets and the early Solar System.[23][24] In a more direct analogy to
+its namesake, the Rosetta spacecraft also carried a micro-etched pure nickel prototype of the Rosetta
+disc donated by the Long Now Foundation. The disc was inscribed with 6,500 pages of language
+translations.[25][26]
+Name
+Comet Churyumov–Gerasimenko in
+March 2015 as imaged by Rosetta,
+enhanced colour
+The spacecraft consisted of the Rosetta orbiter, which
+featured 12 instruments, and the Philae lander, with nine
+additional instruments.[27] The Rosetta mission orbited
+Comet Churyumov–Gerasimenko for 17 months and was
+designed to complete the most detailed study of a comet ever
+attempted.
+Rosetta was launched on 2 March 2004 from the Guiana
+Space Centre in Kourou, French Guiana, on an Ariane 5
+rocket. In 2007, Rosetta made a Mars gravity assist
+(flyby).[28] The spacecraft also performed two asteroid
+flybys:[29] of 2867 Šteins in September 2008 and of 21 Lutetia
+in July 2010.[30]
+Rosetta reached Comet Churyumov–Gerasimenko in May
+2014.[31] It performed a series of manoeuvres to enter orbit
+between then and 6 August 2014,[32] when it became the first
+spacecraft to orbit a comet.[33][31][34] Rosetta's Philae lander successfully made the first soft landing
+on a comet nucleus when it touched down on Comet Churyumov–Gerasimenko on 12 November
+2014.[35][36][37]
+The Rosetta mission achieved many historic firsts.[38] On its way to comet 67P, Rosetta passed
+through the main asteroid belt, and made the first European close encounter with several of these
+primitive objects. Rosetta was the first spacecraft to fly close to Jupiter's orbit using solar cells as its
+main power source.[39] Rosetta was the first spacecraft to orbit a comet nucleus,[40] and was the first
+spacecraft to fly alongside a comet as it headed towards the inner Solar System. Previous missions had
+conducted successful flybys of seven other comets.[41] It became the first spacecraft to examine at
+close proximity the activity of a frozen comet as it is warmed by the Sun. Shortly after its arrival at
+67P, the Rosetta orbiter dispatched the Philae lander for the first controlled touchdown on a comet
+nucleus. The robotic lander's instruments obtained the first images from a comet's surface and made
+the first on-site analysis of its composition.
+Mission overview
+Mission firsts
+Illustration of Rosetta and Philae at the
+comet
+During the 1986 approach of Halley's Comet, international
+space probes were sent to explore the comet, most prominent
+among them being ESA's Giotto.[42] After the probes returned
+valuable scientific information, it became obvious that follow-
+ons were needed that would shed more light on cometary
+composition and answer new questions.[43]
+Both ESA and NASA started cooperatively developing new
+probes. The NASA project was the Comet Rendezvous
+Asteroid Flyby (CRAF) mission.[44] The ESA project was the
+follow-on Comet Nucleus Sample Return (CNSR) mission.[45]
+Both missions were to share the Mariner Mark II spacecraft
+design, thus minimising costs. In 1992, after NASA cancelled
+CRAF due to budgetary limitations, ESA decided to develop a
+CRAF-style project on its own.[46] By 1993 it was evident that
+the ambitious sample return mission was infeasible with the
+existing ESA budget, so the mission was redesigned and
+subsequently approved by the ESA, with the final flight plan resembling the cancelled CRAF mission:
+an asteroid flyby followed by a comet rendezvous with in-situ examination, including a lander.[46]
+After the spacecraft launch, Gerhard Schwehm was named mission manager; he retired in March
+2014.[47]
+The Rosetta mission included generational team management; this allowed mission continuity over
+the long period of the mission and for special knowledge to be maintained and passed on to future
+team members. In particular, several younger scientists were brought on as principal science
+investigators, and regular training sessions were conducted.[16]
+The spacecraft was controlled from the European Space Operations Centre (ESOC), in Darmstadt,
+Germany.[48] The planning for the operation of the scientific payload, together with the data retrieval,
+calibration, archiving and distribution, was performed from the European Space Astronomy Centre
+(ESAC), in Villanueva de la Cañada, near Madrid, Spain.[49] It has been estimated that in the decade
+preceding 2014, some 2,000 people assisted in the mission in some capacity.[47]
+Rosetta was built in a clean room according to COSPAR rules, but "sterilisation [was] generally not
+crucial since comets are usually regarded as objects where you can find prebiotic molecules, that is,
+molecules that are precursors of life, but not living microorganisms", according to Gerhard Schwehm,
+Rosetta's project scientist.[50]
+Rosetta was set to be launched on 12 January 2003 to rendezvous with the comet 46P/Wirtanen in
+2011.[43] This plan was abandoned after the failure of an Ariane 5 ECA carrier rocket during Hot Bird
+7's launch on 11 December 2002, grounding it until the cause of the failure could be determined.[51] In
+History
+Background
+Animation of Rosetta's trajectory from 2
+March 2004 to 9 September 2016
+  Rosetta ·
+  67P/Churyumov–Gerasimenko ·
+  Earth ·   Mars ·   21 Lutetia ·
+  2867 Šteins
+Trajectory of the Rosetta space probe
+May 2003, a new plan was formed to target the comet 67P/Churyumov–Gerasimenko, with a revised
+launch date of 26 February 2004 and comet rendezvous in 2014.[52][53] The larger mass and the
+resulting increased impact velocity made modification of the landing gear necessary.[54]
+After two scrubbed launch attempts, Rosetta was launched on 2 March 2004 at 07:17 UTC from the
+Guiana Space Centre in French Guiana, using Ariane 5 G+ carrier rocket.[3] Aside from the changes
+made to launch time and target, the mission profile remained almost identical. Both co-discoverers of
+the comet, Klim Churyumov and Svetlana Gerasimenko, were present at the spaceport during the
+launch.[55][56]
+To achieve the required velocity to rendezvous with 67P,
+Rosetta used gravity assist manoeuvres to accelerate
+throughout the inner Solar System.[16] The comet's orbit was
+known before Rosetta's launch, from ground-based
+measurements, to an accuracy of approximately 100 km
+(62 mi). Information gathered by the onboard cameras
+beginning at a distance of 24 million kilometres
+(15,000,000 mi) were processed at ESA's Operation Centre to
+refine the position of the comet in its orbit to a few kilometres.
+The first Earth flyby was on 4 March 2005.[57]
+On 4 July 2005, imaging instruments on board observed the
+collision between the comet Tempel 1 and the impactor of the
+Deep Impact mission.[58]
+On 25 February 2007, the craft was scheduled for a low-
+altitude flyby of Mars, to correct the trajectory. This was not
+without risk, as the estimated altitude of the flyby was a mere
+250 kilometres (160 mi).[59] During that encounter, the solar
+panels could not be used since the craft was in the planet's
+shadow, where it would not receive any solar light for 15
+minutes, causing a dangerous shortage of power. The craft
+was therefore put into standby mode, with no possibility to
+communicate, flying on batteries that were originally not
+designed for this task.[60] This Mars manoeuvre was therefore
+nicknamed "The Billion Euro Gamble".[61] The flyby was
+successful, with Rosetta even returning detailed images of the
+surface and atmosphere of the planet, and the mission continued as planned.[11][28]
+The second Earth flyby was on 13 November 2007 at a distance of 5,700 km (3,500 mi).[62][63] In
+observations made on 7 and 8 November, Rosetta was briefly mistaken for a near-Earth asteroid
+about 20 m (66 ft) in diameter by an astronomer of the Catalina Sky Survey and was given the
+Launch
+Deep space manoeuvres
+Rosetta "selfie" at Mars
+Enhanced image of asteroid Šteins by
+Rosetta
+Earth from Rosetta during final flyby
+provisional designation 2007 VN84.[64] Calculations showed
+that it would pass very close to Earth, which led to speculation
+that it could impact Earth.[65] However, astronomer Denis
+Denisenko recognised that the trajectory matched that of
+Rosetta, which the Minor Planet Center confirmed in an
+editorial release on 9 November.[66][67]
+The spacecraft performed a close flyby of asteroid 2867 Šteins
+on 5 September 2008. Its onboard cameras were used to fine-
+tune the trajectory, achieving a minimum separation of less
+than 800 km (500 mi). Onboard instruments measured the
+asteroid from 4 August to 10 September. Maximum relative
+speed between the two objects during the flyby was 8.6 km/s
+(19,000 mph; 31,000 km/h).[68]
+Rosetta's third and final flyby of Earth happened on 12
+November 2009 at a distance of 2,481 km (1,542 mi).[69]
+On 16 March 2010, Rosetta performed observations of the
+dust tail of the object P/2010 A2. Together with observations
+by Hubble Space Telescope, it helped to confirm that
+P/2010 A2 is not a comet, but an asteroid, and that the tail
+most likely consists of particles from an impact by a smaller
+asteroid.[70]
+On 10 July 2010, Rosetta flew by 21 Lutetia, a large main-belt
+asteroid, at a minimum distance of 3,168±7.5 km
+(1,969±4.7 mi) at a velocity of 15 kilometres per second
+(9.3 mi/s).[13] The flyby provided images of up to 60 metres
+(200 ft) per pixel resolution and covered about 50% of the
+surface, mostly in the northern hemisphere.[30][71] The 462
+images were obtained in 21 narrow- and broad-band filters
+extending from 0.24 to 1 μm.[30] Lutetia was also observed by
+the visible–near-infrared imaging spectrometer VIRTIS, and
+measurements of the magnetic field and plasma environment
+were taken as well.[30][71]
+On 8 June 2011, the spacecraft was transferred into a spin
+stabilised mode and all electronics except the onboard
+computer and the hibernation heaters were switched off for
+the planned 31 months of hibernation.[72] After leaving its
+hibernation mode in January 2014 and getting closer to the
+comet, Rosetta began a series of eight burns in May 2014.
+These reduced the relative velocity between the spacecraft and
+67P from 775 to 7.9 m/s (2,543 to 26 ft/s).[32]
+Joy from receiving first signals from
+Rosetta after waking up on 20 January
+2014.
+In 2006, Rosetta suffered a leak in its reaction control system
+(RCS).[16] The system, which consists of 24 bipropellant 10-
+newton thrusters,[32] was responsible for fine tuning the
+trajectory of Rosetta throughout its journey. The RCS
+operated at a lower pressure than designed due to the leak.
+While this may have caused the propellants to mix
+incompletely and burn 'dirtier' and less efficiently, ESA
+engineers were confident that the spacecraft would have
+sufficient fuel reserves to allow for the successful completion
+of the mission.[73]
+Prior to Rosetta's deep space hibernation period, two of the
+spacecraft's four reaction wheels began exhibiting increased levels of "bearing friction noise".
+Increased friction levels in Reaction Wheel Assembly (RWA) B were noted after its September 2008
+encounter with asteroid Šteins. Two attempts were made to relubricate the RWA using an on-board
+oil reservoir, but in each case noise levels were only temporarily lowered, and the RWA was turned off
+in mid-2010 after the flyby of asteroid Lutetia to avoid possible failure. Shortly after this, RWA C also
+began showing evidence of elevated friction. Relubrication was also performed on this RWA, and
+methods were found to temporarily increase its operating temperature to better improve the transfer
+of oil from its reservoir. In addition, the reaction wheel's speed range was decreased to limit lifetime
+accumulated rotations. These changes resulted in RWA C's performance stabilising.[74]
+During the spacecraft's Deep Space Hibernation flight phase, engineers performed ground testing on a
+flight spare RWA at the European Space Operations Centre. After Rosetta exited hibernation in
+January 2014, lessons learned from the ground testing were applied to all four RWAs, such as
+increasing their operating temperatures and limiting their wheel speeds to below 1000 rpm. After
+these fixes, the RWAs showed nearly identical performance data.[74] Three RWAs were kept
+operational, while one of the malfunctioning RWAs was held in reserve. Additionally, new on-board
+software was developed to allow Rosetta to operate with only two active RWAs if necessary.[16][75]
+These changes allowed the four RWAs to operate throughout Rosetta's mission at 67P/Churyumov–
+Gerasimenko despite occasional anomalies in their friction plots and a heavy workload imposed by
+numerous orbital changes.[74]
+Starting on 7 May 2014, Rosetta began orbital correction manoeuvres to bring itself into orbit around
+67P. At the time of the first deceleration burn Rosetta was approximately 2,000,000 km
+(1,200,000 mi) away from 67P and had a relative velocity of +775 m/s (2,540 ft/s); by the end of the
+last burn, which occurred on 23 July, the distance had been reduced to just over 4,000 km (2,500 mi)
+with a relative velocity of +7.9 m/s (18 mph).[32][76] In total eight burns were used to align the
+trajectories of Rosetta 67P with the majority of the deceleration occurring during three burns: Delta-
+v's of 291 m/s (650 mph) on 21 May, 271 m/s (610 mph) on 4 June, and 91 m/s (200 mph) on 18
+June.[32]
+Reaction control system problems
+Orbit around 67P
+Animation of Rosetta's trajectory around
+67P from 1 August 2014 to 31 March
+2015
+  Rosetta ·   67P
+Rosetta rendezvous with a comet
+In August 2014, Rosetta rendezvoused with the comet
+67P/Churyumov–Gerasimenko (67P) and commenced a
+series of manoeuvres that took it on two successive triangular
+paths, averaging 100 and 50 kilometres (62 and 31 mi) from
+the nucleus, whose segments are hyperbolic escape
+trajectories alternating with thruster burns.[33][31] After
+closing to within about 30 km (19 mi) from the comet on 10
+September, the spacecraft entered actual orbit about
+it.[33][31][34] This started the Global Mapping Phase.[6]
+The surface layout of 67P was unknown before Rosetta's
+arrival. The orbiter mapped the comet in anticipation of
+detaching its lander.[77] On 14 July 2014, the OSIRIS on-
+board imaging system returned images of the comet which
+confirmed its irregular shape.[78][79] By 25 August 2014, five
+potential landing sites had been determined.[80] On 15
+September 2014, ESA announced Site J, named Agilkia in
+honour of Agilkia Island by an ESA public contest and located
+on the "head" of the comet,[81] as the lander's destination.[82]
+Philae detached from Rosetta on 12 November 2014 at 08:35
+UTC, and approached 67P at a relative speed of about 1 m/s
+(3.6 km/h; 2.2 mph).[83] It initially landed on 67P at 15:33
+UTC, but bounced twice, coming to rest at 17:33 UTC.[17][84]
+Confirmation of contact with 67P reached Earth at 16:03
+UTC.[85]
+On contact with the surface, two harpoons were to be fired
+into the comet to prevent the lander from bouncing off, as the
+comet's escape velocity is only around 1 m/s (3.6 km/h;
+2.2 mph).[86] Analysis of telemetry indicated that the surface
+at the initial touchdown site is relatively soft, covered with a
+layer of granular material about 0.82 feet (0.25 meters) deep,[87] and that the harpoons had not fired
+upon landing. After landing on the comet, Philae had been scheduled to commence its science
+mission, which included:
+Characterisation of the nucleus
+Determination of the chemical compounds present, including amino acid enantiomers[88]
+Study of comet activities and developments over time
+After bouncing, Philae settled in the shadow of a cliff,[89] canted at an angle of around 30 degrees.
+This made it unable to adequately collect solar power, and it lost contact with Rosetta when its
+batteries ran out after three days, well before much of the planned science objectives could be
+attempted.[89][18] Contact was briefly and intermittently reestablished several months later at various
+times between 13 June and 9 July, before contact was lost once again. There was no communication
+Philae lander
+Comet 67P seen from 10 km (6 mi)
+Rosetta and Philae
+The comet in January 2015 as seen by
+Rosetta's NAVCAM
+afterwards,[90] and the transmitter to communicate with
+Philae was switched off in July 2016 to reduce power
+consumption of the probe.[19] The precise location of the
+lander was discovered in September 2016 when Rosetta came
+closer to the comet and took high-resolution pictures of its
+surface.[89] Knowing its exact location provides information
+needed to put Philae's two days of science into proper
+context.[89]
+Between November 2014 and December 2015, Rosetta
+escorted the comet around the Sun and performed riskier
+investigations.[91] As the orbit of comet 67P took it farther
+from the Sun, the amount of sunlight reaching Rosetta's solar
+panels decreased. While it would have been possible to put
+Rosetta into a second hibernation phase during the comet's
+aphelion, there was no assurance that enough power would be
+available to run the spacecraft's heaters to keep it from
+freezing. To guarantee a maximum science return, mission
+managers made the decision to instead guide Rosetta down to
+the comet's surface and end the mission on impact, gathering
+photographs and instrument readings along the way.[92] On
+23 June 2015, at the same time as a mission extension was
+confirmed, ESA announced that end of mission would occur at
+the end of September 2016 after two years of operations at the
+comet.[91]
+All stations and the briefing room, we've just had loss
+of signal at the expected time. This is another
+outstanding performance by flight dynamics. So we'll
+be listening for the signal from Rosetta for another
+24 hours, but we don't expect any. This is the end of
+the Rosetta mission. Thank you, and goodbye.
+—Sylvain Lodiot, Rosetta Spacecraft Operations
+Manager, European Space Operations Centre[93]
+Rosetta began a 19 km (12 mi) descent with a 208-second
+thruster burn executed on 29 September 2016 at
+approximately 20:50 UTC.[94][95][93] Its trajectory targeted a
+site in the Ma'at region near an area of dust- and gas-
+producing active pits.[96]
+End of mission
+Outbursting of the comet
+67P/Churyumov–Gerasimenko on 12
+September 2015 one of the most
+dramatic cliff collapses captured during
+the Rosetta mission.
+Comet 67P with a tail of gas and dust,
+seen from 162 km (101 mi)
+Impact on the comet's surface occurred 14.5 hours after its
+descent manoeuvre; the final data packet from Rosetta was
+transmitted at 10:39:28.895 UTC (SCET) by the OSIRIS
+instrument and was received at the European Space
+Operations Centre in Darmstadt, Germany, at
+11:19:36.541 UTC.[94][95][97] The spacecraft's estimated speed
+at the time of impact was 3.2 km/h (2.0 mph; 89 cm/s),[21]
+and its touchdown location, named Sais by the operations
+team after the Rosetta Stone's original temple home, is
+believed to be only 40 m (130 ft) off-target.[96] The final
+complete image transmitted by the spacecraft of the comet
+was taken by its OSIRIS instrument at an altitude of 23.3–
+26.2 m (76–86 ft) about 10 seconds before impact, showing an
+area 0.96 m (3.1 ft) across.[96][98] Rosetta's computer
+included commands to send it into safe mode upon detecting
+that it had hit the comet's surface, turning off its radio
+transmitter and rendering it inert in accordance with
+International Telecommunication Union rules.[93]
+On 28 September 2017, a previously unrecovered image taken
+by the spacecraft was reported. This image was recovered
+from three data packets discovered on a server after
+completion of the mission. While blurry due to data loss, it
+shows an area of the comet's surface approximately one
+square meter in size taken from an altitude of 17.9–21.0 m
+(58.7–68.9 ft), and represents Rosetta's closest image of the
+surface.[98][99]
+The Rosetta bus was a 2.8 × 2.1 × 2.0 m (9.2 × 6.9 × 6.6 ft) central frame and aluminium honeycomb
+platform. Its total mass was approximately 3,000 kg (6,600 lb), which included the 100 kg (220 lb)
+Philae lander and 165 kg (364 lb) of science instruments.[100] The Payload Support Module was
+mounted on top of the spacecraft and housed the scientific instruments, while the Bus Support
+Module was on the bottom and contained spacecraft support subsystems. Heaters placed around the
+spacecraft kept its systems warm while it was distant from the Sun. Rosetta's communications suite
+included a 2.2 m (7.2 ft) steerable high-gain parabolic dish antenna, a 0.8 m (2.6 ft) fixed-position
+medium-gain antenna, and two omnidirectional low-gain antennas. The high-gain antenna also had
+the ESA logo printed on the reflector as a form of branding to let people clearly identify it as project
+from the European Space Agency (ESA) [101]
+Electrical power for the spacecraft came from two solar arrays totalling 64 square metres
+(690 sq ft).[102] Each solar array was subdivided into five solar panels, with each panel being
+2.25 × 2.736 m (7.38 × 8.98 ft). The individual solar cells were made of silicon, 200 μm thick, and
+61.95 × 37.75 mm (2.44 × 1.49 in).[103] The solar arrays generated a maximum of approximately 1,500
+Spacecraft

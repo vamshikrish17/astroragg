@@ -1,0 +1,202 @@
+Home /Activities/ Science /Chandrayaan-2Chandrayaan-2
+The Chandrayaan-2 mission was successfully launched on 22nd July 2019 at
+14:43 hrs by GSLV MkIII-M1 from Satish Dhawan Space Centre (SDSC),
+Sriharikota. After a series of Earth bound manoeuvres, the spacecraft entered into
+Lunar Transfer Trajectory (LTT) on August 14th. Lunar Orbit Insertion (LOI)
+manoeuvre was performed on August 20th, thereby Chandrayaan-2 was
+successfully inserted into the elliptical orbit around the Moon. This was followed
+by a series of Lunar bound orbit maneuvers for reducing the orbit to circular polar
+orbit around the Moon.
+Chandrayaan-2 Orbiter is currently in a 100 km x 100 km orbit around the Moon
+On September 2nd, Vikram lander separated from the Orbiter and de-orbiting
+maneuver was performed to reduce the orbit to 35 km x 101 km. Vikram landing
+was attempted on 7th September and it followed the planned descent trajectory
+from its orbit of 35 km to around 2 km above the surface. Communication with
+lander and ground station was lost. All the systems and sensors of the Lander
+functioned excellently until this point and proved many new technologies such as
+variable thrust propulsion technology used in the Lander. However, the Orbiter is
+healthy and all the payloads are operational.
+Chandrayaan-2 carried eight experiment payload on board for studying surface geology,
+composition and exospheric measurements of Moon. These measurements will continue to
+enhance upon the understanding built from previous lunar missions.
+Handbook of Chandrayaan 2 Payloads Data & Science. 
+ PDF 12 MB
+1. Chandrayaan-2 Large Area Soft X-ray Spectrometer (CLASS)
+CLASS measures the Moon’s X-ray Fluorescence (XRF) spectra to
+examine the presence of major elements such as Magnesium,
+Aluminium, Silicon, Calcium, Titanium, Iron, and Sodium. The XRF
+technique will detect these elements by measuring the characteristic X-
+rays they emit when excited by solar X-ray emission. CLASS is a non-
+imaging spectrometer with gold coated copper collimators defining the
+field of view of each detector as 7 deg X 7 deg Full Width at Half
+Maximum (FWHM). This translates to a 12.5 km X 12.5 km footprint at
+the 100 km altitude of the spacecraft. Aluminium door to protect the
+sensors from the high energy particle flux in the radiation belts en-route
+to the Moon also houses radioactive isotopes with a Titanium foil for
+calibration onboard.
+2. Solar X-ray Monitor (XSM)
+XSM detects X-rays emitted by the Sun and its corona, measures its
+intensity, and supports the CLASS payload. It provides the solar X-ray
+spectrum in the energy range of 1-15 keV incident on the lunar surface.
+XSM provides high energy resolution and high-cadence measurements
+
+(full spectrum every second) as input for analysis of data from CLASS.
+The XSM is operating in the lunar orbit from 12th September 2019. The
+XSM provides disk integrated solar spectra in the energy range of 1 – 15
+keV with a spectral resolution of better than 180 eV at 5.9 keV, which is
+the best available among similar instruments that carried out such
+measurements till now. The XSM also offers the highest time cadence
+for such instruments: full spectrum every second and light curves in
+three energy bands every 100 ms. The unique design features of the
+XSM allows observations over a wide dynamic range of X-ray fluxes
+from the quiet Sun to X-class flares. Presently, the XSM is the only
+instrument operational providing soft X-ray spectral measurements of
+the Sun over a broad energy range.
+3. CHandra’s Atmospheric Compositional Explorer 2 (CHACE 2)
+CHACE 2 will expand upon the CHACE experiment on Chandrayaan-1.
+It is a Quadrupole Mass Spectrometer (QMA) capable of studies of the
+lunar neutral exosphere in the mass range of 1 to 300 amu with the
+mass resolution of ~0.5 amu. CHACE 2’s primary objective is to carry
+out an in-situ study of the composition and distribution of the lunar
+neutral exosphere and its variability. The CHACE-2 instrument consists
+of the sensor probe (cylindrical in shape) and the electronics. The
+sensor probe consists of a built-in electron impact ionizer along with a
+Bayard-Alpert collector to measure the total pressure; a set of four
+quadrupole rods and a detector assembly. The detector assembly
+consists of a Faraday Cup (FC) and a Channel Electron Multiplier
+(CEM).
+4. Dual Frequency Synthetic Aperture Radar (DFSAR)
+The dual frequency (L and S) SAR will provide enhanced capabilities compared to Chandrayaan-
+1’s S-band mini SAR in areas such as:
+L-band for greater depth of penetration (About 5m — twice that of S-band)
+Circular and full polarimetry — with a range of resolution options (2-75 m) and incident
+angles (9°-35°) — for understanding scattering properties of permanently shadowed regions
+The main scientific objectives of this payload are:
+Quantitative estimation of water-ice in the polar regions
+High-resolution lunar mapping in the polar regions
+Estimation of regolith thickness and its distribution
+The Dual Frequency Synthetic Aperture Radar (DFSAR) on board
+Chandrayaan-2 Orbiter is a microwave imaging instrument in L- and S-
+band frequencies and the first fully-polarimetric SAR to study the Moon.
+L-band frequency enables double the surface penetration capability with
+respect to what is obtained using S-band. The instrument is basically
+two SAR systems (for L & S bands) sharing a common antenna aperture
+with wide bandwidth.
+Various instrument features like high-efficiency transmitter, low-noise high-gain receiver, onboard
+range-compression (first for any ISRO SAR mission) have enabled a highly sensitive instrument
+with polarimetric capability. Its best resolution (2m in slant-range) is one order better than the
+previously flown SARs to the Moon. The backscattered signals from the targets are coherently
+measured by the DFSAR in different polarizations to enable studies of physical and dielectric
+properties of the lunar surface/ shallow-subsurface. With these polarimetric measurements, the
+instrument primarily aims to unambiguously address the presence of water-ice in permanently
+shadowed regions (PSRs), characterizing the physical and dielectric properties of lunar surface,
+volcanic features, impact craters and their associated ejecta.
+5. Imaging Infra-Red Spectrometer (IIRS)
+Imaging Infra-Red Spectrometer (IIRS) is a hyper-spectral optical imaging instrument. This
+instrument maps geomorphology and mineralogy of lunar surface. The mission is intended to
+cover the Moon surface. The prime objectives of IIRS are:
+Global mineralogical and volatile mapping of the Moon in the spectral range of ~0.8-5.0 μm
+for the first time, at the high resolution of ~20 nm
+Complete characterization of water/hydroxyl feature near 3.0 μm for the first time at high
+spatial (~80 m) and spectral (~20 nm) resolutions
+IIRS measures the reflected solar radiation along with the emissions
+from the lunar surface at an altitude of 100 km on a polar circular orbit at
+a spatial resolution of ~80 m and spectral resolution of ~20-25 nm
+across the spectral range of 0.8-5.0 μm in ~250 spectrally contiguous
+bands. The diagnostic absorption features of major and minor lunar
+minerals are found to occur in the spectral domain of ~0.75-2.5 μm that
+fall well within the spectral range of IIRS thereby making their detection
+possible by the spectrometer. On the other hand, the spectral range of
+~2.5-3.3 μm is being dedicatedly used to detect the presence of lunar
+OH/H2O features having fundamental absorptions around 3.0 μm.
+6. Terrain Mapping Camera (TMC 2)
+TMC 2 is a miniature version of the Terrain Mapping Camera on
+Chandrayaan-1 mission. Its primary objective is to map the lunar surface
+in the panchromatic spectral band (0.5-0.8 microns) with a high spatial
+resolution of 5 m and a swath of 20 km from 100 km lunar polar orbit.
+The data collected by TMC 2 will give us clues about the Moon’s
+evolution and help us prepare 3D maps of the lunar surface. This
+camera enables in preparing global high resolution image mosaic and
+Digital Elevation Model (DEM).
+7. Orbiter High Resolution Camera (OHRC)
+OHRC provides high-resolution images of the landing site which ensure
+the Lander’s safe touchdown by detecting any craters or boulders, prior
+to separation. The images it captures, taken from two different look
+angles, serve dual purposes. First, these images are used to generate
+DEMs (Digital Elevation Models) of the landing site. Second, they are
+used for scientific research after its initial role in the landing phase.
+OHRC’s images can capture the same area on the lunar surface from
+two different orbits. The coverage area in this case is of 12 km x 3 km
+with ground resolution of 0.32 m. OHRC is an optical camera system
+based on Time Delay Integration (TDI) imaging sensors with 12000
+detectors. It has 4 TDI settings and 7 different integration times.
+8. Dual Frequency Radio Science (DFRS) Experiment
+To study the temporal evolution of electron density in the Lunar
+ionosphere. Two coherent signals at X (8496 MHz), and S (2240 MHz)
+band are transmitted simultaneously from satellite, and received at
+ground-based receivers. DFRS is a radio science experiment used to
+analyze the planetary/lunar atmosphere ionosphere. It uses two highly
+
+correlated radio frequencies in X- and S-bands. Since there is no need
+for any specific data to be sent for the DFRS experiment, the signals
+allocated for tele-command and ranging can also be used to carry out
+the said experiment.
+Major results from Chandrayaan-2
+Science results from Chandrayaan-2 payloads were documented and released to public on the
+occasion of two-year completion of the mission. In addition to this, few science results from
+payloads are provided below.
+CHandra’s Atmospheric Composition Explorer-2 (CHACE-2) onboard
+Chandrayaan-2 orbiter is a quadrupole based neutral mass
+spectrometer aimed at observing the tenuous Lunar exospheric
+composition from spacecraft altitude. Argon-40 (Ar-40) is a noble gas in
+the lunar exosphere, understood to be originated from the radiogenic
+potassimum-40 and it had been detected by several previous missions,
+mostly covering the equatorial and low-latitude regions of Moon. The
+CHACE-2 not only made observations over the low-latitude regions, but
+also covered the other latitude regions as well, in-situ from a polar orbit,
+for the first time. Figure 2 shows the map of the surface densities of Ar-
+40 estimated from CHACE-2 observations. The Ar-40 distribution is
+depicted both in terms of Solar longitudes (Fig. 1a) and Selenographic
+longitudes (Fig. 1b), covering both low- and mid-latitude regions. The
+observations show that the diurnal trend agrees with LACE/Apollo
+observations from the low latitude region on the lunar surface. In
+addition, CHACE-2 observations show for the first time that these
+features extend to the mid-latitude regions. Further, the number density
+of Ar-40 is seen to exhibit significant spatial heterogeneity. CHACE-2
+observations showed Ar-40 enhancements over certain longitude
+sectors including KREEP (Potassium, Rare Earth Elements and
+Phosphorous rich region on the Moon) region and the South Pole Aitken
+(SPA) terrain. These observations call for a deeper understanding of the
+surface-exosphere interactions and source distribution.
+Lunar lobate scarps are relatively small-scale tectonic landforms that are interpreted to be the
+surface expression of low angle thrust faults. Lobate scarps are believed to be young lunar
+landforms and are observed both in the mare and highland regions. A plausible lobate scarp
+(Length is 1416 m and average relief across this scarp is 24 m) was mapped by the Terrain
+Mapping Camera (TMC-2). This NW-SE oriented scarp is located between Dorsa Geike and
+Dorsa Mawson. It is estimated that this lobate scarp could have been formed in the Copernican
+period. Image acquisition at low Sun elevation angle provides opportunity to map the features
+having smaller dimensions such as lobate scarps.
+
+a. Ortho image of TMC-2 of lobate scarp region. The plausible Lobate scarp (yellow colored
+line), craters (red colored circles) used for surface age estimation and Hanging Wall (HW),
+Foot Wall (FW) are indicated by blue polygons. Profiles P1-P4 are shown in the red colored
+lines.
+b. Topographic cross-sections along the profiles P1-P4.
+XSM is carrying out broadband spectroscopy of the Sun from lunar orbit. Currently XSM is the
+only X-ray spectrometer in the world which regularly measures the soft X-ray spectrum of the Sun
+with the highest time cadence. This has yielded very interesting observations of the microflares
+occurring outside active region as well as elemental abundances in the quiet Sun corona. XSM
+has also observed number of B-class flares and their analysis has yielded unprecedented
+observations of variation of the elemental abundances during such flares
+XSM observed nine B-class flares ranging from B1.3 to B4.5 during the minimum phase of Solar
+Cycle 24. The evolution of temperature, emission measure, and absolute elemental abundances
+of four elements Mg, Al, Si, and S are examined. These are the first measurements of absolute
+abundances during such small flares and this study offers a unique insight into the evolution of
+absolute abundances as the flares evolve. The results demonstrate that the abundances of these
+four elements decrease towards their photospheric values during the peak phase of the flares.
+During the decay phase, the abundances are observed to quickly return to their pre-flare coronal
+values as shown in below figure.
+The six panels show the results of the time resolved X-ray spectroscopy for a representative flare.
+Panels a-b show the variation of temperature and emission measure, respectively, during flare
+activity, whereas panels c-f show the variation of elemental abundances of Mg (c), Al (d), Si (e), S
+(f) in logarithmic scale.

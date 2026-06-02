@@ -1,0 +1,172 @@
+Euclid
+Artist's impression
+Names Dark Universe Explorer (DUNE)
+Spectroscopic All Sky Cosmic Explorer (SPACE)[1]
+Mission type Astronomy
+Operator ESA
+COSPAR ID 2023-092A (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2023-092A)
+SATCAT no. 57209
+Website www.esa.int/euclid (https://www.esa.int/web/euclid/)
+euclid-ec.org (https://www.euclid-ec.org/)
+Mission duration 6 years (nominal)
+2 years, 10 months and 27 days (in progress)[2]
+Spacecraft properties
+Manufacturer Thales Alenia Space (main)
+Airbus Defence and Space (payload module)[3]
+Launch mass 2,000 kg (4,400 lb)[3]
+Payload mass 800 kg (1,800 lb)[3]
+Dimensions 4.5 × 3.1 m (15 × 10 ft)[3]
+Start of mission
+Launch date 1 July 2023, 15:12 UTC[4]
+Rocket Falcon 9
+Launch site Cape Canaveral, SLC ‑ 40
+Contractor SpaceX
+Orbital parameters
+Reference systemSun–Earth L2[3]
+Regime Lissajous orbit
+Periapsis altitude 1,150,000 km (710,000 mi)
+Apoapsis altitude1,780,000 km (1,110,000 mi)
+Epoch Planned
+Main telescope
+Type Korsch telescope
+Diameter 1.2 m (3 ft 11 in)[5]
+Focal length 24.5 m (80 ft)[5]
+Collecting area 1.006 m2 (10.83 sq ft)[8]
+Wavelengths From 550 nm (green)[6]
+to 2 μm (near-infrared)[7]
+Euclid (space telescope)
+Euclid is a wide-angle space
+telescope with a 600-megapixel camera to recordvisible light, a near-infrared
+spectrometer, and photometer,to determine the redshift ofdetected galaxies. It was
+developed by the EuropeanSpace Agency (ESA) and theEuclid Consortium and was
+launched on 1 July 2023 fromCape Canaveral inFlorida.[10][11] The mission is
+named after the ancient Greekmathematician Euclid.
+After approximately onemonth, it reached itsdestination, a halo orbit
+around the Sun-Earth secondLagrange point L2, at anaverage distance of 1.5 million
+kilometres beyond Earth'sorbit. There the telescope is toremain operational for at least
+six years. The objective of theEuclid mission is to betterunderstand dark energy and
+dark matter by accuratelymeasuring the acceleratingexpansion of the universe. The
+Korsch-type telescope willmeasure the shapes of galaxiesat varying distances fromEarth and investigate the
+relationship between distanceand redshift.
+Euclid is a medium-class ("M-
+class") mission and is part ofthe Cosmic Vision campaign ofESA's Science Programme.
+Euclid was chosen in October2011 together with Solar
+Orbiter.[12] Euclid was
+launched by a Falcon 9rocket.[13][4] On 7 November
+2023 ESA revealed Euclid'sfirst full-colour images of the
+cosmos, which illustrateEuclid's potential to create themost extensive 3D map of the
+Resolution 0.1 arcsec (visible)
+0.3 arcsec (near-infrared)[8]
+Transponders
+Band X band (TT&C support)
+K band (data acquisition)
+Frequency 8.0–8.4 GHz (X band)
+25.5–27 GHz (K band)
+Bandwidth Few kbit/s down & up (X band)
+74 Mbit/s (K band)[9]
+Instruments
+ESA insignia
+Cosmic Vision (Science Programme)
+The areas Euclid will cover during its nominal six-
+year mission
+universe.[14][15] In May 2024,
+ESA's Euclid mission releasedimages of galaxy clusters Abell2390 and Abell 2764, star-
+forming region Messier 78,spiral galaxy NGC 6744, andthe Dorado group of
+galaxies.[16]
+Euclid probes the history of
+the expansion of the universeand the formation of cosmicstructures by measuring the
+redshift of galaxies out to aredshift value of 2, which isequivalent to seeing 10 billionyears into the past.[17] The link between galactic shapes and their corresponding redshift will help to show how dark energy
+contributes to the increased acceleration of the universe. The methods employed exploit the phenomenon of gravitational
+lensing, measurement of baryon acoustic oscillations, and measurement of galactic distances by spectroscopy.[18]
+Gravitational lensing (or gravitational shear) is the alteration of the trajectories of light rays caused by the presence of matterthat locally modifies the curvature of space-time: light emitted by galaxies is deflected as it passes close to matter lying along the
+line of sight, distorting the resulting image. This matter is composed partly of visible galaxies but it theorized to be mostly darkmatter. By measuring this shear, the amount of dark matter can be inferred, furthering the understanding of how it is distributedin the universe.[19]
+Spectroscopic measurements will permit measuring the redshifts of galaxies and determining their distances using Hubble's law.In this way, one can reconstruct the three-dimensional distribution of galaxies in the universe.[17]
+From these data, it is possible to simultaneously measure the statistical properties concerning the distribution of dark matterand galaxies and measure how these properties change as the spacecraft looks further back in time. Highly precise images are
+required to provide sufficiently accurate measurements. Any distortion inherent in the sensors must be accounted for andcalibrated out, otherwise the resultant data would be of limited use.[17]
+During its nominal mission, planned for at least six years, Euclid will observeabout 15,000 deg2 (4.6 sr), about a third of the sky, focusing on the extragalactic
+sky (the sky facing away from the Milky Way).[2] It will generate approximately100 gigabytes of compressed data per day throughout its six-year mission.[20] The
+survey will be complemented by additional observations of three deep fields to 5times the signal-to-noise of the wide survey; the deep fields cover 50 deg2
+(15.2 msr).[21] The three fields will be regularly visited during the duration of the
+mission. They will be used as calibration fields and to monitor the telescope andinstrument performance stability as well as to produce scientific data by observingthe most distant galaxies and quasars in the universe.[22] Two of the deep fields
+will overlap with deep fields of existing surveys[23] and the third deep field is
+proposed as a location for one of the LSST deep drilling fields at the Vera C. RubinObservatory.[24]
+Scientificobjectives andmethods
+Mission overview
+Euclid is orbiting the L2 Lagrange point
+To measure a photometric redshift for each galaxy with sufficient accuracy, theEuclid mission depends on additional photometric data obtained in at least four
+filters at optical wavelengths. This data will be obtained from ground-basedtelescopes located in northern and southern hemispheres to cover the full15,000 deg2 of the mission.[25][26] In total each galaxy of the Euclid mission will
+get photometric information in at least seven different filters covering the range460–2000 nm.[27]
+About 10 billion astronomical sources will be observed by Euclid, of which onebillion will be used for weak lensing (to have their gravitational shear
+measured)[28] with a precision 50 times more accurate than was previouslypossible using ground-based telescopes. Euclid measures spectroscopic redshifts
+for at least 30 million objects to study galaxy clustering.
+The scientific exploitation of this data set is carried out by a European-ledconsortium of more than 1200 people in over 100 laboratories in 18 countries
+(Austria, Belgium, Denmark, Finland, France, Germany, Italy, the Netherlands, Norway, Portugal, Romania, Spain, Switzerland,UK, Canada, US, and Japan).[29] The Euclid Consortium is also responsible for the construction of the Euclid instrument payload
+and for the development and implementation of the Euclid ground segment which will process all data collected by thesatellite.[28]
+The laboratories contributing to the Euclid Consortium are funded and supported by their national space agencies, which alsohave the programmatic responsibilities of their national contribution, and by their national research structures (researchagencies, observatories, universities). Overall, the Euclid Consortium contribute about 25% of the total budget cost of the
+mission until completion.[30]
+The huge volume, diversity (space and ground, visible and near-infrared, morphometry, photometry, and spectroscopy) and the
+level of precision of measurements demanded considerable care and effort in the data processing, making this a critical part ofthe mission. ESA, the national agencies and the Euclid Consortium are spending considerable resources to set up teams ofresearchers and engineers in algorithm development, software development, testing and validation procedures, data archiving
+and data distribution infrastructures.
+In total, nine Science Data Centres spread over countries of the Euclid Consortium will process more than 170 petabytes of rawinput images over at least 6 years to deliver data products (images, catalogues spectra) in three main public data releases in theScience Archive System of the Euclid mission to the scientific community.[31][27]
+With its wide sky coverage and its catalogues of billions of stars and galaxies, the scientific value of data collected by the missiongoes beyond the scope of cosmology. This database will provide the worldwide astronomical community with sources and targets
+for the James Webb Space Telescope and Atacama Large Millimeter Array, as well as future missions such as the ExtremelyLarge Telescope, Thirty Meter Telescope, Square Kilometer Array, and the Vera C. Rubin Observatory.[32]
+ESA selected Thales Alenia Space's Italian division for the construction of the spacecraft in Turin. Euclid is 4.5 metres long with adiameter of 3.1 metres and a mass of 2 tonnes.[3] The Euclid payload module was the responsibility of Airbus Defence and
+Space's French division in Toulouse. It consists of a Korsch telescope with a primary mirror 1.2 meters in diameter, which coversan area of 0.91 deg2.[33][34]
+The Euclid consortium, comprising scientists from 13 European countries and the United States, provided the visible-lightcamera (VIS)[6] and the near-infrared spectrometer and photometer (NISP).[7] Together, they will map the 3D distribution of up
+to two billion galaxies spread over more than a third of the whole sky.[35] These large-format cameras will be used to characterisethe morphometric, photometric, and spectroscopic properties of galaxies.
+VIS, a camera operating at visible wavelengths (530–920 nm), made of a mosaic of 6 × 6 e2v charge coupled detectors,containing 600 million pixels, allows measurement of the deformation of galaxies[36]
+Spacecraft
+Instruments
+Euclid in a cleanroom
+Euclid space telescope
+Euclid's solar panel
+NISP, a camera composed of a mosaic of 4 × 4 Teledyne H2RG detectorssensitive to near-infrared light radiation (920–2020 nm) with 65 million pixels,is designed for the following:
+1. provide low-precision measurements of redshifts, and thus distances, of overa billion galaxies from multi-color (3-filter (Y, J and H)) photometry(photometric redshift technique); and
+2. use a slitless spectrometer to analyse the spectrum of light in near-infrared(920–1850 nm), to acquire precise redshifts and distances of millions ofgalaxies with an accuracy 10 times better than photometric redshifts, and todetermine the baryon acoustic oscillations.[37]
+The telescope bus includes solar panels that provide power and stabilise theorientation and pointing of the telescope to better than 35 milliarcseconds
+(170 nrad). The telescope is insulated to ensure good thermal stability so as to notdisturb the optical alignment.
+The telecommunications system is capable of transferring 850 gigabits per day. It
+uses the Ka band and CCSDS File Delivery Protocol to send scientific data at arate of 55 megabits per second for 4 hours per day to the 35 m dish Cebrerosground station in Spain, when the telescope is above the horizon. Euclid has an
+onboard storage capacity of 4 terabits (500 GB).[38]
+The service module (SVM) hosts most of the spacecraft subsystems:
+TT&C – Telemetry and Telecommand
+AOCS – Attitude Orbit Control System
+CDMS – Central Data Management System
+EPS – Electrical Power System
+RCS – Reaction Control System
+MPS – Micro-Propulsion System
+AOCS provides stable pointing with a dispersion beneath 35 milli-arcseconds pervisual exposure. A high thermal stability is required to protect the telescopeassembly from optical misalignments at those accuracies.[39]
+Euclid emerged from two mission concepts that were proposed in response to theESA Cosmic Vision 2015–2025 Call for Proposals, issued in March 2007: DUNE,the Dark Universe Explorer, and SPACE, the Spectroscopic All-Sky CosmicExplorer. Both missions proposed complementary techniques to measure the
+geometry of the universe, and after an assessment study phase, a combined mission resulted. The new mission concept wascalled Euclid, honouring the Greek mathematician Euclid of Alexandria (~300 BC), who is considered the father of geometry. InOctober 2011, Euclid was selected by ESA's Science Programme Committee for implementation, and on 25 June 2012 it was
+formally adopted.[1]
+NASA signed a memorandum of understanding with ESA on 24 January 2013 describing its participation in the mission. NASA
+provided 20 detectors for the near-infrared band instrument, which operate in parallel with a camera in the visible-light band.The instruments, the telescope, and the satellite were built-in and are operated from Europe. NASA has also appointed 40American scientists to be part of the Euclid consortium, which developed the instruments and analyse the data generated by the
+mission. Currently, this consortium brings together more than 1000 scientists from 13 European countries and the UnitedStates.[40]
+Spacecraft bus
+Project history
+Development
+In 2015, Euclid passed a preliminary design review, having completed a large number of technical designs as well as built andtested key components.[41] In December 2018, Euclid passed its critical design review, which validated the overall spacecraft
+design and mission architecture plan, and final spacecraft assembly was allowed to commence.[42] In July 2020, the two
+instruments (visible and NIR) were delivered to Airbus, Toulouse, France for integration with the spacecraft.[43]
+After Russia withdrew in 2022 from the Soyuz-planned launch of Euclid, the ESA reassigned it to a SpaceX Falcon 9 launchvehicle, which launched on 1 July 2023 from Cape Canaveral Space Launch Complex 40.[13][44][11] Following a travel time of 30
+days after launch, it began to orbit the Sun-Earth Lagrangian point L2[3] in an eclipse-free halo orbit about 1 million km wide.
+Upon receiving the initial images, a problem surfaced as scientists discovered a small gap in the spacecraft's hull. This gapallowed sunlight to infiltrate the imaging sensor, resulting in a degradation of image quality.[45] To tackle this issue, the team
+adjusted the spacecraft's orientation by a few degrees, effectively blocking sunlight from entering the identified gap. Thiscorrective measure resolved the problem.[46]
+Animation of Euclid
+Around the Earth
+ Around the Sun – Frame rotating with Earth – Top
+view
+Around the Sun – Frame rotating with Earth –
+Viewed from the Sun
+  Euclid ·    Earth ·    Sun-Earth L2
+In May 2024 the Early Release Observations (ERO) was the first published data release.[47] This release contains images and
+catalogs of star-forming regions, globular clusters, nearby galaxies, fields of the Fornax cluster and Perseus cluster, as well asmore distant galaxy clusters.[48] The content of the ERO is described in one paper submitted to Astronomy & Astrophysics. The
+researchers use a pipeline that can process the images in two ways: optimized for point-sources or optimized for extendedsources.[49] A series of papers describe first results from ERO. These include free-floating planetary-mass objects discovered in
+the Sigma Orionis cluster,[50] discovery of new gravitational lenses,[51] and the discovery of a dwarf satellite galaxy around NGC
+6744.[52]
+The Quick Euclid data release 1 (Q1) went live on 19th March 2025. Three deep fields can be explored on ESASky, a web-based
+tool.[53] The data products can be accessed via the Euclid Science Archive, hosted at ESAC or via IRSA.[54][55] Q1 compromises ofEuclid Deep Field North (EDF-N), Euclid Deep Field South (EDF-S), and Euclid Deep Field Fornax (EDF-F). These deep fields
+cover an area of 63.1 square degrees. EDF-F is centered on the same region as the Chandra Deep Field South (CDFS). Euclid willcontinue to observe these deep fields until DR3, which will be 2 mag deeper than the Euclid Wide Survey. Additionally Q1includes an 0.5 square degree observation of LDN 1641 in the Orion A Cloud.[56]
+Future data releases include the Quick Data Release 2 (Q2), planned for 24th June 2026, Data Release 1 (DR1), planned for 21stOctober 2026, Data Release 2 (DR2), planned for March 2029, and Data Release 3 (DR3), planned for October 2031.[47]
+In space
+Data releases

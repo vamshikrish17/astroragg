@@ -1,0 +1,525 @@
+ 1 
+Abstract — The James Webb Space Telescope (JWST) is the 
+scientific successor to the Hubble Space Telescope. It is a 
+cryogenic infrared space observatory with a 25 m2 aperture (6 
+m class) telescope that will achieve diffraction limited angular 
+resolution at a wavelength o f 2 um. The science instrument 
+payload includes four passively cooled near -infrared 
+instruments providing broad - and narrow -band imagery, 
+coronography, as well as multi -object and integral -field 
+spectroscopy over  the 0.6 < λ < 5.0
+ µm spectrum. An actively 
+cooled mid-infrared instrument provides broad-band imagery, 
+coronography, and integral-field spectroscopy over the 5.0 < 
+λ < 29 µm spectrum. The JWST is being developed by NASA, 
+in partnership with the European and Canadian Space 
+Agencies, as a general user facility with science observations 
+proposed by the international astronomical community in a 
+manner similar to the Hubble Space Telescope. Technology 
+development and mission design are complete. Construction, 
+integration and verification testing is underway in all areas of 
+the program. The JWST is on  schedule for launch during 
+2021. 
+TABLE OF CONTENTS 
+1. DESIGNING FOR DISCOVERY .................................. 1 
+2. ARCHITECTING FOR SUCCESS ................................ 3 
+3. COLLECTING THE FIRST LIGHT ............................. 3 
+4. EXTRACTING INFORMATION FROM STARLIGHT ... 7 
+5. MAKING SURE THAT IT ALL WORKS ....................... 8 
+6. REFERENCES ......................................................... 12 
+ 
+1. DESIGNING FOR DISCOVERY 
+The science motivation for the JWST mission was developed 
+by a succession of international science working groups and 
+is described by Gardner , et al. 2006 & 2012,  and 
+Kalirai 2018 with updates maintained by the JWST flight 
+science working group at: 
+https://jwst.nasa.gov/science.html . 
+This science case forms the basis from which detailed science 
+and mission requirements were derived to guide engineering 
+design and development of the JWST. The science 
+observations that are implemented by the JWST will  be 
+proposed by the international astronomical community in 
+response to annual peer reviewed proposal opportunities 
+(Rigby 2012). The discovery potential of the JWST relative 
+to other concurrent facilities is discussed in Thronson, 
+Stiavelli, and Tielens 2009. 
+The emergence of the first sources of light in the universe 
+marks the end of the “Dark Ages” in cosmic history (Rees 
+1997). The ultraviolet radiation field produced by these 
+sources created the ionization that is observed in the local 
+intergalactic me dium (IGM). The JWST design provides 
+unique capability to address key questions about this era in 
+cosmic evolution including: what is the nature of the first 
+galaxies; how and when did ionization of the space between 
+them occur; and what sources caused the  ionization? The 
+JWST architecture is primarily shaped by requirements 
+associated with answering the above questions.  
+In contrast to the Hubble Space Telescope (HST), the JWST 
+is designed as an infrared optimized telescope to observe the 
+redshifted visible and ultraviolet radiation from the first 
+galaxies and supernovae of the first stars. To achieve the nJy 
+sensitivity needed to observe this era (z ~ 6 -20), the 
+observatory must have a telescope aperture that is larger in 
+diameter than the largest rocket faring, and the entire optical 
+system must be cooled to ~40 -50 K. Finally, the resulting 
+large deployable cryogenic telescope must achieve HST -like 
+angular resolution, but at a 4X longer wavelength thus, also 
+necessitating a large diameter telescope apertur e. The major 
+observatory design features (Table 1, Figure 1) trace directly 
+from these requirements and differ markedly from those of  
+the HST. 
+The JWST science instrument payload is designed to probe 
+the first galaxies with high angular resolution near -infrared 
+image surveys in broad -band filters. This capability enables 
+identification of primeval galaxies by searching for their 
+Lyman continuum break with multi -filter photometry. This 
+prominent feature occurs in the near -infrared (1.3 – 2.6 µm) 
+for galaxies with redshifts in the range of 10 – 20. This broad-
+band technique exploits the maximum sensitivity of the 
+observatory, such that the space density of galaxies can be 
+probed to z~20. JWST high angular resolution imagery across 
+the 0.6 – 29 µm spectrum will  probe the assembly and 
+evolution of galaxy morphologies to permit observation of 
+when and how the Hubble morphological sequence formed. 
+The JWST is designed to enable near -infrared multi -object 
+spectroscopy of thousands of galaxies at several spectral 
+The James Webb Space Telescope: Mission 
+Overview and Status 
+ 
+Matthew Greenhouse 
+Goddard Space Flight Center 
+Greenbelt, MD 20771 
+301 286-4517 
+matt.greenhouse@nasa.gov 
+ 2 
+resolutions (~10 2, ~103). This capability will enable users to 
+probe the chemical evolution and metallicity of galaxies and 
+the ionization state of the IGM across cosmic time. Low 
+resolution multi-object spectroscopy will facilitate calibration 
+of photometric redshifts for primeval galaxy studies. The 
+JWST spectrometers include integral field capability over the 
+0.6 – 29 µm spectrum that will enable detailed spectral, 
+morphological, and kinema tic studies of high redshift 
+galaxies and local galaxy nuclei. JWST spectroscopy includes 
+wide field slitless gris m spectroscopy to enable high redshift 
+emission line galaxy surveys and spectroscopy of extrasolar 
+planet atmospheres. 
+The JWST observatory de sign enables wide discovery 
+potential beyond cosmology and galaxy studies. The JWST 
+high angular resolution imagery and imaging sp ectroscopy 
+across the 0.6 – 29 µm spectrum will open a new window on 
+observation of star formation in our own galaxy to reveal: how 
+molecular cl ouds collapse; how environment a ffects star 
+formation and vice -versa; the mass distribution of low mass 
+stars; and the relationship between stellar debris disks and the 
+formation of terrestrial planets. 
+The JWST instruments include chronographic imagery, 
+sparse aperture interferometry, and spectroscopy capability 
+that will facilitate a wide range of stellar debris disk studies 
+and extra-solar planet observations at high angular resolution. 
+High dynamic range modes of the JWST instruments w ill 
+enable extra-solar planet transit photometry and spectroscopy 
+across the above wavelength range. The JWST observatory 
+provides non -sidereal tracking so that the full observatory 
+capability can be used  to observe the outer solar system to 
+enable compara tive studies among stellar debris disks, 
+extrasolar planets, and our own solar system. 
+ 
+                              
+Table 1: Key design parameters of the JWST and HST 
+Performance Parameter HST JWST 
+OTE Diameter (meters) 2.4 6.1 by 6.6 
+Mass (kg) 11600 6330 
+Output power at load input (watts) 2400 2079 
+Unobscured Aperture (sq meters) 4.5 25 
+Overall optical transmission (%) 45 to 25 62 to 43 
+Telescope field of view (arc min) 14.6 (radius) 18 by 9 
+Wavelength of diffraction limited performance 0.5 2 
+Rayleigh radius (arc sec) 0.043 0.069 
+Telescope Strehl ratio (%) 80 80 
+Pointing accuracy without fine guidance (arc sec) 22 7 
+Pointing stability with fine guidance (arc sec) 0.007 0.007 
+Detector pixels (Mega pixels) 25 66 
+Data volume (Gbits/day) 27 458 
+ 
+                              
+ 
+Figure 1: The JWST is the largest cryogenic optical system ever constructed 
+ 3 
+2. ARCHITECTING FOR SUCCESS  
+The large primary mirror area and cryogenic operating 
+temperature are key drivers on the JWST mission 
+architecture. The telescope is the largest space telescope ever 
+constructed. Liquid cryogen cooling techniques used by prior 
+infrared space observatories (IRAS, ISO, and Spitzer) cannot 
+be practically scaled to meet JWST requirements, and existing 
+cryo-cooler technology could not meet the heat lift 
+requirements of this large system. As a consequence, a 
+passively cooled architecture was adopted for the majority of 
+the system.  
+ 
+A libration point orbit about the Sun -Earth L2 point was 
+selected to facilitate this approach to cooling the observatory 
+(Figure 2). This choice enables the observatory and the earth 
+to have the same period in their heliocentric orbit about the 
+around the sun , such that the telecommunications range 
+between the earth and the JWST remains constant throughout 
+the mission. In addition, the primary sources of heat (sun and 
+earth) always appear in the same direction. Hence, it is 
+possible to continuously shield portions of the observatory 
+from the sun and earth to provide passive cryogenic cooling.  
+ 
+The orbit about the L2 point itself is sized to ensure that the 
+JWST never enters the Earth’s shadow; thus enabling 
+continuous generation of power with solar arrays. This orbit 
+has a period of approximately 6 months and is unstable in the 
+direction of the Earth -Sun line, requiring use of station - 
+keeping thrusters. Propellant for orbit maintenance and 
+momentum management ultimately limits the l ifetime of the 
+observatory to approximately twice the duration of its 
+required 5 year science mission. 
+ 
+The JWST can observe the who le sky while remaining 
+continuously in the shadow of its sun shield. The space 
+vehicle can pitch through an angle of 50 degrees and rotate 
+completely about the earth-sun line to observe sources within 
+an annulus that covers approximately 35% of the sky (Fi gure 
+3). As the observatory orbits the sun, this annulus sweeps over 
+the whole sky every 6 months  yielding small continuous 
+viewing zones at the ecliptic poles. 
+ 
+ 
+ 
+Figure 3: The JWST can observe 35% of the sky at any 
+instant while  remaining in the shadow of its sunshield. 
+This annular field of regard covers the whole sky as the 
+Earth orbits the Sun 
+The JWST will reach this orbit in approximately 100 days 
+after launch from Guiana Space Center  in French Guiana 
+using an Ariane 5 ECA l aunch vehicle via a direct transfer 
+trajectory. The 6.5 m diameter telescope and its tennis -court-
+sized sunshield, are designed to be stowed within the 5 m 
+diameter Arian e rocket fairing along with the science 
+instrument payload and spacecraft  such that t he observatory 
+can deploy into its operational configuration (see animation 
+at: 
+https://youtu.be/bTxLAGchWnA ). This process involves 
+40 deployable structures and 178 release mechanisms.  The 
+observatory is launched warm, and cooling begin s after 
+sunshield deployment in route to the L2 point. 
+ 
+During operations, the NASA Deep Space Network is used to 
+support two 4 hr communications contacts each day during 
+which approximately 458 Gbits of science data are 
+downloaded. Both mission and science operations are 
+supported by the Space Telescope Science Institute, which is 
+currently operating the Hubble Space Telescope. Overall 
+mission management, as well as guidance, navigation, and 
+control, are provided by the NASA Goddard Space Flight 
+Center. 
+ 
+3. COLLECTING THE FIRST LIGHT 
+A three mirror anastigmat (TMA) telescope design (Figure 4) 
+was selected to provide high image quality over a wide field 
+of view (Lightsey 2012). In contrast to ground -based 
+telescopes, minimizing mass is a key design driver on the 
+Figure 2: The location of the JWST libration point 
+orbit relative to the Earth, Moon, and Sun. 
+ 4 
+JWST telescope. Beryllium was selected as a material for the 
+three TMA mirrors due to its low expansion coefficient at the 
+~50K operating temperature (to enable high figure stability) , 
+high thermal conductivity, and high stiffness to mass ratio. A 
+segmented primary mirror design was chosen to enable fold -
+up stowage (Figure 1). The deployed aperture is tricontagon 
+in shape with an unobscured collecting area of 25 m 2. The 
+primary mirror is composed of 18 hexagonal segments (1.32 
+m flat-to-flat) of three optical prescriptions. 
+Each primary mirror segment and the secondary mirror are 
+mechanized to provide in -flight position adjustment in 6 
+degrees of freedom. The primary mirror segments also have 
+capability for in-flight radius of curvature adjustment. A fine 
+steering mirror is located near a pupil position. This mirror is 
+servo controlled using an image -based fine guidance sensor 
+located in the science instrument focal plane to enable 7 
+milliarcseconds rms pointing stability. The mirrors are 
+polished to a cryogenic figure error of approximately 20 nm 
+rms via an iterative polishing and cryogenic test process 
+(Gallagher 2011). Gold was selected  as a mirror coating to 
+provide high throughput over the 0.6 - 29 micron spectrum. 
+This coating choice limits the JWST to wavelengths >0.6 um. 
+The 29 µm long wavelength limit results from detector 
+technology and cooling constraints.  Manufacturing, coating, 
+and final cryogenic testing of all telescope mirrors has been 
+completed (Figure 5). Their performance has been verified 
+                         
+ 
+ 
+Secondary 
+Mirror
+Fine 
+Steering 
+Mirror
+Tertiary 
+Mirror
+Primary 
+Mirror
+Intermediate 
+Focus
+V3
+V1 V2
+Focal 
+Surface
+    
+ 
+Figure 4: The telescope deploys into a three anastigmat configuration employing a fine  
+steering mirror to enable 7 milliarcsecond line of sight pointing stability 
+Figure 5: All JWST telescope mirrors are completed and are within specification in every  respect. From left to 
+right: 1 of 18 primary mirror segments; the secondary mirror; the tertiary mirror; and  the fine steering mirror. 
+ 5 
+through test to be within spe cification in every respect 
+(Feinberg et al. 2012). 
+ 
+The mirror segment actuators are periodically adjusted in 
+flight to ensure diffraction limited image quality throughout 
+the mission. The observatory’s main near -infrared science 
+camera (Section 4) is used as the wavefront error sensor for 
+this process.  In itial coarse phasing of the segments is 
+accomplished using dispersed Hartman sensing optics in this 
+camera (Figure 6). The subsequent fine phasing is performed 
+on defocused images using a modified Gerchberg -Saxton 
+algorithm (Acton 2004 & 2012). This process is designed to 
+achieve a telescope Strehl ratio of 0.8 at a wavelength of 2 
+um.  
+ 
+   
+  
+       
+Figure 6: Dispersed Hartman sensing optics within the NIRCam science instrumen t are used to perform coarse 
+phasing of the primary mirror segments during flight. 
+Figure 7: A 1/6th scale fully functional model of 
+the JWST telescope was used to develop the 
+overall telescope wavefront sensing and control 
+algorithms
+ 
+ 6 
+ 
+Figure 8: The telescope structure is complete and consists 
+of more than 3200 bonded piece parts. 
+The telescope structure  (Figure 8) consists of a M55J -954-6 
+cyanate ester composite material that affords a high stiffness 
+to mass ratio and a low cryogenic expansion coefficient to 
+yield high optical alignment stability. Approximately 3,200 
+bonded piece parts are assembled on a mandrel to form the 
+structure. This structure must support launch loads and 
+perform as a cryogenic optical metering structure. The latter 
+function requires that it exhibit extremely low distortion upon 
+thermal cycling over approximately 250 degrees of 
+temperature cha nge from ambient to its 50K operating 
+temperature. This aspect of the structure design performance 
+was verified through cryogenic speckle interferometry (Saif 
+2008).  
+ 
+
+ 7 
+The observatory sunshield (Figure 9) consists of five Kapton 
+layers with shape and spacing designed to reduce the incident 
+solar power by a factor of order 10 6. The sun facing layer is 
+coated with silicon to prevent degradation of the substrate 
+over the mission duration, and the remaining layers are coated 
+with aluminum. The shield is designed with a curved dihedral 
+shape for attitude stability and must be wrinkle free for control 
+of stray light. As a consequence, each of 5 layers is a quilt of 
+50 panels that are joined with 7000 inches of seaming formed 
+by thermal spot welds. The edge location of each panel is 
+precisely configured to ensure that the coldest layer blocks 
+infrared emission of warmer layers from impinging on the  
+telescope optics. To meet this requirement, a seam -to-seam 
+accuracy of 0.05 inches over the ~21 x 15 m assembly was  
+achieved. Verification of the sunshield thermal design was 
+achieved using a 1/3 scale fully functional model (F igure 9) 
+operated in a space simulation chamber in which the L2 point 
+solar radiation and edge view factors to cold space were 
+simulated using lamps and cryo-panels. 
+ 
+4. EXTRACTING INFORMATION FROM STARLIGHT 
+The JWST science instrument payload contains four science 
+instruments (Figure 10), a fine guidance sensor, and 
+supporting systems for instrument control, command and data 
+handling, cryogenic thermal control, and other functions 
+(Greenhouse 2006, 2010, 2011; Lundquist 2012). Near -
+infrared imagery is provided by the NIRCam instrument 
+(Rieke 2005, 2008; Beichman 2012). This camera provides 
+high angular resolution wide -field imagery over the 0.6 – 5 
+µm spectrum. The detector pixel scale is chosen to optimally 
+sample the telescope point spread function across this 
+wavelength range by use of a dichroic beam splitter. Two 
+identical optical modules image adjacent fields of 
+approximately 4 square arc mi nutes to provide full 
+redundancy for telescope wavefront sensing.  Occulting 
+coronography, yielding a rejection ratio of ~10 4, is provided 
+in both long and short wavelength channels. All focal plane 
+arrays support high cadence sub-array exposures to provide a 
+high dynamic range capability for exoplanet transit 
+observations. 
+ 
+Slit spectroscopy over the 0.6 – 5 µm spectrum is provided by 
+the NIRSpec instrument (Bagnasco 2007; Ferruit 2012). The 
+NIRSpec affords a range of spectral resolutions (102 < λ/∆λ < 
+103) that can be used with long slit, multi-object, and integral 
+field aperture control modes. This instrument is the first 
+aperture controlled multi -object spectrometer developed for 
+space flight. It is designed to target 100 compact sources 
+simultaneously within a 9 square arc minute field. Aperture 
+control for multi-object spectroscopy is provided by a n array 
+of 250,000 micro-shutters that are configured for the desired 
+target field based on prior NIRCam imagery. A variety of 
+fixed long slits are provided to enable high contrast and 
+exoplanet transit spectroscopy. Integral field spectroscopy is 
+provided over a 9 square arc second field via an image slicer. 
+ 
+Near-infrared slitless spectroscopy and non -redundant mask 
+interferometry is provided by the NIRSS instrument (Doyon 
+2012). This instrument provides slitless grism spectroscopy at 
+spectral resolutions of approximately 150 and 700 over a 5 
+square arc minute field of view. These two gris m modes are 
+optimized for deep Ly -alpha galaxy surveys and high 
+precision transit spectroscopy of extrasolar planets 
+respectively. This instrument also provides sparse aperture 
+interferometric imagery (Sivaramakrishnan 2012) via a 7 
+aperture non -redundant pupil mask and three broad -band 
+filters centered on 3.8, 4.3, and 4.8 mi crons wavelength over 
+which the telescope point spread function is Nyquist sampled 
+by the NIRISS pixel scale. 
+ 
+The NIRSS shares an optical bench with the FGS. The latter 
+is a fully redundant very broad-band (0.6 – 5 um) camera that 
+functions as the fine gu idance sensor for the spacecraft 
+attitude control and telescope fine steering mirror systems. It 
+delivers guide star centroid measurements with a noise 
+equivalent angle of 4 milliarcseconds (10-6 deg) at a rate of 16 
+Hz. Its wide field of view enables 95% probability of guide 
+star acquisition over the whole sky and autonomous pattern 
+recognition for guide star identification. 
+ 
+Imagery and spectroscopy over the 5 -29 µm spectrum is 
+provided by the MIRI instrument (Wright 2008). This 
+instrument provides broad -band imagery, low spectral 
+  
+ 
+Figure 9: Left -- A 1/3 scale fully functional model of the sunshield was used for design verification in a cryo-vacuum 
+chamber equipped with solar simulator lamps; Right -- A full scale engineering model of the sunshield. 
+ 8 
+resolution (1%) long slit spectroscopy, and medium spectral 
+resolution (~10 3) integral field spectroscopy. The imaging 
+mode includes both occulting and quadrant phase mask 
+coronography. The latter type enables very small inner 
+working angle observations of stellar debris disks and 
+exoplanet systems. When used in combination with the 
+NIRSpec instrument, an optimally sampled integral field 
+spectrum covering the whole 0.6 – 29 µm JWST wavelength 
+range can be obtained at medium spectral resolution. 
+ 
+The detectors for the JWST instruments define the state of art 
+for high performance space flight infrared imaging arrays. 
+The near-infrared instruments utilize HgCdTe 4 M ega pixel 
+(Mpixel) sensor chip arrays (SCA) operated at ~40 K. 
+Zodiacal background limited sensitivity is achieved in all 
+broad-band instrument modes over the 0.6 – 10 µm spectrum. 
+The MIRI instrument utilizes Si:As 1 Mpixel SCAs operated 
+at ~6.8 K. Significant gains in noise performance and SCA 
+format were achieved over the prior mission state of art 
+(HST/NICMOS & Spitzer/IRAC) during the JWST 
+technology development phase to enable the above mission 
+science goals. The near -infrared SCAs are designed to be 
+edge-butted on three sides to form larger format focal plane 
+array (FPA) assemblies. The NIRCam short wavelength 
+channel utilizes a 16 Mpixel FPA consisting of 4 of these 
+SCAs, and the NIRSpec utilizes an 8 Mpixel FPA consisting 
+of 2 SCAs. The mid-infrared SCAs are used individually in 1 
+Mpixel FPA assemblies. 
+ 
+5. MAKING SURE THAT IT ALL WORKS 
+Testing at the scale and operating temperature of the JWST 
+requires the largest deep cryogenic (~20K) space simulation 
+facilities in the world. The system is built up and tested in 
+incremental steps in which each subunit is tested in a 
+simulated flight environment before it is integrated into the 
+next higher level of assembly (Kimble 2012 , 2018). As this 
+integration and test process proceeds, larger and larger 
+environmental test facilities are needed. The JWST space 
+vehicle consists of three system elements: the Optical 
+Telescope Element (OTE), the Integrated Science 
+Figure 10: The JWST science instruments. From top to 
+bottom: NIRCam, NIRSpec, MIRI, and FGS/NIRSS 
+ 
+ 
+ 
+ 
+ 
+
+ 9 
+Instrument Module (ISIM), and the Spacecraft Element 
+(which includes the sunshade). When the above proces s of 
+incremental testing reached the element level of assembly, the 
+largest test facilities in the world were needed.  
+ 
+The first element-level test in the JWST Program was that of 
+the ISIM. The ISIM was flight qualified at Goddard Space 
+Flight Center using a high fidelity cryogenic telescope 
+simulator (OSIM) (see: Hagopian 2007, Ohl 2009) and a 27 x 
+40 ft cryo -vacuum chamber equipped with a ~20K helium 
+shroud to enable testing at the ISIM operating temperature 
+(Figure 11).  
+ 
+The OTE structure was cryogenically tested at Marshall 
+Space Flight Center (who also performed all cryogenic testing 
+of the OTE primary mirror segments). The OTE  was 
+integrated at Goddard (Figure 13) using the Space System 
+Development and Integration Facility (SSDIF) (see: Mathews 
+2015) – among the largest laminar flow clean room s in the 
+world. The OTE and ISIM elements were integrated with each 
+other in the SSDIF  and were then shipped to Johnson Space 
+Center for end -to-end optical testing at the flight operating 
+temperature in a 65 x 120 ft cr yo-vacuum chamber (Figure 
+14) that has been extensively refurbished from NASA’s 
+Apollo program for JWST (Feinberg 2010,  2011; Hadaway 
+2018; Lightsey 2018; Irvin 2018 ). The OTE/ISIM was then 
+be shipped to Northrop Grumman Aerospace Systems in 
+Redondo Beach California for integration with the Spacecraft 
+Element. The fully integrated JWST space vehicle will then 
+be transported by ship to the European Space Agency’s 
+Kourou Launch Center in French Guiana for integration with 
+the Arian 5 launch vehicle. 
+ 
+The above shipments will utilize the Space Telescope 
+Transporter for Air Road and Sea (STTARS) shown in Figure 
+15. For shipments between GSFC, JSC, and Northrop 
+Grumman, the STTARS will be transported by a C5 aircraft. 
+Transport to Kourou will utilize a ro ll-on-roll-off transport 
+ship. The planned route via the Panama Canal is a journey of 
+6,900 nautical miles that will require approximately 20 days 
+to complete. 
+ 
+ 
+Figure 11: The cryo -vacuum test configuration for the 
+science instrument module (ISIM) is shown in the Space 
+Environment Simulator (SES) using the JWST telescope 
+simulator (OSIM). 
+ 
+ 
+Unlike the Hubble Space telescope, which resides in low earth 
+orbit, the JWST cannot be serviced by astronauts due to its 
+more distant Sun -Earth L2 point orbit. However, in contrast 
+to prior space observatories, the JWST telescope and 
+instrument optical systems employ a high degree of capability 
+for in -flight adjustment (Barto 2008), and lessons learned 
+from prior observatory test programs are c arefully taken into 
+account in design of the above test program (Feinberg 2008). 
+ 
+ 
+ 
+ 
+ 
+ 

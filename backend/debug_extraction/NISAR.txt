@@ -1,0 +1,126 @@
+NASA-ISRO Synthetic Aperture Radar (NISAR)
+Artist's concept of the NASA-ISRO Synthetic Aperture Radar (NISAR) satellite.
+Names NASA-ISRO Synthetic Aperture Radar
+NISAR
+Mission type Radar imaging
+Operator NASA / ISRO
+COSPAR ID 2025-163A (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2025-163A)
+SATCAT no. 65053
+Website nisar.jpl.nasa.gov (https://nisar.jpl.nasa.gov/)
+www.isro.gov.in/NISARSatellite.html (http://www.isro.gov.in/NISARSatellite.html)
+Mission duration Planned: 5 years[1][2]
+Duration: 10 months
+Spacecraft properties
+Spacecraft NISAR
+Bus I-3K[3]
+Manufacturer NASA / ISRO
+Launch mass 2,393 kg (5,276 lb)[4]
+Power 6,500 watts
+Start of mission
+Launch date 30 July 2025, 12:10 UTC 05:40pm IST[5]
+Rocket GSLV F16
+(4 meter fairing)[3]
+Launch site Satish Dhawan Space Centre
+NISAR (satellite)
+Contractor ISRO
+Orbital parameters
+Reference systemGeocentric orbit[1]
+Regime Sun-synchronous orbit[6]
+Altitude 747 km (464 mi)
+Perigee altitude 747 km (464 mi)
+Apogee altitude 747 km (464 mi)
+Inclination 98.5°
+Transponders
+Band S-band
+L-band
+Instruments
+L-band (24-cm wavelength) Polarimetric Synthetic Aperture Radar
+S-band (9.4-cm wavelength) Polarimetric Synthetic Aperture Radar
+NISAR mission logo
+The NASA-ISRO Synthetic Aperture Radar (NISAR) is an Earth observation satellite (EOS)
+equipped with dual-frequency synthetic-aperture radar (SAR) jointly developed by NASA and ISRO,
+launched by ISRO on 30 July 2025 from Satish Dhawan Space Centre. It is the first radar imaging
+satellite to use dual frequencies. It is being used for remote sensing, to observe and understand
+natural processes on Earth. With a total cost estimated at US$1.5 billion, NISAR is likely to be the
+world's most expensive Earth-imaging satellite.[7]
+The NASA-ISRO Synthetic Aperture Radar, or NISAR satellite, uses advanced radar imaging to map
+the elevation of Earth's land and ice masses four to six times a month at resolutions of 5 to 10
+meters.[8] It is designed to observe and measure some of the planet's most complex natural processes,
+including ecosystem disturbances, ice-sheet collapse, and natural hazards such as earthquakes,
+tsunamis, volcanoes and landslides.[9][10]
+The mission is a partnership between NASA and ISRO.[9] Under the terms of the agreement, NASA
+provided the mission's L-band synthetic aperture radar (SAR), a high-rate telecommunication
+subsystem for scientific data GPS receivers, a solid-state recorder, and a payload data subsystem.
+ISRO provided the satellite bus, an S-band synthetic aperture radar (SAR), the launch vehicle, and
+associated launch services.[11]
+Overview
+All data from NISAR is freely available one to two days after observation and within hours in case of
+emergencies like natural disasters.[8] Data collected from NISAR will reveal information about the
+evolution and state of Earth's crust, help scientists better understand our planet's natural processes
+and changing climate, and aid future resource and hazard management.[9]Its instruments are also
+being used to study the Antarctic cryosphere.[12]
+The satellite is three-axis stabilized. It uses a 12 m (39 ft) deployable mesh antenna and will operate
+on both the L- and S- microwave bands.[9] The aperture mesh reflector (antenna) was supplied by
+Astro Aerospace.[13] Weighing about 142 pounds (64 kilograms), the reflector features a cylindrical
+frame made of 123 composite struts and a gold-plated wire mesh and is the largest of its kind
+deployed in space.[14]
+The National Centre of Geodesy facilities at IIT-Kanpur and IIT-Patna also hosted a corner reflector
+for NISAR. It plays a key role in calibration and course correction of the Nisar satellite's radar during
+the in-orbit checkout phase.[15]
+ISRO's share of the project cost is about ₹788 crore (US$82 million), and NASA's share is about
+US$1,118 million ($1.118 billion).[16][17][15]
+The satellite was fully integrated in January 2024 and was performing its final testing and analysis in
+preparation for launch.[18] However, in an interview with the Times of India, Chairman of ISRO
+Sreedhara Panicker Somanath said that though the GSLV for NISAR will be built by March–April
+2024, the satellite is still undergoing tests and they were expecting some delay.[19] Tests found that
+the large primary radar reflector might face higher-than-expected temperatures when stowed during
+flight and so it was returned to JPL, its manufacturer in California, to apply a reflective coating to
+mitigate the risk of overheating.[20][21] It was the first GSLV Mk II launch to Low Earth orbitand to
+SSPO
+On 15 October 2024, after the completion of all checks and tests, NASA's C-130 took off from Wallops
+Flight Facility in Virginia to embark on the multi-leg, multi-day journey to India. The flight first
+stopped at March Air Reserve Base to retrieve the spacecraft followed by strategic stops at Hickam Air
+Force Base, Hawaii; Andersen Air Force Base, Guam; Clark Air Base, Philippines and reached HAL
+Airport in Bengaluru, India.[22][23] By late January 2025, the satellite had finished all preliminary
+checkout in Bengaluru and was ready to be shipped to SDSC.[24] By May 14 technicians had placed the
+satellite in a specialized container and transported it about 360 kilometers by truck to Satish Dhawan
+Space centre, where it arrived following day.[25]
+Mission
+Delays
+NISAR deployment stages
+NISAR lifted off aboard an ISRO Geosynchronous Satellite Launch Vehicle rocket at 5:40 p.m. IST on
+the 30th of July 2025. ISRO ground controllers in Bengaluru began communicating with NISAR
+about 18 minutes after launch, at just after 8:29 a.m. EDT, and confirmed it is operating as expected.
+It was the GSLV rocket’s first mission to Sun-synchronous polar orbit.[26][27][28] The satellite will
+enter a 90-day Checkout phase and deploy its primary Radar reflector before beginning of its
+operational life.[29] The orbit will be a Sun-Synchronous Orbit (SSO), dawn-to-dusk type. The planned
+mission life is 5 years.[1]
+The deployment process for the spacecraft started on August
+9, 2025 with the deployment of the 9 meter long booms first
+joint. The boom was fully deployed by August 13. 17 days after
+launch, on August 15, ISRO and NASA mission controllers
+fired small explosive bolts to unfurl the 12 meters wide drum-
+shaped primary radar reflector for NISAR.The whole bloom
+process took 37 minutes and was completed with the locking
+of cables and activation of motors to fix the reflectors final
+shape. It then proceeded to raise and circularise its 747 km
+orbit on August 26.Pre-operational checks were then
+conducted by both NASA & ISRO teams to validate the health and readiness of all major systems,
+including the radar payload. Mission controllers anticipate they will start receiving science-quality
+radar images in September 2025. The spacecraft is expected to begin science operations by Fall 2025,
+or about 90 days after launch.[14][30][31][32]
+NISAR captured its first SAR images using its L-SAR on August 23rd over Mount Desert Island in
+Maine and parts of the Forest River in North Dakota.[33][34][35] It was officially commissioned into
+scientific service and declared operational on November 7 2025; capturing its first operational
+pictures of the Godavari River Delta.[36][37][38]It was declared fully operational in January 2026.[39]
+NRSC has utilised the first series of NISAR data created in February 2026 to create soil moisture
+maps of parts covering central India and the Indo-gangetic plains at a 100 x 100 meter resolution.
+Research data from early December 2025 has been made available at the Bhoonidhi portal (https://bh
+oonidhi.nrsc.gov.in/NISAR/).[40][41] In March 2026, NISAR made observations of the Northwest
+Pacific coastline, focusing on vegetation around Mount Ranier and Mount Saint Helens as well as the
+cities of Seattle and Portland.[42][43] In April, NISAR data on land subsidence revealed that parts of
+Mexico city sank two centimeters into the ground every month during the dry season, due to heavy
+urban development and groundwater pumping over the past 100 years.[44][45]
+Launch
+Deployment and commissioning
+Service

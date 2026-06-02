@@ -1,0 +1,551 @@
+Parker Solar Probe
+Model of the Parker Solar Probe
+Names Solar Probe (before 2002)
+Solar Probe Plus (2010–2017)
+Parker Solar Probe (since 2017)
+Mission type Heliophysics
+Operator NASA / Applied Physics Laboratory
+COSPAR ID 2018-065A (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2018-065A)
+SATCAT no. 43592
+Website parkersolarprobe.jhuapl.edu (http://parkersolarprobe.jhuapl.edu)
+Mission duration 7 years (planned)
+Elapsed: 7 years, 9 months and 14 days
+Spacecraft properties
+Manufacturer Applied Physics Laboratory
+Launch mass 685 kg (1,510 lb)[1]
+Dry mass 555 kg (1,224 lb)
+Payload mass 50 kg (110 lb)
+Dimensions 1 × 3 × 2.3 m (3.3 × 9.8 × 7.5 ft)
+Power 343 W (at closest approach)
+Start of mission
+Launch date 12 August 2018, 07:31 UTC[2][3]
+Rocket Delta IV Heavy / Star 48BV[4]
+Launch site Cape Canaveral, SLC ‑ 37
+Contractor United Launch Alliance
+Parker Solar Probe
+Orbital parameters
+Reference systemHeliocentric orbit
+Semi-major axis 0.388 AU (58.0 million km; 36.1 million mi)
+Perihelion
+altitude
+0.046 AU (6.9 million km; 4.3 million mi; 9.86 R☉)[note 1]
+Aphelion altitude 0.73 AU (109 million km; 68 million mi)[5]
+Inclination 3.4°
+Period 88 days
+Transponders
+Band Ka-band, X-band
+Instruments
+Mission insignia
+Large Strategic Science Missions
+Heliophysics Division
+Living With a Star program
+The Parker Solar Probe (PSP; previously Solar Probe, Solar Probe Plus or Solar Probe+)[6]
+is a NASA space probe launched in 2018 to make observations of the Sun's outer corona.
+It used repeated gravity assists from Venus to develop an eccentric orbit, approaching within 9.86
+solar radii (6.9 million km or 4.3 million miles)[7][8] from the center of the Sun. At its closest
+approach in 2024, its speed relative to the Sun was 690,000 km/h (430,000 mph) or 191 km/s (118.7
+mi/s), which is 0.064% the speed of light.[7][9] It is the fastest object ever built on Earth.[10]
+The project was announced in the fiscal 2009 budget year. Johns Hopkins University Applied Physics
+Laboratory designed and built the spacecraft,[11] which was launched on 12 August 2018.[2] It became
+the first NASA spacecraft named after a living person, honoring the physicist Eugene Newman Parker,
+professor emeritus at the University of Chicago.[12]
+On 29 October 2018, at about 18:04 UTC, the spacecraft became the closest ever artificial object to the
+Sun. The previous record, 42.73 million kilometers (26.55 million miles) from the Sun's surface, was
+set by the Helios 2 spacecraft in April 1976.[13] At its perihelion on 27 September 2023, the PSP's
+closest approach was 7.26 million kilometers (4.51 million miles),[14] reaching this distance again on
+29 March 2024.[15]
+Evolution of PSP design
+On 24 December 2024 at 11:53 UTC, PSP made its closest approach to the Sun, coming to a distance
+of 6.1 million km (3.8 million miles) from the surface. Its beacon signal was received on 26 December,
+showing that it had survived the passage through the corona.[16][17] Detailed telemetry was received 1
+January 2025.[18]
+In 2025, the teams from NASA, Johns Hopkins, and partners were awarded the 2024 Collier Trophy
+for their achievements.[19]
+The Parker Solar Probe concept originates in the 1958 report by the Fields and Particles Group,
+Committee 8 of the National Academy of Sciences' Space Science Board,[20][21][22] which proposed
+several space missions including "a solar probe to pass inside the orbit of Mercury to study the
+particles and fields in the vicinity of the Sun".[23][24]
+Studies in the 1970s and 1980s reaffirmed its importance,[23] but it was always postponed due to cost.
+A cost-reduced Solar Orbiter mission was studied in the 1990s, and a more capable Solar Probe
+mission served as one of the centerpieces of the Outer Planet/Solar Probe (OPSP) program
+formulated by NASA in the late 1990s. The first three missions of the program were planned to be: the
+Solar Orbiter, the Pluto and Kuiper belt reconnaissance Pluto Kuiper Express mission, and the
+Europa Orbiter astrobiology mission focused on Europa.[25][26]
+The original Solar Probe design used a gravity assist from
+Jupiter to enter a polar orbit which dropped almost directly
+toward the Sun. While this explored the important solar poles
+and came even closer to the surface (3 R☉, a perihelion of 4
+R☉),[26] the extreme variation in solar irradiance made for an
+expensive mission and required a radioisotope thermal
+generator for power. The trip to Jupiter also made for a long
+mission, 31⁄2 years to first solar perihelion, 8 years to second.
+Following the appointment of Sean O'Keefe as Administrator
+of NASA, the entirety of the OPSP program was canceled as
+part of President George W. Bush's request for the 2003
+United States federal budget.[27] Administrator O'Keefe cited
+a need for a restructuring of NASA and its projects, falling in
+line with the Bush Administration's wish for NASA to refocus
+on "research and development, and addressing management
+shortcomings".[27]
+In the early 2010s, plans for the Solar Probe mission were
+incorporated into a lower-cost Solar Probe Plus.[28] The redesigned mission uses multiple Venus
+gravity assists for a more direct flight path, which can be powered by solar panels. It has a higher
+perihelion, reducing the demands on the thermal protection system.
+History
+In May 2017, the spacecraft was renamed the Parker Solar Probe in honor of astrophysicist Eugene
+Newman Parker,[29][30] who had proposed the existence of nanoflares as an explanation of coronal
+heating[31] as well as having developed a mathematical theory that predicted the existence of solar
+wind.[32] The solar probe cost NASA US$1.5 billion.[33][34] The launch rocket bore a dedication in
+memory of APL engineer Andrew A. Dantzler who had worked on the project.[35]
+A memory card containing names submitted by over 1.1 million people was mounted on a plaque and
+installed below the spacecraft's high-gain antenna.[36] The card also contains photos of Parker and a
+copy of his 1958 scientific paper predicting important aspects of solar physics.[37]
+The Parker Solar Probe is the first spacecraft to fly into the low solar corona. It will assess the
+structure and dynamics of the Sun's coronal plasma and magnetic field, the energy flow that heats the
+solar corona and impels the solar wind, and the mechanisms that accelerate energetic particles.
+The spacecraft's systems are protected from the extreme heat and radiation near the Sun by a solar
+shield. Incident solar radiation at perihelion is approximately 650 kW/m2, or 475 times the intensity
+at Earth orbit.[1][38]: 31  The solar shield is hexagonal, mounted on the Sun-facing side of the
+spacecraft, 2.3 m (7 ft 7 in) in diameter,[39] 11.4 cm (4.5 in) thick, and is made of two panels of
+reinforced carbon–carbon composite with a lightweight 11-centimeter-thick (4.5 in) carbon foam
+core,[40] which is designed to withstand temperatures outside the spacecraft of about 1,370 °C
+(2,500 °F).[1] The shield weighs only 73 kilograms (160 lb) and keeps the spacecraft's instruments at
+29 °C (85 °F).[40]
+A white reflective alumina surface layer minimizes absorption. The spacecraft systems and scientific
+instruments are located in the central portion of the shield's shadow, where direct radiation from the
+Sun is fully blocked. If the shield was not between the spacecraft and the Sun, the probe would be
+damaged and become inoperative within tens of seconds. As radio communication with Earth takes
+about eight minutes in each direction, the Parker Solar Probe has to act autonomously and rapidly to
+protect itself. This is done using four light sensors to detect the first traces of direct sunlight coming
+from the shield limits and engaging movements from reaction wheels to reposition the spacecraft
+within the shadow again. According to project scientist Nicky Fox, the team described it as "the most
+autonomous spacecraft that has ever flown".[6]
+The primary power for the mission is a dual system of solar panels (photovoltaic arrays). A primary
+photovoltaic array, used for the portion of the mission outside 0.25 au, is retracted behind the shadow
+shield during the close approach to the Sun, and a much smaller secondary array powers the
+spacecraft through closest approach. This secondary array uses pumped-fluid cooling to maintain
+operating temperature of the solar panels and instrumentation.[41][42]
+Spacecraft
+A light bar testing in
+the Astrotech
+processing facility.
+ 
+Parker Solar Probe
+mated to its third
+stage rocket motor
+ 
+PSP during extensive environmental testing.
+PSP encapsulated
+in fairing.
+ 
+The launch of the probe.
+The Parker Solar Probe mission design used repeated gravity assists at Venus to incrementally
+decrease its orbital perihelion to achieve a final altitude (above the surface) of approximately 8.5 solar
+radii, or about 6×106 km (3.7×106 mi; 0.040 au).[39] The spacecraft trajectory included seven Venus
+flybys over nearly seven years to gradually shrink its elliptical orbit around the Sun, for a total of 24
+orbits.[1] The near Sun radiation environment was predicted to cause spacecraft charging effects,
+radiation damage in materials and electronics, and communication interruptions, so the orbit is
+highly elliptical with short times spent near the Sun.[38]
+The trajectory required high launch energy, so the probe was launched on a Delta IV Heavy launch
+vehicle and an upper stage based on the Star 48BV solid rocket motor.[38] Interplanetary gravity
+assists provided further deceleration relative to its heliocentric orbit, which resulted in a heliocentric
+speed record at perihelion.[4][43] As the probe passed around the Sun in December 2024, it achieved a
+velocity of 690,000 km/h (430,000 mph) or 191 km/s (118.7 mi/s) in the heliocentric ecliptic
+reference frame, which temporarily made it the fastest human-made object, almost three times as fast
+as the previous record holder, Helios-2.[7][9][44][45][46]
+0:56
+CC
+7:19
+CC
+Trajectory
+An animation of the Parker Solar Probe's
+trajectory from August 7, 2018, to August
+29, 2025:
+  Parker Solar Probe ·   Sun ·
+  Mercury ·   Venus ·   Earth
+For more detailed animation, see this
+video.
+An apparent size of the Sun as seen from
+the Parker Solar Probe at perihelion
+compared to its apparent size seen from
+Earth
+A visualization of PSP's projected orbit
+through 2029, assuming it continues to
+follow its current trajectory.
+Launch injection was very close to predictions, but
+nevertheless required path correction. Trajectory was re-
+optimized after the launch to save fuel. The first Venus flyby
+was only 52 days after the launch; three trajectory correction
+maneuvers were performed in this window.[22]
+As described by Kepler's laws of planetary motion, which
+apply to any object in an orbit, gravity will cause the
+spacecraft to accelerate as it nears perihelion, then slow down
+again afterward until it reaches its aphelion. Because of its
+highly elliptical orbit and the Sun's strong gravity, this effect is
+particularly pronounced for the Parker Solar Probe. During a
+perihelion on September 27, 2023, the spacecraft traveled at
+394,736 miles per hour (176.5 km/s), fast enough to fly from
+New York to Tokyo in just over a minute.[14]
+The PSP performed its final gravity assist on November 6,
+2024. It set the spacecraft on a new orbit passing 6.1 million
+kilometers (3.8 million miles) from the surface of the Sun.[47]
+A beacon transmission was made and received successfully on
+December 20 to confirm that the craft was operating normally
+ahead of the perihelion. The exact time of closest approach
+was 11:53 UTC on December 24 but the craft was out of
+contact at this time. A further beacon transmission confirming
+successful passage was received on December 26.[48][49]
+This final orbit is inside the orbit of Venus and so no further
+encounters with that planet are planned. PSP will continue in
+this orbit but requiring adjustment to maintain attitude so
+that its transmitters point at Earth. Eventually its thrusters
+will run out of fuel and full functioning will not then be
+possible. The plan is to then rotate the craft so that its
+instruments will be exposed to the full radiance of the Sun for
+the first time. This is expected to ablate and destroy them. The
+heat shield will remain and is expected to continue to orbit the
+Sun for millions of years.[50]
+PSP's mission can be extended beyond main mission that will
+end in 2025. Currently discussed plan is "to complete the solar
+cycle at the 9.86 Rs perihelion distance".[51]
+Final orbit, possible extensions and end of
+mission
+
+Schematic view of all PSP's instruments
+Parker Solar Probe 3D model
+Parker Solar Probe has four main instruments:[52][53]
+FIELDS (Electromagnetic Fields Investigation). The
+instrument suite captures the scale and shape of
+electric and magnetic fields in the Sun's
+atmosphere. FIELDS measures waves and
+turbulence in the inner heliosphere with high time
+resolution to understand the fields associated with
+waves, shocks and magnetic reconnection, a
+process by which magnetic field lines explosively
+realign. FIELDS measures the electric field around
+the spacecraft with five antennas, four of which
+stick out beyond the spacecraft's heat shield and
+into the sunlight, where they experience
+temperatures of 1,370 °C (2,500 °F). The 2-meter-
+long (6 ft 7 in) antennas are made of a niobium
+alloy, which can withstand extreme temperatures.
+FIELDS measures electric fields across a broad
+frequency range both directly and remotely.
+Operating in two modes, the four sunlit antennas
+measure the properties of the fast and slow solar
+wind — the flow of solar particles constantly
+streaming out from the Sun. The fifth antenna,
+which sticks out perpendicular to the others in the
+shade of the heat shield, helps make a three-
+dimensional picture of the electric field at higher
+frequencies. The suite also has three
+magnetometers to assess the magnetic field. A
+search coil magnetometer, or SCM, measures how
+the magnetic field changes over time. Two identical
+fluxgate magnetometers, MAGi and MAGo,
+measure the large-scale coronal magnetic field.
+The fluxgate magnetometers are specialized for
+measuring the magnetic field further from the Sun where it varies at a slower rate, while the
+search coil magnetometer is necessary closer to the Sun where the field changes quickly, as it
+can sample the magnetic field at a rate of two million times per second. The Principal Investigator
+is Stuart Bale at the University of California, Berkeley.[52]
+IS ☉ IS (Integrated Science Investigation of the Sun). The instrument uses two complementary
+instruments to measure particles across a wide range of energies. By measuring electrons,
+protons and ions, IS ☉ IS will understand the particles' lifecycles — where they came from, how
+they became accelerated and how they move out from the Sun through interplanetary space. The
+two energetic particle instruments on IS ☉ IS are called EPI-Lo and EPI-Hi (EPI stands for
+Energetic Particle Instrument). EPI-Lo measures the spectra of electrons and ions and identifies
+carbon, oxygen, neon, magnesium, silicon, iron and two isotopes of helium, He-3 and He-4.
+Distinguishing between helium isotopes will help determine which of several theorized
+mechanisms caused the particles' acceleration. The instrument has a design with an octagonal
+dome body supporting 80 viewfinders. Multiple viewfinders provide a wide field of view to observe
+low-energy particles. An ion that enters EPI-Lo through one of the viewfinders first passes through
+two carbon-polyimide-aluminum foils and then encounters a solid-state detector. Upon impact, the
+Instruments
+3D
+foils produce electrons, which are measured by a microchannel plate. Using the amount of energy
+left by the ion's impact on the detector and the time it takes the ions to pass through the sensor
+identifies the species of the particles. EPI-Hi uses three particle sensors composed of stacked
+layers of detectors to measure particles with energies higher than those measured by EPI-Lo. The
+front few layers are composed of ultra-thin silicon detectors made up of geometric segments,
+which allows for the determination of the particle's direction and helps reduce background noise.
+Charged particles are identified by measuring how deep they travel into the stack of detectors and
+how many electrons they pull off atoms in each detector, a process called ionization. At closest
+approach to the Sun, EPI-Hi will be able to detect up to 100,000 particles per second. The
+Principal Investigator is David McComas at Princeton University.[52][54]
+WISPR (Wide-field Imager for Solar Probe). These optical telescopes acquire images of the
+corona and inner heliosphere. WISPR uses two cameras with radiation-hardened Active Pixel
+Sensor CMOS detectors. The camera's lenses are made of a radiation hard BK7, a common type
+of glass used for space telescopes, which is also sufficiently hardened against the impacts of dust.
+The Principal Investigator is Russell Howard at the Naval Research Laboratory.[52]
+SWEAP (Solar Wind Electrons Alphas and Protons). This investigation will count the electrons,
+protons and helium ions, and measure their properties such as velocity, density, and temperature.
+Its main instruments are the Solar Probe Analyzers (SPAN, two electrostatic analyzers) and the
+Solar Probe Cup (SPC). SPC is a Faraday cup, a metal device that can catch charged particles in
+a vacuum. Peeking over the heat shield to measure how electrons and ions are moving, the cup is
+exposed to the full light, heat and energy of the Sun. The cup is composed of a series of highly
+transparent grids — one of which uses variable high voltages to sort the particles — above
+several collector plates, which measure the particles' properties. The variable voltage grid also
+helps sort out background noise, such as cosmic rays and photoionized electrons, which could
+otherwise bias the measurements. The grids, located near the front of the instrument, can reach
+temperatures of 1,650 °C (3,000 °F), glowing red while the instrument makes measurements. The
+instrument uses pieces of sapphire to electrically isolate different components within the cup. As it
+passes close to the Sun, SPC takes up to 146 measurements per second to accurately determine
+the velocity, density and temperature of the Sun's plasma. SPAN is composed of two instruments,
+SPAN-A and SPAN-B, which have wide fields of view to allow them to see the parts of space not
+observed by SPC. Particles encountering the detectors enter a maze that sends the particles
+through a series of deflectors and voltages to sort the particles based on their mass and charge.
+While SPAN-A has two components to measure both electrons and ions, SPAN-B looks only at
+electrons. The Principal Investigator is Justin Kasper at the University of Michigan and the
+Smithsonian Astrophysical Observatory.[52]
+An additional theoretical investigation named Heliospheric origins with Solar Probe Plus (HeliOSPP)
+starting from 2010 and ending in 2024 has the role of providing theoretical input and independent
+assessment of scientific performance to the Science Working Group (SWG) and the SPP Project to
+maximize the scientific return from the mission. The Principal Investigator is Marco Velli at the
+University of California, Los Angeles and the Jet Propulsion Laboratory; he also serves as the
+Observatory Scientist for the mission.[38]
+The Parker Solar Probe was launched on 12 August 2018, at 07:31 UTC. The spacecraft operated
+nominally after launching. During its first week in space it deployed its high-gain antenna,
+magnetometer boom, and electric field antennas.[55] The spacecraft performed its first scheduled
+trajectory correction on 20 August 2018, while it was 8.8 million kilometers (5.5 million mi) from
+Earth, and travelling at 63,569 kilometers per hour (39,500 mph)[56]
+Mission
+Launch of the Parker Solar
+Probe in 2018
+Artist's rendition of the Parker Solar
+Probe approaching the Sun
+The second flyby of Venus on December
+26, 2019. The velocity decreases by 2.9
+km/s to 26 km/s (red circle), shifting the
+spacecraft to a new orbit closer to the
+Sun.
+Instrument activation and testing began in early September 2018. On
+9 September 2018, the two WISPR telescopic cameras performed a
+successful first-light test, transmitting wide-angle images of the
+background sky towards the Galactic Center.[57]
+The probe successfully performed the first of the seven planned Venus
+flybys on 3 October 2018, where it came within about 2,400 kilometers
+(1,500 mi) of Venus in order to reduce the probe's speed and orbit
+closer to the Sun.[58]
+Within each orbit of the Parker Solar Probe around the Sun, the
+portion within 0.25 AU is the Science Phase, in which the probe is
+actively and autonomously making observations.
+Communication with the probe is largely cut off in that
+phase.[59]: 4  Science phases run for a few days both before and
+after each perihelion. They lasted 11.6 days for the earliest
+perihelion, and will drop to 9.6 days for the final, closest
+perihelion.[59]: 8 
+Much of the rest of each orbit is devoted to transmitting data
+from the science phase. But during this part of each orbit,
+there are still periods when communication is not possible.
+First, the requirement that the heat shield of the probe be
+pointed towards the Sun sometimes puts the heat shield
+between the antenna and Earth. Second, even when the probe
+is not particularly near the Sun, when the angle between the
+probe and the Sun, as seen from Earth, is too small, the Sun's
+radiation can overwhelm the communication link.[59]: 11–14 
+After the first Venus flyby, the probe was in an elliptical orbit
+with a period of 150 days (two-thirds the period of Venus),
+making three orbits while Venus makes two. After the second
+flyby, the period shortened to 130 days. After less than two
+orbits, only 198 days later, it encountered Venus a third time
+at a point earlier in the orbit of Venus. This encounter
+shortened its period to half of that of Venus, or about 112.5
+days. After two orbits it met Venus a fourth time at about the
+same place, shortening its period to about 102 days.[60]
+After 237 days, it met Venus for the fifth time and its period
+was shortened to about 96 days, three-sevenths that of Venus. It then made seven orbits while Venus
+made three. The sixth encounter, almost two years after the fifth, shortened its period down to 92
+days, two-fifths that of Venus. After five more orbits (two orbits of Venus), it met Venus for the
+seventh and last time, decreasing its period to 88 or 89 days and allowing it to approach closer to the
+Sun.[60]
+ 
+The speed of the probe and distance from the Sun, from launch until 2026
+Timeline
+List of events[60][38]: 31 [61]
+Year Date Event
+Perihelion
+distance (million
+km)[a]
+Speed
+(km/s)[b] Orbital period
+(days)
+Notes
+Flyby altitude
+over Venus [c]
+Leg of
+Parker's
+orbit [d]
+Inside/Outside
+orbit of Venus
+[e]
+2018
+12 August
+07:31 UTC Launch 151.6 – 174[f]
+3 October
+08:44 UTC
+Venus flyby
+#1 2548 km[g] Inbound Inside
+Flybys 1 and 2 occur
+at the
+same point in Venus's
+orbit.
+6 November
+03:27 UTC
+Perihelion
+#1
+24.8×106[h] 95 150
+Solar encounter
+phase
+31 October – 11
+November[64]
+2019
+4 April
+22:40 UTC
+Perihelion
+#2
+Solar encounter
+phase
+30 March – 10
+April[65]
+1
+September
+17:50
+UTC[66]
+Perihelion
+#3
+Solar encounter
+phase
+16 August – 20
+September [i]
+26
+December
+18:14
+UTC[68]
+Venus flyby
+#2 3023 km Inbound Inside
+Flybys 1 and 2 occur
+at the
+same point in Venus's
+orbit.
+2020
+29 January
+09:37
+UTC[69]
+Perihelion
+#4
+19.4×106 109 130
+Solar encounter
+phase
+23 January – 29
+February[70]
+7 June
+08:23
+UTC[71]
+Perihelion
+#5
+Solar encounter
+phase
+9 May – 28 June[72]
+11 July
+03:22
+UTC[73]
+Venus flyby
+#3 834 km Outbound Outside[j]
+Flybys 3 and 4 occur
+at the
+same point in Venus's
+orbit.
+27
+September
+Perihelion
+#6
+14.2×106 129 112.52021 17 January Perihelion
+#7
+20 February Venus flyby
+#4 2392 km Outbound Outside
+Flybys 3 and 4 occur
+at the
+same point in Venus's
+orbit.
+28 April Perihelion
+#8
+11.1×106 147 102 First perihelion to
+enter the
+solar corona
+9 August Perihelion
+#9
+16 October Venus flyby
+#5 3786 km Inbound Inside
+Flybys 5 and 6 occur
+at the
+same point in Venus's
+orbit.
+21
+November
+Perihelion
+#10
+9.2×106 163 96
+2022
+25 February Perihelion
+#11
+1 June Perihelion
+#12
+6
+September
+Perihelion
+#13
+11
+December
+Perihelion
+#14
+2023
+17 March Perihelion
+#15
+22 June Perihelion
+#16
+21 August Venus flyby
+#6 3939 km Inbound Inside
+Flybys 5 and 6 occur
+at the
+same point in Venus's
+orbit.
+27
+September
+Perihelion
+#17
+7.9×106 176 92
+29
+December
+Perihelion
+#18
+2024
+30 March Perihelion
+#19
+30 June Perihelion
+#20
+30
+September
+Perihelion
+#21
+6 November Venus flyby
+#7 317 km Outbound Outside
+24
+December
+Perihelion
+#22
+6.9×106 192 88
+2025
+22 March Perihelion
+#23
+19 June Perihelion
+#24
+15
+September
+Perihelion
+#25
+12
+December
+Perihelion
+#26
+a. For altitude above the surface, subtract one solar radius ≈0.7 million km.

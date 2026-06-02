@@ -1,0 +1,883 @@
+Hayabusa2
+Artist's impression of Hayabusa2 firing its ion thrusters
+Mission type Asteroid sample-return
+Operator JAXA
+COSPAR ID 2014-076A (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2014-076A)
+SATCAT no. 40319
+Website www.hayabusa2.jaxa.jp/en/ (http://www.hayabusa2.jaxa.jp/en/)
+Mission
+duration
+6 years (planned)
+(11 years, 5 months and 26 days elapsed)
+Spacecraft properties
+Spacecraft
+type
+Hayabusa
+Manufacturer NEC[1]
+Launch
+mass
+600 kg[2]
+Dry mass 490 kg (1,080 lb)[3]
+Dimensions Spacecraft bus: 1 × 1.6 × 1.25 m (3 ft 3 in × 5 ft 3 in × 4 ft 1 in)
+Solar panel: 6 m × 4.23 m (19.7 ft × 13.9 ft)
+Power 2.6 kW (at 1 au), 1.4 kW (at 1.4 au)
+Start of mission
+Launch date 3 December 2014,
+04:22:04 UTC[4]
+Rocket H-IIA 202
+Launch site Tanegashima Space Center, LA-Y
+Contractor Mitsubishi Heavy Industries
+Hayabusa2
+End of mission
+Landing date Re-entry capsule:
+5 December 2020 UTC[5]
+Landing site Woomera, Australia
+Flyby of Earth
+Closest
+approach
+3 December 2015
+Distance 3,090 km (1,920 mi)[6]
+Rendezvous with (162173) Ryugu
+Arrival date 27 June 2018, 09:35 UTC[7]
+Departure
+date
+12 November 2019[8]
+Sample
+mass
+5.4 grams[9](including gas samples)
+(162173) Ryugu lander
+Landing date 21 February 2019
+(162173) Ryugu lander
+Landing date 11 July 2019
+Flyby of Earth (Sample return)
+Closest
+approach
+5 December 2020 UTC[5]
+Hayabusa2 (Japanese: はやぶさ 2; lit. 'Peregrine falcon 2') is an asteroid sample-return mission
+operated by the Japanese state space agency JAXA. It is a successor to the Hayabusa mission, which
+returned asteroid samples for the first time in June 2010.[10] Hayabusa2 was launched on 3
+December 2014 and rendezvoused in space with near-Earth asteroid 162173 Ryugu on 27 June
+2018.[11] It surveyed the asteroid for a year and a half and took samples. It left the asteroid in
+November 2019 and returned the samples to Earth on 5 December 2020 UTC.[8][12][13] Its mission
+has now been extended through at least 2031, when it will rendezvous with the small, rapidly-rotating
+asteroid 1998 KY.
+Hayabusa2 carries multiple science payloads for remote sensing and sampling, and four small rovers
+to investigate the asteroid surface and analyze the environmental and geological context of the
+samples collected.
+Asteroid 162173 Ryugu (formerly designated 1999 JU3) is a primitive carbonaceous near-Earth
+asteroid. Carbonaceous asteroids are thought to preserve the most pristine, untainted materials in the
+Solar System, a mixture of minerals, ice, and organic compounds that interact with each other.[14]
+26
+Mission overview
+Hayabusa2 mission overview animation
+Animation of Hayabusa2 orbit from 3 December
+2014
+  Hayabusa2   162173 Ryugu   Earth
+  Sun
+See detailed video including the extended mission
+Studying it is expected to provide additional knowledge
+on the origin and evolution of the inner planets and, in
+particular, the origin of water and organic compounds
+on Earth,[14][15] all relevant to the origin of life on
+Earth.[16]
+Initially, launch was planned for 30 November 2014,[17][18][19] but was delayed to 3 December 2014 at
+04:22:04 UTC (3 December 2014, 13:22:04 local time) on a H-IIA launch vehicle.[20] Hayabusa2
+launched together with PROCYON asteroid flyby space probe. PROCYON's mission was a failure.
+Hayabusa2 arrived at Ryugu on 27 June 2018,[11] where it surveyed the asteroid for a year and a half
+and collected samples.[14] It departed the asteroid in November 2019 and returned the samples to
+Earth in December 2020.[19]
+Compared to the previous Hayabusa mission, the spacecraft features improved ion engines, guidance
+and navigation technology, antennas, and attitude control systems.[21] A kinetic penetrator (a high-
+explosive shaped charge) was shot into the asteroid surface to expose pristine sample material which
+was later collected for return to Earth.[15][19]
+Following the initial success of Hayabusa, JAXA began studying a potential successor mission in
+2007.[22] In July 2009, Makoto Yoshikawa of JAXA presented a proposal titled "Hayabusa Follow-on
+Asteroid Sample Return Missions". In August 2010, JAXA obtained approval from the Japanese
+government to begin development of Hayabusa2. The cost of the project estimated in 2010 was 16.4
+billion yen (US$149 million).[10][23]
+Hayabusa2 was launched on 3 December 2014, arrived at asteroid Ryugu on 27 June 2018, and
+remained stationary at a distance of about 20 km (12 mi) to study and map the asteroid. In the week
+of 16 July 2018, commands were sent to move to a lower hovering altitude.[24]
+On 21 September 2018, the Hayabusa2 spacecraft ejected the first two rovers, Rover-1A (HIBOU)[25]
+and Rover-1B (OWL), from about a 55 m (180 ft) altitude that dropped independently to the surface of
+the asteroid.[26][27] They functioned nominally and transmitted data.[28] The MASCOT rover deployed
+successfully on 3 October 2018 and operated for about 16 hours as planned.[29]
+7:15
+Funding and history
+Hayabusa2 Performance[37][38]
+Propulsion μ10 ion thruster
+Number of thrusters 4 (one is a spare)
+Total thrust (ion drive) 28 mN
+Specific impulse (Isp) 3000 seconds
+Acceleration 49 μm/s2
+Power 1250 W
+Spacecraft wet mass 600 kg
+Ion engine system
+dry mass 66 kg
+Ion engine system
+wet mass 155 kg
+Solar array 23 kg
+Xenon propellant 66 kg
+Hydrazine/MON-3 propellant 48 kg
+Thrust (chemical propellants) 20 N
+The first sample collection was scheduled to start in late October 2018, but the rovers encountered a
+landscape with large and small boulders but no surface soil for sampling. Therefore, it was decided to
+postpone the sample collection plans to 2019 and further evaluate various options for the
+landing.[30][31] The first surface sample retrieval took place on 21 February 2019. On 5 April 2019,
+Hayabusa2 released an impactor to create an artificial crater on the asteroid surface. However,
+Hayabusa2 initially failed on 14 May 2019 to drop reflective markers necessary onto the surface for
+guiding the descent and sampling processes,[32] but later it successfully dropped one from an altitude
+of 9 m (30 ft) on 4 June 2019.[33] The sub-surface sampling took place on 11 July 2019.[34] The
+spacecraft departed the asteroid on 13 November 2019 (with departure command sent at 01:05 UTC
+on 13 November 2019). It successfully delivered the samples back to Earth on 6 December 2020
+(JST), dropping the contents by parachute in a special container at a location in southern Australia.
+The samples were retrieved the same day for secure transport back to the JAXA labs in
+Japan.[8][35][36]
+The design of Hayabusa2 is based on the first
+Hayabusa spacecraft, with some improvements.[14][39]
+It has a mass of 600 kilograms (1,300 lb) including
+fuel,[39] and electric power is generated by two sets of
+solar arrays with an output of 2.6 kW at 1 AU, and
+1.4 kW at 1.4 AU.[39] The power is stored in eleven
+inline-mounted 13.2 Ah lithium-ion batteries.[39]
+Propulsion
+The spacecraft features four solar-electric ion thrusters
+for propulsion called μ10,[37] one of which is a backup.
+These engines use microwaves to convert xenon into
+plasma (ions), which are accelerated by a voltage
+applied by the solar panels and ejected out the back of
+the engine. The simultaneous operation of three
+engines generates thrusts of up to 28 mN.[39] Although
+this thrust is very small, the engines are also extremely
+efficient; the 66 kg (146 lb) of xenon[37] reaction mass
+can change the speed of the spacecraft by up to
+2 km/s.[39]
+The spacecraft has four redundant reaction wheels and a chemical reaction control system featuring
+twelve thrusters for attitude control (orientation) and orbital control at the asteroid.[37][39] The
+chemical thrusters use hydrazine and MON-3, with a total mass of 48 kg (106 lb) of chemical
+propellant.[39]
+Communication
+Spacecraft
+The primary contractor NEC built the 590 kg (1,300 lb) spacecraft, its Ka-band communications
+system and a mid-infrared camera.[21] The spacecraft has two high-gain directional antennas for X-
+band and Ka-band.[37] Bit rates are 8 bit/s to 32 kbit/s.[39] The ground stations are the Usuda Deep
+Space Center, Uchinoura Space Center, NASA Deep Space Network and Malargüe Station (ESA).[39]
+Navigation
+The optical navigation camera telescope (ONC-T) is a telescopic framing camera with seven colors to
+optically navigate the spacecraft.[40] It works in synergy with the optical navigation camera wide-field
+(ONC-W2) and with two star trackers.[39]
+In order to descend to the asteroid surface to perform sampling, the spacecraft released one of five
+target markers in the selected landing zones as artificial guide marks, with highly reflective outer
+material that is recognized by a strobe light mounted on the spacecraft.[39] The spacecraft also used its
+laser altimeter and ranging (LIDAR) as well as Ground Control Point Navigation (GCP-NAV) sensors
+during sampling.[39]
+The Hayabusa2 spacecraft was the first to deploy operating rovers on an asteroid.
+The Hayabusa2 payload is equipped with multiple scientific instruments:[39][41]
+Remote sensing: Optical Navigation Camera (ONC-T, ONC-W1, ONC-W2), Near-Infrared Camera
+(NIR3), Thermal-Infrared Camera (TIR), Light Detection And Ranging (LIDAR)
+Sampling: Sampling device (SMP), Small Carry-on Impactor (SCI), Deployable Camera (DCAM3)
+Four rovers: Mobile Asteroid Surface Scout (MASCOT), Rover-1A, Rover-1B, Rover-2.
+The Optical Navigation Cameras (ONCs) were used for spacecraft navigation during the asteroid
+approach and proximity operations. They also remotely imaged the surface to search for
+interplanetary dust around the asteroid. ONC-T is a telephoto camera with a 6.35° × 6.35° field of
+view and several optical filters carried in a carousel. ONC-W1 and ONC-W2 are wide angle (65.24° ×
+65.24°) panchromatic (485–655 nm) cameras with nadir and oblique views, respectively.[39]
+The Near-Infrared Spectrometer (NIRS3) is a spectrograph operating at a wavelength of 1.8–3.2 μm.
+NIRS3 was used for analysis of surface mineral composition.[39]
+The Thermal-Infrared Imager (TIR) is a thermal infrared camera working at 8–12 μm, using a two-
+dimensional microbolometer array. Its spatial resolution is 20 m at 20 km distance or 5 cm at 50 m
+distance (70 ft at 12 mi, or 2 in at 160 ft). It was used to determine surface temperatures in the range
+−40 to 150 °C (−40 to 302 °F).[39]
+Firsts
+Science payload
+Remote sensing
+Hayabusa2 instrument inventory
+The Light Detection And Ranging (LIDAR) instrument measured the distance from the spacecraft to
+the asteroid surface by measuring the reflected laser light. It operated over an altitude range between
+30 m and 25 km (100 ft and 16 mi).[39]
+When the spacecraft was closer to the surface than 30 m (98 ft) during the sampling operation, the
+Laser Range Finders (LRF-S1, LRF-S3) were used to measure the distance and the attitude
+(orientation) of the spacecraft relative to the terrain.[42][43] The LRF-S2 monitored the sampling horn
+to trigger the sampling projectile.
+LIDAR and ONC data are being combined to determine the detailed topography (dimensions and
+shape) of the asteroid. Monitoring of a radio signal from Earth allowed measurement of the asteroid's
+gravitational field.[39]
+Hayabusa2 carried four small rovers to explore the asteroid surface in situ,[44] and provide context
+information for the returned samples. Due to the minimal gravity of the asteroid, all four rovers were
+designed to move around by short hops instead of using normal wheels. They were deployed at
+different dates from about 60 m (200 ft) altitude and fell freely to the surface under the asteroid's
+weak gravity.[45] The first two rovers, called HIBOU (previously Rover-1A) and OWL (previously
+Rover-1B), landed on asteroid Ryugu on 21 September 2018.[28] The third rover, called MASCOT, was
+deployed 3 October 2018. Its mission was successful.[46] The fourth rover, known as Rover-2 or
+Rovers
+The first photograph from the surface of
+an asteroid, taken by HIBOU on 22
+September 2018 during one of its "hops".
+Model of MINERVA-II-1 Rover 1B
+MINERVA-II-2, failed before release from the orbiter. It was released on 2 October 2019 to orbit the
+asteroid and perform gravitational measurements before being allowed to impact the asteroid a few
+days later.
+MINERVA-II is a successor to the MINERVA lander carried
+by Hayabusa. It consists of two containers with 3 rovers.
+MINERVA-II-1 is a container that deployed two rovers,
+Rover-1A (HIBOU) and Rover-1B (OWL), on 21
+September 2018.[47][48] It was developed by JAXA and the
+University of Aizu. The rovers are identical having a
+cylindrical shape, 18 cm (7.1 in) diameter and 7 cm (2.8 in)
+tall, and a mass of 1.1 kg (2.4 lb) each.[39][49] They move by
+hopping in the low gravitational field, using a torque
+generated by rotating masses within the rovers.[50] Their
+scientific payload is a stereo camera, wide-angle camera, and
+thermometers. Solar cells and double-layer capacitors provide
+the electrical power.[2][51] The MINERVA-II-1 rovers were
+successfully deployed 21 September 2018. Both rovers
+performed successfully on the asteroid surface, sending
+images and video from the surface. Rover-1A operated for 113
+asteroid days (36 Earth days) returning 609 images from the
+surface, and Rover-1B operated for 10 asteroid days (3 Earth
+days) returning 39 images from the surface.[52]
+The MINERVA-II-2 container held the ROVER-2
+(sometimes referred to as MINERVA-II-2), developed by a
+consortium of universities led by Tohoku University in Japan.
+This was an octagonal prism shape, 15 cm (5.9 in) diameter
+and 16 cm (6.3 in) tall, with a mass of about 1 kg (2.2 lb). It
+had two cameras, a thermometer and an accelerometer. It was
+equipped with optical and ultraviolet LEDs to illuminate and
+detect floating dust particles. ROVER-2 carried four
+mechanisms to move around using short hops.[2] Rover-2 had
+problems prior to deployment from the orbiter but was
+released on 2 October 2019 to orbit the asteroid and perform
+gravitational measurements. It was then crashed onto the asteroid surface a few days later on 8
+October 2019.
+The Mobile Asteroid Surface Scout (MASCOT) was developed by the German Aerospace Center
+(DLR) in cooperation with the French space agency CNES.[53] Its dimensions measure 29.5 cm
+× 27.5 cm × 19.5 cm (11.6 in × 10.8 in × 7.7 in) and it weighs 9.6 kg (21 lb).[54] MASCOT carries four
+MINERVA-II
+MASCOT
+Mission overview
+instruments: an infrared spectrometer (MicrOmega), a
+magnetometer (MASMAG), a radiometer (MARA), and a
+camera (MASCAM) that imaged the small-scale structure,
+distribution and texture of the regolith.[55] The rover is
+capable of tumbling once to reposition itself for further
+measurements.[44][56] It collected data on the surface
+structure and mineralogical composition, the thermal
+behaviour and the magnetic properties of the asteroid.[57] It
+has a non-rechargeable battery that allowed for operations for
+approximately 16 hours.[58][59] The infrared radiometer on
+the InSight Mars lander, launched in 2018, is based on the
+MASCOT radiometer.[60][61]
+MASCOT was deployed on 3 October 2018, with a successful
+landing and ensuing surface mission. Two papers were
+published describing the results from MASCOT in the
+scientific journals Nature Astronomy[62] and Science.[63] One
+finding of the research was that C-type asteroids consist of
+more porous material than previously thought, explaining a deficit of this meteorite type. Meteorites
+of this type are too porous to survive the entry into the atmosphere of planet Earth. Another finding
+was that Ryugu consists of two different almost black types of rock with little internal cohesion, but no
+dust was detected.[64][65] A third paper describing results from MASCOT was published in the Journal
+of Geophysical Research and describes the magnetic properties of Ryugu, showing that Ryugu does
+not have a magnetic field on a boulder scale.[66]
+Object Developed
+by Mass Dimensions Power Science
+payload
+Landing
+or
+deployed
+date
+Status
+MINERVA-
+II-1 rovers:
+Rover-1A
+(HIBOU)
+Rover-1B
+(OWL)
+JAXA and
+University
+of Aizu
+1.1 kg
+(2.4 lb)
+each
+Diameter:
+18 cm
+(7.1 in)
+Height: 7 cm
+(2.8 in)
+Solar panels
+Wide-angle
+camera, stereo
+camera,
+thermometers
+21
+September
+2018
+Successful
+landing. Rover-
+1A operated for
+36 days and
+Rover-1B
+operated for 3
+days.[52]
+Rover-2
+(MINERVA-
+II-2)
+Tohoku
+University
+1.0 kg
+(2.2 lb)
+Diameter:
+15 cm
+(5.9 in)
+Height:
+16 cm
+(6.3 in)
+Solar panels
+Two cameras,
+thermometer,
+accelerometer.
+Optical and
+ultraviolet
+LEDs for
+illumination
+Released:
+2 October
+2019,
+16:38 UTC
+Rover failed
+before
+deployment, so
+it was released
+in orbit around
+the asteroid to
+perform
+gravitational
+measurements
+before it
+impacted a few
+days
+later.[67][68]
+MASCOT
+German
+Aerospace
+Center and
+CNES
+9.6 kg
+(21 lb)
+29.5 cm
+× 27.5 cm
+× 19.5 cm
+(11.6 in
+× 10.8 in
+× 7.7 in)
+Non-
+rechargeable
+battery[58]
+Camera,
+infrared
+spectrometer,
+magnetometer,
+radiometer
+3 October
+2018[69]
+Successful
+landing.
+Operated on
+battery for
+more than 17
+hours[59]
+Deployable
+camera 3
+(DCAM3)
+JAXA
+about
+2 kg
+(4.4 lb)
+Diameter:
+7.8 cm
+(3.1 in)
+Height:
+7.8 cm
+(3.1 in)
+Non-
+rechargeable
+battery
+DCAM3-A lens,
+DCAM3-D lens
+5 April
+2019
+Deployed to
+observe impact
+of SCI
+impactor.
+Inactive now
+and presumed
+to have fallen
+on the asteroid.
+Small
+Carry-On
+Impactor
+(SCI)
+JAXA 2.5 kg
+(5.5 lb)
+Diameter:
+30 cm
+(12 in)
+Height:
+21.7 cm
+(8.5 in)
+Non-
+rechargeable
+battery
+None 5 April
+2019
+Successful.
+Shot to the
+surface 40
+minutes after
+separation.
+Target
+Marker B JAXA 300 g
+(11 oz)
+10 cm
+(3.9 in)
+sphere
+None None 25 October
+2018
+Successful.
+Used for first
+touchdown.
+Target
+Marker A JAXA 300 g
+(11 oz)
+10 cm
+(3.9 in)
+sphere
+None None 30 May
+2019
+Successful.
+Used for
+second
+touchdown.
+Objects deployed by Hayabusa2
+Sampling Date
+1st surface sampling 21 February 2019
+Sub-surface sampling
+SCI impactor: 5 April 2019
+Target marker: 5 June 2019[33]
+Sampling: 11 July 2019[34]
+2nd surface sampling Optional;[70] was not done.
+Artistic rendering of Hayabusa collecting a surface
+sample.
+Target
+Marker E
+(Explorer)
+JAXA 300 g
+(11 oz)
+10 cm
+(3.9 in)
+sphere
+None None
+17
+September
+2019
+Successful.
+Injected to
+equatorial orbit
+and confirmed
+to land.
+Target
+Marker C
+(Sputnik/
+Спутник)
+JAXA 300 g
+(11 oz)
+10 cm
+(3.9 in)
+sphere
+None None
+17
+September
+2019
+Successful.
+Injected to
+polar orbit and
+confirmed to
+land.
+Target
+Marker D JAXA 300 g
+(11 oz)
+10 cm
+(3.9 in)
+sphere
+None None — Was not
+deployed.
+Sample
+Return
+Capsule
+JAXA 16 kg
+Diameter:
+40 cm
+Height:
+20 cm
+Non-
+rechargeable
+battery
+Sample
+container,
+Reentry flight
+Environment
+Measurement
+Module
+5
+December
+2020 UTC
+Successful
+landing. All the
+parts including
+the sample
+container were
+collected.
+The original plan was for the spacecraft to collect up
+to three samples: 1) surface material that exhibits
+traits of hydrous minerals; 2) surface material with
+either unobservable or weak evidence of aqueous
+alterations; 3) excavated sub-surface material.[71]
+The first two surface samples were scheduled to
+start in late October 2018, but the rovers showed
+large and small boulders and insufficient surface
+area to sample, so the mission team decided to
+postpone sampling to 2019 and evaluate various
+options.[30] The first surface sampling was
+completed on 22 February 2019 and obtained a
+substantial amount of topsoil,[70][72] so the second
+surface sampling was postponed and was
+eventually cancelled to decrease the risks to the
+mission.[70]
+The second and final sample was collected from
+material that was dislodged from beneath the
+surface by the kinetic impactor (SCI impactor)
+shot from a distance of 300 m (980 ft).[73][74] All
+samples are stored in separate sealed containers inside the sample return capsule (SRC).
+Sampling
+Sampler horn
+Animation illustrating SCI deployment and
+subsequent sampling from the resulting crater.
+Hayabusa2's sampling device is based on Hayabusa's. The
+first surface sample retrieval was conducted on 21 February
+2019, which began with the spacecraft's descent, approaching
+the surface of the asteroid. When the sampler horn attached to
+Hayabusa2's underside touched the surface, a 5 g (0.18 oz)
+tantalum projectile (bullet) was fired at 300 m/s (980 ft/s)
+into the surface.[72] The resulting ejected materials were
+collected by a "catcher" at the top of the horn, which the ejecta
+reached under their own momentum under microgravity
+conditions.[75]
+The sub-surface sample collection required an
+impactor to create a crater in order to retrieve
+material under the surface, not subjected to space
+weathering. This required removing a large volume of
+surface material with a powerful impactor. For this
+purpose, Hayabusa2 deployed on 5 April 2019 a free-
+flying gun with one "bullet", called the Small Carry-
+on Impactor (SCI); the system contained a 2.5 kg (5.5 lb) copper projectile, shot onto the surface
+with an explosive propellant charge. Following SCI deployment, Hayabusa2 also left behind a
+deployable camera (DCAM3)[Note 1] to observe and map the precise location of the SCI impact, while
+the orbiter maneuvered to the far side of the asteroid to avoid being hit by debris from the impact.
+It was expected that the SCI deployment would induce seismic shaking of the asteroid, a process
+considered important in the resurfacing of small airless bodies. However, post-impact images from
+the spacecraft revealed that little shaking had occurred, indicating the asteroid was significantly less
+cohesive than was expected.[76]
+Approximately 40 minutes after separation, when the spacecraft was at a safe distance, the impactor
+was fired into the asteroid surface by detonating a 4.5 kg (9.9 lb) shaped charge of plasticized HMX
+for acceleration.[56][77] The copper impactor was shot onto the surface from an altitude of about
+500 m (1,600 ft) and it excavated a crater of about 10 m (33 ft) in diameter, exposing pristine
+material.[15][32] The next step was the deployment on 4 June 2019 of a reflective target marker in the
+area near the crater to assist with navigation and descent.[33] The touchdown and sampling took place
+on 11 July 2019.[34]
+Surface sample
+Sub-surface sample
+The touchdown on and sampling of
+Ryugu on 11 July
+Replica of Hayabusa's sample-return capsule (SRC)
+used for re-entry. Hayabusa2's capsule is of the same
+size, measuring 40 cm (16 in) in diameter and using a
+parachute for touchdown.
+One of the facility-to-facility transfer
+containers (FFTC) of Hayabusa2
+returned samples given to NASA by
+JAXA.
+The spacecraft collected and stored the samples in separate
+sealed containers inside the sample-return capsule (SRC),
+which is equipped with thermal insulation. The container is
+40 cm (16 in) external diameter, 20 cm (7.9 in) in height, and
+a mass of about 16 kg (35 lb).[39]
+At the end of the science phase in November 2019,[8]
+Hayabusa2 used its ion engines to change orbit and return to
+Earth.[75] Hours before Hayabusa2 flew past
+Earth in late 2020, it released the capsule, on 5
+December 2020 at 05:30 UTC.[78] The capsule was
+released spinning at one revolution per three
+seconds, and re-entered the Earth's atmosphere at
+12 km/s (7.5 mi/s). Deploying a radar-reflective
+parachute at an altitude of about 10 km (6.2 mi), it
+ejected its heat shield while transmitting a position
+beacon signal.[39][75] The sample capsule landed at
+the Woomera Test Range in Australia.[13][79] The
+total flight distance was 5.24×109 km
+(35.0 AU).[39]
+Any volatile substances will be collected before the
+sealed containers are opened.[71] The samples will
+be curated and analyzed at JAXA's Extraterrestrial
+Sample Curation Center,[80] where international
+scientists can request a small portion of the
+samples. The spacecraft brought back a capsule
+containing carbon-rich asteroid fragments that scientists believe could provide clues about the ancient
+delivery of water and organic molecules to Earth.[81][82]
+JAXA is sharing a portion of these samples with NASA. In
+exchange, NASA will provide JAXA a percentage of a sample
+of asteroid Bennu, when the agency's OSIRIS-REx spacecraft
+returned to Earth from the space rock on 24 September
+2023.[83]
+A November 2024 study published in Meteoritics & Planetary
+Science examined a sample returned from the asteroid Ryugu
+by the Hayabusa2 mission. Despite stringent contamination
+control measures, terrestrial microorganisms rapidly
+colonized the sample. Researchers concluded that the
+observed microbial growth originated from Earthly
+contamination during sample preparation rather than being
+0:36
+Sample return
+Animation of Hayabusa2 orbit –
+extended mission
+  Hayabusa2 ·   162173 Ryugu ·
+  Earth ·   Sun ·   98943 Torifune ·
+  1998 KY
+Spaceflight portal
+indigenous to the asteroid. This finding underscores the difficulty of preventing microbial
+contamination, even in highly controlled laboratory environments.[84][85]
+With the successful return and retrieval of the sample capsule
+on 6 December 2020 (JST), Hayabusa2 is planned to use its
+remaining 30 kg (66 lb) of xenon propellant (from the initial
+66 kg (146 lb)) to extend its service life and fly out to explore
+new targets.[86] As of September 2020, a fly-by of 98943
+Torifune in July 2026 and a rendezvous with 1998 KY  in
+July 2031 were selected for the mission extension.[87][88][89]
+The observation of Torifune will be a high-speed fly-by of an
+S-type asteroid.[90] The fixed camera of Hayabusa2 was not
+designed for this type of fly-by. The rendezvous with
+1998 KY26 will be the first visit of a fast rotating micro-
+asteroid, with a rotation period of about 10 minutes.[89]
+Between 2021 and 2026, the spacecraft will also conduct
+transit observations of exoplanets.[89] An option to conduct a
+Venus flyby to set up an encounter with 2001 AV  was also
+studied.[91][92]
+Selected EAEEA (Earth →  Asteroid →  Earth →  Earth →  Asteroid) scenario:[89]
+December 2020: Extension mission start
+2021 until July 2026: cruise operation
+July 2026: S-type asteroid 98943 Torifune high-speed fly-by
+December 2027: Earth swing-by
+June 2028: Second Earth swing-by
+July 2031: Target body (1998 KY) rendezvous
+The 2017 discovery of interstellar visitor ʻ Oumuamua and its unusual acceleration led to the discovery
+of a new class of objects called dark comets.[93] By 2024, 14 previously discovered asteroids had been
+identified as dark comets, including 1998 KY . At the time, Hayabusa2 had already been set on
+course to visit 1998 KY .[93] Researchers who study dark comets are now very excited about the
+prospect of Hayabusa2#'s upcoming visit to a dark comet.[93]
+Abiogenesis
+Hayabusa Mk2 – Proposed Japanese space mission
+Mission extension (Hayabusa2 ♯ )
+1:42
+26
+26
+43
+26
+Dark Comet
+26
+26
+See also
+OSIRIS-REx – NASA asteroid sample return mission to 101955 Bennu (operational at the same
+time as Hayabusa2)
+Panspermia
+Hiten (spacecraft) – 1990 Japanese lunar probe
+Martian Moons eXploration – Planned sample-return mission by Japan to Phobos
+OKEANOS – Proposed space probe to Trojan asteroids
+Suisei spacecraft
+1. DCAM3 is numbered as such because it is a follow-on to the DCAM1 and DCAM2 used for the
+IKAROS interplanetary solar sail
+1. "JAXA Launches Hayabusa 2 Asteroid Probe" (https://www.nec.com/en/press/201412/global_2014
+1203_01.html). nec.com (Press release). NEC. 3 December 2014. Tokyo. Archived (https://web.ar
+chive.org/web/20220418072603/https://www.nec.com/en/press/201412/global_20141203_01.htm
+l) from the original on 18 April 2022.
+2. "Display: Hayabusa2 2014-076A" (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2
+014-076A). NASA. 14 May 2020. 2014-076A. Archived (https://web.archive.org/web/20230608224
+344/https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2014-076A) from the original on
+8 June 2023. Retrieved 27 January 2021. 
+  This article incorporates text from this source, which
+is in the public domain.
+3. "Hayabusa-2 – Asteroid Exploration Mission" (https://spaceflight101.com/spacecraft/hayabusa-2/).
+Archived (https://web.archive.org/web/20231029160153/https://spaceflight101.com/spacecraft/hay
+abusa-2/) from the original on 29 October 2023. Retrieved 30 June 2019.
+4. "Launch of "Hayabusa2" by H-IIA Launch Vehicle No. 26" (https://global.jaxa.jp/press/2014/09/201
+40930_h2af26.html) (Press release). JAXA & Mitsubishi Heavy Industries. 30 September 2014.
+Archived (https://web.archive.org/web/20231028164133/https://global.jaxa.jp/press/2014/09/2014
+0930_h2af26.html) from the original on 28 October 2023.
+5. "Joint Statement for Cooperation in the Hayabusa2 Sample Return Mission by the Australian
+Space Agency and the Japan Aerospace Exploration Agency" (https://www.jaxa.jp/press/2020/07/
+20200714-1_j.html) (Press release). JAXA & the Australian Space Agency. 14 July 2020. Archived
+(https://web.archive.org/web/20240101022938/https://www.jaxa.jp/press/2020/07/20200714-1_j.ht
+ml) from the original on 1 January 2024. Retrieved 14 July 2020.
+6. "Hayabusa2 Earth Swing – by Result" (https://global.jaxa.jp/press/2015/12/20151214_hayabusa2.
+html) (Press release). JAXA & National Research and Development Agency. 14 December 2015.
+Archived (https://web.archive.org/web/20231028170751/https://global.jaxa.jp/press/2015/12/2015
+1214_hayabusa2.html) from the original on 28 October 2023.
+7. "Arrival at Ryugu!" (https://www.hayabusa2.jaxa.jp/topics/20180629je/index_e.html). JAXA
+Hayabusa2 Project. 29 June 2018. Archived (https://web.archive.org/web/20230529145315/http
+s://www.hayabusa2.jaxa.jp/topics/20180629je/index_e.html) from the original on 29 May 2023.
+Retrieved 15 July 2018.
+Japanese minor body probes
+Notes
+References
+8. Bartels, Meghan (13 November 2019). "Farewell, Ryugu! Japan's Hayabusa2 Probe Leaves
+Asteroid for Journey Home" (https://www.space.com/hayabusa2-spacecraft-leaves-asteroid-ryugu.
+html). Space.com. Archived (https://web.archive.org/web/20231024064540/https://www.space.co
+m/hayabusa2-spacecraft-leaves-asteroid-ryugu.html) from the original on 24 October 2023.
+9. "Hayabusa2 returned with 5 grams of asteroid soil, far more than target" (https://www.japantimes.c
+o.jp/news/2020/12/19/national/science-health/hayabusa2-asteroid-soil/). The Japan Times. Kyodo
+News. Archived (https://web.archive.org/web/20231001002931/https://www.japantimes.co.jp/new
+s/2020/12/19/national/science-health/hayabusa2-asteroid-soil/) from the original on 1 October
+2023.
+10. Wendy Zukerman (18 August 2010). "Hayabusa2 will seek the origins of life in space" (https://ww
+w.newscientist.com/article/dn19332-hayabusa-2-will-seek-the-origins-of-life-in-space.html). New
+Scientist. Retrieved 17 November 2010.
+11. Clark, Stephen (28 June 2018). "Japanese spacecraft reaches asteroid after three-and-a-half-year
+journey" (https://spaceflightnow.com/2018/06/28/japanese-spacecraft-reaches-asteroid-after-three
+-and-a-half-year-journey/). Spaceflight Now. Archived (https://web.archive.org/web/202310240601
+28/https://spaceflightnow.com/2018/06/28/japanese-spacecraft-reaches-asteroid-after-three-and-a
+-half-year-journey/) from the original on 24 October 2023. Retrieved 2 July 2018.
+12. Chang, Kenneth (5 December 2020). "Japan's Journey to an Asteroid Ends With a Hunt in
+Australia's Outback" (https://www.nytimes.com/2020/12/05/science/japan-asteroid-hayabusa2-wo
+omera.html). The New York Times. Archived (https://web.archive.org/web/20240120030928/http
+s://www.nytimes.com/2020/12/05/science/japan-asteroid-hayabusa2-woomera.html) from the
+original on 20 January 2024. Retrieved 5 December 2020.
+13. Rincon, Paul (6 December 2020). "Hayabusa-2: Capsule with asteroid samples in 'perfect' shape"
+(https://www.bbc.com/news/science-environment-55201662). BBC News. Archived (https://web.ar
+chive.org/web/20231024064457/https://www.bbc.com/news/science-environment-55201662) from
+the original on 24 October 2023. Retrieved 6 December 2020.
+14. Tachibana, S.; Abe, M.; Arakawa, M.; Fujimoto, M.; Iijima, Y.; Ishiguro, M.; Kitazato, K.; Kobayashi,
+N.; Namiki, N.; Okada, T.; Okazaki, R.; Sawada, H.; Sugita, S.; Takano, Y.; Tanaka, S.; Watanabe,
+S.; Yoshikawa, M.; Kuninaka, H. (2014). "Hayabusa2: Scientific importance of samples returned
+from C-type near-Earth asteroid (162173) 1999 JU3" (https://doi.org/10.2343%2Fgeochemj.2.035
+0). Geochemical Journal. 48 (6): 571–587. Bibcode:2014GeocJ..48..571T (https://ui.adsabs.harva
+rd.edu/abs/2014GeocJ..48..571T). doi:10.2343/geochemj.2.0350 (https://doi.org/10.2343%2Fgeo
+chemj.2.0350).
+15. Yuichi Tsuda; Makoto Yoshikawa; Masanao Abe; Hiroyuki Minamino; Satoru Nakazawa (October–
+November 2013). "System design of the Hayabusa 2 – Asteroid sample return mission to 1999
+JU3". Acta Astronautica. 91: 356–362. Bibcode:2013AcAau..91..356T (https://ui.adsabs.harvard.e
+du/abs/2013AcAau..91..356T). doi:10.1016/j.actaastro.2013.06.028 (https://doi.org/10.1016%2Fj.
+actaastro.2013.06.028).
+16. Zukerman, Wendy (18 August 2010). "Hayabusa 2 will seek the origins of life in space" (https://ww
+w.newscientist.com/article/dn19332-hayabusa-2-will-seek-the-origins-of-life-in-space/). New
+Scientist. ISSN 0262-4079 (https://search.worldcat.org/issn/0262-4079). Archived (https://web.arc
+hive.org/web/20231024061100/https://www.newscientist.com/article/dn19332-hayabusa-2-will-see
+k-the-origins-of-life-in-space/) from the original on 24 October 2023.
+17. "JAXA Report on Hayabusa2" (https://science.nasa.gov/media/medialibrary/2014/06/04/NAC-PPS
+-Yano-140521c-11.pdf) (PDF). JAXA. 21 May 2014. Archived (https://web.archive.org/web/201603
+04195136/http://science.nasa.gov/media/medialibrary/2014/06/04/NAC-PPS-Yano-140521c-11.pd
+f) (PDF) from the original on 4 March 2016.
+18. Vilas, Faith (25 February 2008). "Spectral characteristics of Hayabusa 2 near-Earth asteroid
+targets 162173 1999 JU3 AND 2001 QC34" (https://doi.org/10.1088%2F0004-6256%2F135%2F
+4%2F1101). The Astronomical Journal. 135 (4): 1101. Bibcode:2008AJ....135.1101V (https://ui.ads
+abs.harvard.edu/abs/2008AJ....135.1101V). doi:10.1088/0004-6256/135/4/1101 (https://doi.org/10.
+1088%2F0004-6256%2F135%2F4%2F1101). "target for the planned Japanese mission
+Hayabusa2"
+19. Yoshikawa, Makoto (6 January 2011). ⼩惑星探査ミッション「はやぶさ2 (https://www.isas.jaxa.j
+p/j/researchers/symp/sss11/paper/S3-04_20110209174216.pdf) [Asteroid Exploration Mission
+"Hayabusa2"] (PDF). 11th Symposium on Space Science (in Japanese). Archived (https://web.arc
+hive.org/web/20240123202307/https://www.isas.jaxa.jp/j/researchers/symp/sss11/paper/S3-04_20
+110209174216.pdf) (PDF) from the original on 23 January 2024. Retrieved 20 February 2011.
+20. Clark, Stephen (3 December 2014). "Hayabusa2 launches on audacious asteroid adventure" (http
+s://spaceflightnow.com/2014/12/03/hayabusa-2-launches-on-audacious-asteroid-adventure/).
+Spaceflight Now. Archived (https://web.archive.org/web/20231014085158/https://spaceflightnow.c
+om/2014/12/03/hayabusa-2-launches-on-audacious-asteroid-adventure/) from the original on 14
+October 2023. Retrieved 3 December 2014.
+21. Clark, Stephen (29 January 2012). "Japan's next asteroid probe approved for development" (http
+s://www.spaceflightnow.com/news/n1201/29hayabusa2/). Archived (https://web.archive.org/web/2
+0231029152402/https://spaceflightnow.com/news/n1201/29hayabusa2/) from the original on 29
+October 2023. Retrieved 29 October 2012.
+22. Keiji Tachikawa (2007). "The President's New Year Interview" (https://web.archive.org/web/201202
+05072752/http://www.jaxa.jp/article/interview/vol27/p3_e.html). jaxa.jp. JAXA. Archived from the
+original (http://www.jaxa.jp/article/interview/vol27/p3_e.html) on 5 February 2012. Retrieved
+28 April 2007.
+23. Clark, Stephen (11 August 2010). "Asteroid probe, rocket get nod from Japanese panel" (https://w
+ww.spaceflightnow.com/news/n1008/11japan/). Spaceflight Now. Archived (https://web.archive.or
+g/web/20240112145547/https://spaceflightnow.com/news/n1008/11japan/) from the original on 12
+January 2024. Retrieved 29 October 2012.
+24. "Imaging Ryugu from an altitude of 6km" (https://global.jaxa.jp/projects/sat/hayabusa2/topics.html
+#topics12394). JAXA. 25 July 2018. Archived (https://web.archive.org/web/20231028163015/http
+s://global.jaxa.jp/projects/sat/hayabusa2/topics.html#topics12394) from the original on 28 October
+2023.
+25. "hibou" is not Japanese nor abbreviation; it is the French word for owl and pronounced as such, イ
+ブー  (i-boo).
+26. Hayabusa-2: Japan's rovers ready for touchdown on asteroid (https://www.bbc.com/news/science-
+environment-45578795), Paul Rincon, BBC News 20 September 2018
+27. "Japanese Probe Drops Tiny Hopping Robots Toward Big Asteroid Ryugu" (https://www.space.co
+m/41898-hayabusa2-deploys-hopping-robots-asteroid-ryugu.html). Space.com. 21 September
+2018.
+28. Bartels, Meghaan (22 September 2018). "They Made It! Japan's Two Hopping Rovers
+Successfully Land on Asteroid Ryugu" (https://www.space.com/41912-japanese-hopping-rovers-la
+nd-on-asteroid.html). Space.com. Archived (https://web.archive.org/web/20231025102622/https://
+www.space.com/41912-japanese-hopping-rovers-land-on-asteroid.html) from the original on 25
+October 2023.
+29. MASCOT lands safely on asteroid Ryugu (https://www.dlr.de/dlr/presse/en/desktopdefault.aspx/ta
+bid-10172/213_read-30118/year-all/#/gallery/32227) Archived (https://web.archive.org/web/20200
+602111355/https://www.dlr.de/EN/Service/about-relaunch/explanation.html?cms_url=https%3a%2
+f%2fwww.dlr.de%2fdlr%2fpresse%2fen%2fdesktopdefault.aspx%2ftabid-10172%2f213_read-3011
+8%2fyear-all%2f#/gallery/32227) 2 June 2020 at the Wayback Machine, Press release, DLR
+Press Portal, 3 October 2018
+30. Schedule changes for the touchdown operation (http://www.hayabusa2.jaxa.jp/en/topics/2018101
+4e_TD/), JAXA, University of Tokyo and collaborators, Hayabusa2 Project, 14 October 2018
+31. Otsuka, Minoru (9 January 2019). " はやぶさ 2 のタッチダウン 候補地 は 2 カ 所 に、どちらが 最適？ "
+(https://news.mynavi.jp/article/20190109-753844/) [Hayabusa2's touchdown candidate sites
+narrowed down to two, which is the most optimal?]. Mynavi news (in Japanese). Archived (https://
+web.archive.org/web/20231028170946/https://news.mynavi.jp/techplus/article/20190109-753844/)
+from the original on 28 October 2023. Retrieved 9 January 2019.
+32. New Photos Show the Surprisingly Big Crater Blasted Into Asteroid Ryugu by Japan's Hayabusa2
+Probe (https://gizmodo.com/new-photos-show-the-surprisingly-big-crater-blasted-int-183429814
+7), George Dvorsky, Gizmodo, 22 May 2019
+33. [Japan's Hayabusa2 spacecraft grabs epic close-up shot just 30 feet above asteroid], Jackson
+Ryan, C-net, 5 June 2019
+34. Hasegawa, Kyoko (11 July 2019). "Japan's Hayabusa2 probe makes "perfect" touchdown on
+asteroid" (https://phys.org/news/2019-07-japan-hayabusa2-probe-touchdown-asteroid.html).
+phys.org.
+35. Hayabusa-2 capsule located in Australian desert (https://www.bbc.co.uk/news/science-environme
+nt-55201662)
+36. What's the benefit of sample-return? (http://www.planetary.org/blogs/jason-davis/why-sample-retur
+n.html)
+37. Operation Status of Ion Engines of Asteroid Explorer Hayabusa2 (https://jaxa.repo.nii.ac.jp/?action
+=repository_uri&item_id=15670&file_id=31&file_no=1), Nishiyama, Kazutaka; Hosoda, Satoshi;
+Tsukizaki, Ryudo; Kuninaka, Hitoshi; JAXA, January 2017
+38. The Ion Engine System for Hayabusa2 (http://erps.spacegrant.org/uploads/images/images/iepc_a
+rticledownload_1988-2007/2011index/IEPC-2011-309.pdf) Archived (https://web.archive.org/web/2
+0141106202235/http://erps.spacegrant.org/uploads/images/images/iepc_articledownload_1988-20
+07/2011index/IEPC-2011-309.pdf) 6 November 2014 at the Wayback Machine, The 32nd
+International Electric Propulsion Conference, Wiesbaden, Germany, September 11–15, 2011
+39. Hayabusa2 Information Fact Sheet (http://www.hayabusa2.jaxa.jp/en/enjoy/material/factsheet/Fac
+tSheet_en_v2.31s.pdf) JAXA 29 July 2018
+40. Kameda, S.; Suzuki, H.; Takamatsu, T.; Cho, Y.; Yasuda, T.; Yamada, M.; Sawada, H.; Honda, R.;
+Morota, T.; Honda, C.; Sato, M.; Okumura, Y.; Shibasaki, K.; Ikezawa, S.; Sugita, S. (2017).
+"Preflight Calibration Test Results for Optical Navigation Camera Telescope (ONC-T) Onboard the
+Hayabusa2 Spacecraft". Space Science Reviews. 208 (1–4): 17–31.
+Bibcode:2017SSRv..208...17K (https://ui.adsabs.harvard.edu/abs/2017SSRv..208...17K).
+doi:10.1007/s11214-015-0227-y (https://doi.org/10.1007%2Fs11214-015-0227-y).
+S2CID 255069232 (https://api.semanticscholar.org/CorpusID:255069232).
+41. "Current status of the asteroid explorer, Hayabusa2, leading up to arrival at asteroid Ryugu in
+2018" (https://global.jaxa.jp/projects/sat/hayabusa2/pdf/Hayabusa2_Press20180614e.pdf) (PDF).
+JAXA. 14 June 2018. Archived (https://web.archive.org/web/20231028170603/https://global.jaxa.j
+p/projects/sat/hayabusa2/pdf/Hayabusa2_Press20180614e.pdf) (PDF) from the original on 28
+October 2023. Retrieved 20 June 2018.
+42. Terui, Fuyuto; Tsuda, Yuichi; Ogawa, Naoko; Mimasu, Yuya (July 2014). ⼩惑星探査機「はやぶさ
+2」の航法誘導制御における⾃動・⾃律機 (https://jaxa.repo.nii.ac.jp/record/22515/files/PA151001
+3000.pdf) [Autonomy for Guidance, Navigation and Control of Hayabusa2] (PDF). Artificial
+Intelligence (in Japanese). 29 (4). JAXA. ISSN 2188-2266 (https://search.worldcat.org/issn/2188-2
+266). Archived (https://web.archive.org/web/20240124133610/https://jaxa.repo.nii.ac.jp/record/225
+15/files/PA1510013000.pdf) (PDF) from the original on 24 January 2024. Retrieved 9 July 2018.

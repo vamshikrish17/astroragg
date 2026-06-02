@@ -1,0 +1,216 @@
+2001 Mars Odyssey
+Artist's impression of the Mars Odyssey spacecraft
+Mission type Mars orbiter
+Operator NASA / JPL
+COSPAR ID 2001-013A (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2001-013A)
+SATCAT no. 26734
+Website mars.jpl.nasa.gov/odyssey/ (https://mars.jpl.nasa.gov/odyssey/)
+Mission duration Elapsed:
+25 years, 1 month and 22 days from launch
+24 years, 7 months and 5 days at Mars (8743 sols)
+En route: 6 months, 17 days
+Primary mission: 32 months (1007 sols)
+Extended mission: 21 years, 9 months and 4 days (7734 sols) elapsed
+Spacecraft properties
+Manufacturer Lockheed Martin
+Launch mass 725 kg[1]
+Dry mass 376.3 kilograms (830 lb)
+Power 750 W
+Start of mission
+Launch date April 7, 2001, 15:02:22 UTC[1]
+Rocket Delta II 7925-9.5
+Launch site Cape Canaveral SLC-17A
+Contractor Boeing
+End of mission
+2001 Mars Odyssey
+Last contact Q1 2026 (planned)
+Orbital parameters
+Reference systemAreocentric
+Regime Sun-synchronous
+Semi-major axis 3,793.4 km (2,357.1 mi)[2]
+Eccentricity 0.0
+Altitude 400 km (250 mi)[2]
+Inclination 93.064°[2]
+Period 2 hours[2]
+RAAN 34.98°[2]
+Argument of
+periareion
+0°[2]
+Mean anomaly 0°[2]
+Epoch October 19, 2002[2]
+Mars orbiter
+Orbital insertion October 24, 2001,
+MSD 45435 12:21 AMT
+Mars Exploration Program
+2001 Mars Odyssey is a robotic spacecraft orbiting the planet Mars. The project was developed by
+NASA, and contracted out to Lockheed Martin, with an expected cost for the entire mission of
+US$297 million. Its mission is to use spectrometers and a thermal imager to detect evidence of past or
+present water and ice, as well as study the planet's geology and radiation environment.[3] The data
+Odyssey obtains is intended to help answer the question of whether life once existed on Mars and
+create a risk-assessment of the radiation that future astronauts on Mars might experience. It also acts
+as a relay for communications between the Curiosity rover, and previously the Mars Exploration
+Rovers and Phoenix lander, to Earth. The mission was named as a tribute to Arthur C. Clarke, evoking
+the name of his and Stanley Kubrick's 1968 film 2001: A Space Odyssey.[4][5]
+Odyssey was launched April 7, 2001, on a Delta II rocket from Cape Canaveral Air Force Station, and
+reached Mars orbit on October 24, 2001, at 02:30 UTC (October 23, 19:30 PDT, 22:30 EDT).[6] It was
+estimated to have enough propellant to function until the end of 2025,[7] and as of April 2026, it is
+still collecting data.[8] It currently holds the record for the longest-surviving continually active
+spacecraft in orbit around a planet other than Earth, ahead of the Pioneer Venus Orbiter (served 14
+years[9]) and the Mars Express (serving over 20 years), at 24 years, 7 months and 5 days. As of
+October 2019 it is in a polar orbit around Mars with a semi-major axis of about 3,800 km or 2,400
+miles.
+On May 28, 2002 (sol 210), NASA reported that Odyssey's GRS instrument had detected large
+amounts of hydrogen, a sign that there must be ice lying within a meter of the planet's surface, and
+proceeded to map the distribution of water below the shallow surface.[10] The orbiter also discovered
+vast deposits of bulk water ice near the surface of equatorial regions.[11]
+In August 2000, NASA solicited candidate names for the mission. Out of 200 names submitted, the
+committee chose Astrobiological Reconnaissance and Elemental Surveyor, abbreviated ARES (a
+tribute to Ares, the Greek god of war). Faced with criticism that this name was not very compelling,
+and too aggressive, the naming committee reconvened. The candidate name "2001 Mars Odyssey" had
+earlier been rejected because of copyright and trademark concerns. However, NASA e-mailed Arthur
+C. Clarke in Sri Lanka, who responded that he would be delighted to have the mission named after his
+books, and he had no objections. On September 20, NASA associate administrator Ed Weiler wrote to
+the associate administrator for public affairs recommending a name change from ARES to 2001 Mars
+Odyssey. Peggy Wilhide then approved the name change.[12][13]
+Mapping the levels of elements across the entire Martian surface
+Determine how much hydrogen exists within the "shallow subsurface"
+Develop a library of high-resolution images and spectroscopy for the mineral composition of the
+Martian surface
+Provide information on the morphology of the Martian surface
+Identify the "radiation-induced risk to human explorers" through a characterization of the "near-
+space radiation environment" on the Martian surface[14]
+The three primary instruments Odyssey uses are the:
+Thermal Emission Imaging System (THEMIS).[15] It is an onboard camera that provides visible
+and infrared imaging to characterize how minerals are distributed on the surface of Mars.[14]
+Gamma Ray Spectrometer (GRS),[16] including the High Energy Neutron Detector (HEND),
+provided by Russia. GRS is a collaboration between University of Arizona's Lunar and Planetary
+Lab., the Los Alamos National Laboratory, and Russia's Space Research Institute.[17] It is a
+spectrometer focussed on the gamma-ray portion of the spectrum in order to search for various
+elements in the Martian atmosphere, including carbon, silicon, iron and magnesium.[14]
+Mars Radiation Environment Experiment (MARIE). An "energetic particle spectrometer",
+measuring the radiation levels around Mars.[14]
+Naming
+Mission objectives
+Scientific instruments
+Summary of Mars Odyssey mission start
+The spacecraft encapsulated in Delta II
+rocket fairing
+Mars Odyssey launched from Cape Canaveral on April 7,
+2001, and arrived at Mars about 200 days later on October 24.
+Upon arrival, the spacecraft's main engine fired[18] in order to
+decelerate, which allowed it to be captured into orbit around
+Mars. Odyssey then spent about 76 days aerobraking, using
+aerodynamic drag from the upper reaches of the Martian
+atmosphere to gradually slow down and reduce and
+circularize its orbit.[18] By planning to use the atmosphere of
+Mars to slow the spacecraft in its orbit rather than firing its
+engine or thrusters, Odyssey did not need an additional 200
+kilograms (440 lb) of propellant on board. This reduction in
+spacecraft weight allowed the mission to be launched on a
+Delta II 7925 launch vehicle, rather than a larger, more
+expensive launcher.[19]
+Aerobraking ended in January 2002, and Odyssey began its
+science mapping mission on February 19, 2002. Odyssey's
+original, nominal mission lasted until August 2004, but
+repeated mission extensions have kept the mission active.[20]
+The payload's MARIE radiation experiment stopped taking
+measurements after a large solar event bombarded the
+Odyssey spacecraft on October 28, 2003. Engineers believe
+the most likely cause is that a computer chip was damaged by
+a solar particle smashing into the MARIE computer board.[21]
+About 85% of images and other data from NASA's twin Mars
+Exploration Rovers, Spirit and Opportunity, have reached
+Earth via communications relay by Odyssey.[22] The orbiter
+helped analyze potential landing sites for the rovers and
+performed the same task for NASA's Phoenix mission, which
+landed on Mars in May 2008. Odyssey aided NASA's Mars
+Reconnaissance Orbiter, which reached Mars in March 2006,
+by monitoring atmospheric conditions during months when
+the newly arrived orbiter used aerobraking to alter its orbit
+into the desired shape.[23]
+Odyssey is in a Sun-synchronous orbit,[24] which provides consistent lighting for its photographs. On
+September 30, 2008 (sol 2465) the spacecraft altered its orbit to gain better sensitivity for its infrared
+mapping of Martian minerals. The new orbit eliminated the use of the gamma ray detector, due to the
+potential for overheating the instrument at the new orbit.[25]
+Mission
+By December 15, 2010, it broke the record for longest serving spacecraft at Mars, with 3,340 days of
+operation.[26][27]
+The orbiter's orientation is controlled by a set of three reaction wheels and a spare. When one failed in
+June 2012, the fourth was spun up and successfully brought into service. Since July 2012, Odyssey
+has been back in full, nominal operation mode following three weeks of 'safe' mode on remote
+maintenance.[28][29]
+Mars Odyssey's THEMIS instrument was used to help select a landing site for the Mars Science
+Laboratory (MSL).[30] Several days before MSL's landing in August 2012, Odyssey's orbit was altered
+to ensure that it would be able to capture signals from the rover during its first few minutes on the
+Martian surface.[31] Odyssey also acted as a relay for UHF radio signals from the (MSL) rover
+Curiosity.[32] Because Odyssey is in a Sun-synchronous orbit,[24] it passes over Curiosity's location
+twice per day, enabling regular contact with Earth.[33]
+On February 11, 2014, mission control accelerated Odyssey's drift toward a morning-daylight orbit to
+"enable observation of changing ground temperatures after sunrise and after sunset in thousands of
+places on Mars". The orbital change occurred gradually until November 2015.[34] Those observations
+could yield insight about the composition of the ground and about temperature-driven processes,
+such as warm seasonal flows observed on some slopes, and geysers fed by spring thawing of carbon
+dioxide (CO2) ice near Mars's poles.[34]
+On October 19, 2014, NASA reported that the Mars Odyssey Orbiter,[35] as well as the Mars
+Reconnaissance Orbiter[36] and MAVEN,[37] were healthy after the Comet Siding Spring flyby.[38][39]
+In 2010, a spokesman for NASA's Jet Propulsion Laboratory stated that Odyssey could continue
+operating until at least 2016.[40] This estimate has since been extended to the end of 2025.[7]
+Animation of 2001 Mars
+Odyssey's trajectory around Sun
+  2001 Mars Odyssey ·
+  Earth ·   Mars
+ 
+Animation of 2001 Mars
+Odyssey's trajectory around Mars
+from October 24, 2001, to
+October 24, 2002
+   2001 Mars Odyssey ·
+  Mars
+Mars Odyssey as imaged by
+Mars Global Surveyor
+ 
+MARIE hardware, designed to
+measure radiation
+By 2008, Mars Odyssey had mapped the basic distribution of water below the shallow surface.[10] The
+ground truth for its measurements came on July 31, 2008, when NASA announced that the Phoenix
+lander confirmed the presence of water on Mars,[41] as predicted in 2002 based on data from the
+Odyssey orbiter. The science team is trying to determine whether the water ice ever thaws enough to
+be available for microscopic life, and if carbon-containing chemicals and other raw materials for life
+are present.[42]
+The orbiter also discovered vast deposits of bulk water ice near the surface of equatorial regions.[11]
+Evidence for equatorial hydration is both morphological and compositional and is seen at both the
+Medusae Fossae formation and the Tharsis Montes.[11]
+Major discoveries
+Solar System
+portal
+Spaceflight portal
+United States
+portal
+Mars—horizon views (video; 1:24; Odyssey orbiter; THEMIS camera; May 9, 2023)
+Exploration of Mars
+List of Mars orbiters
+List of missions to Mars
+Mars Express Orbiter – European orbiter mission to Mars (2003–
+present)
+Mars Global Surveyor – NASA orbiter mission to Mars (1996–2006)
+Mars Orbiter Mission – Indian orbiter mission to Mars (2013–2022)
+Mars Student Imaging Project – American education program
+Mythodea – Music for the NASA Mission: 2001 Mars Odyssey
+1. "2001 Mars Odyssey" (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2001-013A).
+NASA Space Science Data Coordinated Archive. Retrieved 2022-11-29.
+2. Makovsky, A.; Barbieri, A.; Tung, R. (October 2002). Odyssey Telecommunications (https://descan
+so.jpl.nasa.gov/DPSummary/odyssey_telecom.pdf) (PDF) (Report). p. 7.
+3. "Mars Odyssey Goals" (https://mars.jpl.nasa.gov/odyssey/mission/science/goals/). NASA JPL.
+April 16, 2024.
+4. "Mars Odyssey: Overview" (https://mars.jpl.nasa.gov/odyssey/mission/overview/). JPL, CIT.
+Archived (https://web.archive.org/web/20110919002232/http://mars.jpl.nasa.gov/odyssey/mission/
+overview/) from the original on 2011-09-19.
+5. "It's "2001 Mars Odyssey" for NASA's next trip to the red planet" (https://mars.nasa.gov/odyssey/n
+ewsroom/pressreleases/00-09-14.html) (Press release). NASA. Archived (https://web.archive.org/
+web/20210418045044/https://mars.nasa.gov/odyssey/newsroom/pressreleases/00-09-14.html)
+from the original on 2021-04-18.
+6. "2001 Mars Odyssey Quick Facts" (https://mars.nasa.gov/mars-exploration/missions/odyssey/).
+2001 Mars Odyssey. NASA/JPL. December 4, 2017. Retrieved 2021-01-22.
+1:24
+See also
+References

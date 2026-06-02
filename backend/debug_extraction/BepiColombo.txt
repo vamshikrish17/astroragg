@@ -1,0 +1,479 @@
+BepiColombo
+Artist's depiction of the BepiColombo mission, with the Mercury Planetary Orbiter
+(left) and Mercury Magnetospheric Orbiter (right)
+Mission type Planetary science
+Operator ESA · JAXA
+COSPAR ID 2018-080A (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.actio
+n?id=BEPICLMBO)
+SATCAT no. 43653
+Website https://www.esa.int/Science_Exploration/Space_Science/BepiColombo
+Mission
+duration
+Cruise: 7 years (planned) 8 years (actual)
+Science phase: 1 year (planned)
+7 years, 7 months and 9 days (in progress)
+Spacecraft properties
+ManufacturerAirbus · ISAS
+Launch
+mass
+4,100 kg (9,000 lb) [1]
+BOL mass MPO: 1,230 kg (2,710 lb)
+Mio: 255 kg (562 lb) [1]
+Dry mass 2,700 kg (6,000 lb) [1]
+Dimensions MPO: 2.4 m × 2.2 m × 1.7 m (7 ft 10 in × 7 ft 3 in × 5 ft 7 in)
+Mio: 1.8 m × 1.1 m (5 ft 11 in × 3 ft 7 in) [1]
+Power MPO: 150 watts
+Mio: 90 watts
+Start of mission
+Launch date 20 October 2018, 01:45 UTC
+Rocket Ariane 5 ECA (VA245)[2]
+Launch site Centre Spatial Guyanais, ELA-3[3]
+BepiColombo
+BepiColombo is a joint mission of the
+European Space Agency (ESA) and the
+Japan Aerospace Exploration Agency
+(JAXA) to the planet Mercury.[4] The
+mission comprises two satellites
+launched together: the Mercury
+Planetary Orbiter (MPO) and Mio
+(Mercury Magnetospheric Orbiter,
+MMO).[5] The mission will perform a
+comprehensive study of Mercury,
+including characterization of its
+magnetic field, magnetosphere, and
+both interior and surface structure. It
+was launched on an Ariane 5[2] rocket
+on 20 October 2018, with Mercury orbit
+insertion planned for November 2026,
+after a flyby of Earth, two flybys of
+Venus, and six flybys of Mercury.[1][6]
+The total cost of the mission was
+estimated in 2017 as US$2 billion.[7]
+BepiColombo is named after Giuseppe
+"Bepi" Colombo (1920–1984), a
+scientist, mathematician and engineer
+at the University of Padua, Italy, who
+first proposed the interplanetary gravity
+assist manoeuvre used by the 1974
+Mariner 10 mission, a technique now
+used frequently by planetary probes.
+Mio, the name of the Mercury
+Magnetospheric Orbiter, was selected
+from thousands of suggestions by the
+Japanese public. In Japanese, Mio
+means a waterway, and according to
+JAXA, it symbolizes the research and
+development milestones reached thus
+far, and wishes for safe travel ahead.
+JAXA said the spacecraft will travel
+through the solar wind just like a ship
+traveling through the ocean.[5] In
+Chinese and Japanese, Mercury is
+known as the "water star" ( 水星 )
+according to wǔxíng.
+Names
+Contractor Arianespace
+Flyby of Earth (gravity assist)
+Closest
+approach
+10 April 2020, 04:25 UTC
+Distance 12,677 km (7,877 mi)
+Flyby of Venus (gravity assist)
+Closest
+approach
+15 October 2020, 03:58 UTC
+Distance 10,720 km (6,660 mi)
+Flyby of Venus (gravity assist)
+Closest
+approach
+10 August 2021, 13:51 UTC
+Distance 552 km (343 mi)
+Flyby of Mercury (gravity assist)
+Closest
+approach
+1 October 2021, 23:34:41 UTC
+Distance 199 km (124 mi)
+Flyby of Mercury (gravity assist)
+Closest
+approach
+23 June 2022, 09:44 UTC
+Distance 200 km (124.3 mi)
+Flyby of Mercury (gravity assist)
+Closest
+approach
+19 June 2023, 19:34 UTC
+Distance 236 km (147 mi)
+Flyby of Mercury (gravity assist)
+Closest
+approach
+4 September 2024, 21:48 UTC
+Distance 165 km (103 mi)
+Flyby of Mercury (gravity assist)
+Closest
+approach
+1 December 2024, 14:23 UTC
+Distance 37,626 km (23,380 mi)
+Flyby of Mercury (gravity assist)
+Closest
+approach
+8 January 2025, 05:59 UTC
+Distance 295 km (183 mi)
+Mercury orbiter
+Spacecraft
+component
+Mercury Planetary Orbiter
+(MPO)
+Orbital
+insertion
+November 2026 (planned)
+Orbital parameters
+Perihermion
+altitude
+480 km (300 mi)
+The main objectives of the mission
+are:[3][8]
+Study the origin and evolution of aplanet close to its parent star
+Study Mercury's form, interior,structure, geology, composition andcraters
+Investigate Mercury's exosphere,composition and dynamics,including generation and escape
+Study Mercury's magnetisedenvelope (magnetosphere) –structure and dynamics
+Investigate the origin of Mercury'smagnetic field
+Test Einstein's theory of generalrelativity by measuring theparameters gamma and beta of theparameterized post-Newtonian
+formalism with high accuracy.[9][10]
+Mercury is too small and hot for its
+gravity to retain any significant
+atmosphere over long periods of time,
+but it has a "tenuous surface-bounded
+exosphere"[11] containing hydrogen,
+helium, oxygen, sodium, calcium,
+potassium and other trace elements. Its
+exosphere is not stable as atoms are
+continuously lost and replenished from
+a variety of sources. The mission will
+study the exosphere composition and
+dynamics, including generation and
+escape.
+The orbiters are equipped with
+scientific instruments provided by
+various European countries and Japan.
+The mission will characterize the solid
+and liquid iron core (3⁄4 of the planet's
+radius) and determine the size of
+each.[12] The mission will also complete
+gravitational and magnetic field
+mappings. Russia provided gamma ray
+and neutron spectrometers to verify the
+existence of water ice in polar craters
+that are permanently in shadow from
+the Sun's rays.
+Scientific objectives
+Apohermion
+altitude
+1,500 km (930 mi)
+Inclination 90,0°
+Mercury orbiter
+Spacecraft
+component
+Mercury Magnetospheric Orbiter
+(MMO)
+Orbital
+insertion
+November 2026 (planned)
+Orbital parameters
+Perihermion
+altitude
+590 km (370 mi)
+Apohermion
+altitude
+11,640 km (7,230 mi)
+Inclination 90.0°
+ESA insignia (2020s)
+Horizon 2000 Plus (Science Programme)
+The mission involves three components,
+which will separate into independent
+spacecraft upon arrival at Mercury.[13]
+Mercury Transfer Module (MTM) forpropulsion, built by ESA.
+Mercury Planetary Orbiter (MPO)built by ESA.
+Mercury Magnetospheric Orbiter(MMO) or Mio built by JAXA.
+During the launch and cruise phases,
+these three components are joined (with
+the Magnetospheric Orbiter Sunshield
+and Interface or MOSIF between Mio
+and MPO)[14] to form the Mercury
+Cruise System (MCS).[15][16]
+The stacked spacecraft will take eight
+years to position itself to enter Mercury
+orbit. During this time it uses solar-
+electric propulsion and nine gravity
+assists, flying past the Earth and Moon
+in April 2020, Venus in 2020 and 2021,
+and six Mercury flybys between 2021
+and 2025.[1]
+Expected to arrive in Mercury orbit in November 2026, the Mio and MPO satellites will separate and observe Mercury
+in collaboration for one year, with a possible one-year extension.[1] Although originally expected to enter orbit in
+December 2025, thruster issues discovered in September 2024 before the fourth Mercury flyby resulted in a delayed
+arrival of November 2026.[17]
+ESA is responsible for the overall mission, the design, development assembly and test of the propulsion and MPO
+modules, and the launch. The two orbiters are operated by mission controllers based in Darmstadt, Germany.[18] The
+spacecraft operations manager of BepiColombo was Elsa Montagnon until 2021,[19] and is now Ignacio Clerigo.[20]
+ESA's Cebreros, Spain 35-metre (115 ft) ground station is the primary ground facility for communications during all
+mission phases.[21]
+The BepiColombo mission proposal was selected by ESA in 2000. A request for proposals for the science payload was
+issued in 2004.[22] In 2007, Astrium (now Airbus Defence and Space) was selected as the prime contractor,[23] and
+Ariane 5 chosen as the launch vehicle.[22] The mission was approved in November 2009, after years in proposal and
+planning as part of the European Space Agency's Horizon 2000+ programme.[24] The initial target launch of July 2014
+was postponed several times, mostly because of delays on the development of the solar electric propulsion system.[22]
+BepiColombo is the last mission of the programme to be launched.[25]
+Mission overview
+Mission timeline
+Before launch
+BepiColombo, imaged at Northolt Branch
+Observatories, 16 hours after the Earth
+flyby. The bright satellite passing by is
+INSAT-2D.
+Mercury on 23 June 2022 during the 2nd
+gravity assist at the planet
+Mercury on 5 September 2024 during the
+4th gravity assist at the planet
+The two orbiters were successfully launched together on 20 October 2018.[18]
+The launch took place on Ariane flight VA245 from Europe's Spaceport in
+Kourou, French Guiana.[26]
+The stacked spacecraft left Earth with a hyperbolic excess velocity of 3.475 km/s
+(2.159 mi/s). Initially, the craft was placed in a heliocentric orbit similar to that
+of Earth. After both the spacecraft and Earth completed one and a half orbits, it
+returned to Earth to perform a gravity-assist maneuver and was deflected
+towards Venus.[27]
+Following its Earth flyby in April 2020, BepiColombo was briefly mistaken for a
+near-Earth asteroid, receiving the provisional designation
+2020 GL2.[28][29][30][31]
+Two consecutive Venus flybys reduced the perihelion near to the Sun–Mercury
+distance with almost no need for thrust. A sequence of six Mercury flybys
+lowered the relative velocity to 1.76 km/s (1.09 mi/s). After the fourth Mercury
+flyby in 2024, the spacecraft is in an orbit similar to that of Mercury and
+remains in the general vicinity of the planet.[32]
+After the potential biomarker phosphine has been tentatively discovered in the
+Venusian atmosphere in September 2020, ESA scientists suggested that
+BepiColombo might be able to detect the compound during its two Venus flybys
+in 2020 and 2021. However, it was not clear if the spacecraft's instruments were
+sufficiently sensitive[33] and there has been no announcement of such detection
+since.
+During the first Venus flyby in October 2020, seven science instruments and a
+radiation monitor onboard the Mercury Planetary Orbiter, and three
+instruments onboard Mio, were active and gathering data. The observations
+were coordinated with JAXA's Akatsuki, the only active spacecraft orbiting
+Venus at that time, as well as Earth-based observatories.[34][35]
+The second Venus flyby in August 2021 happened only 33 hours after another
+interplanetary spacecraft by ESA, Solar Orbiter, completed its gravity assist at
+the same planet. Both spacecraft used their science instruments to study the
+magnetic, plasma, and particle environment around Venus during their flybys,
+offering unique multipoint datasets. The MPO's MERTIS instrument captured
+high resolution spectra of the Venus atmosphere and the Mercury Transfer
+Module's three monitoring cameras (M-CAM) captured a series of black-and-white images of the planet, documenting
+the various phases of the flyby.[36]
+During the first Mercury flyby in October 2021, the spacecraft captured its first images of the target planet using the M-
+CAM monitoring cameras on the Mercury Transfer Module.[37][38] Some of the scientific instruments on both orbiters
+were also active during the flyby, exploring the magnetic and particle environment around Mercury and measuring the
+planet's gravity.[39]
+Launch
+Gravity assist maneuvers
+Science during Venus flybys
+Science during Mercury flybys
+During the second flyby in June 2022, the M-CAM cameras imaged, among other targets, the crater Heaney with a
+candidate volcano, an important target for the spacecraft's primary mission. This crater has been recently named after
+Seamus Heaney following a request from the M-CAM team. Some of the scientific instruments have been again active,
+measuring the magnetic, plasma, and particle environment around the spacecraft.[40]
+During the third flyby in June 2023, the MPPE suite of instruments on Mio was used to map the magnetosphere of
+Mercury.[41] Based on these data, scientists described various expected features of the magnetosphere, but also made
+new discoveries: 1) a low latitude layer containing particles with much broader energy range than ever observed on
+Mercury, 2) energetic hydrogen ions trapped at low latitude and near the equator, and 3) cold plasma ions of oxygen
+and sodium, as well as signatures of potassium, which were probably ejected from the planet's surface by
+micrometeorites or the solar wind.[42][43] Mio's observations during this flyby also identified the chirping-like discrete
+whistler-mode emission waves previously observed in Earth's magnetosphere but so far unknown from Mercury.[44][45]
+In May 2024, computers on BepiColombo (as well as on another ESA mission, Mars Express) reported a sharp increase
+in the number of memory errors, coinciding with a massive solar flare from the active region AR3664, at that time
+facing away from Earth. The event was also observed in detail by ESA's Solar Orbiter.[46]
+During the fourth flyby in September 2024, the spacecraft had, for the first time, a clear view of Mercury's south pole.
+The M-CAM 2 and 3 cameras provided images of the polar region, as well as the Vivaldi crater and a crater newly named
+Stoddart after Margaret Olrog Stoddart following a request from the M-CAM team.[47]
+During the fifth flyby in December 2024, using the MERTIS instrument, BepiColombo became the first spacecraft ever
+to observe Mercury in mid-infrared light.[48] During the sixth and final Mercury flyby in January 2025, the M-CAM 1
+camera imaged the permanently shadowed craters Prokofiev, Kandinsky, Tolkien, and Gordimer near the planet's north
+pole.[49]
+On 15 May 2024, ESA reported an issue preventing the spacecraft's thrusters from operating at full power during a
+scheduled manoeuvre on 26 April 2024.[50] On 2 September 2024, ESA reported that to compensate for the reduced
+available thrust, a revised trajectory had been developed that would add 11 months to the cruise, delaying the expected
+arrival date from 5 December 2025 to November 2026.[51]
+Four final thrust arcs will reduce the relative velocity to the point where Mercury will "weakly" capture the spacecraft in
+November 2026 into polar orbit. Only a small maneuver is needed to bring the craft into an orbit around Mercury with
+an apocentre of 178,000 kilometres (111,000 mi). The orbiters then separate and will adjust their orbits using chemical
+thrusters.[52][27]
+As of January 2025, the mission schedule is:[53]
+Thruster issues
+Future
+Trajectory
+Timeline of BepiColombo from 20 October 2018 to 2 November 2025. Red circle indicates flybys.
+Date Event Comment
+20 October 2018, 01:45UTC Launch
+10 April 2020,04:25 UTC Earth flyby 1.5 years after launch
+15 October 2020, 03:58UTC First Venus flyby On 15 October 2020, the ESA reported the flyby was a success. Closest
+approach at a distance of about 10 720 km from the planet's surface.[35]
+10 August 2021,13:51 UTC Second Venus flyby
+1.35 Venus years after first Venus flyby. Flyby was a success, and sawBepiColombo come within 552 kilometres (343 mi) of Venus's
+surface.[54][55]
+1 October 2021,23:34:41 UTC First Mercury flyby Passed 199 kilometres (124 mi) from Mercury's surface.[56] Occurred onthe 101st anniversary of Giuseppe Colombo’s birth.
+23 June 2022,09:44 UTC Second Mercury flyby ~2 orbits (3 Mercury years) after 1st Mercury flyby. Closest approach of
+about 200 kilometres (120 mi) altitude.[57]
+19 June 2023,19:34 UTC Third Mercury flyby ~3 orbits (4.1 Mercury years) after 2nd Mercury flyby. Closest approach
+of about 236 kilometres (147 mi) altitude.[58][59]
+4 September 2024,21:48 UTC Fourth Mercury flyby ~4 orbits (5.0 Mercury years) after 3rd Mercury flyby. Closest approach
+of about 165 kilometres (103 mi) altitude.[60]
+1 December 2024,14:23 UTC Fifth Mercury flyby 1 orbit (1.0 Mercury year) after 4th Mercury flyby. Closest approach
+about 37,626 kilometres (23,380 mi) altitude.[61]
+8 January 2025,05:58:52 UTC Sixth Mercury flyby ~0.4 orbits (0.4 Mercury years) after 5th Mercury flyby. Closest approach
+about 295 kilometres (183 mi) altitude.[62][63]
+November 2026 Mercury orbit insertion 7.8 Mercury years after 6th Mercury flyby. 60-hour orbital period
+December 2026 MMO reaches science orbit,detaches from MPO 9.3-hour orbital period
+Early 2027 MPO reaches science orbit 2.36-hour orbital period
+April 2028 End of nominal mission
+April 2029 End of planned extended mission
+QinetiQ T6 Performance [64][65]
+Type Kaufman Ion Engine
+Units on board 4 [66][67]
+Diameter 22 cm (8.7 in)
+Max. thrust 145 mN each
+Specific impulse(Isp) 4300 seconds
+Propellant Xenon
+Total power 4628 W
+Animation of BepiColombo's trajectory from 20October 2018 to 2 November 2025
+   BepiColombo ·   Earth ·   Venus ·
+  Mercury ·   Sun
+For more detailed animation, see this video
+ 
+Animation of BepiColombo's trajectory aroundMercury
+Planned orbits for Mio and MPO, the two probes of the BepiColombo mission
+The Mercury Transfer Module (MTM) has a mass of 2,615 kg (5,765 lb), including
+1,400 kg (3,100 lb) of xenon propellant, and is located at the base of the stack. Its
+role is to carry the two science orbiters to Mercury and to support them during the
+cruise.
+The MTM is equipped with a solar electric propulsion system as the main
+spacecraft propulsion. Its four QinetiQ-T6 ion thrusters operate singly or in pairs
+for a maximum combined thrust of 290 mN,[68] making it the most powerful ion
+engine array ever operated in space. The MTM supplies electrical power for the two
+hibernating orbiters as well as for its solar electric propulsion system thanks to two
+14-metre-long (46 ft) solar panels.[69] Depending on the probe's distance to the
+Sun, the generated power will range between 7 and 14 kW, each T6 requiring
+between 2.5 and 4.5 kW according to the desired thrust level.
+Mission components
+Mercury Transfer Module
+The solar electric propulsion system has typically very high specific impulse and low thrust. This leads to a flight profile
+with months-long continuous low-thrust braking phases, interrupted by planetary gravity assists, to gradually reduce
+the velocity of the spacecraft. Moments before Mercury orbit insertion, the MTM will be jettisoned from the spacecraft
+stack. After separation from the MTM, the MPO will provide Mio all necessary power and data resources until Mio is
+delivered to its mission orbit.[70] Separation of Mio from MPO will be accomplished by spin-ejection.[71]
+MTM in space simulator
+ 
+MTM solar wing deployment
+ 
+MTM at ESTEC
+ 
+MTM thruster detail
+The Mercury Planetary Orbiter (MPO) has a mass of 1,150 kg (2,540 lb) and uses a single-sided solar array capable of
+providing up to 1000 watts and featuring Optical Solar Reflectors to keep its temperature below 200 °C (392 °F). The
+solar array requires continuous rotation keeping the Sun at a low incidence angle in order to generate adequate power
+while at the same time limiting the temperature.[69]
+The MPO carries a payload of 11 instruments, comprising cameras, spectrometers (IR, UV, X-ray, γ-ray, neutron), a
+radiometer, a laser altimeter, a magnetometer, particle analysers, a Ka-band transponder, and an accelerometer. The
+payload components are mounted on the nadir side of the spacecraft to achieve low detector temperatures, apart from
+the MERTIS and PHEBUS spectrometers located directly at the main radiator to provide a better field of view.[69]
+A high-temperature-resistant 1.0 m (3 ft 3 in) diameter high-gain antenna is mounted on a short boom on the zenith
+side of the spacecraft. Communications will be on the X-band and Ka-band with an average bit rate of 50 kbit/s and a
+total data volume of 1550 Gbit/year. ESA's Cebreros, Spain 35-metre (115 ft) ground station is planned to be the primary
+ground facility for communications during all mission phases.[69]
+MPO being placed in Phenixthermal vacuum test facility
+ 
+Radio testing of MPO
+ 
+MPO radiator panel andinstruments
+ 
+MPO at ESTECbefore stacking
+The science payload of the Mercury Planetary Orbiter consists of eleven instruments:[72][73]
+BepiColombo Laser Altimeter (BELA), developed by DLR in cooperation with the University of Bern, the Max Planck
+Institute for Solar System Research (MPS) and the Instituto de Astrofísica de Andalucía.[74]
+Italian Spring Accelerometer (ISA), developed by Italy
+Mercury Magnetometer (MPO-MAG, MERMAG), developed by Germany and United Kingdom[69]
+Mercury Radiometer and Thermal Infrared Spectrometer (MERTIS), developed by Germany
+Mercury Gamma-ray and Neutron Spectrometer (MGNS), developed by Russia
+Mercury Planetary Orbiter
+Science payload of MPO
+MPO's science instruments
+Mercury Imaging X-ray Spectrometer (MIXS), developed and built by theUniversity of Leicester, the Max Planck Institute for Solar System Research
+(MPS) and the Max Planck Institute for Extraterrestrial Physics (MPE).[75][76]
+Mercury Orbiter Radio-science Experiment (MORE), developed by Italy andthe United States
+Probing of Hermean Exosphere by Ultraviolet Spectroscopy (PHEBUS),developed by France and Russia
+Search for Exosphere Refilling and Emitted Neutral Abundances
+(SERENA),[77] made up of 2 neutral and 2 ionised particle analysers:
+ELENA (Emitted Low-Energy Neutral Atoms) developed by Italy;
+STROFIO (STart from a ROtating Field mass spectrOmeter) developed
+by United States;[78]
+MIPA (Miniature Ion Precipitation Analyser) developed by Sweden;
+PICAM (Planetary Ion CAMera) developed by the Space ResearchInstitute (Institut für Weltraumforschung, IWF), Russian Space ResearchInstitute (IKI), Institut de recherche en sciences de l'environnement(CETP/IPSL), European Space Research and Technology Centre(ESTEC), Research Institute for Particle and Nuclear Physics (KFKI-RMKI) and the Max Planck Institute for Solar System Research
+(MPS).[74]
+Spectrometers and Imagers for MPO BepiColombo Integrated ObservatorySystem (SIMBIO-SYS), high resolution stereo cameras and a visual and near infrared spectrometer, developed byItaly, France and Switzerland
+Solar Intensity X-ray and Particle Spectrometer (SIXS), developed by Finland and United Kingdom.
+Mio, or the Mercury Magnetospheric Orbiter (MMO), developed and built mostly by Japan, has the shape of a short
+octagonal prism, 180 cm (71 in) long from face to face and 90 cm (35 in) high.[3][79] It has a mass of 285 kg (628 lb),
+including a 45 kg (99 lb) scientific payload consisting of 5 instrument groups, 4 for plasma and dust measuring run by
+investigators from Japan, and one magnetometer from Austria.[3][80][81]
+Mio will be spin stabilized at 15 rpm with the spin axis perpendicular to the equator of Mercury. It will enter a polar
+orbit at an altitude of 590 × 11,640 km (370 × 7,230 mi), outside of MPO's orbit.[80] The top and bottom of the octagon
+act as radiators with louvers for active temperature control. The sides are covered with solar cells which provide 90
+watts. Communications with Earth will be through a 0.8 m (2 ft 7 in) diameter X-band phased array high-gain antenna
+and two medium-gain antennas operating in the X-band. Telemetry will return 160 Gb/year, about 5 kbit/s over the
+lifetime of the spacecraft, which is expected to be greater than one year. The reaction and control system is based on
+cold gas thrusters. After its release in Mercury orbit, Mio will be operated by Sagamihara Space Operation Center using
+Usuda Deep Space Center's 64 m (210 ft) antenna located in Nagano, Japan.[72]
+Mio at ESTEC before stacking
+ 
+Mio being lifted from the containerby a crane
+ 
+Mio on top of MPO (without sunshield)
+Mio (Mercury Magnetospheric Orbiter)
+Full stack with sunshield on top
+Mio carries five groups of science instruments with a total mass of 45 kg (99 lb):[3][72]
+Mercury Plasma Particle Experiment (MPPE), studies the plasma and neutral particles from the planet, itsmagnetosphere, and the solar wind. It will employ these instruments:
+Mercury Electron Analyzers (MEA1 and MEA2)
+Mercury Ion Analyzer (MIA)
+Mass Spectrum Analyzer (MSA), developed by Laboratory of Plasma Physics (LPP), Max Planck Institute forSolar System Research (MPS), IDA of Technical University of Braunschweig and Institute of Space and
+Astronautical Science (ISAS) [82]
+High-Energy Particle instrument for electrons (HEP-ele)
+High-Energy Particle instrument for Ions (HEP-ion)
+Energetic Neutrals Analyzer (ENA)
+Mercury Magnetometer (MMO-MGF), studies Mercury's magnetic field, magnetosphere, and interplanetary solarwind
+Plasma Wave Investigation (PWI), studies the electric field, electromagnetic waves, and radio waves from themagnetosphere and solar wind
+Mercury Sodium Atmosphere Spectral Imager (MSASI), studies the thin sodium atmosphere of Mercury
+Mercury Dust Monitor (MDM), studies dust from the planet and interplanetary space
+The Mio orbiter requires additional thermal control on the cruise to Mercury, in
+addition to umbilicals to the MPO. The European Space Agency thus provided the
+Magnetospheric Orbiter Sunshield and Interface (MOSIF), a white shroud that is
+shaped like a conical frustrum to provide clearance, as Mio is spun up during its
+separation in 2026, before being ejected from the MPO.[14][15][16]
+The Mercury Surface Element (MSE) was cancelled in 2003 due to budgetary
+constraints.[25] At the time of cancellation, MSE was meant to be a small, 44 kg (97 lb),
+lander designed to operate for about one week on the surface of Mercury.[52] Shaped as
+a 0.9 m (2 ft 11 in) diameter disc, it was designed to land at a latitude of 85° near the
+terminator region. Braking manoeuvres would bring the lander to zero velocity at an
+altitude of 120 m (390 ft) at which point the propulsion unit would be ejected, airbags
+inflated, and the module would fall to the surface with a maximum impact velocity of
+30 m/s (98 ft/s). Scientific data would be stored onboard and relayed via a cross-dipole
+UHF antenna to either the MPO or Mio. The MSE would have carried a 7 kg (15 lb)
+payload consisting of an imaging system (a descent camera and a surface camera), a heat flow and physical properties
+package, an alpha particle X-ray spectrometer, a magnetometer, a seismometer, a soil penetrating device (mole), and a
+micro-rover.[83]
+List of European Space Agency programmes and missions
+Exploration of Mercury
+MESSENGER – the first spacecraft to orbit Mercury
+1. "BepiColombo Factsheet" (http://www.esa.int/Our_Activities/Space_Science/BepiColombo/BepiColombo_Factshee
+Science payload of Mio
+Magnetospheric Orbiter Sunshield and Interface
+Mercury Surface Element (cancelled)
+See also
+References

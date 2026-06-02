@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+rank-bm25
+google-generativeai
+python-dotenv
+groq
+pandas

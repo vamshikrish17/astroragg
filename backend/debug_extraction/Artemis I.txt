@@ -1,0 +1,499 @@
+Artemis I
+The uncrewed Orion approaching the Moon on day
+six of the mission
+Names Artemis I (official)
+Exploration Mission-1 (EM-1)
+Mission type Uncrewed lunar orbital flight
+test
+Operator NASA
+Website nasa.gov/artemis-i (https://nas
+a.gov/artemis-i)
+Mission duration 25 days, 10 hours, 52 minutes
+and 46 seconds
+Distance travelled 1.3 million miles (2.1 million
+kilometers)
+Spacecraft properties
+Spacecraft Orion CM-002
+ESM-1
+Manufacturer Orion: Lockheed Martin
+ESM: Airbus
+Start of mission
+Launch date November 16, 2022,
+06:47:44 UTC[1]
+(1:47:44 am EST)
+Rocket Space Launch System
+Artemis I
+Artemis I (November 16 – December 11, 2022),
+formerly Exploration Mission-1 (EM-1),[9]
+was an uncrewed Moon-orbiting mission. As the
+first major spaceflight of NASA's Artemis
+program, Artemis I marked the agency's return to
+lunar exploration after the conclusion of the
+Apollo program nearly five decades earlier. It was
+the first integrated flight test of the Orion
+spacecraft and Space Launch System (SLS)
+rocket,[note 1] and its main objective was to test
+the Orion spacecraft, especially its heat shield,[10]
+in preparation for subsequent Artemis missions.
+These missions seek to reestablish a human
+presence on the Moon and demonstrate
+technologies and business approaches needed for
+future scientific studies, including exploration of
+Mars.[11][12]
+The Orion spacecraft for Artemis I was stacked on
+October 20, 2021,[13] and on August 17, 2022, the
+fully stacked vehicle was rolled out for launch
+after a series of delays caused by difficulties in
+pre-flight testing. The first two launch attempts
+were canceled due to a faulty engine temperature
+reading on August 29, 2022, and a hydrogen leak
+during fueling on September 3, 2022.[14] Artemis
+I was launched on November 16, 2022, at
+1:47:44 am EST.[15]
+Artemis I was launched from Launch Complex
+39B at the Kennedy Space Center.[16] After
+reaching Earth orbit, the upper stage carrying the
+Orion spacecraft separated and performed a
+trans-lunar injection before releasing Orion and
+deploying ten CubeSat satellites. Orion completed
+one flyby of the Moon on November 21, entered a
+distant retrograde orbit for six days, and
+completed a second flyby of the Moon on
+December 5.[17]
+Launch site Kennedy, LC-39B
+End of mission
+Recovered by USS Portland[4]
+Landing date December 11, 2022,
+17:40:30 UTC[2]
+(9:40:30 am PST)
+Landing site Pacific Ocean off Baja
+California[3]
+Orbital parameters
+Reference system Selenocentric
+Regime Distant retrograde orbit
+Period 14 days
+Flyby of Moon
+Closest approach November 21, 2022,
+12:57 UTC[5]
+Distance 130 km (81 mi)
+Moon orbiter
+Orbital insertion November 25, 2022,
+21:52 UTC[6]
+Orbital departure December 1, 2022,
+21:53 UTC[7]
+Flyby of Moon
+Spacecraft
+component
+Orion
+Closest approach December 5, 2022,
+16:43 UTC[8]
+Distance 128 km (80 mi)
+Mission insignia
+Artemis program
+Orion program
+The Orion spacecraft then returned and reentered
+the Earth's atmosphere with the protection of its
+heat shield, splashing down in the Pacific Ocean
+on December 11.[18] The mission aimed to certify
+Orion and the Space Launch System for crewed
+flights beginning with Artemis II,[19] a crewed
+lunar flyby in April 2026.[20]
+Artemis I was launched on the Block 1 variant of
+the Space Launch System.[21] The Block 1 vehicle
+consisted of a core stage, two five-segment solid
+rocket boosters (SRBs) and an upper stage. The
+core stage used four RS-25D engines, all of which
+had previously flown on Space Shuttle
+missions.[22] The core and boosters together
+produced 39,000 kN (8,800,000 lbf), or about
+4,000 metric tons of thrust at liftoff. The upper
+stage, known as the Interim Cryogenic Propulsion
+Stage (ICPS), was based on the Delta Cryogenic
+Second Stage and was powered by a single
+RL10B-2 engine on the Artemis I mission.[23]
+Once in orbit, the ICPS fired its engine to perform
+a trans-lunar injection (TLI) burn, which placed
+the Orion spacecraft and 10 CubeSats on a
+trajectory to the Moon. Orion then separated from
+the ICPS and continued its coast into lunar space.
+Following Orion separation, the ICPS Stage
+Adapter deployed ten CubeSats for conducting
+scientific research and performing technology
+demonstrations.[24]
+The Orion spacecraft spent approximately three
+weeks in space, including six days in a distant
+retrograde orbit (DRO) around the Moon.[25] It
+came within approximately 130 km (80 mi) of the
+lunar surface (closest approach)[5] and achieved a
+maximum distance from Earth of 432,210 km
+(268,563 mi).[26][27]
+Mission profile
+Diagram showing the objectives of the
+Artemis I mission
+Key events from launch and ascent to
+space
+Mission timeline[26]
+Date/Time (UTC) Event
+Launch
+November 16, 06:47:44 Liftoff
+November 16, 06:49:56 Solid rocket booster separation
+November 16, 06:50:55 Service module fairing jettisoned
+November 16, 06:51:00 Launch abort system (LAS)
+jettisoned
+November 16, 06:55:47 Core stage main engine cutoff
+(MECO)
+November 16, 06:55:59 Core stage and ICPS separation
+November 16, 07:05:53 –
+07:17:53 Orion solar array deployment
+November 16, 07:40:40 –
+07:41:02 Perigee raise maneuver
+November 16, 08:17:11 –
+08:35:11
+ICPS trans-lunar injection (TLI)
+burn
+November 16, 08:45:20 Orion/ICPS separation
+November 16, 08:46:42 Upper-stage separation burn
+November 16, 10:09:20 ICPS disposal burn
+Moon outbound transit
+November 16, 14:35:15 First trajectory correction burn
+November 17 – 20 Outbound coasting phase
+November 21, 12:44 Outbound powered flyby burn[5]
+November 21 – 24 Transit to Moon
+Orbiting Moon
+November 25–30 Distant retrograde orbit (DRO)
+December 1, 21:53 DRO departure burn[7]
+December 1 – 4 Exiting DRO
+Earth return
+December 5 – 11 Return transit
+December 5, 16:43 Close lunar approach[8]
+December 11, 17:40:30 Splashdown in Pacific Ocean
+Artemis I lifts off from Launch Complex
+39B at NASA's Kennedy Space Center in
+Florida on November 16, 2022
+Mission profile animation of Artemis I
+Earth-centered inertial reference frame
+ Earth-centered frame rotating with Moon
+  Earth ·   Artemis I ·   Moon
+Artemis I was outlined by NASA as Exploration Mission 1
+(EM-1) in 2012, at which point it was set to launch in
+2017[28][note 2] as the first planned flight of the SLS and the
+second uncrewed test flight of the Orion Multi-Purpose Crew
+Vehicle. The initial plans for EM-1 called for a circumlunar
+trajectory during a seven-day mission.[30][31]
+In January 2013, it was announced that the Orion spacecraft's
+service module was to be built by the European Space Agency
+and named the European Service Module.[32] In mid-
+November 2014, construction of the SLS core stage began at
+NASA's Michoud Assembly Facility (MAF).[33] In January
+2015, NASA and Lockheed Martin announced that the primary structure in the Orion spacecraft used
+on Artemis I would be up to 25% lighter compared to the previous one (EFT-1). This would be
+achieved by reducing the number of cone panels from six (EFT-1) to three (EM-1), reducing the total
+number of welds from 19 to 7[34] and saving the additional mass of the weld material. Other savings
+would be due to revising its various components and wiring. For Artemis I, the Orion spacecraft was
+to be outfitted with a complete life support system and crew seats but would be left uncrewed.[35]
+In February 2017, NASA began investigating the feasibility of a crewed launch as the first SLS
+flight.[21] It would have had a crew of two astronauts and the flight time would have been shorter than
+the uncrewed version.[36] However, after a months-long feasibility study, NASA rejected the proposal,
+citing cost as the primary issue, and continued with the plan to fly the first SLS mission uncrewed.[37]
+In March 2019, then-NASA administrator Jim Bridenstine proposed moving the Orion spacecraft
+from SLS to commercial rockets, either the Falcon Heavy or Delta IV Heavy, to comply with the
+schedule.[38][39] The mission would require two launches: one to place the Orion spacecraft into orbit
+around the Earth, and a second carrying an upper stage. The two would then dock while in Earth
+Background
+First static-fire attempt of the core stage
+performed on January 16, 2021
+Block 1 variant of SLS rocket
+orbit, and the upper stage would ignite to send Orion to the Moon.[40] The idea was eventually
+scrapped.[41] One challenge with this option would be carrying out that docking, as Orion is not
+planned to carry a docking mechanism until Artemis III.[42] The concept was shelved in mid-2019,
+due to another study's conclusion that it would further delay the mission.[43]
+The core stage for Artemis I, built at Michoud Assembly
+Facility in Louisiana by Boeing, had all four engines attached
+in November 2019[44] and was declared finished one month
+later.[45] The core stage left the facility to undergo the Green
+Run test series at Stennis Space Center, consisting of eight
+tests of increasing complexity:[46]
+1. Modal testing (vibration tests)
+2. Avionics (electronic systems)
+3. Fail-safe systems
+4. Propulsion (without firing of the engines)
+5. Thrust vector control system (moving and rotating
+engines)
+6. Launch countdown simulation
+7. Wet dress rehearsal, with propellant
+8. Static fire of the engines for eight minutes
+The first test was performed in January 2020,[46][47] and subsequent Green Run tests proceeded
+without issue. On January 16, 2021, a year later, the eighth and final test was performed, but the
+engines shut down after running for one minute.[48] This was caused by pressure in the hydraulic
+system used for the engines' thrust vector control system dropping below the limits set for the test.
+However, the limits were conservative – if such an anomaly occurred in launch, the rocket would still
+fly normally.[49] The static fire test was performed again on March 18, 2021, this time achieving a full-
+duration eight-minute burn.[50] The core subsequently departed the Stennis Space Center on April 24,
+2021, en route to the Kennedy Space Center.[51]
+SLS/Orion is assembled by stacking its major sub-assemblies
+atop a mobile launcher platform inside the NASA Vehicle
+Assembly Building (VAB). First, the seven components of each
+of the two boosters are stacked. The core stage is then stacked
+and is supported by the boosters. The interstage and upper
+stage are stacked atop the core, and the Orion spacecraft is
+then stacked onto the upper stage.
+The Interim Cryogenic Propulsion Stage was the first part of
+the SLS to be delivered to the Kennedy Space Center in July
+2017.[52] Three years later, all of the SLS's solid rocket booster
+segments were shipped by train to the Kennedy Space Center
+Ground testing
+Assembly
+SLS with the Orion capsule
+stacked in the Vehicle
+Assembly Building, March
+2022
+on June 12, 2020,[53] and the SLS launch vehicle stage adapter (LVSA)
+was delivered by barge one month later on July 29.[54] The assembly of
+the SLS took place at the Vehicle Assembly Building's High Bay 3,
+beginning with the placement of the two bottom solid rocket booster
+segments onto Mobile Launcher-1 on November 23.[55] Assembly of
+the boosters was temporarily paused due to the core stage Green Run
+test delays before being resumed on January 7, 2021,[56] and the
+boosters' stacking was completed by March 2.[57]
+The SLS core stage for the mission, CS-1, arrived at the launch site on
+the Pegasus barge on April 27, 2021, after the successful conclusion of
+Green Run tests. It was moved to the VAB low bay for refurbishment
+and stacking preparations on April 29.[58] The stage was then stacked
+with its boosters on June 12. The stage adapter was stacked on the
+Core Stage on June 22. The ICPS upper stage was stacked on July 6.
+Following the completion of umbilical retract testing and integrated
+modal testing, the Orion stage adapter with ten secondary payloads
+was stacked atop the upper stage on October 8.[59] This marked the
+first time a super-heavy-lift vehicle has been stacked inside NASA's
+VAB since the final Saturn V in 1973.
+The Artemis I Orion spacecraft began fueling and pre-launch servicing in the Multi-Payload
+Processing Facility on January 16, 2021, following a handover to NASA Exploration Ground Systems
+(EGS).[60][61] On October 20, the Orion spacecraft, encapsulated under the launch abort system and
+aerodynamic cover, was rolled over to the VAB and stacked atop the SLS rocket, finishing the stacking
+of the Artemis I vehicle in High Bay 3.[62] During a period of extensive integrated testing and
+checkouts, one of the four RS-25 engine controllers failed, requiring a replacement and delaying the
+first rollout of the rocket.[63][64]
+On March 17, 2022, Artemis I rolled out of High Bay 3 from the VAB for the first time to perform a
+pre-launch wet dress rehearsal (WDR). The initial WDR attempt, on April 3, was scrubbed due to a
+mobile launcher pressurization problem.[65] A second attempt to complete the test was scrubbed on
+April 4, after problems with supplying gaseous nitrogen to the launch complex, liquid oxygen
+temperatures, and a vent valve stuck in a closed position.[66]
+During preparations for a third attempt, a helium check valve on the ICPS upper stage was kept in a
+semi-open position by a small piece of rubber originating from one of the mobile launcher's umbilical
+arms, forcing test conductors to delay fueling the stage until the valve could be replaced in the
+VAB.[67][68] The third attempt to finish the test did not include fueling the upper stage. The rocket's
+liquid oxygen tank started loading successfully. However, during the loading of liquid hydrogen on the
+core stage, a leak was discovered on the tail service mast umbilical plate, located on the mobile
+launcher at the base of the rocket, forcing another early end to the test.[69][70]
+Launch preparations
+First rollout of SLS in March
+2022. It was subsequently
+rolled back in for repairs.
+NASA rolled the vehicle back to the VAB to repair the hydrogen leak
+and the ICPS helium check valve while upgrading the nitrogen supply
+at LC-39B after prolonged outages on the three previous wet dress
+rehearsals. Artemis I was rolled back to the VAB on April 26.[71][72][73]
+After the repairs and upgrades were complete the Artemis I vehicle
+rolled out to LC-39B for a second time on June 6 to complete the
+test.[74]
+During the fourth wet dress rehearsal attempt on June 20, the rocket
+was fully loaded with propellant on both stages. Still, due to a
+hydrogen leak on the quick-disconnect connection of the tail service
+mast umbilical, the countdown could not reach the planned T−9.3
+seconds mark and was stopped automatically at T−29 seconds. NASA
+mission managers soon determined they had completed almost all
+planned test objectives and declared the WDR campaign complete.[75]
+On July 2, the Artemis I stack was rolled back to the VAB for final
+launch preparations and to fix the hydrogen leak on the quick disconnect ahead of a launch targeted
+in two launch windows: August 29 and September 5.[76][77] The SLS passed its flight readiness review
+on August 23, checking out five days before the first launch opportunity.[78]
+Attempt Planned Result Turnaround Reason Decision
+point
+Weather
+go (%) Notes
+1
+29 Aug
+2022,
+8:33:00
+am
+Scrubbed — Technical
+29 Aug
+2022,
+10:33 am
+High temperature in
+engine 3, hydrogen
+leak, and
+communication
+problems.
+2
+3 Sep
+2022,
+2:17:00
+pm
+Scrubbed 5 days 5 hours
+44 minutes Technical
+3 Sep
+2022,
+11:17 am
+Hydrogen leak in
+service arm.
+3
+16 Nov
+2022,
+1:47:44
+am
+Success
+73 days
+11 hours
+31 minutes
+Fueling was scheduled to commence just after midnight on August 29, 2022, but was delayed an hour
+due to offshore storms, only beginning at 1:13 am EDT. Before the planned launch at 8:33 am, Engine
+3 of the rocket's four engines was observed to be above the maximum allowable temperature limit for
+launch.[79][80] Other technical difficulties involved an eleven-minute communications delay between
+the spacecraft and ground control, a fuel leak, and a crack on the insulating foam of the connection
+joints between the liquid hydrogen and liquid oxygen tanks.[79][81][82] NASA scrubbed the launch
+after an unplanned hold and the two-hour launch window expired.[83] An investigation revealed that a
+sensor not used to determine launch readiness was faulty, and displayed an erroneously high
+temperature for Engine 3.[80]
+Initial launch attempts
+Following the first attempt, a second launch attempt was scheduled for the afternoon of September
+3.[84] The launch window would have opened at 2:17 pm EDT (18:17 UTC), and lasted for two
+hours.[85] The launch was scrubbed at 11:17 am EDT due to a fuel supply line leak in a service arm
+connecting to the engine section.[86][14] The cause of the leak was uncertain. Mission operators
+investigated whether an overpressurization of the liquid hydrogen line of the quick-disconnect
+interface during the launch attempt may have damaged a seal, allowing hydrogen to escape.[87]
+Launch operators decided on the date for the next launch attempt; the earliest possible opportunity
+was September 19[88][89][90] until mission managers declared that September 27, and then September
+30, would be the absolute earliest date, NASA having successfully repaired the leak.[91][92] A launch in
+September would have required that the Eastern Range of the United States Space Force agree to an
+extension on certification of the rocket's flight termination system, which destroys the rocket should it
+move off-course and towards a populated area;[87] this was carried out on September 22.[93] However,
+unfavorable forecasts of the trajectory of then-Tropical Storm Ian led launch managers to call off the
+September 27 launch attempt and begin preparations for the stack's rollback to the VAB.[94] On the
+morning of September 26, the decision was made to roll back later that evening.[95][96]
+On November 12, following another delay due to Hurricane Nicole, NASA launch managers requested
+launch opportunities for November 16 and 19. They initially requested an opportunity for the 14th but
+were prevented by then-Tropical Storm Nicole.[97] As the storm approached, NASA decided to leave
+the rocket at the launch pad, citing a low probability that wind speeds would exceed the rocket's
+design limits.[98] Wind speeds were expected to reach 29 mph (47 km/h), with gusts up to 46 mph
+(74 km/h). Nicole made landfall as a category one hurricane on November 9, with sustained wind
+speeds at Kennedy Space Center reaching 85 mph (137 km/h), and gusts up to 100 mph (160 km/h).
+After the storm cleared, NASA inspected the rocket for physical damage and conducted electronic
+health checks.[99][100][101] On November 15, the mission management team gave a "go" to begin fully
+preparing for launch, and the main tanking procedures began at 3:30 pm EST (20:30 UTC).[102]
+SLS on standby,
+ready for launch
+ 
+Inside Orion with
+mannequin Campos
+ 
+Orion on the first day
+of the mission
+ 
+Orion, the Moon and
+Earth on day 13
+Mission control on
+day 14
+ 
+Details of the lunar
+surface, day 19
+ 
+The Moon after return
+flyby, day 19
+ 
+Artemis 1 before
+reentry, day 25
+Orion descending to
+the Pacific Ocean
+ 
+Orion shortly after
+splashdown
+Following more delays from fuel leaks, NASA made the call to send in a team of technicians. The "red
+team" consisted of three men, who drove to the launch site. When they arrived, they reported on the
+leak and set to work tightening packing nuts to correct the leak. After departing, mission control
+confirmed the leak had been corrected and proceeded with the count.[103] At 6:47:44 UTC (1:47:44 am
+EST) on November 16, 2022, Artemis I successfully launched from Launch Complex 39B (LC-39B) at
+the Kennedy Space Center.[1] Artemis I was the first launch from LC-39B since Ares I-X. The Orion
+spacecraft and ICPS were both placed into a nominal orbit after separating from the Space Launch
+System, achieving orbit approximately 81⁄2 minutes after launch.[104]
+Flight
+Launch
+The Space Launch System launches
+from Kennedy Space Center's LC-39B.
+Eighty-nine minutes after liftoff, the ICPS fired for
+approximately eighteen minutes in a trans-lunar injection
+(TLI) maneuver. Orion then separated from the expended
+stage and fired its auxiliary thrusters to move safely away as it
+started its journey to the Moon.[105] The 10 CubeSat
+secondary payloads were then deployed from the Orion Stage
+Adapter, attached to the ICPS.[106] The ICPS conducted a final
+maneuver at three and a half hours after launch to dispose
+itself into a heliocentric orbit.[107]
+On November 20 at 19:09 UTC, the Orion spacecraft entered
+the lunar sphere of influence, where the influence of the
+Moon's gravity on the spacecraft is greater than that of
+Earth.[108]
+On November 21, Orion experienced a planned loss of communication with NASA from 12:25 through
+12:59 UTC as it passed behind the Moon and no longer had line-of-sight to Earth. There, during an
+automatically controlled maneuver, the first of several trajectory-altering burns, called an "outbound
+powered flyby burn",[108] to transition Orion to a distant retrograde orbit began at 12:44 UTC. The
+orbital maneuvering system engine fired for two minutes and thirty seconds. While operating
+autonomously, Orion made its closest lunar approach of approximately 130 km (81 mi) above the
+surface at 12:57 UTC.[109][110] The spacecraft performed another burn on November 25, firing the
+orbital maneuvering system (OMS) for one minute and twenty-eight seconds, changing Orion's
+velocity by 363 ft/s (398 km/h) finally entering orbit.[111] On November 26, at 13:42 UTC, Orion broke
+the record for the farthest distance from Earth traveled by an Earth-returning human-rated
+spacecraft. The record was formerly held by the Apollo 13 mission at 400,171 km (248,655
+miles).[111][112][6]
+On November 28, Orion reached a distance of 432,210 km (268,563 mi) from Earth, the maximum
+distance achieved during the mission.[113] On November 30, the Orion spacecraft performed a
+maintenance burn to maintain its trajectory and decrease its velocity for a planned burn on December
+1, at 21:53 UTC, to depart its distant retrograde orbit around the Moon, beginning its journey back to
+Earth.[114]
+On December 5 at 16:43 UTC, the spacecraft reached 128 km (80 mi) from the lunar surface at its
+closest approach right before an earthbound burn, the "powered return flyby burn", to leave the zone
+of lunar gravitational influence. The spacecraft once again passed behind the Moon, losing
+communications with mission control for about half an hour.[115] Shortly before the flyby, Orion
+experienced an electrical anomaly, which was soon resolved.[116]
+Outbound flight
+Lunar orbit
+Heat shield showing damage after
+recovery
+On December 6 at 7:29 UTC, Orion exited the lunar sphere of influence. It then conducted a minor
+course correction burn and an inspection of the crew module's thermal protection system and the
+ESM.[117] Over the next few days the mission control team continued to conduct system checks and
+prepared for reentry and splashdown. On December 10, mission planners announced that the final
+landing site would be near Guadalupe Island off the Baja peninsula in Mexico.[118] The final trajectory
+correction burn of six total trajectory burns throughout the mission took place the next day five hours
+before reentry.[119]
+The spacecraft separated from its service module at around 17:00 UTC on December 11 and then
+reentered Earth's atmosphere at 17:20 UTC travelling near 40,000 km/h (25,000 mph).[120] It was
+the first United States use of a "skip entry", a form of non-ballistic atmospheric entry into the
+atmosphere, pioneered by Zond 7, in which two phases of deceleration would expose human
+occupants to relatively less intense G-forces than would be experienced during an Apollo-style
+reentry.[121] The Orion capsule splashed down at 17:40 UTC (9:40 am PST) west of Baja California
+near Guadalupe Island.[18] Following splashdown, NASA personnel and the crew of USS Portland
+recovered the spacecraft after planned ocean testing of the capsule.[122] The recovery team spent
+about two hours performing tests in open water and imaging the craft, namely to investigate signs of
+atmospheric re-entry, then used a winch and several tending lines to pull the craft into a securing
+assembly in the well dock of the USS Portland. The recovery team included personnel from the US
+Navy, Space Force, Kennedy Space Center, Johnson Space Center, and Lockheed Martin Space.[123]
+On December 13, the Orion capsule arrived at the Port of San Diego.[124]
+After the capsule was recovered, inspection showed
+unexpected loss of AVCOAT material used on the heat shield.
+NASA undertook an exhaustive and complex analysis of the
+loss and was finally able to report on it and announce
+recommendations after two years, on December 5, 2024. The
+conclusion was that the damage was initiated by spalling
+caused when gas trapped within the shield heated and
+expanded, blowing pieces out of the shield. This occurred
+during the reentry "skip" maneuver, which had a different
+heating and cooling profile than simpler direct-entry
+profiles.[125]
+The Orion spacecraft carried three astronaut-like mannequins equipped with sensors to provide data
+on what crew members may experience during a trip to the Moon.[126] The first mannequin, called
+"Captain Moonikin Campos" (named after Arturo Campos, a NASA engineer during the Apollo
+Return flight
+Reentry and splashdown
+Post-landing analysis
+Payloads

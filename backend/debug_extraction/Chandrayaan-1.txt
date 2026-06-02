@@ -1,0 +1,265 @@
+Home /Activities/ Science /Chandrayaan-1_ScienceChandrayaan-1
+Chandrayaan-1, India's first mission to Moon, was launched successfully on October 22, 2008 from
+SDSC SHAR, Sriharikota. The spacecraft orbited around the Moon at a height of 100 km from the
+lunar surface and provided chemical, mineralogical and photo-geologic mapping of the Moon. The
+spacecraft carried a total of 11 scientific instruments developed in India and other countries.
+After completion of the major mission objectives, the orbit was raised to 200 km in May 2009. The
+satellite made more than 3400 orbits around the moon in its life time. The mission was concluded
+after the communication with the spacecraft was lost on August 29, 2009.
+The payloads onboard Chandrayaan-1 are,
+a. Terrain Mapping Camera (TMC)
+b. Hyper Spectral Imager (HySI)
+c. Lunar Laser Ranging Instrument (LLRI)
+d. High Energy X - ray Spectrometer (HEX)
+e. Moon Impact Probe(MIP)
+f. Chandrayaan-1 X-ray Spectrometer (C1XS)
+g. Near Infrared Spectrometer (SIR – 2)
+h. Sub keV Atom Reflecting Analyzer (SARA)
+i. Miniature Synthetic Aperature Radar (Mini SAR)
+j. Moon Mineralogy Mapper (M3)
+k. Radiation Dose Monitor (RADOM)
+a. Terrain Mapping Camera (TMC)
+The aim of TMC was to map topography of both near and far side of the Moon and prepare a 3-
+dimensional atlas with a high spatial and elevation resolution. TMC imaged Moon in the
+panchromatic spectral region of 0.5 to 0.85 µm, with a spatial/ ground resolution of 5 m and swath
+coverage of 20 km.TMC measured the solar radiation reflected / scattered from the Moon’s
+surface. The dynamic range of the reflected signal was found to be quite large, represented by
+the two extreme targets – fresh crust rocks and mature mare soil.
+TMC payload is developed by SAC, Ahmedabad, ISRO.
+b. Hyper Spectral Imager (HySI)
+The objective of HySI is to obtain spectroscopic data for mineralogical mapping
+of the lunar surface. The data from this instrument helped in improving the
+available information on mineral composition of the surface of Moon. Also, the
+study of data in deep crater regions/central peaks, which represents lower crust
+or upper mantle material, may help in understanding the mineralogical
+composition of Moon’s interior.
+The uniqueness of the HySI was in its capability of mapping the lunar surface in 64 contiguous
+bands in the VNIR, the spectral range of 0.4-0.95 µm region with a spectral resolution of better
+than 15 nm and spatial resolution of 80 m, with swath coverage of 20 km. HySI collected the
+Sun’s reflected light from the Moon’s surface through a tele-centric refractive optics and focus on
+to an APS area detector for this purpose.
+The dispersion was achieved by using a wedge filter so as to reduce the weight and compactness
+of the system compared to using a prism / grating. The wedge filter was an interference filter with
+varying thickness along one dimension so that the transmitted spectral range varies in that
+direction. The wedge filter was placed in close proximity to an area detector. Thus, different pixels
+in a row of the detector received irradiance from the same spectral region but different spatial
+regions in the across track direction. In the column direction of the detector, different rows
+received irradiance of different spectral as well as spatial regions in the along track direction. The
+full spectrum of a target was obtained by acquiring image data in push broom mode, as the
+satellite moves along the column direction of the detector. An Active Pixel Sensor (APS) area
+array detector with built-in digitizer mapped the spectral bands. The payload mass was 2.5 kg and
+its size is 275 mm x 255 mm x 205 mm.HySI payload is developed by SAC, ISRO
+c. Lunar Laser Ranging Instrument (LLRI)
+The objective of LLRI was to provide ranging data for determining the height
+difference between the spacecraft and the lunar surface. LLRI worked on the
+time-Of-Flight (TOF) principle. In this method, a coherent pulse of light from a
+high power laser is directed towards the target whose range is to be measured.
+A fraction of the light is scattered back in the direction of the laser source where
+an optical receiver collects it and focuses it on to a photoelectric detector.
+By accurately measuring the roundtrip travel time of the laser pulse, highly accurate range/spot
+elevation measurements can be made. LLRI consisted of a 10 mJ Nd:YAG laser with 1064 nm
+wave source operating at 10 Hz pulse repetition mode. The reflected laser pulse from the lunar
+surface is collected by a 200 mm Ritchey-Chrétien Optical receiver and focused on to a Silicon
+Avalanche Photodetector. The output of the detector was amplified and threshold detected for
+generating range information to an accuracy < 5m. ihFour constant fraction discriminators provided
+the slope information in addition to range information. The different modes of operation of LLRI and
+the range computations from the detector output were controlled and computed by a FPGA based
+electronics. The processed outputs of LLRI was used for generating high accuracy lunar
+topography. The payload mass was 11.37 kg with base plate.LLRI payload is developed by LEOS,
+ISRO.
+d. Energy X - ray Spectrometer (HEX)
+The scientific objectives of HEX was to:
+I. Identify excess 210Pb in lunar polar regions deposited there as a result of
+transport of gaseous 222Rn, a decay product of 238U from other regions of
+the Moon. This will enable us to understand transport of other volatiles such
+as water to the polar regions.
+II. Detect other radioactive emissions, to characterise various lunar terrains for
+their chemical and radioactive composition on the basis of
+specific/integrated signal in the 30-270 keV region.
+III. Explore the possibility of identifying polar regions covered by thick water-ice
+deposit from a study of the continuum background
+HEX covers the hard X-ray region from 30 keV to 270 keV. The experiment is designed primarily
+to study the emission of low energy (30-270 keV) natural gamma-rays from the lunar surface due
+to 238U and 232Th and their decay chain nuclides. The geometric detector area of 144 cm2 was
+realized by nine Cadmium Zinc Telluride (CZT) arrays, each 4 cm x 4 cm (5 mm thick), composed
+of 256 (16x16) pixels (size: 2.5 mm x 2.5 mm). Each CZT array was readout using two closely
+mounted Application Specific Integrated Circuits (ASICs), which provided self-triggering capability.
+The detector was biased at the cathode with –550 V and the electronic charge signals were
+collected at the anode. A Cesium Iodide (CsI (Tl)) scintillator crystal coupled to photomultiplier
+tubes (PMT), was used as the anticoincidence system (ACS).
+A specially designed collimator provided a field of view (FOV) of 33 km X 33 km at the lunar
+surface from a 100 km orbit. The spatial resolution of HEX was 33 km and the mass was 14.4 kg.
+e. Moon Impact Probe(MIP)
+The impact probe of 35 kg mass was attached at the top deck of the main orbiter and released
+during the final 100 km x 100 km orbit at a predetermined time to impact at a pre-selected
+location. During the descent phase, it was spin-stabilized. The total flying time from release to
+impact on Moon was around 25 minutes.
+The primary objective was to demonstrate the technologies required for landing the probe at a
+desired location on the Moon and to qualify some of the technologies related to future soft landing
+missions.
+There were three instruments on the Moon Impact Probe
+i. Radar Altimeter – for measurement of altitude of the Moon Impact Probe and for qualifying
+technologies for future landing missions. The operating frequency band is 4.3 GHz ± 100 MHz
+ii. Video Imaging System – for acquiring images of the surface of the Moon during the descent at a
+close range. The video imaging system consists of analog CCD camera
+iii. Mass Spectrometer – for measuring the constituents of tenuous lunar atmosphere during descent.
+This instrument was a commercially available Quadrupole mass spectrometer with a mass
+resolution of 0.5 amu and sensitivities to partial pressure of the order of 10-14 torr.
+The dimension of the impact probe is 375 mm x 375 mm x 470 mm.
+f. Chandrayaan-1 X-ray Spectrometer (C1XS)
+The primary goal of the C1XS instrument was to carry out high quality X-ray
+spectroscopic mapping of the Moon, in order to constrain solutions to key
+questions on the origin and evolution of the Moon. C1XS used X-ray
+fluorescence spectrometry (1.0-10 keV) to measure the elemental abundance,
+and map the distribution, of the three main rock forming elements: Mg, Al and Si.
+During periods of enhanced solar activity (solar flares) events, it determined the
+abundance of minor elements
+such as Ca, Ti and Fe on the surface of the Moon.The instrument utilised technologically
+innovative Swept Charge Device (SCD) X-ray sensors, which were mounted behind low profile
+gold/copper collimators and aluminium/polycarbonate thin film filters. The system had the virtue of
+providing superior X-ray detection, spectroscopic and spatial measurement capabilities, while also
+operating at near room temperature. A deployable proton shield protected the SCDs during
+passages through the Earth’s radiation belts, and from major particle events in the lunar orbit. In
+order to record the incident solar X-ray flux at the Moon, which was needed to derive absolute
+lunar elemental surface abundances, C1XS also included an X-ray Solar Monitor. With its wide
+field-of-view of ± 52 degrees, XSM provides observation of the solar X-ray spectrum from 1-20
+keV with good energy resolution (< 250 keV[at]5[dot]9 keV) and fast spectral sampling at 16 s
+intervals. The total mass of C1XS and XSM was 5.2 kg
+The C1XS instrument is primarily based on the D-CIXS instrument on the ESA SMART-1 mission.
+Chandrayaan-1 X-ray Spectrometer (C1XS) is realised primarily through ESA funds with partial
+support from ISRO. The hardware has been developed at the Rutherford Appleton Laboratory, UK
+in collaboration with the ISRO Satellite Centre, Bangalore and exhibits significant improvements
+over the instrument flown on SMART-1.
+g. Near Infrared Spectrometer (SIR - 2)
+The objective of SIR-2 was to address the surface-related aspects of lunar science in the
+following broad categories:
+Analyse the lunar surface in various geological/mineralogical and
+topographical units;
+Study the vertical variation in composition of crust
+Investigate the process of basin, maria and crater formation on the
+Moon;
+Explore “Space Weathering” processes of the lunar surface
+Survey mineral lunar resources for future landing sites and
+exploration
+SIR-2 was a grating NIR point spectrometer working in the 0.93-2.4 microns wavelength range
+with 6 nm spectral resolution. It collected the Sun’s light reflected by the Moon with the help of a
+main and a secondary mirror. This light is fed through an optical fiber to the instrument’s sensor
+head, where it was reflected off a dispersion grating. The dispersed light reaches a detector,
+which consisting of a row of photosensitive pixels that measured the intensity as a function of
+wavelength and produces an electronic signal, which is read out and processed by the
+experiment’s electronics.The mass of the instrument was 3.3 kg and the instrument unit
+dimension is 260 mm x 171 mm x 143 mm.
+SIR-2 is developed by the Max-Planck-Institute for Solar System Science, through the Max-
+Planck Society, Germany and ESA.
+h. Sub keV Atom Reflecting Analyzer (SARA)
+SARA imaged the Moon surface using low energy neutral atoms as diagnostics in the energy
+range 10 eV - 3.2 keV to address the following scientific objectives:
+Imaging the Moon’s surface composition including the permanently shadowed areas and
+volatile rich areas
+Imaging the solar wind-surface interaction
+Imaging the lunar surface magnetic anomalies
+The SARA instrument consisted of neutral atom sensor CENA
+(Chandrayaan-1 Energetic Neutrals Analyzer), solar wind monitor SWIM
+and DPU (Data Processing Unit). CENA and SWIM interface with DPU,
+which in turn interfaces with the spacecraft. The masses of CENA,
+SWIM and DPU
+are 2 kg, 0.5 kg and 2 kg respectively, totaling the SARA mass as 4.5 kg.SARA is realised through
+ESA, in collaboration with Swedish Institute of Space Physics, Sweden and Space Physics
+Laboratory, Vikram Sarabhai Space Centre, ISRO. The Data Processing Unit of this payload/
+experiment is designed and developed by ISRO, while Swedish Institute of Space Physics
+develops the payload.
+i. Miniature Synthetic Aperature Radar (Mini SAR)
+The objective of Mini-SAR was to detect water ice in the permanently shadowed
+regions on the Lunar poles, upto a depth of a few meters.An onboard SAR at
+suitable incidence would allow viewing of all permanently shadowed areas on
+the Moon, regardless of whether sunlight is available or the
+
+angle is not satisfactory. The radar would observe these areas at incidence angle near 45 degrees,
+recording echoes in both orthogonal senses of received polarization, allowing ice to be optimally
+distinguished from dry lunar surface.The Mini-SAR radar system operated as an
+altimeter/scatterometer, radiometer, and as a synthetic aperture radar imager. The Mini-SAR
+system transmitted Right Circular Polarization (RCP) and received, both Left Circular polarization
+(LCP) and RCP. In scatterometer mode, the system measured the RCP and LCP response in the
+altimetry footprint, along the nadir ground track. In radiometer mode, the system measured the
+surface RF emissivity, allowing determination of the near normal incidence Fresnel reflectivity.
+Meter-scale surface roughness and circular polarization ratio (CPR) wre determined for this
+footprint. This allowed the characterization of the radar and physical properties of the lunar surface
+(e.g., dielectric constant, porosity) for a network of points. When directed off nadir, the radar
+system will image a swath parallel to the orbital track by delay/Doppler methods (SAR mode) in
+both RCP and LCP.The synthetic aperture radar system worked at a frequency 2.38 GHz, with a
+resolution of 75 m per pixel from 100 km orbit and its mass was 8.77 kg.Miniature Synthetic
+Aperture Radar (MiniSAR) is from Applied Physics Laboratory, Johns Hopkins University and Naval
+Air Warfare Centre, USA through NASA.
+j. Moon Mineralogy Mapper (M3)
+The primary Science goal of M3 was to characterize and map lunar surface
+mineralogy in the context of lunar geologic evolution. This translates into several
+sub-topics relating to understanding the highland crust, basaltic volcanism,
+impact craters, and potential volatiles. The primary exploration goal was to
+assess and map lunar mineral resources at high spatial resolution to support
+planning for future, targeted missions.The M3 scientific instrument was a high
+throughput pushbroom imaging spectrometer, operating in 0.7 to 3.0 µm range. It
+measures solar reflected energy, using a two-dimensional HgCdTe detector
+array.
+Sampling: 10 nanometers
+Spatial resolution: 70 m/pixel [from 100 km orbit]
+Field of View: 40 km [from 100 km orbit]
+Mass: 8.2 kg
+The spectral range 0.7 to 2.6 µm captures the absorption bands for the most important lunar
+minerals. In addition, the spectral range 2.5 to 3.0 µm is critical for detection of possible volatiles
+near the lunar poles. The presence of small amounts of OH or H2O can be unambiguously
+identified from fundamental absorptions that occur near 3000 nm.
+M3 measurements are obtained for 640 cross track spatial elements and 261 spectral elements.
+This translates to 70 m/pixel spatial resolution and 10 nm spectral resolution (continuous) from a
+nominal 100 km polar orbit for Chandrayaan-1. The M3 FOV is 40 km in order to allow contiguous
+orbit-to-orbit measurements at the equator that will minimize lighting condition variations.Moon
+Mineralogy Mapper (M3) payload is from Brown University and Jet Propulsion Laboratory, USA
+through NASA
+k. Radiation Dose Monitor (RADOM)
+RADOM aimed to qualitatively and quantitatively characterise the radiation
+environment in near lunar space, in terms of particle flux, dose rate and
+deposited energy spectrum.The specific objectives are to
+Measure the particle flux, deposited energy spectrum, accumulated
+radiation dose rates in Lunar orbit;
+
+Provide an estimate of the radiation dose around the Moon at different
+altitudes and latitudes;
+Study the radiation hazards during the Moon exploration. Data obtained will be used for the
+evaluation of the radiation environment and the radiation shielding requirements of future
+manned Moon missions.
+Radiation exposure of crew members on future manned space flight had been recognised as an
+important factor for the planning and designing of such missions. Indeed, the effects of ionising
+radiation on crew health, performance and life expectancy are a limitation to the duration of man’s
+sojourn in space. Predicting the effects of radiation on humans during a long-duration space
+mission requires i) accurate knowledge and modelling of the space radiation environment, ii)
+calculation of primary and secondary particle transport through shielding materials and through the
+human body, and iii) assessment of the biological effects of the dose.The general purpose of
+RADOM is to study the radiation hazards during the Moon exploration. Data obtained will be used
+for the evaluation of radiation environment and radiation shielding requirements for future manned
+lunar missions.RADOM was a miniature spectrometer-dosimeter containing one semiconductor
+detector of 0.3 mm thickness, one charge-sensitive preamplifier and two micro controllers. The
+detector weighs 139.8 mg. Pulse analysis technique is used for obtaining the deposited energy
+spectrum, which is further converted to the deposited dose and flux in the silicon detector. The
+exposure time for one spectrum is fixed at 30 s. The RADOM spectrometer measured the
+spectrum of the deposited energy from primary and secondary particles in 256 channels. RADOM
+mass was 160 g.RADOM is from Bulgarian Academy of Sciences.
+Salient science results from Chandrayaan-1
+1. Discovered the presence of Hydroxyl & water molecules on the lunar surface (M3), lunar
+exosphere (ChACE on MIP) and sub surface water-ice deposits in the base of the craters of
+permanent sun shadow region (Mini-SAR)
+2. Direct’ evidence for water (H2O) in the sunlit ambience from CHACE on MIP of Chandrayaan-
+I.
+3. Reflection of solar wind protons as neutral hydrogen from lunar surface (SARA)
+4. Three dimensional conceptualization of many craters of interest and detailed maps of lunar
+surface features (TMC and LLRI).
+5. Detection of potential site (buried lava tube) for future human habitability on the Moon (TMC
+and HySI). This may provide a safe environment from hazardous radiations, micro-meteoritic
+impacts, extreme temperatures and dust storms.
+6. Detection of potential site (buried lava tube) for future human habitability on the Moon (TMC
+and HySI). This may provide a safe environment from hazardous radiations, micro-meteoritic
+impacts, extreme temperatures and dust storms.
+7. Evidences of volcanic vent, lava pond and lava channels as recent as 100 million years old
+inside the Tycho crater central peak (TMC and NASA’s LRO data).
+8. Enhanced signatures of OH/ Water in Compton Belkovich Volcanic Complex, which indicates
+the endogenic water inherited during the formation of the Moon, now coming out with
+Volcanism (M3 spectra).
+Address

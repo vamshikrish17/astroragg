@@ -1,0 +1,159 @@
+.app-shell {
+  position: relative;
+  min-height: 100svh;
+  padding: 28px;
+  overflow: hidden;
+}
+
+.space-background {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background:
+    radial-gradient(circle at 50% 120%, rgba(30, 117, 159, 0.24), transparent 36%),
+    radial-gradient(circle at 22% 18%, rgba(93, 69, 189, 0.22), transparent 32%),
+    linear-gradient(140deg, #02030d 0%, #071128 52%, #02040c 100%);
+}
+
+.star-field,
+.star-field::before,
+.star-field::after {
+  position: absolute;
+  inset: 0;
+  content: '';
+  background-repeat: repeat;
+}
+
+.star-field-a {
+  background-image:
+    radial-gradient(circle, rgba(255, 255, 255, 0.9) 1px, transparent 1px),
+    radial-gradient(circle, rgba(88, 215, 255, 0.7) 1px, transparent 1px);
+  background-size: 92px 92px, 147px 147px;
+  opacity: 0.45;
+  animation: starDrift 38s linear infinite;
+}
+
+.star-field-b {
+  background-image: radial-gradient(circle, rgba(255, 255, 255, 0.7) 1px, transparent 1px);
+  background-size: 211px 211px;
+  opacity: 0.35;
+  animation: starDrift 62s linear infinite reverse;
+}
+
+.nebula {
+  position: absolute;
+  width: 42vw;
+  aspect-ratio: 1;
+  border-radius: 999px;
+  filter: blur(70px);
+  opacity: 0.26;
+}
+
+.nebula-cyan {
+  left: -12vw;
+  top: 12vh;
+  background: #35c4ff;
+}
+
+.nebula-rose {
+  right: -10vw;
+  bottom: 3vh;
+  background: #d86cbe;
+}
+
+.research-console {
+  width: min(1120px, 100%);
+  height: calc(100svh - 56px);
+  margin: 0 auto;
+  display: grid;
+  grid-template-rows: auto 1fr;
+  gap: 18px;
+}
+
+.app-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 18px 22px;
+  border: 1px solid var(--glass-border);
+  border-radius: 8px;
+  background: linear-gradient(135deg, rgba(13, 24, 52, 0.72), rgba(9, 16, 34, 0.58));
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(22px);
+}
+
+.app-header h1 {
+  margin: 0;
+  color: var(--text-strong);
+  font-size: clamp(28px, 5vw, 46px);
+  line-height: 1;
+  letter-spacing: 0;
+}
+
+.app-header p {
+  margin: 6px 0 0;
+  color: var(--text-muted);
+  font-size: 15px;
+}
+
+.orbital-mark {
+  position: relative;
+  width: 52px;
+  height: 52px;
+  border: 1px solid rgba(88, 215, 255, 0.45);
+  border-radius: 50%;
+  flex: 0 0 auto;
+}
+
+.orbital-mark::before {
+  position: absolute;
+  inset: 11px -8px;
+  content: '';
+  border: 1px solid rgba(121, 247, 207, 0.42);
+  border-radius: 50%;
+  transform: rotate(-24deg);
+}
+
+.orbital-mark span {
+  position: absolute;
+  right: 9px;
+  top: 10px;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--amber);
+  box-shadow: 0 0 18px rgba(255, 210, 122, 0.9);
+}
+
+@keyframes starDrift {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(-120px, 90px, 0);
+  }
+}
+
+@media (max-width: 720px) {
+  body {
+    overflow: auto;
+  }
+
+  .app-shell {
+    padding: 14px;
+  }
+
+  .research-console {
+    height: calc(100svh - 28px);
+    gap: 12px;
+  }
+
+  .app-header {
+    padding: 14px;
+  }
+
+  .orbital-mark {
+    width: 42px;
+    height: 42px;
+  }
+}

@@ -1,0 +1,325 @@
+Jupiter Icy Moons Explorer
+Artist's impression of Juice orbiting Jupiter
+Names Juice
+Mission type Jupiter orbiter
+Operator
+  European Space Agency
+COSPAR ID 2023-053A (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2023-053A)
+SATCAT no. 56176
+Website Official website (https://www.esa.int/Science_Exploration/Space_Science/Juice)
+Mission
+duration
+Cruise phase:
+8 years
+Science phase:
+3.5 years
+Elapsed:
+3 years, 1 month, 17 days
+Spacecraft properties
+ManufacturerAirbus Defence and Space
+Launch
+mass
+6,070 kg (13,380 lb)[1]
+Dry mass 2,420 kg (5,340 lb)[1]
+Dimensions 16.8 × 27.1 × 13.7 meters[1]
+Power 850 watts[1]
+Start of mission
+Launch date 14 April 2023 12:14:36 UTC[2]
+Rocket Ariane 5 ECA+ (VA-260)
+Launch site Kourou ELA-3
+Contractor Arianespace
+Flyby of Moon
+Closest
+approach
+19 August 2024, 21:16 UTC
+Distance 700 km (430 mi)
+Flyby of Earth
+Closest
+approach
+20 August 2024, 21:57 UTC
+Distance 6,807 km (4,230 mi)
+Flyby of Venus
+Jupiter Icy Moons Explorer
+The Jupiter Icy Moons
+Explorer (Juice, formerlyJUICE[3]) is an interplanetary
+spacecraft developed by theEuropean Space Agency (ESA) andon its way to orbit and study three
+icy moons of Jupiter: Ganymede,Callisto, and Europa. Theseplanetary-mass moons are planned
+to be studied because they arethought to have significant bodiesof liquid water beneath their frozen
+surfaces, which would make thempotentially habitable for
+extraterrestrial life.[4][5]
+Juice is the first interplanetaryspacecraft to the outer Solar
+System planets not launched by theUnited States and the first set toorbit a moon other than Earth's
+Moon. Launched by ESA, fromGuiana Space Centre in FrenchGuiana on 14 April 2023, with
+Airbus Defence and Space as themain contractor,[6][7] it is expected
+to reach Jupiter in July 2031 afterfour gravity assists and eight yearsof travel.[8][9] In December 2034,
+the spacecraft will enter orbitaround Ganymede for its close-upscience mission.[8] Its period of
+operations will overlap withNASA's Europa Clipper mission,
+which was launched in October2024.[10]
+The mission started as areformulation of the JupiterGanymede Orbiter proposal, which
+was to be ESA's component of thecancelled Europa Jupiter SystemMission – Laplace (EJSM-
+Laplace).[11] It became a candidatefor the first L-class (Large) mission
+(L1) of the ESA Cosmic VisionProgramme, and its selection wasannounced on 2 May 2012.[12]
+Background
+Closest
+approach
+31 August 2025, 05:28 UTC
+Flyby of Earth
+Closest
+approach
+29 September 2026
+Flyby of Earth
+Closest
+approach
+18 January 2029
+Jupiter orbiter
+Orbital
+insertion
+July 2031 (planned)
+Orbital
+departure
+December 2034 (planned)
+Ganymede orbiter
+Orbital
+insertion
+December 2034 (planned)
+Orbital parameters
+Periapsis
+altitude
+500 km (310 mi)
+Apoapsis
+altitude
+500 km (310 mi)
+Instruments
+ESA insignia
+Cosmic Vision (Science Programme)
+Industry partners and the lead scientific
+institutes or universities that have
+contributed to Juice
+ESA and NASA missions that have
+visited or will visit Jupiter
+In April 2012, Juice wasrecommended over the proposed
+X-ray telescope ATHENA and thegravitational wave observatoryLISA (under the older name
+NGO).[13][14] Both unsuccessfulmission proposals were selected
+later and are under development asof 2025.[15][16][17]
+In July 2015, Airbus Defence andSpace was selected as the primecontractor to design and build the
+probe, to be assembled inToulouse, France.[18] In 2024,
+Airbus Defence and Space receivedthe Excellence Award from ESA fortheir work on Juice.[19] By 2023,
+the mission was estimated to costESA 1.5 billion euros ($1.6
+billion).[20]
+The main spacecraft design driversare related to the large distance to
+the Sun, the use of solar power, andJupiter's harsh radiationenvironment. The orbit insertions
+at Jupiter and Ganymede and thelarge number of flyby manoeuvres(more than 25 gravity assists, and
+two Europa flybys) require thespacecraft to carry about 3,000 kg
+(6,600 lb) of chemical propellant.[21] The total delta-V capability of the spacecraft is
+about 2,700 m/s (6,000 mph).[22]
+Juice has a fixed 2.5 meter diameter high-gain antenna and a steerable medium-gainantenna; both X- and K-band will be used. Downlink rates of 2 Gb/day are possible with
+ground-based Deep Space Antennas. On-board data storage capability is 1.25 Tb.[1]
+The Juice main engine is a hypergolic bi-propellant (mono-methyl hydrazine and mixed
+oxides of nitrogen) 425 N thruster. A 100 kg multilayer insulation provides thermalcontrol. The spacecraft is 3-axis stabilized using momentum wheels. Radiation shieldingis used to protect onboard electronics from the Jovian environment[1] (the required
+radiation tolerance is 50 kilorad at equipment level[22]).
+The Juice science payload has a mass of 280 kilograms (620 lb) and includes the JANUScamera system, the MAJIS visible and infrared imaging spectrometer, the UVSultraviolet imaging spectrograph, RIME radar sounder, GALA laser altimeter, SWI
+submillimetre wave instrument, J-MAG magnetometer, PEP particle and plasmapackage, RPWI radio and plasma wave investigation, 3GM radio science package, thePRIDE radio science instrument, and the RADEM radiation monitor.
+A 10.6 meters (35 ft) deployable boom will hold J-MAG and RPWI, a 16 meters (52 ft)long deployable antenna will be used for RIME. Four 3 meters (9.8 ft) booms carry partsof the RPWI instrument. The other instruments are mounted on the spacecraft body, or
+Spacecraft
+Juice in Airbus Astrolabe facilities, 2023
+Jupiter's extreme environment (ESA
+infographic)
+Juice flyby of Callisto (artist's impression)
+Ariane 5 launch of Juice
+for 3GM, within the spacecraft bus.[1]
+Juice was launched into space on 14 April 2023 from the Guiana Space Centre on anAriane 5 rocket. This was the final launch of an ESA science mission using the Ariane 5vehicle,[6] and the second to last launch of the rocket overall.[23]
+The launch was originally scheduled for 13 April 2023, but due to poor weather thelaunch was postponed.[24] The next day a second launch attempt succeeded, with liftoff
+occurring at 12:14:36 UTC. After the spacecraft separated from the rocket, it establisheda successful radio signal connection with the ground at 13:04 UTC. Juice's solar arrays
+were deployed about half an hour later, prompting ESA to deem the launch a success.[6]
+Mission timeline
+Launch
+Juice's RIME antenna deploys
+Juice images the particle cloud around
+Earth during the 2024 flyby
+JANUS view of the Moon, 2024
+ESA's plans for 3I/ATLAS observations
+by space probes, September 2025
+During post-launch commissioning of the spacecraft, the RIME antenna failed toproperly deploy from its mounting bracket.[25] After several weeks of attempts to free the
+instrument, it was successfully deployed on 12 May of the same year.[26]
+In August 2024, Juice performed its first gravity assist when it flew by the Moon and
+then Earth, becoming the first ever spacecraft to perform such maneuver using bothbodies. The closest approach to the Moon happened at 21:15 UTC on 19 August. Thisincreased the spacecraft's speed by 0.9 km/s relative to the Sun, sending it towards
+Earth. The closest approach to Earth happened at 21:56 UTC on 20 August. This reducedthe spacecraft's speed by 4.8 km/s relative to the Sun, sending it towards Venus for thenext gravity assist planned for August 2025. This double gravity assist saved the
+spacecraft up to 150 kg of fuel and deflected it by an angle of 100° compared to its pathbefore the flyby.[27]
+During this maneuver, Juice tested many of its scientific instruments. All 10 instrumentswere active during the Moon flyby, and eight during the Earth flyby. The JANUS cameratook high-resolution images of the Moon and Earth.[27] The MAJIS and SWI instruments
+detected the expected chemical signatures of habitability on Earth and MAJIS alsoprovided information-rich temperature maps of Earth.[28][29] Two sensors of the Particle
+Environment Package (PEP) took pictures and in situ measurements of the chargedparticle cloud surrounding Earth.[30] The RIME radar sounder captured a radargram
+image of the patch of the lunar surface that is also visible in the famous Earthrise photo,taken in 1968 during the Apollo 8 mission.[31]
+On 16 July 2025, during a time-sensitive period before the planned Venus flyby, Juiceexperienced a communication anomaly that temporarily severed the spacecraft's contactwith Earth. After almost 20 hours of recovery efforts, ESOC and Airbus managed to
+resolve the issue and identified its root cause related to a scheduled restart of thespacecraft's internal timer. Plans for the flyby remained unchanged[32] and Juice
+successfully flew by Venus on 31 August 2025, with the closest approach of 5,088 kmabove Venus's surface at 05:28 UTC, performing a gravity assist maneuver that increasedits velocity by 5.1 km/s and sent it towards its second Earth flyby planned for September2026. Due to thermal constraints (solar flux of 3,000 W/m2 near Venus versus 50 W/m2
+near Jupiter), no imaging or scientific observations were planned for the Venus flyby andthe spacecraft used its high-gain antenna as a thermal shield, pointing it toward the
+Sun.[33][34]
+The interstellar comet 3I/ATLAS, discovered in July 2025 as only the third knowninterstellar object in the Solar System, made its closest approach to the Sun in October
+2025. However, this part of its trajectory, when it was expected to show strong cometaryactivity, was not visible from Earth-based telescopes as it occurred on the other side ofthe Sun. In September 2025, ESA expected that of all its interplanetary spacecraft, Juice
+would have the best conditions for observing the object during its close approach to theSun.[35][36]
+ESA commanded Juice to attempt observing 3I/ATLAS in November 2025, at a distanceof 0.428 AU,[37] using its cameras, spectrometers, and a particle sensor. ESA was also
+considering coordinating ultraviolet spectrograph observations with NASA's EuropaClipper. Because Juice had to point its high-gain antenna towards the Sun to act as aheat shield during its travel through the inner Solar System, known as "hot-cruise phase", the data from these observations were
+not expected to reach Earth before February 2026.[36][38][35][39] The commands for the observations were prepared at ESOC.[40]
+Earth-Moon system flyby
+Venus flyby
+3I/ATLAS observations
+The observations were conducted between 2 and 25 November 2025. Thermal constraints were expected to limit theobservations for no more than 30 minutes per day with the exception of the Particle Environment Package (PEP) which was
+commanded to operate for twelve days straight.[41] The final observation schedule included six 45-minute slots and one final 4-hour slot. The observations generated 11.18 Gbits of data. The closest approach between the comet and the spacecraft happened
+on 4 November 2025.[39]
+In early December 2025, ESA released a preliminary picture of 3I/ATLAS taken on 2 November 2025 by Juice's Navigation
+Camera (NavCam). The photo included the comet's coma as well as the plasma and dust tails.[42][43] The spacecraft entered the"cold-cruise phase" of its flight in mid-January 2026[39] and the observation data from five instruments—JANUS, MAJIS, SWI,
+PEP, and UVS—arrived on Earth in two 11-hour passes on 17 and 20 February 2026 via ESTRACK's antennas in New Norcia and
+Malargüe.[39] The 3I/ATLAS observation campaign officially ended on 20 February 2026 at 18:21 UTC.[39] ESA released the first
+one of more than 120 images of 3I/ATLAS taken by the JANUS camera system on 26 February 2026.[44][45]
+On 2 April 2026, ESA released first preliminary scientific results from the observations. The MAJIS instrument measured thaton 2 November 2025, 3I/ATLAS was releasing 2000 kg of water per second and this amount hadn't diminished significantly inobservations 10 days later, on 12 November 2025. The SWI instrument detected that most of the water was being released from
+the Sun-facing side of the comet and a substantial part of it came from icy dust grains of the coma, and not directly from thenucleus. The UVS images also revealed that the gas and dust from the comet stretched at least 5 million km from the nucleus.The JANUS images revealed faint structures within the comet's coma and two tails.[46][47][48][49]
+3I/ATLAS by NavCam
+ 
+3I/ATLAS by JANUS
+ 
+3I/ATLAS by JANUS,5 November 2025
+ 
+3I/ATLAS by JANUS(red-green-blue)
+ 
+3I/ATLAS by JANUS(red and violet filters)
+3I/ATLAS by NavCam
+In early March 2026, when Juice no longer needed to use its high ‑ gain antenna as a Sun shield, ESOC performed a series ofplanned pointing checkout tests on the spacecraft's instruments, software updates, operations exercises, and commissioningactivities.[50]
+Following the launch, multiple gravity assists are needed to put Juice on a trajectory to Jupiter:[8][6]
+Flyby of the Earth–Moon system, completed in August 2024[51]
+Venus flyby, completed in August 2025[33][34]
+Second flyby of Earth in September 2026
+Third and final flyby of Earth in January 2029
+Juice will pass through the asteroid belt twice. A flyby of the asteroid (223) Rosa was proposed to occur in October 2029, but wasremoved from the mission plan to save fuel for the primary Jovian mission.[52][53][54]
+Cruise towards the 2nd Earth flyby
+Trajectory
+Juice's journey to Jupiter
+Trajectories of Juice
+Around the Sun
+ Around Jupiter
+ Around Ganymede
+  Sun ·   Earth ·   Juice ·   Venus ·   223 Rosa ·   Jupiter ·   Ganymede ·   Callisto  ·   Europa
+Gravity assists within the Jovian system include:[55]
+Jupiter orbit insertion and apocentre reduction with multiple Ganymede gravityassists
+Reduction of velocity with Ganymede–Callisto assists
+Increase inclination with 10–12 Callisto gravity assists
+On its journey Juice will make a series of flybys of Earth, the Earth-Moon system and Venus to set it on course for its July 2031 rendezvous in the
+Jovian system
+Ganymede view from Galileo
+The main characteristics of the Jupiter reference tour are summarised below (source: Table 5-2 of ESA/SRE(2014)1[22]). This
+scenario assumed an early June 2022 launch, however, the delta-V requirements are representative due to the rather short,repetitive orbital configurations of Europa, Ganymede and Callisto.
+Event Duration Delta-Vnotes[22]
+Jupiter orbit insertion:
+When it arrives in the Jovian system in July 2031,[8] Juice will first perform a 400 km (250 mi)Ganymede gravity assist flyby to reduce spacecraft velocity by ~300 m/s (670 mph), followed by
+~900 m/s (2,000 mph) Jupiter orbit insertion engine burn ~7.5 hours later. Finally, a Perijove RaisingManoeuvre (PRM) burn at apoapsis will raise the periapsis of Juice's initial 13x243 Jovian radiielongated orbit to match that of Ganymede (15 Rj).
+186 days 952 m/s(2,130 mph).
+2nd Ganymede flyby to initial encounter with Callisto: 2nd, 3rd and 4th Ganymede flyby to reduce the orbital periodand inclination of Juice's orbit, followed by 1st flyby of Callisto. 193 days 27 m/s(60 mph).
+Europa phase: Starting in July 2032,[8] there will be two <400 km (250 mi) flybys of Europa followed by another Callistoflyby. The brief Europa encounters (during which the probe is expected to sustain a third of its lifetime radiationexposure[56]) are planned such that the radiation exposure is as low as possible, first by encountering Europa at perijove(i.e. the spacecraft's perijove is equal to Europa's orbital radius), and second by having only one low perijove passage perEuropa flyby.
+35 days 30 m/s(67 mph).
+Inclined phase: ~6 further flybys of Callisto and Ganymede to temporarily increase the orbital inclination to 22 degrees.This will allow an investigation of Jupiter's polar regions and Jupiter's magnetosphere[8] at the maximum inclination over afour-month period. 208 days 13 m/s(29 mph).
+Transfer to Ganymede: A series of Callisto and Ganymede gravity assists will be performed to gradually reduce Juice'sspeed by 1,600 m/s (3,600 mph). Finally, a series of distant ~45,000 km (28,000 mi) flybys of the far side of Ganymede(near the Jupiter-Ganymede-L2 Lagrange point) will further reduce the required orbital insertion delta-V by 500 m/s(1,100 mph).
+353 days 60 m/s(130 mph).
+Ganymede orbital phase: In December 2034,[8] Juice will enter an initial 12-hour polar orbit around Ganymede afterperforming a 185 m/s (410 mph) delta-V braking burn. Jupiter gravitational perturbations will gradually reduce theminimum orbital altitude to 500 km (310 mi) after ~100 days. The spacecraft will then perform two major engine firings toenter a nearly circular 500 km (310 mi) polar orbit, for a further six months of observations (e.g. Ganymede's compositionand magnetosphere).[8] The orbital phase includes a final stage at 200 km altitude.[57] At the end of 2035, Jupiterperturbations will cause Juice to impact onto Ganymede within weeks as the spacecraft runs out of propellant.[8]
+284 days 614 m/s(1,370 mph).
+Full tour (Jupiter orbit insertion to end of mission) 1259days 1,696 m/s(3,790 mph).
+The Juice orbiter will perform detailed investigations on Ganymede and evaluate itspotential to support life. Investigations of Europa and Callisto will complete acomparative picture of these Galilean moons.[58] The three moons are thought to
+harbour internal liquid water oceans, and so are central to understanding the habitabilityof icy worlds.
+The main science objectives for Ganymede, and to a lesser extent for Callisto, are:[58]
+Characterisation of the ocean layers and detection of putative subsurface waterreservoirs
+Topographical, geological and compositional mapping of the surface
+Study of the physical properties of the icy crusts
+Characterisation of the internal mass distribution, dynamics and evolution of theinteriors
+Investigation of Ganymede's tenuous atmosphere
+Study of Ganymede's intrinsic magnetic field and its interactions with the Jovian magnetosphere.
+Jupiter mission phases
+Science objectives
+Ganymede and Callisto
+Section of Europa's icy surface, viewed
+from Galileo
+Io imaged by Juno
+Galileo images showing Amalthea's
+irregular shape
+Movie of Jupiter's atmosphere from
+Cassini
+For Europa, the focus is on the chemistry essential to life, including organic molecules,and on understanding the formation of surface features and the composition of the non-water-ice material. The chemical investigations will be focused also on the question
+which chemicals originated underground and were brought to the surface by tectonics orcryovolcanism, and which arrived from above, originating at other places within theJovian system.[59]
+Furthermore, Juice will provide the first subsurface sounding of the moon, including thefirst determination of the minimal thickness of the icy crust over the most recently
+volcanically active regions. Juice will be able to determine if pockets of liquid water existwithin the ice and possibly also probe the interface between the icy shell and thesubsurface ocean.[59]
+Juice will monitor the volcanic activity of Io and study the composition of its surfacematerials[60] from a distance of a few hundred thousand kilometers.[61] The JANUS
+camera system will track surface changes at a scale of 6–12 kilometres (3.7–7.5 mi) perpixel, the UVS instrument will attempt to detect sulfur dioxide emissions and auroras,and the PEP instrument will monitor Io's plasma torus.[61][62]
+Juice will carry out distant observations of several inner and outer (irregular) satellites ofJupiter throughout its mission.[60] These distant observations of irregular moons involve
+measuring changes in their brightness over long periods of time, which will enable thedetermination of their shapes and synodic rotation periods.[60]
+During its first orbit around Jupiter, Juice will pass within 600,000 km (370,000 mi) ofJupiter's irregular moon Kallichore in October 2031.[63] The trajectory of Juice could
+potentially be adjusted to fly even closer to Kallichore for high-resolution imaging of itssurface, but this possibility remains under investigation by the Juice mission team as of2026.[63][60]
+The mission will also observe Jupiter's dusty rings and study their interactions with thesmall inner moons: Metis, Adrastea, Amalthea, and Thebe.[60][64] Juice is expected to
+provide the first detailed spectrographic images of these moons orbiting inside Io's orbitand contribute to solving the so called "Amalthea's Paradox" referring to the moon'ssurprisingly low density.[61][62]
+Juice will repeatedly map Jupiter's atmosphere and use its instruments to explore thepoorly understood middle and upper atmosphere, focusing on the processes connectingthe various layers and measuring, for the first time, the winds in Jupiter's middle atmosphere. These observations are expected
+to deepen our understanding of the transport of energy between various regions of the atmosphere and the processes behind thelongevity of the Great Red Spot and other weather systems. Juice will also conduct detailed studies of Jupiter’s magnetosphereand focus on its interactions with the Galilean moons, especially the processes transporting plasma from Io to the icy moons.[64]
+On 21 February 2013, after a competition, 10 science instruments (plus one experiment using the spacecraft's telecommunicationsystem) were selected by ESA, which were developed by science and engineering teams from all over Europe, with participation
+from the US.[65][66][67][68] Japan also contributed several components for SWI, RPWI, GALA, PEP, JANUS, and J-MAGinstruments, and will facilitate testing.[69][70][71]
+Europa
+Io
+Other moons and Jupiter's rings
+Jupiter's atmosphere and magnetosphere
+Science instruments
+Juice's instruments
+Testing a scale model of Juice's RIME
+antenna in the Hertz facility, 2023
+The RIME antenna in stowed
+configuration. A "selfie" photograph,
+shortly after launch by JMC2, with Earth
+in the background
+The scalar sub-instrument (MAGSCA),
+an optical magnetometer with low
+absolute error, is part of J-MAG
+The name is Latin for "comprehensive observation of Jupiter, his love affairs anddescendants."[72] It is a camera system to image Ganymede and interesting parts of the
+surface of Callisto at better than 400 m/pixel (resolution limited by mission datavolume). Selected targets will be investigated in high-resolution with a spatial resolutionfrom 25 m/pixel down to 2.4 m/pixel with a 1.3° field of view. The camera system has 13
+panchromatic, broad and narrow-band filters in the 0.36 μm to 1.1 μm range, andprovides stereo imaging capabilities. JANUS will also allow relating spectral, laser, andradar measurements to geomorphology and thus will provide the overall geological
+context.
+A visible and infrared imaging spectrograph operating from 0.5 μm to 5.56 μm, withspectral resolution of 3–7 nm, that will observe tropospheric cloud features and minorgas species on Jupiter and will investigate the composition of ices and minerals on the
+surfaces of the icy moons. The spatial resolution will be down to 75 m (246 ft) onGanymede and about 100 km (62 mi) on Jupiter.[73]
+An imaging spectrograph operating in the wavelength range 55–210 nm with spectral
+resolution of <0.6 nm that will characterise exospheres and aurorae of the icy moons,including plume searches on Europa, and study the Jovian upper atmosphere andaurorae. Resolution up to 500 m (1,600 ft) observing Ganymede and up to 250 km
+(160 mi) observing Jupiter.
+A spectrometer using a 30 cm (12 in) antenna and working in 1080–1275 GHz and 530–601 GHz with spectral resolving power of ~107 that will study Jupiter's stratosphere and
+troposphere, and the exospheres and surfaces of the icy moons.
+A laser altimeter with a 20 m (66 ft) spot size and 10 cm (3.9 in) vertical resolution at200 km (120 mi) intended for studying topography of icy moons and tidal deformationsof Ganymede.
+An ice-penetrating radar working at frequency of 9 MHz (1 and 3 MHz bandwidth)
+emitted by a 16 m (52 ft) antenna; will be used to study the subsurface structure ofJovian moons down to 9 km (5.6 mi) depth with vertical resolution up to 30 m (98 ft) inice.
+Juice will study the subsurface oceans of the icy moons and the interaction of Jovian
+magnetic field with the magnetic field of Ganymede using a sensitive magnetometer.
+A suite of six sensors to study the magnetosphere of Jupiter and its interactions with the Jovian moons. PEP will measurepositive and negative ions, electrons, exospheric neutral gas, thermal plasma and energetic neutral atoms present in all domainsof the Jupiter system from 1 meV to 1 MeV energy.
+Jovis, Amorum ac Natorum Undique Scrutator (JANUS)
+Moons and Jupiter Imaging Spectrometer (MAJIS)
+UV Imaging Spectrograph (UVS)
+Sub-millimeter Wave Instrument (SWI)
+Ganymede Laser Altimeter (GALA)
+Radar for Icy Moons Exploration (RIME)
+Juice-Magnetometer (J-MAG)
+Particle Environment Package (PEP)
+RPWI will characterise the plasma environment and radio emissions around the spacecraft, it is composed of four experiments:GANDALF, MIME, FRODO, and JENRAGE. RPWI will use four Langmuir probes, each one mounted at the end of its owndedicated boom and sensitive up to 1.6 MHz, to characterize plasma, and receivers in the frequency range 80 kHz to 45 MHz to
+measure radio emissions.[74] This scientific instrument is somewhat notable for using Sonic the Hedgehog as part of itslogo.[75][76]
+3GM is a radio science package comprising a Ka transponder and an ultrastable oscillator.[77] 3GM will be used to study thegravity field at Ganymede (up to 10 degrees), to determine the extent of internal oceans on the icy moons, and to investigate the
+structure of the neutral atmospheres and ionospheres of Jupiter (0.1 – 800 mbar) and its moons. 3GM carries an Israeli-builtatomic clock "that will measure tiny vacillations in a radio beam".[78][79]
+The experiment will generate specific signals transmitted by Juice's antenna and received by very-long-baseline interferometry
+to perform precision measurements of the gravity fields of Jupiter and its icy moons.
+Exploration of Jupiter
+Galileo – former Jupiter orbiter
+Juno – current Jupiter orbiter
+Europa Clipper – NASA space mission to Jupiter and Europa
+Tianwen-4 – planned Jupiter/Callisto orbiter
+Jupiter flybys: Pioneer 10 & 11; Voyager 1 & 2; Ulysses; Cassini–Huygens; New Horizons
+17776, a speculative fiction work featuring a sentient Juice
+List of European Space Agency programmes and missions
+1. "JUpiter ICy moons Explorer" (https://web.archive.org/web/20241213013440/https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2023-053A). NASA Space ScienceData Coordinated Archive. Archived from the original (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2023-053A) on 13 December 2024. Retrieved 23 May 2026.
+ This article incorporates text from this source, which is inthe public domain.
+2. "European Space Agency: Blast off for Jupiter icy moonsmission" (https://www.bbc.com/news/science-environment-65273857). BBC News. 14 April 2023. Archived (https://web.archive.org/web/20230414114037/https://www.bbc.com/news/science-environment-65273857) from the original on14 April 2023. Retrieved 14 April 2023.
+3. "Juice, exploring Jupiter's icy moons" (https://www.planetary.org/space-missions/juice). The Planetary Society.Retrieved 30 April 2023.
+4. Clark, Stuart (5 March 2023). "'It's like finding needles in ahaystack': the mission to discover if Jupiter's moonssupport life" (https://www.theguardian.com/science/2023/mar/05/could-jupiters-icy-moons-support-life). The Guardian.Archived (https://web.archive.org/web/20230307013722/https://www.theguardian.com/science/2023/mar/05/could-jupiters-icy-moons-support-life) from the original on 7 March2023. Retrieved 7 March 2023.
+5. "ESA—Selection of the L1 mission" (http://planetary.s3.amazonaws.com/assets/resources/ESA/ESA-SPC_20120417_selection-L1-mission.pdf) (PDF). ESA. 17 April 2012.Archived (https://web.archive.org/web/20151016065456/http://planetary.s3.amazonaws.com/assets/resources/ESA/ESA-SPC_20120417_selection-L1-mission.pdf) (PDF) fromthe original on 16 October 2015. Retrieved 19 April 2012.
+6. "ESA's Juice lifts off on quest to discover secrets ofJupiter's icy moons" (https://www.esa.int/Science_Exploration/Space_Science/Juice/ESA_s_Juice_lifts_off_on_quest_to_discover_secrets_of_Jupiter_s_icy_moons). ESA. 14April 2023. Archived (https://web.archive.org/web/20230414134824/https://www.esa.int/Science_Exploration/Space_Science/Juice/ESA_s_Juice_lifts_off_on_quest_to_discover_secrets_of_Jupiter_s_icy_moons) from the original on 14April 2023. Retrieved 14 April 2023.
+7. "JUICE. Searching for life on Jupiter's icy moons" (https://www.airbus.com/en/juice). www.airbus.com. 27 October2021. Archived (https://web.archive.org/web/20230413231532/https://www.airbus.com/en/juice) from the original on13 April 2023. Retrieved 16 April 2023.
+Radio and Plasma Wave Investigation (RPWI)
+Gravity and Geophysics of Jupiter and Galilean Moons (3GM)
+Planetary Radio Interferometer and Doppler Experiment (PRIDE)
+See also
+References

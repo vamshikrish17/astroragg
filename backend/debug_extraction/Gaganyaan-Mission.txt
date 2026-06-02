@@ -1,0 +1,108 @@
+ 
+ 
+Gaganyaan Mission [UPSC Notes] 
+ISRO’s first human space flight programme Gaganyaan is an important topic for the UPSC exam, coming 
+under the science and technology section. Indian space missions are important from both the IAS Prelims 
+and the Mains perspectives. In this article, you can read all about the Gaganyaan Mission for the IAS exam. 
+What is Gaganyaan? 
+Gaganyaan is a mission by the Indian Space Research Organisation (ISRO) to send a three-member crew to 
+space for a period of five to seven days by 2022. 
+• The space mission was first announced by Prime Minister Narendra Modi in 2018 in his 
+independence day address to the nation. 
+• Ahead of the manned mission, ISRO plans to send two unmanned missions to space as part of the 
+Gaganyaan mission.  
+o The first unmanned mission was scheduled to be sent in December 2020 and the second 
+mission was scheduled for June 2021.  
+o However, the first unmanned mission has been delayed because of the disruption in ISRO’s 
+work and operations on account of the coronavirus pandemic. 
+• The Gaganyaan spacecraft will be placed in a low earth orbit (LEO) of 300-400 kilometres. 
+• The total programme cost is expected to be under Rs.10000 crore. 
+• Gaganyaan is significant because it is the first indigenous mission that will send Indian astronauts to 
+space. If it succeeds, India will be the fourth country to have sent a human to space, the other three 
+being the US, Russia and China. 
+• ISRO is developing the spacecraft and Russia is helping in the training of the astronauts. 
+Gaganyaan Impact 
+The success of Gaganyaan can lead to many more experiments with spaceflight missions. It will also give a 
+fillip to India's dream of setting up its own space station.  
+Gaganyaan Spacecraft & Launch Vehicle 
+The spacecraft consists of a service module and a crew module, collectively known as the Orbital Module. 
+The launch vehicle used for this mission will be the Geosynchronous Satellite Launch Vehicle GSLV Mk 
+III. GSLV Mk III has the required payload capacity for the mission. Read more about GSLV Mk III in the 
+linked article. 
+Gaganyaan Human Space Flight 
+The human spaceflight is expected to take about 16 minutes to reach the intended low earth orbit. 
+• The three astronauts will leave for space in the crew module, which would have a 3.7 m diameter and 
+a height of 7 m. 
+• The astronauts’ orange space suits were created by the Vikram Sarabhai Space Centre, 
+Thiruvananthapuram. Get a list of other space research centres in India in the linked article. 
+o The suit can hold one oxygen cylinder which will permit the astronauts to breathe in space for 
+an hour. 
+• The manned mission will rotate around the earth every 90 minutes.  
+• The astronauts will be able to see sunrise and sunset, see India from space every 24 hours, and will 
+also perform experiments on microgravity. 
+
+ 
+ 
+• The spacecraft will take about 36 hours for the return journey and will land in the Arabian Sea off 
+the Gujarat coast. 
+• In order to take this mission to fruition, ISRO has worked on crucial technologies such as crew 
+escape system, re-entry mission capability, thermal protection system, crew module configuration, 
+deceleration and flotation system, and subsystems of life support systems. 
+Training for the astronauts 
+• ISRO has signed a contract with a subsidiary of ROSCOSMOS (the Russian space agency), called 
+Gavkosmos for preparing the Indian astronauts selected for the mission. 
+• The four selected astronauts are undergoing medical and physical training, apart from learning the 
+Russian language, which is considered one of the important languages of space communication. 
+• The astronaut candidates will also be trained in simulations in a centrifuge and in a hyperbaric 
+chamber (pressurized room) to prepare them for conditions like G-force, hypoxia and pressure drops 
+during spaceflight. 
+• The training would be tough since they have to get acclimatised to gravitational changes that will 
+cause physiological changes. 
+• Changing gravity can cause fluctuations in the blood pressure particularly during re-entry to earth or 
+landing, and can even cause unconsciousness sometimes. Astronauts may also face motion sickness 
+while experiencing weightlessness in space. 
+• The training in Russia will be for a year after which the astronauts will receive module-specific 
+training in India. 
+• All the candidate astronauts are pilots from the Indian Air Force. They were shortlisted from about 
+25 pilots by the Air Force. 
+Gaganyaan Unmanned Missions 
+Prior to the human space flight mission, two unmanned missions are planned as mentioned above. 
+Before the unmanned missions, ISRO will have to complete many tests, the most important are: 
+1. Air drop test for the parachute system that will demonstrate the ability to successfully recover an 
+orbiting space capsule. 
+2. Flight test of the test vehicle. 
+3. Abort test to demonstrate the escape of the crew in case of an emergency at the launch pad. 
+Six tests have been shortlisted by ISRO to be carried out onboard the first unmanned space mission. Some of 
+the tests are biological tests including a study on changes in kidney stone formation in drosophila 
+melanogaster (the common fruit fly), the study of SIRT1 gene in it, microbial contamination, and co-
+crystallisation under microgravity conditions. 
+You can refer to the table below for a list of all important articles related to space exploration and 
+ISRO. 
+Mars Orbiter Mission (MOM)  Chandrayaan - 1  
+NISAR - NASA ISRO Synthetic Aperture Radar Osirix Rex Mission 
+Aditya L-1 Mission - ISRO’s Solar Mission  Chandrayaan - II  
+Hayabusa II Mission 
+Semi Cryogenic Technology for Gaganyaan: 
+RSTV - In Depth 
+EOS - 01 Earth Observation Satellite  NASA’s JUNO Mission  
+
+ 
+ 
+Reusable Launch Vehicle - Technology Demonstrator 
+(RLV - TD) 
+Cassini Spacecraft  
+Cartosat 2 List of Indian Satellites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  

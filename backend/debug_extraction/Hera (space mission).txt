@@ -1,0 +1,325 @@
+Hera
+Artist's impression of Hera in orbit around the asteroid Didymos
+Mission type Didymos orbiter
+Operator European Space Agency
+COSPAR ID 2024-180A (https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2024-180A)
+SATCAT no. 61449
+Website heramission.space (https://heramission.space)
+Mission
+duration
+1 year, 7 months, 21 days (elapsed)
+2 years, 9 months (planned)[a]
+Spacecraft properties
+Manufacturer OHB SE
+Launch
+mass
+1,128 kg (2,487 lb)
+Dry mass 350 kg (770 lb)
+Dimensions 1.6 × 1.6 × 1.7 m (5.2 × 5.2 × 5.6 ft)
+Start of mission
+Launch date 7 October 2024, 14:52:11 UTC[1][2] (10:52:11 am EDT)
+Rocket Falcon 9 Block 5 B1061-23
+Launch site Cape Canaveral, SLC ‑ 40
+Contractor SpaceX
+Flyby of Deimos
+Closest
+approach
+12 March 2025, 12:07 GMT
+Distance 300 km (190 mi)
+Flyby of Mars
+Hera (space mission)
+Closest
+approach
+12 March 2025, 12:51 GMT
+Distance 5,000 km (3,100 mi)
+65803 Didymos orbiter
+Orbital
+insertion
+November 2026[3]
+Instruments
+ESA insignia
+Space Safety Programme
+Hera is the first planetary defence spacecraft developed by the European Space Agency (ESA).[4] Its
+primary mission objective is to study the Didymos binary asteroid system that was impacted in 2022
+by NASA's DART spacecraft and contribute to validation of the kinetic impact method to deviate a
+near-Earth asteroid from a colliding trajectory with Earth.[5] Hera has a mass of 1,128 kg (2,487 lb)
+and carries a payload of cameras, an altimeter, and a spectrometer. It is carrying two small CubeSat
+spacecraft, called Milani and Juventas. The spacecraft was launched on 7 October 2024 by Falcon
+9.[6] Hera is the first mission of ESA's Space Safety Programme.[7]
+Hera will measure the size and morphology of the crater created as well as the momentum transferred
+by an artificial projectile impacting an asteroid, which will allow measuring the efficiency of the
+deflection produced by the impact. It will also analyze the expanding debris cloud caused by the
+impact. Hera is intended to fully characterize the composition and physical properties of the binary
+asteroid system including, for the first time, the sub-surface and internal structures. It will also
+perform technological demonstrations linked to operations in the vicinity of a small Solar System
+body and the deployment of and communication with CubeSats in interplanetary space.[5][8]
+Mission goals
+Illustration of Hera performing close proximity
+operations at Didymos
+ESA-ESOC Main Control Room with the Hera team
+assembling
+Testing of Hera's vision-based navigation software
+with 3D printed asteroid models
+The main objective of the Hera mission is to evaluate
+the kinetic impactor method for deflecting a near-
+Earth object. This planetary defense method consists
+of modifying the trajectory of the asteroid by
+launching a spacecraft at a speed of a few kilometers
+per second. To fulfill this objective, Hera will
+determine:
+how much momentum transfer depends on the
+density, porosity and characteristics of the
+asteroid's surface and internal structure and
+what proportion of the kinetic energy is
+transferred in the fragmentation and restructuring
+of the asteroid or in the kinetic energy of the
+ejected materials.[9]
+Scientific objectives of the mission include exploring
+the properties of the two target asteroids: surface
+characteristics, internal porosity, and internal
+structure. The entire moon Dimorphos will be
+mapped with a spatial resolution of a few meters and
+the vicinity of the impact with a resolution of 10
+centimeters. The mass of the moon will be estimated
+with high accuracy, allowing a direct estimate of the
+momentum transfer efficiency from DART
+impact.[10][11]
+The mission's technological objectives include the
+production and testing of guidance software which,
+by using data from several sensors, will make it
+possible to reconstruct the surrounding space and
+thus to independently define a safe trajectory around
+the asteroid.[12]
+Hera also carries two CubeSats which will be dropped
+once the asteroid is reached:[13]
+Juventas will carry out subsurface and internal structure measurements, contribute to the
+determination of the gravity field, and provide information on the mechanical response of the
+surface when landing on Dimorphos
+Milani will collect spectral data from the surface of the two asteroids to study their surface
+composition and identify the presence of dust in the surrounding space
+Planetary defense
+Science
+Technology
+AIDA was the first operational program whose objective is to test a method of deflecting near-Earth
+asteroids. It was set up in 2013 jointly by scientists supported by NASA and ESA. Its objective was to
+test the use of an impactor-type device to deflect an asteroid that might strike the Earth. This program
+provided for the launch to the binary asteroid 65803 Didymos of two spacecraft: the DART impactor
+developed by NASA responsible for crashing at high speed on the smaller of the two asteroids and the
+AIM orbiter developed by ESA, which would measure the effects of the impact.[14]
+After an evaluation phase in the two space agencies, ESA decided at the end of 2016 to abandon the
+development of AIM due to lack of sufficient financial support from member states.[15][16] NASA, for
+its part, decided to continue the development of DART. In this new context, terrestrial observatories
+were responsible for taking over partially the role of AIM.
+The DART mission was launched on 24 November 2021 by a Falcon 9 rocket from Vandenberg Space
+Force Base and reached the binary asteroid 65803 Didymos on 26 September 2022, colliding with its
+satellite Dimorphos at 23:16 UTC at a relative speed of about 6.6 km/s.[17] The project incorporated
+the Italian nano-satellite LICIACube, responsible for documenting and retransmitting the first 100
+seconds of the impact.[18]
+In 2017, at the request of several member states of ESA, the agency resumed studies of a replacement
+for AIM, specifically a mission that was named Hera (after the Greek goddess). Hera is intended to
+fulfill all the objectives assigned to AIM that Earth-based observatories could not, using the
+components of AIM as much as possible.[16] Hera was planned to be launched in October 2024 to
+catch a workable planetary/asteroid alignment and study the effects of the DART impact on
+Dimorphos, the satellite of Didymos, 4 years after it occurred.
+The Hera mission was subsequently approved by the ESA Ministerial Council in November 2019.[19]
+In September 2020, ESA awarded the construction of the spacecraft to a consortium of companies led
+by OHB, under a contract of 129.4 million euros.[15] It also formalized the scientific team of the
+mission, made up of a principal investigator, scientific council, and four working groups[20] covering
+all aspects of the mission and the scientific managers of the instruments.
+Hera's Core Module and Propulsion Module have been connected at OHB Bremen in Germany in
+August 2023.[21] In November 2023, the spacecraft has completed acoustic testing at ESTEC in the
+Netherlands.[22] The Milani CubeSat, integrated in Italy, and the Juventas CubeSat, integrated in
+Timeline
+AIDA, the joint project with NASA
+Renaissance of the European project
+Construction and testing
+Animation of Hera around Sun
+  Hera ·   Sun ·   65803 Didymos ·
+  Mars ·   Earth
+Deimos over Terra Sabaea, photo taken by Hera on
+12 March 2025,[27] processed by Andrea Luck.
+Denmark, were delivered to ESTEC for integration with Hera in March 2024.[23][24] The spacecraft
+moved to final testing in March 2024.[25] In September 2024, Hera was transported to Florida by
+Antonov Airlines's AN-124 cargo aircraft.[26]
+Hera launched on 7 October 2024 at 14:52 UTC by a
+Falcon 9 rocket lifting off from Space Launch
+Complex 40 (SLC-40) at Cape Canaveral Space Force
+Station.[28] Usually, Falcon 9 launches for beyond
+geostationary transfer orbit were made from the
+nearby Launch Complex 39A (LC-39A) at Kennedy
+Space Center due to SLC-40's focus on Starlink
+launches. However, LC-39A was in the midst of
+preparing for the launch of NASA's Europa Clipper on
+a Falcon Heavy later in the week, which locked Hera
+into using SLC-40. Additionally, the launch occurred
+while Falcon 9 was grounded due to a mishap with a
+second stage deorbit burn happening the SpaceX
+Crew-9 mission the previous month. As Hera was to
+be put into a heliocentric orbit however, the Federal
+Aviation Administration waived the grounding for its
+launch as an exception. The booster used for the
+launch was expended to help with the trajectory; it
+previously flew 22 times, including on missions like
+SpaceX Crew-1 and the IXPE.[29][30]
+On 10 and 11 October 2024, Hera tested three of its
+science instruments (AFC, TIRI, and HyperScout H)
+by using them to take pictures of Earth and the Moon
+from a distance of more than one million km.[31]
+In October 2024, the two CubeSats aboard Hera were
+briefly activated to confirm their nominal status and
+test their ability to communicate with Earth. This
+marked the first operation of CubeSats in deep space
+by ESA.[32]
+Following three successful test burns performed after launch, the spacecraft conducted its first deep-
+space maneuver on 27 October 2024, firing its three orbital control thrusters for 100 minutes and
+changing its velocity by ~146 m/s, and second on 6 November 2024, firing for 13 minutes and
+changing its velocity by ~20 m/s.[33]
+Launch
+Cruise towards Mars
+Hera performed a gravity assist at Mars on 12 March 2025, coming at a distance of 5,000 km
+(3,100 mi) from the surface. As part of the flyby, the spacecraft spent some time observing the
+Martian moon Deimos, imaging it from distance of 1,000 km (620 mi) and having its closest approach
+at 300 km (190 mi) away.[34] During the flyby, Hera also autonomously locked onto impact craters
+and other surface features on Mars to track them over time, in a full-scale test of the autonomous
+navigation techniques it will use to navigate around its targets.[35]
+On 11 May 2025, the mission has captured images of the asteroid (1126) Otero from a distance of
+approximately 3 million km and on 19 July 2025 of the asteroid (18805) Kellyday from a distance of
+approximately 6 million km in order to perform instrument tests and to demonstrate agile spacecraft
+operations useful for planetary defence.[36] In October 2025, ESA announced that Hera was on track
+to arrive at Didymos in November 2026—a month earlier than originally planned.[37] Between 25
+October and 1 November 2025, Hera was passing through the cometary tail of the third known
+interstellar object, the comet 3I/ATLAS. The spacecraft flew 8.2 million km from the tail's central
+axis.[38][39] In March 2026, Hera successfully performed its second deep-space maneuver, burning
+123 kg of hydrazine and changing its velocity by 367 m/s. This was the mission's largest maneuver in
+terms of fuel consumption.[40][41]
+The spacecraft will reach the binary asteroid (65803) Didymos in November 2026, four years after
+DART,[37] to begin six months of investigation. Hera will be the first to make a rendezvous with a
+binary asteroid. Once close to the double asteroid, five stages will follow:
+Mission phases[42]
+Phase Mission phase Duration Mission
+1 Early
+Characterization 6 weeks The global shape and mass/gravity, as well as thermal and dynamical
+properties, of both asteroids will be determined
+2 Payload Deployment 2 weeks The release of the two CubeSats
+3 Detailed
+Characterization 4 weeks Meter-scale mapping of the asteroids and determination of thermal,
+spectral, and interior properties
+4 Close Observation 6 weeks High-resolution investigations of a large fraction of the surface area of
+Dimorphos, including the DART impact crater
+5 Experimental 6 weeks Morphological, spectral, and thermal properties of Dimorphos
+The main bus of Hera has a box-shape based on a central tube and adapter cone of 1.6 × 1.6 × 1.7
+meters. Two solar panel wings extend from opposite sides, and a high-gain dish antenna is mounted
+on one face. Total launch mass of the spacecraft is approximately 1214 kg, the dry mass is 696 kg.
+Spacecraft deployed dimensions are 2.2 × 11.4 × 2.2 meters. The solar panels have an area of about 13
+Mars flyby
+Cruise through the main asteroid belt
+Arrival at Didymos
+Spacecraft
+square meters. The spacecraft will use 712 W at the nominal 2.4 AU distance. Bi-propellant chemical
+propulsion is used for 16 orbit control thrusters and 6 reaction control thrusters, all 10-N motors.
+Total available delta-V is about 1300 m/s. Communications with the ground are X-band (~8.4 GHz),
+with two low gain antennas in addition to the high-gain dish. S-band communications (~2.2 GHz),
+using patch antennas, will be used to communicate with the two CubeSats named Juventas and
+Milani, with a range of 60 km. Spacecraft orientation is maintained by 4 reaction wheels, gyroscopes,
+using star trackers and solar sensors, as well two Asteroid Framing Cameras (AFC). Attitude guidance
+is through the Planetary Altimeter (PALT).[43][44][45]
+The main instruments of Hera are the two AFC cameras (Asteroid Framing Cameras), developed by
+the company JenaOptronik. Identical and redundant, they each have a FaintStar panchromatic sensor
+of 1020 × 1020 pixels with a telephoto lens. The field of view is 5.5 × 5.5 degrees, and the spatial
+resolution reaches one meter at a distance of 10 kilometers. These cameras are to provide physical
+characteristics of the surface of the asteroid Didymos and Dimorphos as well as the crater created by
+DART and the Juventas landing zone.[10][46][47][48]
+HyperScout-H is a hyperspectral imager that must provide images in a spectral range between 650
+and 950 nm (visible and near infrared). The instrument makes its observations in 25 distinct spectral
+bands. It is developed by cosine Remote Sensing. This is a specific version developed for Hera,
+different from the standard HyperScout.[49][50][51]
+PALT is a micro-Lidar planetary altimeter using a laser emitting an infrared light beam at 1.5 microns.
+Its track on the ground is 1 meter at an altitude of 1 kilometer (1 milliradian). The altitude
+measurement accuracy is 0.5 meters. Its frequency is 10 Hertz.[52]
+TIRI is a thermal infrared imager provided by the JAXA, the Japanese space agency. The spectral
+range observed is between 8 and 14 microns and it has 8 filters. Its visual range is 13.0 × 9.9°. The
+spatial resolution is 0.013° per pixel.[53][54]
+The mass of the two asteroids making up the binary system, the characteristics of their gravity field,
+their rotational speed, and their orbits will be measured using radio wave disturbances caused by the
+Doppler effect. The measurements relate to the radio exchanges between Hera and Earth stations but
+Scientific instruments
+Asteroid framing cameras (AFC)
+Hyperspectral imager – HyperScout-H
+Planetary altimeter (PALT)
+Thermal Infrared Imager (TIRI)
+X-Band Radio Science (X-DST)
+also between Hera and the CubeSats. Due to the low orbit in which the CubeSats will circulate, these
+last measurements are crucial to determine the gravity of Didymos.[55]
+Main characteristics of the instruments[56]
+AFC HyperScout-H PALT TIRI
+Type Visible
+Imager Spectral imager Altimeter Thermal infrared
+imager
+Mass (kg) <1.5 5.5 4.5 <4.4
+Visual range (degrees) 5.5 15.5 × 8.3 non-applicable 13.3 × 10
+Spatial resolution
+(microradians) 94.1 133 1000 226
+Spectral band (nanometers) 350-1000 665-975 700-1400
+Others 25 spectral bands vertical precision : 0.5
+m. 6 filters
+Power (Watts) <1.3 2.5 (average) - 4.5
+(peak) <14.5 20 (average) - <30
+Two CubeSat type nanosatellites, named Milani and Juventas, are transported by Hera and released
+before arrival in the asteroidal system (65803) Didymos. They are responsible for carrying out
+investigations that complement those of their carrier ship. Both CubeSats are built around a similar
+platform. These are 6U-XL CubeSats with a mass (including propellant) of approximately 12
+kilograms. They are 3-axis stabilized and have a cold gas propulsion system. They communicate with
+the mothership in S-band. The Doppler effect affected radio link is used to measure the characteristics
+of the gravitational field of the binary system. They have a visible light camera and star trackers which
+are used to determine the dynamic variations of Didymos. Finally, the two CubeSats are equipped
+with accelerometers which will be used to determine the properties of the surface of Dimorphos if the
+CubeSats land on its surface as planned at the end of their mission. Juventas was developed by
+GomSpace and Milani by Tyvak International.[57][58][59][60][61]
+The CubeSat Juventas aims to determine the geophysical characteristics of Dimorphos. The probe will
+map its gravity field and determine its internal structure as well as the characteristics of its
+surface.[62] To fulfill these objectives, it carries the following instruments:
+The JuRa radar operating in the 50–70 MHz frequency with a spatial resolution of 10 to 15
+meters. It is the first instrument to probe the inner layers of an asteroid.[63] It uses two dipole
+antennas with each branch measuring 1.5 meters. Each measurement session can last up to 45
+minutes. It occupies a volume of less than 1U and its mass is less than 1300 grams.[62]
+The GRASS gravimeter[64] whose dynamic range is 5 × 10−4 and sensitivity is 5 × 10−7. Its mass
+is less than 380 grams.[65]
+A camera.[62]
+CubeSats
+Juventas
+The radio link with the mother ship (measurement of the Doppler effect).[55]
+The CubeSat Milani (named after Andrea Milani) aims to take images and measure the characteristics
+of the possibly present dust. It will map the two asteroids forming the binary asteroid 65803
+Didymos, characterize their surface, evaluate the effects of the DART impact, contribute to the
+measurements of the gravitational field of the asteroids, and determine the characteristics of the dust
+clouds possibly located around the asteroids.[23] To fulfill these objectives, it carries two
+instruments:[58]
+The ASPECT hyperspectral imaging spectrometer is the main instrument. It works in visible and
+near infrared light (0.65 to 2.50 microns). Its spatial resolution is 2 meters at 10 kilometers and its
+spectral resolution is less than 40 nanometers.[66]
+The VISTA thermogravimeter is responsible for detecting dust (5 to 10 microns), volatiles (such as
+water) and light organic materials.[67]
+Near-Earth Object Coordination Centre (ESA's NEOCC)
+Planetary Defense Coordination Office (NASA's PDCO)
+Double Asteroid Redirection Test (DART mission)
+List of European Space Agency programmes and missions
+a. 2 year, 3 month cruise phase, followed by a 6 month science phase
+1. "Hera" (https://www.esa.int/Space_Safety/Hera). ESA. September 2022. Retrieved 20 October
+2022.
+2. "Falcon 9 (Block 5) | Hera" (https://nextspaceflight.com/launches/details/2657).
+NextSpaceflight.com. Retrieved 4 September 2024.
+3. "ESA's Hera targets early arrival at Didymos asteroids" (https://www.esa.int/Space_Safety/Hera/E
+SA_s_Hera_targets_early_arrival_at_Didymos_asteroids). esa.int. ESA. Retrieved 30 October
+2025.
+4. "Planetary defence mission Hera heading for deflected asteroid" (https://www.esa.int/Space_Safet
+y/Hera/Planetary_defence_mission_Hera_heading_for_deflected_asteroid). www.esa.int.
+Retrieved 6 September 2025.
+5. "The Space Review: The trials and tribulations of Hera" (https://www.thespacereview.com/article/4
+873/1). www.thespacereview.com. Retrieved 5 September 2025.
+6. Parsonson, Andrew (8 October 2024). "ESA's Hera Planetary Defence Probe Launched on
+SpaceX Falcon 9" (https://europeanspaceflight.com/esas-hera-planetary-defence-probe-launched-
+on-spacex-falcon-9/). European Spaceflight. Retrieved 5 September 2025.
+Milani
+See also
+Notes
+References
