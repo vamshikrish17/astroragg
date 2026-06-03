@@ -1,12 +1,11 @@
 from __future__ import annotations
 
+import csv
 import json
 import time
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
-
-import pandas as pd
 
 from app.rag.generator import RagAnswerGenerator
 from app.rag.retriever import DocumentRetriever
@@ -39,7 +38,6 @@ class EvaluationQuestion:
 
 
 def read_evaluation_questions(questions_file: Path = QUESTIONS_FILE) -> list[EvaluationQuestion]:
-    """Load questions and optional expected answers from the evaluation text file."""
     if not questions_file.exists():
         raise EvaluationError(f"Questions file was not found: {questions_file}")
 
@@ -61,7 +59,6 @@ def run_rag_evaluation(
     results_file: Path = RESULTS_FILE,
     summary_file: Path = SUMMARY_FILE,
 ) -> dict[str, Any]:
-    """Evaluate the RAG pipeline and save per-question results to CSV."""
     questions = read_evaluation_questions(questions_file)
     rows = []
     retrieval_scores = []
@@ -88,13 +85,12 @@ def run_rag_evaluation(
             exact_match_values.append(bool(row["exact_match"]))
 
     results_file.parent.mkdir(parents=True, exist_ok=True)
-    pd.DataFrame(rows, columns=RESULT_COLUMNS).to_csv(results_file, index=False)
+    with results_file.open("w", newline="", encoding="utf-8") as results_handle:
+        writer = csv.DictWriter(results_handle, fieldnames=RESULT_COLUMNS)
+        writer.writeheader()
+        writer.writerows(rows)
 
-    average_score = (
-        round(sum(retrieval_scores) / len(retrieval_scores), 4)
-        if retrieval_scores
-        else 0.0
-    )
+    average_score = round(sum(retrieval_scores) / len(retrieval_scores), 4) if retrieval_scores else 0.0
     exact_match_count = sum(1 for value in exact_match_values if value)
     exact_match_rate = (
         round(exact_match_count / len(exact_match_values), 4)
@@ -125,7 +121,6 @@ def evaluate_question(
     retriever: DocumentRetriever,
     generator: RagAnswerGenerator,
 ) -> dict[str, Any]:
-    """Run retrieval and generation for one evaluation question."""
     start_time = time.perf_counter()
     question = evaluation_question.question
 
@@ -174,7 +169,6 @@ def evaluate_question(
 
 
 def parse_question_line(line: str) -> EvaluationQuestion:
-    """Parse plain questions or question/expected-answer pairs."""
     for delimiter in ("\t", "||", "::"):
         if delimiter in line:
             question, expected_answer = line.split(delimiter, 1)
@@ -187,7 +181,6 @@ def parse_question_line(line: str) -> EvaluationQuestion:
 
 
 def get_top_source_document(retrieved_chunks: list[dict[str, Any]]) -> str:
-    """Return the top three source documents used in the final context."""
     source_scores: dict[str, float] = {}
     for chunk in retrieved_chunks:
         source = chunk.get("source")
@@ -201,19 +194,16 @@ def get_top_source_document(retrieved_chunks: list[dict[str, Any]]) -> str:
 
 
 def get_top_retrieval_score(retrieved_chunks: list[dict[str, Any]]) -> float:
-    """Return the source score when available, otherwise the top chunk score."""
     top_chunk = retrieved_chunks[0]
     score = top_chunk.get("source_score", top_chunk.get("similarity_score", 0.0))
     return round(float(score or 0.0), 4)
 
 
 def get_source_count(retrieved_chunks: list[dict[str, Any]]) -> int:
-    """Count unique source documents used in the final context."""
     return len({chunk.get("source") for chunk in retrieved_chunks if chunk.get("source")})
 
 
 def calculate_exact_match(generated_answer: str, expected_answer: str | None) -> bool | str:
-    """Compare generated and expected answers when an expected answer exists."""
     if expected_answer is None:
         return ""
 
@@ -221,12 +211,10 @@ def calculate_exact_match(generated_answer: str, expected_answer: str | None) ->
 
 
 def normalize_answer(answer: str) -> str:
-    """Normalize whitespace and casing before exact-match comparison."""
     return " ".join(answer.lower().split())
 
 
 def elapsed_seconds(start_time: float) -> float:
-    """Return rounded elapsed wall-clock time for one evaluation question."""
     return round(time.perf_counter() - start_time, 4)
 
 
@@ -238,7 +226,6 @@ def build_result_row(
     latency_seconds: float,
     source_count: int,
 ) -> dict[str, Any]:
-    """Create one CSV-ready evaluation row."""
     return {
         "question": evaluation_question.question,
         "generated_answer": generated_answer,

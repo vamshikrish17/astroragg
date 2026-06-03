@@ -1,0 +1,4 @@
+backend/.venv
+backend/data/pdfs
+backend/vectorstore
+frontend/node_modules

@@ -2,22 +2,24 @@ from __future__ import annotations
 
 import logging
 import math
+import re
+from dataclasses import dataclass
+from functools import lru_cache
 from pathlib import Path
 from typing import Any
 
-import chromadb
-from sentence_transformers import SentenceTransformer
+from rank_bm25 import BM25Okapi
 
 
 logger = logging.getLogger(__name__)
 
 BACKEND_DIR = Path(__file__).resolve().parents[2]
-VECTORSTORE_DIR = BACKEND_DIR / "vectorstore"
-COLLECTION_NAME = "domain_documents"
-EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"
+DEBUG_EXTRACTION_DIR = BACKEND_DIR / "debug_extraction"
 DEFAULT_TOP_K = 15
+CHUNK_SIZE = 500
+CHUNK_OVERLAP = 100
 CHROMA_CANDIDATE_MULTIPLIER = 4
-SIMILARITY_THRESHOLD = 0.20
+SIMILARITY_THRESHOLD = 0.15
 MMR_LAMBDA = 0.70
 DOCUMENT_BOOST = 0.18
 BOOSTED_DOCUMENTS = {
@@ -28,20 +30,27 @@ BOOSTED_DOCUMENTS = {
 }
 
 
-class DocumentRetriever:
-    """Small wrapper around ChromaDB retrieval for the FastAPI layer."""
+@dataclass(frozen=True)
+class IndexedChunk:
+    text: str
+    source: str
+    chunk_index: int
+    tokens: tuple[str, ...]
 
-    def __init__(
-        self,
-        vectorstore_dir: Path = VECTORSTORE_DIR,
-        collection_name: str = COLLECTION_NAME,
-        model_name: str = EMBEDDING_MODEL_NAME,
-    ) -> None:
-        self.vectorstore_dir = vectorstore_dir
-        self.collection_name = collection_name
-        self.model = SentenceTransformer(model_name)
-        self.client = chromadb.PersistentClient(path=str(vectorstore_dir))
-        self.collection = self.client.get_collection(collection_name)
+
+@dataclass(frozen=True)
+class SearchIndex:
+    chunks: list[IndexedChunk]
+    tokenized_chunks: list[list[str]]
+    bm25: BM25Okapi
+
+
+class DocumentRetriever:
+    """Lightweight BM25 retriever that works well in Vercel serverless."""
+
+    def __init__(self, corpus_dir: Path = DEBUG_EXTRACTION_DIR) -> None:
+        self.corpus_dir = corpus_dir
+        self.index = load_search_index(corpus_dir)
 
     def retrieve(
         self,
@@ -49,60 +58,34 @@ class DocumentRetriever:
         top_k: int = DEFAULT_TOP_K,
         document_name: str | None = None,
     ) -> list[dict[str, Any]]:
-        """Return thresholded, MMR-selected, de-duplicated, and re-ranked chunks."""
         expanded_query = expand_query(query)
-        query_embedding = self.model.encode([expanded_query]).tolist()[0]
-        where_filter = build_document_filter(document_name)
-        candidate_count = min(
-            self.collection.count(),
-            max(top_k, top_k * CHROMA_CANDIDATE_MULTIPLIER),
+        query_tokens = tokenize(expanded_query)
+        if not query_tokens or not self.index.chunks:
+            return []
+
+        candidate_chunks = self.index.chunks
+        if document_name:
+            candidate_chunks = filter_chunks_by_document(candidate_chunks, document_name)
+            if not candidate_chunks:
+                return []
+
+        scored_matches = score_chunks(self.index, candidate_chunks, query_tokens)
+        rescued_matches = add_keyword_rescue_matches(query, scored_matches, candidate_chunks)
+        ranked_chunks = rerank_chunks(
+            rescued_matches,
+            query_tokens,
+            top_k=top_k,
         )
-        query_kwargs: dict[str, Any] = {
-            "query_embeddings": [query_embedding],
-            "n_results": candidate_count,
-            "include": ["documents", "metadatas", "distances"],
-        }
-        if where_filter:
-            query_kwargs["where"] = where_filter
-
-        results = self.collection.query(**query_kwargs)
-
-        documents = results.get("documents", [[]])[0]
-        metadatas = results.get("metadatas", [[]])[0]
-        distances = results.get("distances", [[]])[0]
-        documents, metadatas, distances = add_keyword_rescue_matches(
-            query,
-            documents,
-            metadatas,
-            distances,
-            self.collection,
-        )
-        embeddings = get_candidate_embeddings(documents, query_embedding, self.model)
-
-        matches = []
-        for document, metadata, distance, embedding in zip(documents, metadatas, distances, embeddings):
-            source = metadata.get("source", "unknown") if metadata else "unknown"
-            similarity_score = cosine_distance_to_similarity(distance)
-            boosted_similarity_score = apply_query_document_boost(
-                query,
-                source,
-                similarity_score,
-            )
-            matches.append(
-                {
-                    "chunk": document,
-                    "source": source,
-                    "chunk_index": metadata.get("chunk_index") if metadata else None,
-                    "distance": distance,
-                    "similarity_score": boosted_similarity_score,
-                    "original_similarity_score": similarity_score,
-                    "embedding": embedding,
-                }
-            )
-
-        ranked_chunks = rerank_chunks(matches, query_embedding, top_k=top_k)
         log_chunk_previews(ranked_chunks[:10])
         return [strip_internal_fields(chunk) for chunk in ranked_chunks]
+
+
+@lru_cache(maxsize=1)
+def load_search_index(corpus_dir: Path = DEBUG_EXTRACTION_DIR) -> SearchIndex:
+    chunks = load_corpus_chunks(corpus_dir)
+    tokenized_chunks = [list(chunk.tokens) for chunk in chunks]
+    bm25 = BM25Okapi(tokenized_chunks) if tokenized_chunks else BM25Okapi([[]])
+    return SearchIndex(chunks=chunks, tokenized_chunks=tokenized_chunks, bm25=bm25)
 
 
 def retrieve_relevant_chunks(query: str, top_k: int = DEFAULT_TOP_K) -> list[dict[str, Any]]:
@@ -111,7 +94,6 @@ def retrieve_relevant_chunks(query: str, top_k: int = DEFAULT_TOP_K) -> list[dic
 
 
 def expand_query(query: str) -> str:
-    """Expand common acronym/typo queries so embedding search can find the right PDF."""
     query_lower = query.lower()
     expansions = []
     if "shap payload" in query_lower or "shape payload" in query_lower:
@@ -125,19 +107,165 @@ def expand_query(query: str) -> str:
     return f"{query} {' '.join(expansions)}"
 
 
-def cosine_distance_to_similarity(distance: float | int | None) -> float:
-    """Convert Chroma cosine distance into a bounded similarity score."""
-    if distance is None:
-        return 0.0
-    return max(0.0, min(1.0, 1.0 - float(distance)))
+def load_corpus_chunks(corpus_dir: Path) -> list[IndexedChunk]:
+    if not corpus_dir.exists():
+        logger.warning("Corpus directory does not exist: %s", corpus_dir)
+        return []
+
+    chunks: list[IndexedChunk] = []
+    for text_file in sorted(corpus_dir.glob("*.txt")):
+        source = f"{text_file.stem}.pdf"
+        text = text_file.read_text(encoding="utf-8", errors="ignore")
+        for chunk_index, chunk in enumerate(chunk_text(text)):
+            tokens = tuple(tokenize(chunk))
+            if not tokens:
+                continue
+            chunks.append(
+                IndexedChunk(
+                    text=chunk,
+                    source=source,
+                    chunk_index=chunk_index,
+                    tokens=tokens,
+                )
+            )
+
+    return chunks
+
+
+def chunk_text(text: str, chunk_size: int = CHUNK_SIZE, overlap: int = CHUNK_OVERLAP) -> list[str]:
+    clean_text = " ".join(text.split())
+    if not clean_text:
+        return []
+
+    chunks = []
+    start = 0
+    step = max(1, chunk_size - overlap)
+
+    while start < len(clean_text):
+        end = start + chunk_size
+        chunk = clean_text[start:end].strip()
+        if chunk:
+            chunks.append(chunk)
+        start += step
+
+    return chunks
+
+
+def tokenize(text: str) -> list[str]:
+    return re.findall(r"[a-z0-9']+", text.lower())
+
+
+def score_chunks(
+    index: SearchIndex,
+    chunks: list[IndexedChunk],
+    query_tokens: list[str],
+) -> list[dict[str, Any]]:
+    if not chunks:
+        return []
+
+    raw_scores = index.bm25.get_scores(query_tokens)
+    chunk_to_score = {
+        indexed_chunk: float(raw_scores[i])
+        for i, indexed_chunk in enumerate(index.chunks)
+    }
+
+    matching_scores = [chunk_to_score.get(chunk, 0.0) for chunk in chunks]
+    max_raw_score = max(matching_scores, default=0.0)
+    if max_raw_score <= 0:
+        max_raw_score = 1.0
+
+    matches: list[dict[str, Any]] = []
+    for chunk in chunks:
+        raw_score = chunk_to_score.get(chunk, 0.0)
+        similarity_score = max(0.0, min(1.0, raw_score / max_raw_score))
+        boosted_similarity_score = apply_query_document_boost(
+            " ".join(query_tokens),
+            chunk.source,
+            similarity_score,
+        )
+        matches.append(
+            {
+                "chunk": chunk.text,
+                "source": chunk.source,
+                "chunk_index": chunk.chunk_index,
+                "distance": round(max(0.0, 1.0 - boosted_similarity_score), 4),
+                "similarity_score": boosted_similarity_score,
+                "original_similarity_score": similarity_score,
+                "tokens": list(chunk.tokens),
+            }
+        )
+
+    return matches
+
+
+def filter_chunks_by_document(
+    chunks: list[IndexedChunk],
+    document_name: str,
+) -> list[IndexedChunk]:
+    normalized_name = normalize_document_name(document_name)
+    return [chunk for chunk in chunks if chunk.source == normalized_name]
+
+
+def normalize_document_name(document_name: str) -> str:
+    normalized_name = document_name.strip()
+    if normalized_name and not normalized_name.lower().endswith(".pdf"):
+        normalized_name = f"{normalized_name}.pdf"
+    return normalized_name
+
+
+def add_keyword_rescue_matches(
+    query: str,
+    matches: list[dict[str, Any]],
+    all_chunks: list[IndexedChunk],
+) -> list[dict[str, Any]]:
+    query_lower = query.lower()
+    if "shap payload" not in query_lower and "shape payload" not in query_lower:
+        return matches
+
+    seen_keys = {
+        (match.get("source"), match.get("chunk_index"))
+        for match in matches
+    }
+    rescue_score = max(
+        (float(match.get("similarity_score", 0.0)) for match in matches),
+        default=1.0,
+    )
+
+    for chunk in all_chunks:
+        if chunk.source != "Chandrayaan-3.pdf":
+            continue
+
+        lowered = chunk.text.lower()
+        has_shape_payload = "shape" in lowered and "payload" in lowered
+        has_spectro = "spectro-polarimetry" in lowered
+        if not (has_shape_payload or has_spectro):
+            continue
+
+        key = (chunk.source, chunk.chunk_index)
+        if key in seen_keys:
+            continue
+
+        matches.append(
+            {
+                "chunk": chunk.text,
+                "source": chunk.source,
+                "chunk_index": chunk.chunk_index,
+                "distance": 0.0,
+                "similarity_score": rescue_score,
+                "original_similarity_score": rescue_score,
+                "tokens": list(chunk.tokens),
+            }
+        )
+        seen_keys.add(key)
+
+    return matches
 
 
 def rerank_chunks(
     chunks: list[dict[str, Any]],
-    query_embedding: list[float],
+    query_tokens: list[str],
     top_k: int = DEFAULT_TOP_K,
 ) -> list[dict[str, Any]]:
-    """Filter weak matches, score sources, and use MMR to balance relevance/diversity."""
     filtered = [
         chunk
         for chunk in chunks
@@ -164,17 +292,16 @@ def rerank_chunks(
             chunk.get("chunk_index") if chunk.get("chunk_index") is not None else 10**9,
         ),
     )
-    return maximal_marginal_relevance(similarity_ranked, query_embedding, top_k=top_k)
+    return maximal_marginal_relevance(similarity_ranked, set(query_tokens), top_k=top_k)
 
 
 def calculate_source_scores(chunks: list[dict[str, Any]]) -> dict[str, float]:
-    """Score each document using strongest chunk similarity plus supporting hits."""
     grouped_scores: dict[str, list[float]] = {}
     for chunk in chunks:
         source = chunk.get("source")
         if not source:
             continue
-        grouped_scores.setdefault(source, []).append(chunk.get("similarity_score", 0.0))
+        grouped_scores.setdefault(source, []).append(float(chunk.get("similarity_score", 0.0)))
 
     source_scores = {}
     for source, scores in grouped_scores.items():
@@ -187,7 +314,6 @@ def calculate_source_scores(chunks: list[dict[str, Any]]) -> dict[str, float]:
 
 
 def remove_duplicate_chunks(chunks: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    """Drop near-duplicate chunks within the same document."""
     kept: list[dict[str, Any]] = []
     seen_by_source: dict[str, list[str]] = {}
 
@@ -208,12 +334,10 @@ def remove_duplicate_chunks(chunks: list[dict[str, Any]]) -> list[dict[str, Any]
 
 
 def normalize_text(text: str) -> str:
-    """Normalize chunk text for duplicate detection."""
     return " ".join(text.lower().split())
 
 
 def is_near_duplicate(text: str, existing_text: str) -> bool:
-    """Detect exact, contained, or heavily overlapping duplicate chunks."""
     if text == existing_text or text in existing_text or existing_text in text:
         return True
 
@@ -228,11 +352,10 @@ def is_near_duplicate(text: str, existing_text: str) -> bool:
 
 def maximal_marginal_relevance(
     chunks: list[dict[str, Any]],
-    query_embedding: list[float],
+    query_tokens: set[str],
     top_k: int,
     lambda_mult: float = MMR_LAMBDA,
 ) -> list[dict[str, Any]]:
-    """Select chunks that are relevant to the query without being redundant."""
     selected: list[dict[str, Any]] = []
     candidates = chunks.copy()
 
@@ -240,14 +363,12 @@ def maximal_marginal_relevance(
         best_index = 0
         best_score = -math.inf
         for index, candidate in enumerate(candidates):
-            embedding_relevance = max(
-                0.0,
-                cosine_similarity(query_embedding, candidate["embedding"]),
-            )
-            relevance = max(candidate.get("similarity_score", 0.0), embedding_relevance)
+            candidate_tokens = set(candidate.get("tokens", []))
+            keyword_relevance = jaccard_similarity(query_tokens, candidate_tokens)
+            relevance = max(candidate.get("similarity_score", 0.0), keyword_relevance)
             if selected:
                 diversity_penalty = max(
-                    cosine_similarity(candidate["embedding"], item["embedding"])
+                    jaccard_similarity(candidate_tokens, set(item.get("tokens", [])))
                     for item in selected
                 )
             else:
@@ -263,41 +384,19 @@ def maximal_marginal_relevance(
     return selected
 
 
-def cosine_similarity(first: list[float], second: list[float]) -> float:
-    """Calculate cosine similarity for MMR diversity scoring."""
-    dot_product = sum(a * b for a, b in zip(first, second))
-    first_norm = math.sqrt(sum(value * value for value in first))
-    second_norm = math.sqrt(sum(value * value for value in second))
-    if first_norm == 0 or second_norm == 0:
+def jaccard_similarity(first: set[str], second: set[str]) -> float:
+    if not first or not second:
         return 0.0
-    return dot_product / (first_norm * second_norm)
-
-
-def get_candidate_embeddings(
-    documents: list[str],
-    query_embedding: list[float],
-    model: SentenceTransformer,
-) -> list[list[float]]:
-    """Generate candidate embeddings used by MMR."""
-    if not documents:
-        return []
-    return model.encode(documents).tolist()
+    return len(first & second) / len(first | second)
 
 
 def build_document_filter(document_name: str | None) -> dict[str, str] | None:
-    """Build an exact Chroma metadata filter for source document name."""
     if not document_name:
         return None
-
-    normalized_name = document_name.strip()
-    if normalized_name and not normalized_name.lower().endswith(".pdf"):
-        normalized_name = f"{normalized_name}.pdf"
-
-    return {"source": normalized_name}
+    return {"source": normalize_document_name(document_name)}
 
 
 def apply_query_document_boost(query: str, source: str, similarity_score: float) -> float:
-    """Boost known mission PDFs when the query explicitly names them."""
     query_lower = query.lower()
     for query_term, document_name in BOOSTED_DOCUMENTS.items():
         if query_term in query_lower and source == document_name:
@@ -306,54 +405,13 @@ def apply_query_document_boost(query: str, source: str, similarity_score: float)
     return similarity_score
 
 
-def add_keyword_rescue_matches(
-    query: str,
-    documents: list[str],
-    metadatas: list[dict[str, Any]],
-    distances: list[float],
-    collection: Any,
-) -> tuple[list[str], list[dict[str, Any]], list[float]]:
-    """Add exact keyword matches that semantic search can miss for rare acronyms."""
-    query_lower = query.lower()
-    if "shap payload" not in query_lower and "shape payload" not in query_lower:
-        return documents, metadatas, distances
-
-    existing_keys = {
-        (metadata.get("source"), metadata.get("chunk_index"))
-        for metadata in metadatas
-        if metadata
-    }
-    items = collection.get(include=["documents", "metadatas"])
-
-    for document, metadata in zip(items.get("documents", []), items.get("metadatas", [])):
-        if not metadata:
-            continue
-
-        key = (metadata.get("source"), metadata.get("chunk_index"))
-        document_lower = document.lower()
-        has_shape_payload = "shape" in document_lower and "payload" in document_lower
-        has_spectro = "spectro-polarimetry" in document_lower
-        is_chandrayaan_3 = metadata.get("source") == "Chandrayaan-3.pdf"
-        if key in existing_keys or not (is_chandrayaan_3 and (has_shape_payload or has_spectro)):
-            continue
-
-        documents.append(document)
-        metadatas.append(metadata)
-        distances.append(0.0)
-        existing_keys.add(key)
-
-    return documents, metadatas, distances
-
-
 def strip_internal_fields(chunk: dict[str, Any]) -> dict[str, Any]:
-    """Remove large internal fields before returning chunks to API callers."""
     public_chunk = chunk.copy()
-    public_chunk.pop("embedding", None)
+    public_chunk.pop("tokens", None)
     return public_chunk
 
 
 def log_chunk_previews(chunks: list[dict[str, Any]]) -> None:
-    """Log the top retrieved chunks with similarity scores for debugging."""
     if not logger.isEnabledFor(logging.INFO):
         return
 
