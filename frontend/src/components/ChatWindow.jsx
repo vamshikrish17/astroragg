@@ -3,7 +3,8 @@ import { useEffect, useRef, useState } from 'react'
 import MessageBubble from './MessageBubble'
 
 const API_BASE_URL =
-  import.meta.env.VITE_API_BASE_URL || (import.meta.env.PROD ? '/api' : 'http://127.0.0.1:8000')
+  import.meta.env.VITE_API_BASE_URL ||
+  (import.meta.env.PROD ? '/_/backend' : 'http://127.0.0.1:8000')
 
 const welcomeMessage = {
   id: crypto.randomUUID(),

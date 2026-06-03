@@ -21,5 +21,5 @@ This repo is configured to deploy from the repository root.
 
 1. Connect the Git repository in Vercel.
 2. Keep the default build settings from [`vercel.json`](../vercel.json).
-3. The frontend will call the same-origin `/api` path in production, which maps to the FastAPI backend in [`api/index.py`](../api/index.py).
+3. The frontend will call the same-origin `/_/backend` path in production, which maps to the FastAPI backend service mounted by Vercel.
 4. If you want to point the frontend at a separate backend host, set `VITE_API_BASE_URL` in Vercel's environment variables.
